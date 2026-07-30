@@ -45,7 +45,42 @@ seeds/*.csv
 ## Notes / decisions
 
 - Numbers are synthetic but scaled to roughly track Oura's real 2024-2025 growth
-  (revenue ~2x YoY, ~80/20 hardware-subscription split, $6/mo membership price)
+  (revenue ~2x YoY, ~80/20 hardware-subscription split, $5.99/mo membership price)
   so the KPI outputs are plausible, not just placeholder numbers.
 - `mart_revenue_summary` is the one metric ("Gross Margin") that gets a full governed-KPI
   writeup (owner, definition, tests, sign-off) — see `governed_kpis/gross_margin.md` once built.
+
+## Modeling assumptions (benchmarked, not guessed)
+
+Oura is private and doesn't publish financials, so assumptions below are grounded
+against the closest public comparable rather than picked arbitrarily.
+
+- **Hardware gross margin (~57%)**: benchmarked against Garmin's Fitness segment,
+  which posted a 59% gross margin in Q4 2025 (Garmin FY2025 10-K / Q4 earnings
+  release). Closest available public proxy for a consumer wearables hardware margin.
+- **Subscription churn**: modeled as a retention/hazard curve, not a flat monthly
+  probability — risk is highest in a subscriber's first 1-2 months (12%, 8%) and
+  declines with tenure down to a 2% floor after month 6. This matches the real
+  shape of subscription-business churn (early-tenure risk is always highest) rather
+  than an unrealistic constant rate.
+
+## Intentional data-quality issues (for the staging layer & dbt tests to catch)
+
+Injected on purpose, at known rates, so there's something real for `dbt test` to
+catch — a dataset with zero data-quality issues doesn't demonstrate anything about
+the governed-KPI / staging-layer process. Counts below are from the current seed
+generation (`random.seed(42)`, reproducible):
+
+| Issue | Table | Simulates | Count |
+|---|---|---|---|
+| Null `geo_id` | `seed_orders` | Channel integration gap | 209 |
+| Orphaned `customer_id` | `seed_orders` | Order synced before customer record | 64 |
+| Zero `quantity` / `unit_price` | `seed_orders` | Data entry glitch | 43 |
+| Duplicate `order_id` rows | `seed_orders` | Ingestion pipeline replay bug | 104 |
+| Null `acquisition_channel_id` | `seed_customers` | Incomplete profile data | 7 |
+| Duplicate `event_id` rows | `seed_subscription_events` | Webhook double-fire | 13 |
+| Orphaned `order_id` | `seed_returns_warranty` | Claim logged before order fully synced | 4 |
+
+Each of these should map to a specific dbt test in the staging layer
+(`not_null`, `unique`, `relationships`) — the point is to be able to show a
+failing test, explain what it caught, and show the staging model's fix.
