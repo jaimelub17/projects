@@ -115,4 +115,76 @@ fixing it here is a small, concrete example of the same discipline.
 
 ---
 
+## Step 6 — Staging models, with a real caught-and-fixed test failure
+
+**What we did:** Built one staging model per seed table (`stg_geo`,
+`stg_channels`, `stg_products`, `stg_customers`, `stg_orders`,
+`stg_subscription_events`, `stg_returns_warranty`) — each does light
+cleanup (casting `order_date`/`signup_date`/etc. to real `date` types,
+consistent naming), not heavy transformation. Staging's job is to
+standardize, not to silently fix business-meaningful data problems.
+
+Added test coverage (`_staging.yml` + one custom singular test) mapped
+directly to the seven data-quality issues injected back in Step 4:
+`unique`/`not_null` on every primary key, `relationships` tests on every
+foreign key, `accepted_values` on `event_type`, and a custom singular test
+(`assert_orders_have_positive_values.sql`) checking for the zero/negative
+quantity and price rows. Known, tracked issues (nulls, orphaned FKs, bad
+values) are set to `severity: warn` — visible, not build-blocking. Genuine
+defects get left at the default `error` severity.
+
+**Ran it for real, on purpose, before fixing anything:** `stg_orders.sql`
+initially had no deduplication logic. Running `dbt build` produced a real
+`FAIL 104 unique_stg_orders_order_id` error — 104 duplicate `order_id`
+rows, exactly matching the count of duplicates injected in Step 4. Every
+other test landed at its documented count too (209 null geo_id, 64 orphaned
+customer_id, 43 bad values, 7 null acquisition_channel_id, 4 orphaned claim
+order_id) — confirming the injected issues and the tests built to catch
+them actually agree with each other.
+
+**Fixed it:** changed `stg_orders.sql` to `SELECT DISTINCT` (the duplicates
+are exact row copies, so a straight distinct removes them without touching
+real data). Re-ran `dbt build` — `unique_stg_orders_order_id` now `PASS`,
+zero errors, only the intentionally-tracked warnings remain.
+
+**Why this sequence matters:** this is the actual demonstration promised in
+`SCHEMA.md` — a real failing test, explained, with a real fix and a re-run
+proving it worked. Not narrated, not simulated.
+
+---
+
+## Step 7 — SCD Type 2 via dbt snapshot
+
+**What we did:** Built `snapshots/customer_snapshot.sql` using dbt's native
+snapshot feature (`strategy='check'`, watching `geo_id` and
+`acquisition_channel_id` for changes), sourced from `stg_customers`.
+
+Ran `dbt snapshot` once — captured all 2000 customers as version 1
+(`dbt_valid_from` = now, `dbt_valid_to` = null).
+
+To prove the mechanism actually works rather than just exist as a schema
+mockup, directly updated `geo_id` for 3 customers (10, 20, 30) in the live
+DuckDB table — simulating what a real address-change sync from a source
+system would look like between two snapshot runs. Ran `dbt snapshot` again:
+dbt detected the changed `check_cols` for those 3 customers, closed out
+their old rows (`dbt_valid_to` set to the second run's timestamp), and
+inserted new current rows. The other 1997 customers were untouched — still
+exactly one row each. Table went from 2000 to 2003 rows, confirmed by
+direct query.
+
+**Known artifact of this demo:** the geo_id change was made directly against
+the live DuckDB table, not the seed CSV. If `dbt seed` is re-run, `geo_id`
+for customers 10/20/30 will revert to their original seed values, which
+would register as a *third* change on the next `dbt snapshot` run. This is
+expected and fine — it's a one-time simulation to prove the mechanism, not
+a permanent generator change. Documented here so it isn't confusing later.
+
+**Why this matters for the JD:** this directly demonstrates "slowly-changing
+dimensions for org/cost-center hierarchies" — same mechanism, different
+attribute. `dim_customer` (once built) will source from `customer_snapshot`
+instead of `stg_customers` directly, so historical reports stay accurate
+even as customers move regions.
+
+---
+
 <!-- New entries get appended below as each day's work happens. -->

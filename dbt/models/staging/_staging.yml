@@ -1,0 +1,116 @@
+version: 2
+
+models:
+  - name: stg_geo
+    description: One row per country/state served.
+    columns:
+      - name: geo_id
+        data_tests: [not_null, unique]
+
+  - name: stg_channels
+    description: One row per sales channel.
+    columns:
+      - name: channel_id
+        data_tests: [not_null, unique]
+
+  - name: stg_products
+    description: One row per ring SKU, with list price and unit cost.
+    columns:
+      - name: product_id
+        data_tests: [not_null, unique]
+
+  - name: stg_customers
+    description: One row per customer.
+    columns:
+      - name: customer_id
+        data_tests: [not_null, unique]
+      - name: geo_id
+        data_tests:
+          - relationships:
+              arguments:
+                to: ref('stg_geo')
+                field: geo_id
+      - name: acquisition_channel_id
+        description: >
+          Known gap: ~0.5% of customers are missing an acquisition channel
+          (upstream data entry gap). Warn, not error -- tracked, not blocking.
+        data_tests:
+          - not_null:
+              config:
+                severity: warn
+
+  - name: stg_orders
+    description: One row per order line item.
+    columns:
+      - name: order_id
+        description: >
+          Deduplicated in the model (SELECT DISTINCT) from the raw seed,
+          which contains exact duplicate rows simulating a pipeline replay
+          bug. See PROJECT_LOG.md Step 6 for the before/after test result.
+        data_tests: [not_null, unique]
+      - name: geo_id
+        description: >
+          Known gap: ~1% of orders are missing geo_id (channel integration
+          gap). Warn, not error -- tracked, not blocking.
+        data_tests:
+          - not_null:
+              config:
+                severity: warn
+      - name: customer_id
+        description: >
+          Known gap: ~0.3% of orders reference a customer_id that doesn't
+          exist yet in stg_customers (order synced before customer record).
+          Warn, not error -- a real pipeline would flag and monitor this,
+          not silently drop the order.
+        data_tests:
+          - relationships:
+              arguments:
+                to: ref('stg_customers')
+                field: customer_id
+              config:
+                severity: warn
+      - name: product_id
+        data_tests:
+          - relationships:
+              arguments:
+                to: ref('stg_products')
+                field: product_id
+
+  - name: stg_subscription_events
+    description: One row per subscription signup/cancel event.
+    columns:
+      - name: event_id
+        description: >
+          Deduplicated in the model (SELECT DISTINCT) from the raw seed,
+          which contains exact duplicate rows simulating a webhook
+          double-fire.
+        data_tests: [not_null, unique]
+      - name: customer_id
+        data_tests:
+          - relationships:
+              arguments:
+                to: ref('stg_customers')
+                field: customer_id
+      - name: event_type
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: ['signup', 'cancel']
+
+  - name: stg_returns_warranty
+    description: One row per return/warranty claim.
+    columns:
+      - name: claim_id
+        data_tests: [not_null, unique]
+      - name: order_id
+        description: >
+          Known gap: a handful of claims reference an order_id not yet in
+          stg_orders (claim logged before order fully synced). Warn, not
+          error.
+        data_tests:
+          - relationships:
+              arguments:
+                to: ref('stg_orders')
+                field: order_id
+              config:
+                severity: warn

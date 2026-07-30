@@ -58,12 +58,17 @@ seeds/*.csv
 ## Build status
 
 - [x] Seed data (customers, products, geo, channels, orders, subscription events, claims)
-- [ ] `dim_date` — **not yet built**, but committed to for Day 3-4, not dropped. Real
-  fiscal-period/quarter columns matter for the JD's "period-over-period comparisons"
-  requirement, so this is staying in scope rather than getting quietly skipped because
-  it's inconvenient.
-- [ ] Staging models
-- [ ] Dimension + fact models
+- [x] Staging models (`models/staging/`) — 1:1 cleanup/typing of every seed table,
+  with `dbt test` coverage tuned to the known injected data-quality issues
+  (see PROJECT_LOG.md Step 6)
+- [x] SCD Type 2 on customer geo/channel via `dbt snapshot` (`snapshots/customer_snapshot.sql`)
+  — see PROJECT_LOG.md Step 7. `dim_customer` will source from this snapshot,
+  not directly from `stg_customers`, once built.
+- [ ] `dim_date` — **not yet built**, still committed to for the dimension-model step.
+  Real fiscal-period/quarter columns matter for the JD's "period-over-period
+  comparisons" requirement.
+- [ ] Remaining dimension + fact models (`dim_product`, `dim_geo`, `dim_channel`,
+  `fct_orders`, `fct_subscription_events`, `fct_returns_warranty`)
 - [ ] KPI marts
 - [ ] Databricks migration
 - [ ] Dashboard + governed-KPI writeup
