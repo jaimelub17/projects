@@ -22,8 +22,9 @@ documentation, and make it trustworthy enough for a CFO and auditors.
 
 ## Status
 
-Day 1: environment + schema design. See [`SCHEMA.md`](SCHEMA.md) for the
-dimensional model and KPI marts this project builds toward.
+See [`SCHEMA.md`](SCHEMA.md) for the dimensional model and KPI marts this
+project builds toward, and [`PROJECT_LOG.md`](PROJECT_LOG.md) for a running,
+step-by-step record of what was built and why.
 
 ## Local setup
 

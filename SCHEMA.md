@@ -20,7 +20,7 @@ Warranty Rate, and subscription metrics (MRR, ARR, Churn).
 | Table | Grain | Key columns |
 |---|---|---|
 | `fct_orders` | one row per order line item | order_id, customer_id, product_id, date_id, geo_id, channel_id, quantity, unit_price, unit_cost, discount_amount, revenue, cogs |
-| `fct_subscription_events` | one row per subscription state change | event_id, customer_id, date_id, event_type (signup/renew/cancel), plan_price, mrr_delta |
+| `fct_subscription_events` | one row per subscription state change | event_id, customer_id, date_id, event_type (signup/cancel), plan_price, mrr_delta |
 | `fct_returns_warranty` | one row per return/warranty claim | claim_id, order_id, date_id, claim_type, resolution, cost_to_company |
 
 ## KPI Marts (the governed, audit-grade layer)
@@ -49,6 +49,24 @@ seeds/*.csv
   so the KPI outputs are plausible, not just placeholder numbers.
 - `mart_revenue_summary` is the one metric ("Gross Margin") that gets a full governed-KPI
   writeup (owner, definition, tests, sign-off) — see `governed_kpis/gross_margin.md` once built.
+- `fct_subscription_events` only ever has `signup`/`cancel` rows, not `renew`. Monthly
+  renewals were deliberately left out — MRR is a running total of `mrr_delta`, so a
+  renewal event would add rows without adding any information a KPI needs. (Corrected
+  here after the doc had drifted from what the generator actually produces — this table
+  used to say "signup/renew/cancel".)
+
+## Build status
+
+- [x] Seed data (customers, products, geo, channels, orders, subscription events, claims)
+- [ ] `dim_date` — **not yet built**, but committed to for Day 3-4, not dropped. Real
+  fiscal-period/quarter columns matter for the JD's "period-over-period comparisons"
+  requirement, so this is staying in scope rather than getting quietly skipped because
+  it's inconvenient.
+- [ ] Staging models
+- [ ] Dimension + fact models
+- [ ] KPI marts
+- [ ] Databricks migration
+- [ ] Dashboard + governed-KPI writeup
 
 ## Modeling assumptions (benchmarked, not guessed)
 
