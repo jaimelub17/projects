@@ -1,0 +1,7 @@
+oura_scorecard:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: 'oura_scorecard.duckdb'
+      threads: 4
