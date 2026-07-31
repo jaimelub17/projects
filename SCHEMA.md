@@ -76,7 +76,9 @@ seeds/*.csv
 - [x] dbt docs site with lineage graph (`dbt docs generate` / `serve`) — see
   PROJECT_LOG.md Step 14
 - [x] Governed-KPI one-pager: [`governed_kpis/gross_margin.md`](governed_kpis/gross_margin.md)
-- [ ] Databricks migration
+- [x] Databricks migration — full build green on Databricks Free Edition
+  (Unity Catalog `workspace.oura_scorecard`), totals reconcile to DuckDB to
+  the penny. See PROJECT_LOG.md Step 16.
 - [ ] Dashboard (Databricks SQL / Genie) + dbt exposure linking model → dashboard
 
 ## Modeling assumptions (benchmarked, not guessed)

@@ -744,4 +744,48 @@ arithmetic (spot-checked 20240101, 20240102). Snapshot stable at 18,863.
 
 ---
 
+## Step 16 — Databricks migration: same SQL, same results, to the penny
+
+**What happened, in order:**
+
+1. **First connection attempt failed** — Windows' default execution policy
+   (Restricted) refused to run the `.ps1` runner script. Fixed by
+   converting the runner to a `.cmd` batch file (not subject to execution
+   policy) rather than loosening the security setting itself — a scoped
+   workaround beats weakening a machine-wide default.
+2. **OAuth login completed by the user in their own browser** — no tokens
+   stored, credential cached locally by the Databricks SDK.
+   `dbt debug --target databricks`: All checks passed.
+3. **Full `dbt build` against Databricks Free Edition** (Unity Catalog,
+   `workspace.oura_scorecard`, serverless SQL warehouse): **90 nodes — 83
+   pass, 7 warnings, 0 errors.** Every warning count identical to the
+   DuckDB build (100, 206, 70, 48, 7, 70, 7) — the same tests catching the
+   same injected issues on a completely different engine.
+4. **The `dim_date` dialect branch worked on its first live run** —
+   compiled to `sequence` + `explode` on Databricks, `generate_series` +
+   `unnest` on DuckDB. It remains the only dialect-specific SQL in the
+   project.
+
+**Reconciliation (the number that matters):**
+
+| Metric | DuckDB | Databricks |
+|---|---|---|
+| fct_orders rows | 20,917 | 20,917 |
+| Total revenue | $7,599,897.60 | $7,599,897.60 |
+| Mart revenue | $7,599,897.60 | $7,599,897.60 |
+| Final MRR | $66,489 | $66,489 |
+| Snapshot rows | 18,863 | 18,860 (fresh baseline — expected) |
+
+The snapshot difference is the documented one from Step 15: SCD2 history
+is environment state, not pipeline code. Databricks starts its own history
+from the current CSV (one version per customer); the 3-customer version
+history remains visible in the DuckDB environment.
+
+**The interview line this step earns:** "I developed locally on DuckDB for
+fast iteration, then pointed the same dbt project at Databricks — one
+dialect branch in one model, everything else unchanged, and the totals
+reconciled to the penny on the first migrated build."
+
+---
+
 <!-- New entries get appended below as each day's work happens. -->
