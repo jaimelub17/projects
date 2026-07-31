@@ -1,0 +1,23 @@
+version: 2
+
+exposures:
+  - name: oura_corporate_scorecard_dashboard
+    label: "Oura Corporate Scorecard (Synthetic)"
+    type: dashboard
+    maturity: high
+    url: https://dbc-31be9496-9d3d.cloud.databricks.com/dashboardsv3/01f18d216dbf16b186d81091d355e7a1/published?o=7474649765201631
+    description: >
+      Executive-facing Databricks AI/BI dashboard serving the governed KPI
+      marts: headline counters (revenue, gross margin, ARR, active members,
+      churn), revenue trend, membership growth, and churn/warranty
+      diagnostics. This exposure is the terminal node of the lineage graph --
+      the declared answer to "who consumes these numbers," and the list of
+      consumers to notify under the change-management process in
+      governed_kpis/gross_margin.md.
+    depends_on:
+      - ref('mart_revenue_summary')
+      - ref('mart_subscription_metrics')
+      - ref('mart_warranty_rate')
+    owner:
+      name: Jaime Benitez
+      email: jaimebenitez2017@gmail.com

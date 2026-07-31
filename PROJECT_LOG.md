@@ -967,4 +967,46 @@ reporting platform is supposed to converge to.
 
 ---
 
+## Step 18 — The executive dashboard + the exposure that closes the loop
+
+**What we did — and who did it:** this step was driven *by the user* in
+the Databricks workspace UI (the first hands-on step of the guided-rebuild
+working style), with Claude navigating: four datasets created in the
+dashboard editor's Data tab — `revenue_by_month`, `subscription_metrics`,
+`warranty_rate`, and a one-row `latest_scorecard` join for the headline
+counters — every one a straight `SELECT` from a governed mart, no ad-hoc
+math in the dashboard layer. Widgets laid out exec-style, top-down:
+headline counters (revenue, gross margin %, ARR, active members, churn),
+the revenue trend with its two visible holiday spikes, membership growth,
+then churn and warranty diagnostics. Published as "Oura Corporate
+Scorecard (Synthetic)".
+
+**The dbt side — `models/exposures.yml`:** an *exposure* is dbt's way of
+declaring a downstream consumer: name, type (dashboard), owner, URL, and
+which models it depends on. It makes the dashboard a first-class node in
+the lineage graph — the terminal one — and it's the concrete answer to
+two governance questions: "who consumes this number?" and "who do we
+notify when its definition changes?" (the consumer list referenced by the
+change-management process in `governed_kpis/gross_margin.md`).
+
+**Verified:** `dbt ls --select +exposure:oura_corporate_scorecard_dashboard`
+traces the full upstream chain — 13 nodes, from `stg_orders` /
+`stg_customers` / `stg_subscription_events` / `stg_returns_warranty`
+through the dims and facts to the three marts, terminating at the
+dashboard. That is, in one command, the JD's "clear lineage from
+transactions to the executive dashboard." Docs site regenerated with the
+exposure included.
+
+**Note on sharing/permissions:** none needed. The exposure records the
+dashboard's URL as metadata — nothing connects to it, and the dashboard
+stays private to the user's account (screen-share it in the interview,
+don't link it).
+
+**This completes the original Track B scope** — data through dashboard,
+governed end to end, on two engines. What remains is deliberately left
+work: the practice backlog, the hand-rebuild phase, and Track A interview
+prep.
+
+---
+
 <!-- New entries get appended below as each day's work happens. -->

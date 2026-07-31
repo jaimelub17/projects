@@ -79,7 +79,10 @@ seeds/*.csv
 - [x] Databricks migration — full build green on Databricks Free Edition
   (Unity Catalog `workspace.oura_scorecard`), totals reconcile to DuckDB to
   the penny. See PROJECT_LOG.md Step 16.
-- [ ] Dashboard (Databricks SQL / Genie) + dbt exposure linking model → dashboard
+- [x] Dashboard (Databricks AI/BI, built in-workspace) + dbt exposure
+  (`models/exposures.yml`) — lineage now terminates at the executive surface.
+  See PROJECT_LOG.md Step 18. **Build complete — everything in the original
+  scope is done.**
 
 ## Modeling assumptions (benchmarked, not guessed)
 
