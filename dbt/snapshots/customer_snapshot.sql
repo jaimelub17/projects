@@ -2,7 +2,6 @@
 
 {{
     config(
-      target_schema='main',
       unique_key='customer_id',
       strategy='check',
       check_cols=['geo_id', 'acquisition_channel_id'],

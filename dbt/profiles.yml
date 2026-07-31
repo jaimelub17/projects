@@ -1,7 +1,21 @@
 oura_scorecard:
   target: dev
   outputs:
+    # Local development: zero-infra DuckDB file. Default target.
     dev:
       type: duckdb
       path: 'oura_scorecard.duckdb'
+      threads: 4
+
+    # Databricks Free Edition. Connection details come from environment
+    # variables (loaded from the gitignored .env file at the repo root) so
+    # nothing sensitive ever enters git history. Auth is OAuth (browser
+    # login on first run) -- no long-lived token stored anywhere.
+    databricks:
+      type: databricks
+      catalog: workspace
+      schema: oura_scorecard
+      host: "{{ env_var('DATABRICKS_HOST', '') }}"
+      http_path: "{{ env_var('DATABRICKS_HTTP_PATH', '') }}"
+      auth_type: oauth
       threads: 4

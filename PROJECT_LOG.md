@@ -703,4 +703,45 @@ exists and runs at the stated severity).
 
 ---
 
+## Step 15 — Databricks migration prep (connection pending)
+
+**What we did:** everything migration-related that doesn't require the
+workspace connection yet:
+
+1. **Installed `dbt-databricks`** (1.12.3) alongside `dbt-duckdb` in the
+   same venv — one project, two adapters.
+2. **Added a `databricks` target to `profiles.yml`** — catalog `workspace`,
+   schema `oura_scorecard`, `auth_type: oauth`. Host and HTTP path come
+   from `env_var()` so nothing workspace-specific enters git; auth is
+   OAuth (browser login on first run), so **no long-lived token is stored
+   anywhere at all**. profiles.yml was safe to commit when it held only a
+   local file path; the moment real infrastructure enters the picture,
+   secrets discipline starts — the same reason the JD cares about SOX and
+   audit trails.
+3. **Added `.env.example` + `dbt-databricks.ps1`** — a one-line runner
+   that loads the gitignored `.env` and runs any dbt command with
+   `--target databricks`.
+4. **Portability audit of every model.** Findings: everything is
+   engine-neutral except `dim_date.sql` (DuckDB's `generate_series` +
+   `unnest` vs Spark's `sequence` + `explode`, and `strftime` vs
+   `date_format`) and the snapshot's hardcoded `target_schema='main'`
+   (a DuckDB default that would create a stray schema on Databricks).
+   Fixed: the spine branches on `target.type` (the one honestly
+   dialect-specific piece of SQL in the project), `date_id` became plain
+   arithmetic (year x 10000 + month x 100 + day — no dialect functions at
+   all), and the snapshot config lets each target use its own default
+   schema.
+
+**Note for the migration itself:** the SCD2 history (18,863 rows including
+the 3 moved customers' 2 versions) lives in DuckDB dev-time state. On
+Databricks the snapshot starts fresh from the current CSV — 18,860
+customers at one version each. That's normal and honest: a migration
+carries the *pipeline*, not one dev environment's accumulated history.
+
+**Verified:** full DuckDB `dbt build` after all changes — 90 nodes, 83
+pass, 7 known warnings, 0 errors. `date_id` values identical under the new
+arithmetic (spot-checked 20240101, 20240102). Snapshot stable at 18,863.
+
+---
+
 <!-- New entries get appended below as each day's work happens. -->
