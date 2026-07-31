@@ -1009,4 +1009,33 @@ prep.
 
 ---
 
+## Step 19 — Published to GitHub
+
+**What we did — user-driven, like the dashboard:** created the empty repo
+on github.com (`laweegee/oura-corporate-scorecard`, public — synthetic
+data, no secrets), renamed the local branch `master` → `main` (GitHub's
+convention), added the remote, and pushed all 21 commits. First push
+authenticated via Git Credential Manager's browser sign-in — the same
+cached-login pattern as the Databricks OAuth.
+
+**Pre-push security check (before anything left the machine):** verified
+`.env` was never committed and isn't tracked, and confirmed the only
+workspace-identifying string in history is the dashboard URL in
+`exposures.yml` — auth-gated metadata, not a credential, kept deliberately.
+
+**One learning moment:** first attempt failed with
+`'branch' is not recognized` — the `git` prefix had been dropped.
+Every command in the sequence is an instruction *to the git program*;
+without the first word, PowerShell has no idea what "branch" means.
+
+**Verified:** `git fetch` + `git status -sb` shows `main...origin/main`
+in sync at `4cecc12`; the repo renders README and PROJECT_LOG on the web.
+
+**Why this matters beyond backup:** the repo URL is now a citable
+artifact — and the JD's collaboration story (PRs, CI, review) has a place
+to live. The two scrutiny patches land next as fresh commits on top,
+showing a repo that's alive, not a one-time dump.
+
+---
+
 <!-- New entries get appended below as each day's work happens. -->
