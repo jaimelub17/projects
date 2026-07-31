@@ -105,6 +105,42 @@ jargon, the answer is probably here.
 
 ---
 
+## Promotion workflow — how a change reaches both engines
+
+Nothing syncs automatically. DuckDB and Databricks are two separate copies
+of the outputs, both built from one source of truth: this repo (model SQL +
+seed CSVs). Neither database is ever edited directly — change the source,
+rebuild each target, verify they agree. Always local first (feedback in
+seconds), then Databricks.
+
+```
+local:      cd dbt  ->  dbt build          (DBT_PROFILES_DIR set to dbt/)
+databricks: .\dbt-databricks.cmd build     (from the repo root)
+```
+
+**When to do what — by the kind of change you made:**
+
+| What changed | Then run (locally first, then Databricks) |
+|---|---|
+| A model's SQL (`stg_*`, `dim_*`, `fct_*`, `mart_*`) | `dbt build --select <model>+` — the `+` also rebuilds everything downstream of it |
+| Tests (rules in `.yml`, or `tests/*.sql`) | `dbt build --select <model>`, or just `dbt test --select <test_name>` |
+| Seed CSV *rows* (e.g. the SCD2 geo edit) | `dbt seed --select <seed>` → `dbt snapshot` **if** `seed_customers` changed (the snapshot watches geo/channel) → `dbt build` |
+| Seed CSV *columns* (schema change) | `dbt seed --full-refresh` → `dbt build` |
+| Full data regeneration (`generate_data.py` re-run) | The full dance, per engine: drop the snapshot table → `dbt seed --full-refresh` → `dbt snapshot` (clean baseline) → re-apply the customers 10/20/30 geo edit to the CSV → `dbt seed --select seed_customers` → `dbt snapshot` → `dbt build`. (Steps 9/11/12 lesson: regenerated values register as spurious customer "changes" unless the snapshot is re-baselined.) |
+| Docs only (`.md` files, `.yml` descriptions) | Nothing to rebuild — `dbt docs generate` to refresh the docs site |
+| Connection config (`.env`, `profiles.yml`) | Nothing to rebuild — `dbt debug` to verify the connection still works |
+
+**Always finish a data change with the reconciliation habit:** re-run the
+Step 17 fingerprint on both engines and confirm they still agree.
+
+**Real-company mapping:** the "then Databricks" step wouldn't be a human
+typing a command — CI runs the build on every pull request, and a
+scheduler rebuilds production nightly after ingestion lands. This manual
+two-step is the honest local-scale version of that; knowing what the
+automation would replace is the point.
+
+---
+
 ## Step 1 — Environment setup
 
 **What we did:** Installed Python 3.12 (not previously on the machine — only a
