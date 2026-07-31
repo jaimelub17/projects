@@ -7,6 +7,28 @@ kind of change-log discipline the JD asks for around governed KPIs.
 
 Each entry: what happened, why, what it means going forward.
 
+## Rebuilding this by hand (planned, not started yet)
+
+Once the initial build is finished, the plan is to redo the whole thing by
+hand — typing every command and file yourself, with Claude guiding (telling
+you what to type and where) rather than executing it directly. This log and
+the [Guide artifact](https://claude.ai/code/artifact/55ace1d2-7d62-433f-9944-5ca448f8169e)
+exist specifically to make that possible: every step already has the real
+commands and the real SQL, in order, copyable.
+
+**To practice from a clean slate when you're ready:**
+1. Copy the whole `oura-corporate-scorecard` folder somewhere else (e.g.
+   `oura-scorecard-practice`) — this keeps the original as your answer key.
+2. In the copy, delete everything generated/gitignored so you're rebuilding
+   for real, not just re-running against files that already exist:
+   `venv/`, `dbt/*.duckdb`, `dbt/target/`, `dbt/logs/`, `dbt/dbt_packages/`.
+3. Also safe to delete the `.sql`/`.yml`/`.py` files themselves if you want
+   to type those from scratch too, not just the commands around them —
+   the original folder (or `git log`/`git show` in it) is still there to
+   check your work against.
+4. Work through the Guide top to bottom, one step at a time, typing each
+   command and file yourself before checking the answer key.
+
 ---
 
 ## Step 1 — Environment setup
