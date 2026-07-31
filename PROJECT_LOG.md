@@ -31,6 +31,80 @@ commands and the real SQL, in order, copyable.
 
 ---
 
+## Plain-language glossary
+
+Every term used in this log, defined once. If a step below reads as
+jargon, the answer is probably here.
+
+**Tools & environment**
+- **dbt (data build tool):** the framework this whole project is built in.
+  Each transformation is a plain SQL `SELECT` in its own file; dbt figures
+  out build order, creates the tables, runs the tests, and generates docs.
+- **model:** one `.sql` file containing one `SELECT`. dbt turns it into a
+  table or view in the database.
+- **seed:** a CSV file that `dbt seed` loads into the database as a table.
+  Here, seeds stand in for data an ingestion tool (Fivetran) would land.
+- **snapshot:** dbt's built-in history keeper — each run records what
+  changed since the last run. The mechanism behind our SCD Type 2.
+- **test:** *generic* tests are declared in YAML (`unique`, `not_null`,
+  `relationships`, `accepted_values`); *singular* tests are hand-written
+  SQL queries that must return zero rows.
+- **severity (warn vs error):** an `error` test failure stops the build; a
+  `warn` reports and continues. Known, tracked data issues are warn here;
+  hard invariants (reconciliation) are error.
+- **DuckDB:** a database engine that runs as one local file — our fast,
+  zero-setup development target.
+- **Databricks / Unity Catalog:** the cloud data platform (and its
+  governance layer) the project migrated to; our tables live under
+  `workspace.oura_scorecard`.
+- **venv:** an isolated Python environment so this project's packages
+  can't collide with anything else on the machine.
+- **.env:** a gitignored file holding connection settings — the pattern
+  that keeps anything workspace-specific or secret out of git history.
+- **OAuth:** login-in-the-browser authentication; nothing long-lived is
+  stored on disk.
+- **execution policy:** the Windows security default that blocks `.ps1`
+  scripts; `.cmd` batch files aren't subject to it (see Step 16).
+
+**Modeling**
+- **dimensional model / star schema:** facts (events — orders, claims,
+  subscription events) surrounded by dimensions (context — customer,
+  product, date, geo, channel).
+- **grain:** what one row means in a table (one order line, one claim,
+  one month). The first question to ask of any table.
+- **staging layer (`stg_*`):** the first cleanup layer — rename, cast
+  types, deduplicate. It standardizes; it never silently fixes
+  business-meaningful problems.
+- **mart:** a final, consumption-ready table that serves a governed KPI.
+- **natural vs surrogate key:** natural = the business's own id
+  (`customer_id`); surrogate = a per-version key (`customer_sk`) so that
+  history can hold several rows for the same natural key.
+- **SCD Type 2:** keeping dimension history by *adding a new row* (with
+  `valid_from`/`valid_to`) instead of overwriting — so old reports stay
+  reproducible.
+- **lineage:** the traceable path from raw source to executive number.
+- **unknown member / late-arriving dimension / late-arriving fact:**
+  standard patterns for nulls and orphans — see the practice backlog.
+- **right-censoring:** recent periods look incomplete because their events
+  (e.g. warranty claims) haven't happened yet. A real reporting
+  phenomenon, not a bug (Step 12).
+
+**Finance**
+- **Revenue / COGS / gross profit / gross margin %:** sales in dollars /
+  direct cost of the goods sold / the difference / the difference as a
+  percent of revenue.
+- **MRR / ARR:** monthly recurring revenue (active subscribers × monthly
+  price — an operating metric, not GAAP revenue); ARR = MRR × 12.
+- **churn rate:** cancels this month ÷ active subscribers at the start of
+  the month.
+- **reconciliation:** proving two independently computed versions of the
+  same number agree — our error-severity controls do this on every build.
+- **governed KPI:** a metric treated as a contract: locked definition,
+  single owner, tests protecting it, sign-off, and a change log
+  (`governed_kpis/gross_margin.md` is the worked example).
+
+---
+
 ## Step 1 — Environment setup
 
 **What we did:** Installed Python 3.12 (not previously on the machine — only a
@@ -816,6 +890,44 @@ A 2-minute rehearsal of the Step 6 story on demand.
 handling (e.g. "all null geos map to Unknown"), PROJECT_LOG.md gets a
 step entry, and — for #4 — the governed-KPI doc gets a version bump with
 the change logged.
+
+---
+
+## Step 17 — Post-migration data scrutiny: 15 checks, 15 pass, zero findings
+
+**What we did:** a deeper scrutiny pass than the Step 13 audit, in two
+parts — and for the first time in this project, a scrutiny pass that
+found nothing to fix.
+
+**Part 1 — cross-engine fingerprint (8 values).** The Step 16
+reconciliation compared totals; totals can match even if rows land in the
+wrong month. So this fingerprint adds a *month-weighted* revenue sum
+(each month's revenue × its YYYYMM key) that only matches if every
+month's allocation is identical on both engines. All 8 values identical
+on DuckDB and Databricks: 24 mart months, $7,599,897.60 total revenue,
+month-weighted sum 1,538,783,976,488, 22,587 units, 16,113 new
+subscribers, 5,013 churned, cumulative MRR $650,082.72, 399 warranty
+claims.
+
+**Part 2 — distribution realism (7 checks).** Does the realized data
+actually behave the way the generator's documented design says?
+
+| Check | Design | Realized |
+|---|---|---|
+| Channel mix | 35/30/15/10/10 | 35.2/29.9/15.1/9.8/10.0 |
+| Product mix | 15/15/10/25/25/10 | 14.8/15.2/9.8/24.8/25.3/10.2 |
+| Discount incidence | 25% | 25.4% |
+| Two-ring orders | 8% | 8.1% |
+| Subscription attach lag | 0–30 days | 0–30, avg 14.7 |
+| Month-1 churn hazard | 12% | 12.0% |
+| Nov seasonality ratio | ~1.70 | 1.72 |
+
+**Why a zero-finding audit is still worth logging:** it's the first time
+the system has been scrutinized and come back clean, which is itself
+information — after 16 steps of building and 6 caught issues, the checks
+that used to find problems now don't. That's what "trustworthy enough to
+stop re-checking constantly" looks like, and it's the state a governed
+reporting platform is supposed to converge to.
 
 ---
 
