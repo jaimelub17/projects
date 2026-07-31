@@ -187,4 +187,55 @@ even as customers move regions.
 
 ---
 
+## Step 8 — Remaining dimension models
+
+**What we did:** Built the rest of the dimension layer: `dim_date` (a real
+day-grain date spine, 2024-01-01 through 2025-12-31, with year/quarter/
+month/week/fiscal_period columns via DuckDB's `generate_series`), plus
+straightforward `dim_product`, `dim_geo`, `dim_channel` pass-throughs from
+staging, and `dim_customer` -- built from `customer_snapshot` (not
+`stg_customers` directly) so it carries full SCD Type 2 history. Used dbt's
+built-in `dbt_scd_id` column as the dimension's surrogate key rather than
+hand-rolling one. Added tests: `dim_customer.customer_sk` is unique (one row
+per *version*), `customer_id` is intentionally NOT unique (by design -- SCD2).
+
+**Verification:** `dbt build` — 54 total nodes, 49 pass, 5 expected warnings
+(same tracked counts as Step 6), 0 errors.
+
+---
+
+## Step 9 — Caught and fixed an instability in the SCD2 demo
+
+**What happened:** Running `dbt build` again (which always re-runs `dbt seed`
+first) reloaded `seed_customers.csv` from disk -- silently reverting the
+live-only database mutation from Step 7. The next `dbt snapshot` then saw
+that as *another* change and added a third row for customers 10/20/30,
+turning a clean 2-version history into a confusing 3-version one. This is
+exactly the risk flagged (but not yet fixed) at the end of Step 7.
+
+**Why it mattered:** every future `dbt build` for the rest of this project
+would have kept corrupting this table. Not an acceptable state to build on.
+
+**Fixed by making the change permanent and durable instead of a one-time
+live mutation:**
+1. Dropped `customer_snapshot`, reseeded from the still-original CSV, and
+   ran `dbt snapshot` once to capture a clean baseline (customers 10/20/30
+   at their original geo_id).
+2. Edited `dbt/seeds/seed_customers.csv` directly -- permanently setting
+   `geo_id = 5` for customers 10, 20, 30. This is now the tracked, real
+   ground truth, not a throwaway mutation.
+3. Reseeded and ran `dbt snapshot` again -- captured exactly one clean
+   transition per customer (2000 -> 2003 rows, same as Step 7's result).
+4. Ran `dbt build` a second time to confirm stability: row counts held
+   exactly steady (2003), proving no further drift on repeated builds.
+
+**Worth knowing:** because the change now lives in the CSV, reading
+`seed_customers.csv` alone only ever shows the *current* state (geo_id=5) --
+the fact that these customers ever lived elsewhere is only visible in
+`customer_snapshot`'s history. That's not a limitation, it's the actual
+point of Type 2 SCDs: the source system only ever holds "now," and the
+snapshot is the only place "then" survives.
+
+---
+
 <!-- New entries get appended below as each day's work happens. -->

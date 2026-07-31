@@ -64,11 +64,9 @@ seeds/*.csv
 - [x] SCD Type 2 on customer geo/channel via `dbt snapshot` (`snapshots/customer_snapshot.sql`)
   — see PROJECT_LOG.md Step 7. `dim_customer` will source from this snapshot,
   not directly from `stg_customers`, once built.
-- [ ] `dim_date` — **not yet built**, still committed to for the dimension-model step.
-  Real fiscal-period/quarter columns matter for the JD's "period-over-period
-  comparisons" requirement.
-- [ ] Remaining dimension + fact models (`dim_product`, `dim_geo`, `dim_channel`,
-  `fct_orders`, `fct_subscription_events`, `fct_returns_warranty`)
+- [x] `dim_date`, `dim_product`, `dim_geo`, `dim_channel`, `dim_customer` (SCD2,
+  sourced from `customer_snapshot`) — see PROJECT_LOG.md Steps 8-9
+- [ ] Fact models (`fct_orders`, `fct_subscription_events`, `fct_returns_warranty`)
 - [ ] KPI marts
 - [ ] Databricks migration
 - [ ] Dashboard + governed-KPI writeup

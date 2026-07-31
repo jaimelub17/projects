@@ -1,0 +1,42 @@
+version: 2
+
+models:
+  - name: dim_date
+    description: One row per calendar day, 2024-01-01 through 2025-12-31.
+    columns:
+      - name: date_id
+        description: Surrogate key, YYYYMMDD as an integer.
+        data_tests: [not_null, unique]
+
+  - name: dim_product
+    description: One row per ring SKU.
+    columns:
+      - name: product_id
+        data_tests: [not_null, unique]
+
+  - name: dim_geo
+    description: One row per country/state served.
+    columns:
+      - name: geo_id
+        data_tests: [not_null, unique]
+
+  - name: dim_channel
+    description: One row per sales channel.
+    columns:
+      - name: channel_id
+        data_tests: [not_null, unique]
+
+  - name: dim_customer
+    description: >
+      SCD Type 2 customer dimension. One row per *version* of a customer's
+      geo/channel attributes, not one row per customer -- customer_id repeats
+      for anyone whose geo_id or acquisition_channel_id has changed. Join
+      fact tables to customer_sk, not customer_id, to get the version that
+      was current at transaction time.
+    columns:
+      - name: customer_sk
+        description: Surrogate key, unique per version (dbt's dbt_scd_id).
+        data_tests: [not_null, unique]
+      - name: customer_id
+        description: Natural key. NOT unique in this table by design (SCD2).
+        data_tests: [not_null]
