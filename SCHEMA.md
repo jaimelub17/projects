@@ -73,8 +73,11 @@ seeds/*.csv
 - [x] KPI marts (`mart_revenue_summary`, `mart_subscription_metrics`,
   `mart_warranty_rate`) with two error-severity reconciliation controls —
   see PROJECT_LOG.md Step 12
+- [x] dbt docs site with lineage graph (`dbt docs generate` / `serve`) — see
+  PROJECT_LOG.md Step 14
+- [x] Governed-KPI one-pager: [`governed_kpis/gross_margin.md`](governed_kpis/gross_margin.md)
 - [ ] Databricks migration
-- [ ] Dashboard + governed-KPI writeup
+- [ ] Dashboard (Databricks SQL / Genie) + dbt exposure linking model → dashboard
 
 ## Modeling assumptions (benchmarked, not guessed)
 

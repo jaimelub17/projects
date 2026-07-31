@@ -661,4 +661,46 @@ documentation drift is the failure mode that sneaks through.
 
 ---
 
+## Step 14 — dbt docs site + the governed-KPI one-pager
+
+**What we did (two deliverables):**
+
+1. **Generated and served the dbt documentation site.** `dbt docs generate`
+   compiles every model/column description and test from the `.yml` files
+   we've maintained since Step 6, queries the live database for schema
+   stats, and produces a searchable static site with a clickable lineage
+   graph (`target/index.html` + `catalog.json`). Served locally with
+   `dbt docs serve --port 8080`. Verified in the browser: model pages
+   render with descriptions, columns, and test markers; the lineage graph
+   opens with all 11 models as nodes. This is the JD's "full lineage to
+   source systems" as a working, screenshot-able artifact — and it cost
+   zero extra writing, because it's generated from documentation that
+   already existed. That's the point worth making in the interview: docs
+   that live next to the code get maintained; docs that live in a wiki
+   drift (as Step 13 demonstrated with our own README).
+
+2. **Wrote the governed-KPI one-pager** — `governed_kpis/gross_margin.md`,
+   the artifact SCHEMA.md has promised since Day 1. It locks Gross Margin's
+   definition the way the JD describes ("locked definitions, single owner,
+   formal sign-off, documented change-management"): formula, explicit
+   in/out-of-scope decisions (returns NOT netted, no warranty reserve in
+   COGS — each a real definitional choice documented rather than implied),
+   full lineage, the table of dbt controls protecting the number (with
+   severity and what each prevents), a change-management process, a
+   versioned change log, and known limitations on the record — including
+   *why* realized margin (55.5%) runs below the benchmark-derived list
+   margin (~57%): discount mix, quantified and explainable.
+
+**Why the one-pager matters most:** anyone can compute a margin. The
+one-pager demonstrates understanding that a governed KPI is a *contract* —
+what's in, what's out, who owns it, what protects it, and how it changes —
+which is the actual job described in the JD.
+
+**Verified:** docs site loads and renders (screenshot in session), lineage
+graph opens with all nodes; `catalog.json` written clean; one-pager's
+control table cross-checked against the live test suite (every named test
+exists and runs at the stated severity).
+
+---
+
 <!-- New entries get appended below as each day's work happens. -->
