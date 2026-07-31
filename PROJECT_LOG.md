@@ -557,4 +557,57 @@ to my own work — the numbers have to survive scrutiny, including mine.
 
 ---
 
+## Step 12 — KPI marts with reconciliation controls, plus one more artifact caught
+
+**What we did:** Built the three governed KPI marts the project exists for,
+all at month grain:
+- `mart_revenue_summary` — revenue, COGS, gross profit, gross margin %,
+  units sold, plus MoM/YoY period-over-period columns (window functions
+  over the month spine — scorecards are always read against a prior period).
+- `mart_subscription_metrics` — new/churned/active subscribers, MRR, ARR,
+  churn rate. Churn uses beginning-of-month actives as the denominator (the
+  standard definition — which is why both `_bom` and `_eom` columns exist).
+  The model comment states explicitly that MRR here is an operating metric,
+  not ASC 606 GAAP-recognized revenue.
+- `mart_warranty_rate` — monthly warranty rate, documented as a PERIOD rate
+  (vs a cohort rate, which a warranty-cost deep-dive would use).
+
+**Beyond generic tests — reconciliation controls (error severity):**
+1. `assert_mart_revenue_reconciles_to_fct` — the scorecard revenue total
+   must tie back to `fct_orders` to the penny. If the number leadership
+   sees diverges from what the transactions support, the build fails.
+2. `assert_mrr_ties_to_active_subscribers` — MRR must equal active
+   subscribers x $5.99 every month. The two figures come from different
+   columns of the same events, so drift between them means a calc bug.
+These are the JD's "reconciliation" requirement in working form — and
+unlike the warn-severity data-quality tests, they hard-fail the build.
+
+**Quality-check pass, and what it caught:** read the actual numbers, not
+just test results. Revenue: Nov +62% MoM (seasonality), YoY ~100% (the 2x
+growth), margin stable ~55.5%. Subscriptions: actives 727 -> 11,100, MRR
+ends at $66,489 (= 11,100 x $5.99 exactly), churn matures from 11% to
+~4.7% as the base's tenure mix ages — the retention curve visible in
+aggregate. But **December 2025's warranty rate read 3.11% — double the
+~1.5% norm.** Root cause: the generator *clamped* claims landing after the
+data window back to Dec 31, piling ~a month of future claims into December.
+Real data does the opposite — unfiled claims simply don't exist yet, so
+recent months read LOW (right-censoring), a real phenomenon Finance calls
+"immature" warranty rates. Fixed the generator to censor instead of clamp;
+December now reads 1.53%.
+
+**Second-order ripple handled:** the one-line generator fix shifted the RNG
+sequence downstream, changing *which* customers got null channels (114 ->
+100, different rows). Since `acquisition_channel_id` is a snapshot
+check_col, the old SCD2 baseline would have logged hundreds of spurious
+"changes" — so the snapshot was rebuilt from scratch via the documented
+two-phase procedure (baseline 18,860 -> permanent CSV edit for customers
+10/20/30 -> 18,863 rows, 2 versions each). SCHEMA.md DQ counts updated
+(claims 571 total, 7 orphaned, 100 null channels).
+
+**Verified:** full `dbt build` — 90 nodes, 83 pass, 7 warnings (each
+matching the generator's injection log exactly), 0 errors. Both
+reconciliation controls pass. Snapshot stable at 18,863 across rebuilds.
+
+---
+
 <!-- New entries get appended below as each day's work happens. -->

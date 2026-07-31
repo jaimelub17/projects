@@ -70,7 +70,9 @@ seeds/*.csv
   sourced from `customer_snapshot`) — see PROJECT_LOG.md Steps 8-9
 - [x] Fact models (`fct_orders`, `fct_subscription_events`, `fct_returns_warranty`)
   — see PROJECT_LOG.md Step 10 for the SCD2 join design decision
-- [ ] KPI marts
+- [x] KPI marts (`mart_revenue_summary`, `mart_subscription_metrics`,
+  `mart_warranty_rate`) with two error-severity reconciliation controls —
+  see PROJECT_LOG.md Step 12
 - [ ] Databricks migration
 - [ ] Dashboard + governed-KPI writeup
 
@@ -113,9 +115,9 @@ generation (`random.seed(42)`, reproducible):
 | Orphaned `customer_id` | `seed_orders` | Order synced before customer record | 70 |
 | Zero `quantity` / `unit_price` | `seed_orders` | Data entry glitch | 48 |
 | Duplicate `order_id` rows | `seed_orders` | Ingestion pipeline replay bug | 104 |
-| Null `acquisition_channel_id` | `seed_customers` | Incomplete profile data | 114 |
+| Null `acquisition_channel_id` | `seed_customers` | Incomplete profile data | 100 |
 | Duplicate `event_id` rows | `seed_subscription_events` | Webhook double-fire | 161 |
-| Orphaned `order_id` | `seed_returns_warranty` | Claim logged before order fully synced | 9 |
+| Orphaned `order_id` | `seed_returns_warranty` | Claim logged before order fully synced | 7 |
 
 (Counts updated after the Step 11 data rebuild — same injection *rates*, new
 volumes because the customer/subscription universe grew ~10x.)

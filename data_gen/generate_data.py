@@ -264,7 +264,11 @@ for o in orders:
     order_dt = date.fromisoformat(order_date_str)
     claim_dt = order_dt + timedelta(days=random.randint(10, 45))
     if claim_dt > END_DATE:
-        claim_dt = END_DATE
+        # Right-censoring, not clamping: a claim that would land after the
+        # data window simply hasn't been observed yet. (Clamping these to
+        # END_DATE piled ~a month of future claims into December 2025 and
+        # inflated its warranty rate to ~2x normal -- caught in Step 12.)
+        continue
     claim_type = random.choices(["warranty", "return"], weights=[70, 30])[0]
     if claim_type == "warranty":
         resolution = random.choice(["replaced", "repaired"])

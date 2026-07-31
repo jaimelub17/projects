@@ -1,0 +1,46 @@
+version: 2
+
+models:
+  - name: mart_revenue_summary
+    description: >
+      Governed KPI mart -- Revenue, COGS, Gross Profit, Gross Margin %, and
+      Units Sold at month grain, with MoM/YoY period-over-period columns.
+      Reconciles to fct_orders to the penny (see
+      assert_mart_revenue_reconciles_to_fct).
+    columns:
+      - name: month_start
+        data_tests: [not_null, unique]
+      - name: revenue
+        data_tests: [not_null]
+      - name: gross_margin_pct
+        data_tests: [not_null]
+      - name: units_sold
+        data_tests: [not_null]
+
+  - name: mart_subscription_metrics
+    description: >
+      Governed KPI mart -- membership metrics at month grain. MRR/ARR are
+      operating metrics (running total of mrr_delta), deliberately distinct
+      from GAAP-recognized subscription revenue. Internally consistent by
+      construction (see assert_mrr_ties_to_active_subscribers).
+    columns:
+      - name: month_start
+        data_tests: [not_null, unique]
+      - name: active_subscribers_eom
+        data_tests: [not_null]
+      - name: mrr
+        data_tests: [not_null]
+      - name: arr
+        data_tests: [not_null]
+
+  - name: mart_warranty_rate
+    description: >
+      Governed KPI mart -- monthly warranty rate (period rate, not cohort
+      rate; see model comment for why the distinction matters).
+    columns:
+      - name: month_start
+        data_tests: [not_null, unique]
+      - name: units_sold
+        data_tests: [not_null]
+      - name: warranty_rate_pct
+        data_tests: [not_null]
