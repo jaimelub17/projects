@@ -788,4 +788,35 @@ reconciled to the penny on the first migrated build."
 
 ---
 
+## Practice backlog — the mess left in on purpose
+
+The five unfixed data-quality issues below are deliberate practice
+material for the hand-rebuild phase, not oversights. Each is tracked by a
+warn-severity test today ("track, don't silently repair"); each has a
+different industry-standard fix, and knowing *which* treatment a problem
+deserves — fix, track, quarantine, or business rule — is the judgment
+being practiced. The generator is deterministic (`random.seed(42)`), so
+this mess is reproducible: it can't be accidentally destroyed.
+
+| # | Issue | Count | The fix to practice | Pattern name |
+|---|---|---|---|---|
+| 1 | Orders missing `geo_id` | 206 | Add a `-1 / Unknown` row to `dim_geo`; route null geos to it so geo-sliced reports stop silently dropping orders | Unknown member |
+| 2 | Customers missing `acquisition_channel_id` | 100 | Same treatment in `dim_channel` | Unknown member |
+| 3 | Orders referencing nonexistent customers | 70 | Create placeholder rows in `dim_customer` so facts join to *something*; backfill when the real record syncs | Late-arriving dimension |
+| 4 | Zero-quantity / zero-price order rows | 48 | Exclude from revenue via a documented business rule — version the exclusion in `governed_kpis/gross_margin.md` (this one is a change-management exercise, not just SQL) | Business rule + KPI versioning |
+| 5 | Claims referencing unsynced orders | 7 | Hold in a quarantine model until the parent order arrives | Late-arriving fact |
+
+Also re-practicable any time (the fix lives in SQL, the mess stays in the
+raw seeds): delete `DISTINCT` from `stg_orders.sql`, run `dbt build`,
+watch `unique_stg_orders_order_id` fail with 104 duplicates, put it back.
+A 2-minute rehearsal of the Step 6 story on demand.
+
+**Definition of done for each backlog item:** the warn test either passes
+(issue genuinely resolved) or is replaced by a test asserting the new
+handling (e.g. "all null geos map to Unknown"), PROJECT_LOG.md gets a
+step entry, and — for #4 — the governed-KPI doc gets a version bump with
+the change logged.
+
+---
+
 <!-- New entries get appended below as each day's work happens. -->
