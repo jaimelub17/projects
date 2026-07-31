@@ -486,4 +486,75 @@ join to `dim_date` on `claim_date`, no customer dimension involved.
 
 ---
 
+## Step 11 — Data realism audit: found 3 structural flaws, rebuilt the generator
+
+**What we did:** Before building the KPI marts, audited the synthetic data
+against Oura's actual published economics — not just "does it build" but
+"would a Finance interviewer who computed unit economics from these marts
+believe them." Ran six checks; three failed badly:
+
+| Check | Was | Real Oura / target | Verdict |
+|---|---|---|---|
+| Revenue growth | ~2.0x YoY | ~2x YoY | pass |
+| Gross margin | 55.6% | ~57-59% (Garmin comp) | pass |
+| Average order value | $362 | ring ASP $299-499 | pass |
+| Claim rate | ~2.9% | 1-3% consumer electronics | pass |
+| Orders per customer | **10.2** | ~1.1 (people buy one ring) | **fail** |
+| 2025 hardware/sub split | **98.9 / 1.1** | ~80 / 20 | **fail** |
+| Orders before customer existed | **5,656 (27%)** | 0 | **fail** |
+| Units per subscriber | **16.4 : 1** | ~1.1 : 1 | **fail** |
+
+**Root cause (one flaw, three symptoms):** the v2 generator created a fixed
+pool of 2,000 customers *independently* of orders, then scattered 21K orders
+across them at random. Customer count was decoupled from order volume
+(-> 10.2 rings each), subscriptions scaled with the tiny customer pool
+while units scaled with orders (-> membership business 20x too small), and
+signup dates had no relationship to purchase dates (-> 27% of orders
+predate their customer). Our own SCHEMA.md claimed an "~80/20 mix" the data
+never delivered — the same doc-vs-reality drift we've caught elsewhere,
+this time in the foundation.
+
+**The fix (generator v3):** invert the dependency — customers are now
+*derived from orders*:
+1. Orders are generated first, chronologically, from the growth curve.
+2. ~90% of orders create a new customer; ~10% are repeats (biased toward
+   early customers, who realistically upgrade Gen3 -> Ring 4). Result:
+   18,860 customers, 1.11 orders/customer.
+3. `signup_date` = first order date; subscription attaches 0-30 days
+   *after* the first ring purchase (a membership without a ring makes no
+   sense) at a 90% attach rate.
+
+**Documented honest deviation:** the 2025 subscription share lands at 9.0%,
+not Oura's real ~20% — a 2-year window only accumulates 2 years of
+membership cohorts, while Oura's real share sits on cohorts from many more
+years of ring sales. Documented in SCHEMA.md rather than distorting churn/
+attach/pricing to force the ratio.
+
+**Cascade handled:** regenerating the CSVs wiped the Step 9 SCD2 state, so
+the demo was redone with the same documented two-phase procedure (drop
+snapshot -> baseline snapshot of 18,860 customers -> permanent CSV edit
+moving customers 10/20/30 to geo_id 5 -> reseed -> second snapshot).
+Result: 18,863 rows, exactly 2 versions per moved customer. All injected
+DQ counts changed with the new volumes (206 null geo, 70 orphan customers,
+48 bad values, 104 dup orders, 114 null channels, 161 dup signups, 9 orphan
+claims) — SCHEMA.md table updated to match.
+
+**Verified (quality-check standard):**
+1. `dbt build`: 71 nodes, 64 pass, 7 warnings, 0 errors — and every warning
+   count matches the generator's injection log exactly.
+2. Re-ran the full audit: orders/customer 1.11 (median 1, max 5), sub share
+   9.0%, orders-before-signup 0, units/subscriber 1.4:1.
+3. Regression checks: growth still 2.0x ($2.54M -> $5.06M), margin 55.5%,
+   fct_orders row count matches stg_orders exactly (no join fan-out), and
+   the raw-vs-fct revenue gap ($36,405.15) is exactly the 104 duplicate
+   rows the staging layer removes.
+
+**Why this step matters for the interview:** "I audited my own synthetic
+data against the company's real economics, found the subscription business
+was 20x too small and customers owned 10 rings each, traced both to one
+structural root cause, and rebuilt it" is the governed-KPI ethos applied
+to my own work — the numbers have to survive scrutiny, including mine.
+
+---
+
 <!-- New entries get appended below as each day's work happens. -->

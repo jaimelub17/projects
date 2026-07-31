@@ -1,17 +1,31 @@
 """Generates synthetic seed data for the Oura Corporate Scorecard project.
 
 Not real Oura data. Volumes and growth are scaled to loosely track Oura's
-real 2024-2025 trajectory (~2x YoY revenue, ~80/20 hardware/subscription
-split, $5.99/mo membership). random.seed(42) makes output reproducible.
+real 2024-2025 trajectory (~2x YoY revenue). random.seed(42) makes output
+reproducible.
 
-Two things are modeled deliberately, not naively:
-  1. Subscription churn follows a retention/hazard curve (higher risk in the
-     first couple months, declining with tenure) instead of a flat monthly
-     probability -- this is the real shape of subscription-business churn.
-  2. A small, controlled set of data-quality issues (nulls, duplicates,
+Structure (v3 -- rebuilt after the Step 11 realism audit):
+  1. Orders are generated FIRST, chronologically, from the growth curve.
+  2. Customers are DERIVED from orders -- ~90% of orders create a new
+     customer, ~10% are repeat purchases (upgrades/gifts, biased toward
+     early customers, who realistically upgrade Gen3 -> Ring 4). This gives
+     ~1.1 orders per customer, matching real ring-buyer behavior. The v2
+     generator instead scattered 21K orders over a fixed pool of 2,000
+     customers (10.2 orders each -- absurd) which also silently capped the
+     subscription business at ~1% of revenue instead of Oura's real ~20%.
+  3. signup_date = the customer's first order date, and subscriptions
+     attach 0-30 days AFTER that first ring purchase (a membership without
+     a ring makes no sense) at a ~90% attach rate, matching Oura's
+     reportedly very high real attach. Churn follows a retention/hazard
+     curve (highest risk in months 1-2, 2% floor after month 6).
+  4. A small, controlled set of data-quality issues (nulls, duplicates,
      orphaned foreign keys, bad values) is injected on purpose, at known
-     rates, so the dbt staging layer and tests have real problems to catch
-     instead of validating already-perfect data. See DQ_* rates below.
+     rates, so the dbt staging layer and tests have real problems to catch.
+
+Known honest deviation: our 2025 subscription revenue share lands around
+~8-12%, not Oura's real ~20% -- their share reflects membership cohorts
+accumulated over many more years than this 2-year window. Documented in
+SCHEMA.md rather than distorting other numbers to force it.
 """
 import csv
 import random
@@ -25,9 +39,10 @@ SEEDS_DIR.mkdir(parents=True, exist_ok=True)
 
 START_DATE = date(2024, 1, 1)
 END_DATE = date(2025, 12, 31)
-N_DAYS = (END_DATE - START_DATE).days + 1
 
 SUBSCRIPTION_PRICE = 5.99
+REPEAT_PURCHASE_RATE = 0.10    # ~10% of orders are an existing customer buying again
+SUBSCRIBER_ATTACH_RATE = 0.90  # share of customers who start a membership after buying
 
 # Intentional data-quality injection rates (documented in SCHEMA.md).
 DQ_NULL_GEO_RATE = 0.01           # orders missing geo tag (channel integration gap)
@@ -122,36 +137,15 @@ write_csv(
     PRODUCTS,
 )
 
-# ---------- customers ----------
+# ---------- phase 1: orders, chronological, customer unassigned ----------
 
-N_CUSTOMERS = 2000
-customers = []
-for cid in range(1, N_CUSTOMERS + 1):
-    signup_offset = int(random.triangular(0, N_DAYS - 1, N_DAYS * 0.25))
-    signup_dt = START_DATE + timedelta(days=signup_offset)
-    geo_id = random.choices([g[0] for g in GEOS], weights=GEO_WEIGHTS)[0]
-    channel_id = random.choices([c[0] for c in CHANNELS], weights=CHANNEL_WEIGHTS)[0]
-    if random.random() < DQ_NULL_CHANNEL_RATE:
-        channel_id = ""
-        dq_counts["customers_null_channel"] = dq_counts.get("customers_null_channel", 0) + 1
-    customers.append((cid, signup_dt.isoformat(), geo_id, channel_id))
-
-write_csv(
-    "seed_customers.csv",
-    ["customer_id", "signup_date", "geo_id", "acquisition_channel_id"],
-    customers,
-)
-
-# ---------- orders (one row per order line item; most orders are single-item) ----------
-
-orders = []
+orders = []  # [order_id, customer_id, product_id, order_date_iso, geo_id, channel_id, qty, unit_price, unit_cost, discount]
 order_id = 1
 d = START_DATE
 BASELINE_ORDERS_PER_DAY = 12
 while d <= END_DATE:
     n_orders = max(0, round(random.gauss(BASELINE_ORDERS_PER_DAY * month_growth_factor(d), 3)))
     for _ in range(n_orders):
-        customer_id = random.randint(1, N_CUSTOMERS)
         product_id = random.choices([p[0] for p in PRODUCTS], weights=PRODUCT_WEIGHTS)[0]
         _, _, _, list_price, unit_cost = PRODUCT_BY_ID[product_id]
         quantity = 1 if random.random() < 0.92 else 2
@@ -162,7 +156,7 @@ while d <= END_DATE:
         orders.append(
             [
                 order_id,
-                customer_id,
+                None,  # customer assigned in phase 2
                 product_id,
                 d.isoformat(),
                 geo_id,
@@ -176,7 +170,50 @@ while d <= END_DATE:
         order_id += 1
     d += timedelta(days=1)
 
-# -- inject data-quality issues into orders --
+# ---------- phase 2: customers DERIVED from orders ----------
+# Orders are chronological, so a "repeat" draw from existing ids naturally
+# skews toward early customers -- who realistically upgrade Gen3 -> Ring 4.
+
+customers = []  # [customer_id, signup_date_iso, geo_id, acquisition_channel_id]
+next_customer_id = 1
+for o in orders:
+    if customers and random.random() < REPEAT_PURCHASE_RATE:
+        o[1] = random.randint(1, next_customer_id - 1)
+    else:
+        cid = next_customer_id
+        next_customer_id += 1
+        # customer's home geo + acquisition channel come from their first order
+        customers.append([cid, o[3], o[4], o[5]])
+        o[1] = cid
+
+# ---------- phase 3: subscriptions, anchored to the FIRST RING PURCHASE ----------
+
+sub_events = []
+event_id = 1
+for cid, signup_date_str, _geo, _ch in customers:
+    if random.random() > SUBSCRIBER_ATTACH_RATE:
+        continue
+    first_order_dt = date.fromisoformat(signup_date_str)
+    sub_start = first_order_dt + timedelta(days=random.randint(0, 30))
+    if sub_start > END_DATE:
+        continue
+    sub_events.append([event_id, cid, sub_start.isoformat(), "signup", SUBSCRIPTION_PRICE, SUBSCRIPTION_PRICE])
+    event_id += 1
+
+    cursor = sub_start
+    tenure_months = 0
+    while True:
+        cursor = cursor + timedelta(days=30)
+        tenure_months += 1
+        if cursor > END_DATE:
+            break
+        if random.random() < churn_hazard(tenure_months):
+            sub_events.append([event_id, cid, cursor.isoformat(), "cancel", SUBSCRIPTION_PRICE, -SUBSCRIPTION_PRICE])
+            event_id += 1
+            break
+
+# ---------- phase 4: DQ injection into orders ----------
+
 for row in orders:
     if random.random() < DQ_NULL_GEO_RATE:
         row[4] = ""
@@ -191,7 +228,6 @@ for row in orders:
             row[7] = 0.0  # zero unit_price: comp/free unit logged wrong
         dq_counts["orders_bad_value"] = dq_counts.get("orders_bad_value", 0) + 1
 
-# -- inject duplicate order rows (pipeline replay bug: same order_id re-inserted) --
 dup_candidates = random.sample(orders, k=int(len(orders) * DQ_DUP_ORDER_RATE))
 for row in dup_candidates:
     orders.append(list(row))
@@ -214,49 +250,7 @@ write_csv(
     orders,
 )
 
-# ---------- subscription events (signup / cancel; MRR = running total of mrr_delta) ----------
-
-sub_events = []
-event_id = 1
-SUBSCRIBER_RATE = 0.70
-
-for cid in range(1, N_CUSTOMERS + 1):
-    if random.random() > SUBSCRIBER_RATE:
-        continue
-    _, signup_date_str, _, _ = customers[cid - 1]
-    signup_dt = date.fromisoformat(signup_date_str)
-    sub_start = signup_dt + timedelta(days=random.randint(0, 21))
-    if sub_start > END_DATE:
-        continue
-    sub_events.append([event_id, cid, sub_start.isoformat(), "signup", SUBSCRIPTION_PRICE, SUBSCRIPTION_PRICE])
-    event_id += 1
-
-    cursor = sub_start
-    tenure_months = 0
-    while True:
-        cursor = cursor + timedelta(days=30)
-        tenure_months += 1
-        if cursor > END_DATE:
-            break
-        if random.random() < churn_hazard(tenure_months):
-            sub_events.append([event_id, cid, cursor.isoformat(), "cancel", SUBSCRIPTION_PRICE, -SUBSCRIPTION_PRICE])
-            event_id += 1
-            break
-
-# -- inject duplicate signup events (webhook double-fire) --
-signup_rows = [r for r in sub_events if r[3] == "signup"]
-dup_signups = random.sample(signup_rows, k=int(len(signup_rows) * DQ_DUP_SIGNUP_RATE))
-for row in dup_signups:
-    sub_events.append(list(row))  # exact duplicate, including event_id -> uniqueness test target
-dq_counts["subscriptions_duplicated_signup"] = len(dup_signups)
-
-write_csv(
-    "seed_subscription_events.csv",
-    ["event_id", "customer_id", "event_date", "event_type", "plan_price", "mrr_delta"],
-    sub_events,
-)
-
-# ---------- returns / warranty claims ----------
+# ---------- phase 5: claims from orders (post-injection, like a real messy pipeline) ----------
 
 claims = []
 claim_id = 1
@@ -291,7 +285,38 @@ write_csv(
     claims,
 )
 
-print(f"\nDone. Total orders: {len(orders)} | subscription events: {len(sub_events)} | claims: {len(claims)}")
+# ---------- phase 6: DQ injection into customers + subscriptions, then write ----------
+
+for row in customers:
+    if random.random() < DQ_NULL_CHANNEL_RATE:
+        row[3] = ""
+        dq_counts["customers_null_channel"] = dq_counts.get("customers_null_channel", 0) + 1
+
+write_csv(
+    "seed_customers.csv",
+    ["customer_id", "signup_date", "geo_id", "acquisition_channel_id"],
+    customers,
+)
+
+signup_rows = [r for r in sub_events if r[3] == "signup"]
+dup_signups = random.sample(signup_rows, k=int(len(signup_rows) * DQ_DUP_SIGNUP_RATE))
+for row in dup_signups:
+    sub_events.append(list(row))  # exact duplicate, including event_id -> uniqueness test target
+dq_counts["subscriptions_duplicated_signup"] = len(dup_signups)
+
+write_csv(
+    "seed_subscription_events.csv",
+    ["event_id", "customer_id", "event_date", "event_type", "plan_price", "mrr_delta"],
+    sub_events,
+)
+
+# ---------- summary ----------
+
+n_subscribers = len({r[1] for r in sub_events if r[3] == "signup"})
+print(f"\nDone. Orders: {len(orders)} | Customers: {len(customers)} "
+      f"({len(orders)/len(customers):.2f} orders/customer)")
+print(f"Subscribers: {n_subscribers} ({100*n_subscribers/len(customers):.0f}% attach) "
+      f"| Subscription events: {len(sub_events)} | Claims: {len(claims)}")
 print("\nInjected data-quality issues (by design, for dbt tests to catch):")
 for k, v in sorted(dq_counts.items()):
     print(f"  {k}: {v}")

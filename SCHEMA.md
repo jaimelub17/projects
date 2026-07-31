@@ -1,9 +1,11 @@
 # Schema Design — Oura Corporate Scorecard (portfolio project)
 
 Simulates the data layer behind a "Corporate Scorecard" for a hardware + subscription
-business modeled on Oura's real mix (~80% hardware / ~20% membership revenue).
-Built to mirror the KPIs named in the JD: Revenue, Gross Profit/Margin, Units Sold,
-Warranty Rate, and subscription metrics (MRR, ARR, Churn).
+business modeled on Oura's economics: hardware-dominant revenue with a growing
+membership layer (~9% subscription share in our 2-year window; Oura's real ~20%
+reflects membership cohorts accumulated over many more years — see "Modeling
+assumptions" below). Built to mirror the KPIs named in the JD: Revenue, Gross
+Profit/Margin, Units Sold, Warranty Rate, and subscription metrics (MRR, ARR, Churn).
 
 ## Dimensions
 
@@ -45,8 +47,8 @@ seeds/*.csv
 ## Notes / decisions
 
 - Numbers are synthetic but scaled to roughly track Oura's real 2024-2025 growth
-  (revenue ~2x YoY, ~80/20 hardware-subscription split, $5.99/mo membership price)
-  so the KPI outputs are plausible, not just placeholder numbers.
+  (revenue ~2x YoY, $5.99/mo membership price) so the KPI outputs are plausible,
+  not just placeholder numbers.
 - `mart_revenue_summary` is the one metric ("Gross Margin") that gets a full governed-KPI
   writeup (owner, definition, tests, sign-off) — see `governed_kpis/gross_margin.md` once built.
 - `fct_subscription_events` only ever has `signup`/`cancel` rows, not `renew`. Monthly
@@ -85,6 +87,18 @@ against the closest public comparable rather than picked arbitrarily.
   declines with tenure down to a 2% floor after month 6. This matches the real
   shape of subscription-business churn (early-tenure risk is always highest) rather
   than an unrealistic constant rate.
+- **Customer behavior (rebuilt in the Step 11 realism audit)**: customers are
+  *derived from orders* — ~90% of orders create a new customer, ~10% are repeat
+  purchases (upgrades/gifts) — giving ~1.11 orders per customer, matching real
+  ring-buyer behavior. `signup_date` is the first order date, and subscriptions
+  attach 0-30 days *after* that first ring purchase at a ~90% attach rate (Oura's
+  real attach is reportedly very high; a membership without a ring makes no sense).
+- **Known honest deviation — subscription revenue share (~9% vs Oura's real ~20%)**:
+  our 2-year window only accumulates 2 years of membership cohorts; Oura's real 20%
+  share sits on top of cohorts built up over many more years of ring sales. We
+  document the deviation rather than distorting churn/attach/pricing to force the
+  ratio. (Before the Step 11 audit this was far worse — the v2 generator produced
+  a 1.1% share and 10.2 orders/customer; see PROJECT_LOG.md Step 11.)
 
 ## Intentional data-quality issues (for the staging layer & dbt tests to catch)
 
@@ -95,13 +109,16 @@ generation (`random.seed(42)`, reproducible):
 
 | Issue | Table | Simulates | Count |
 |---|---|---|---|
-| Null `geo_id` | `seed_orders` | Channel integration gap | 209 |
-| Orphaned `customer_id` | `seed_orders` | Order synced before customer record | 64 |
-| Zero `quantity` / `unit_price` | `seed_orders` | Data entry glitch | 43 |
+| Null `geo_id` | `seed_orders` | Channel integration gap | 206 |
+| Orphaned `customer_id` | `seed_orders` | Order synced before customer record | 70 |
+| Zero `quantity` / `unit_price` | `seed_orders` | Data entry glitch | 48 |
 | Duplicate `order_id` rows | `seed_orders` | Ingestion pipeline replay bug | 104 |
-| Null `acquisition_channel_id` | `seed_customers` | Incomplete profile data | 7 |
-| Duplicate `event_id` rows | `seed_subscription_events` | Webhook double-fire | 13 |
-| Orphaned `order_id` | `seed_returns_warranty` | Claim logged before order fully synced | 4 |
+| Null `acquisition_channel_id` | `seed_customers` | Incomplete profile data | 114 |
+| Duplicate `event_id` rows | `seed_subscription_events` | Webhook double-fire | 161 |
+| Orphaned `order_id` | `seed_returns_warranty` | Claim logged before order fully synced | 9 |
+
+(Counts updated after the Step 11 data rebuild — same injection *rates*, new
+volumes because the customer/subscription universe grew ~10x.)
 
 Each of these should map to a specific dbt test in the staging layer
 (`not_null`, `unique`, `relationships`) — the point is to be able to show a
