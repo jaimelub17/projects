@@ -151,6 +151,77 @@ zero errors, only the intentionally-tracked warnings remain.
 `SCHEMA.md` — a real failing test, explained, with a real fix and a re-run
 proving it worked. Not narrated, not simulated.
 
+**The SQL** (all seven staging models are this same shape — read from the
+seed, rename/cast, nothing fancier; `stg_orders` is the one with `DISTINCT`
+added after the failure above):
+
+```sql
+-- stg_orders.sql (final, post-fix)
+select distinct
+    order_id,
+    customer_id,
+    product_id,
+    cast(order_date as date) as order_date,
+    geo_id,
+    channel_id,
+    quantity,
+    unit_price,
+    unit_cost,
+    discount_amount
+from {{ ref('seed_orders') }}
+```
+
+```sql
+-- stg_customers.sql
+select
+    customer_id,
+    cast(signup_date as date) as signup_date,
+    geo_id,
+    acquisition_channel_id
+from {{ ref('seed_customers') }}
+```
+
+```sql
+-- stg_subscription_events.sql (deduplicated up front, no fail/fix demo needed twice)
+select distinct
+    event_id,
+    customer_id,
+    cast(event_date as date) as event_date,
+    event_type,
+    plan_price,
+    mrr_delta
+from {{ ref('seed_subscription_events') }}
+```
+
+```sql
+-- stg_returns_warranty.sql
+select
+    claim_id,
+    order_id,
+    cast(claim_date as date) as claim_date,
+    claim_type,
+    resolution,
+    cost_to_company
+from {{ ref('seed_returns_warranty') }}
+```
+
+`stg_geo`, `stg_channels`, `stg_products` are each a plain `select` of every
+column, unchanged, from their seed — no cleanup needed, so no transformation
+to show.
+
+The one custom test (a "singular test" — a raw SQL query that should return
+zero rows; contrast with the generic `not_null`/`unique`/`relationships`
+tests declared in YAML):
+
+```sql
+-- tests/assert_orders_have_positive_values.sql
+{{ config(severity='warn') }}
+
+select *
+from {{ ref('stg_orders') }}
+where quantity <= 0 or unit_price <= 0
+```
+
 ---
 
 ## Step 7 — SCD Type 2 via dbt snapshot
@@ -185,6 +256,37 @@ attribute. `dim_customer` (once built) will source from `customer_snapshot`
 instead of `stg_customers` directly, so historical reports stay accurate
 even as customers move regions.
 
+**The SQL** — the entire mechanism is declared in a `config()` block, not
+hand-written history logic:
+
+```sql
+-- snapshots/customer_snapshot.sql
+{% snapshot customer_snapshot %}
+
+{{
+    config(
+      target_schema='main',
+      unique_key='customer_id',
+      strategy='check',
+      check_cols=['geo_id', 'acquisition_channel_id'],
+    )
+}}
+
+select
+    customer_id,
+    geo_id,
+    acquisition_channel_id
+from {{ ref('stg_customers') }}
+
+{% endsnapshot %}
+```
+
+`strategy='check'` tells dbt "compare `check_cols` between what the source
+looks like right now and what's already stored — if either value differs
+from the current version, close it out and insert a new one." Everything
+else (`dbt_valid_from`, `dbt_valid_to`, `dbt_scd_id`) is generated
+automatically; nothing here hand-writes the history logic.
+
 ---
 
 ## Step 8 — Remaining dimension models
@@ -201,6 +303,52 @@ per *version*), `customer_id` is intentionally NOT unique (by design -- SCD2).
 
 **Verification:** `dbt build` — 54 total nodes, 49 pass, 5 expected warnings
 (same tracked counts as Step 6), 0 errors.
+
+**The SQL:**
+
+```sql
+-- dim_date.sql -- a real date spine, generated, not hand-typed
+with spine as (
+    select unnest(generate_series(
+        date '2024-01-01', date '2025-12-31', interval 1 day
+    )) as date_day
+)
+
+select
+    cast(strftime(date_day, '%Y%m%d') as integer) as date_id,
+    date_day,
+    extract(year from date_day) as year,
+    extract(quarter from date_day) as quarter,
+    extract(month from date_day) as month,
+    extract(week from date_day) as week,
+    'FY' || extract(year from date_day) || '-Q' || extract(quarter from date_day) as fiscal_period
+from spine
+```
+
+```sql
+-- dim_customer.sql -- the SCD2 payoff: built on the snapshot, not stg_customers
+select
+    dbt_scd_id as customer_sk,
+    customer_id,
+    geo_id,
+    acquisition_channel_id,
+    dbt_valid_from as valid_from,
+    dbt_valid_to as valid_to,
+    (dbt_valid_to is null) as is_current
+from {{ ref('customer_snapshot') }}
+```
+
+```sql
+-- dim_product.sql / dim_geo.sql / dim_channel.sql -- all three are this same
+-- plain pass-through shape, just a straight select from staging
+select
+    product_id,
+    ring_model,
+    color,
+    list_price,
+    unit_cost
+from {{ ref('stg_products') }}
+```
 
 ---
 
