@@ -66,7 +66,8 @@ seeds/*.csv
   not directly from `stg_customers`, once built.
 - [x] `dim_date`, `dim_product`, `dim_geo`, `dim_channel`, `dim_customer` (SCD2,
   sourced from `customer_snapshot`) — see PROJECT_LOG.md Steps 8-9
-- [ ] Fact models (`fct_orders`, `fct_subscription_events`, `fct_returns_warranty`)
+- [x] Fact models (`fct_orders`, `fct_subscription_events`, `fct_returns_warranty`)
+  — see PROJECT_LOG.md Step 10 for the SCD2 join design decision
 - [ ] KPI marts
 - [ ] Databricks migration
 - [ ] Dashboard + governed-KPI writeup

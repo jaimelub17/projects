@@ -408,4 +408,82 @@ snapshot is the only place "then" survives.
 
 ---
 
+## Step 10 — Fact tables, and a real SCD2 join design decision
+
+**What we did:** Built `fct_orders`, `fct_subscription_events`, and
+`fct_returns_warranty`, joining the staging tables to the dimensions built
+in Step 8.
+
+**The design decision that mattered:** the textbook SCD2 fact join matches
+each transaction to the dimension version whose `valid_from`/`valid_to`
+range covers the transaction's date. That doesn't work here — our snapshot
+history only started existing in dev-time (2026-07-30), while every
+`order_date`/`event_date` is from 2024-2025, entirely *before* tracking
+began. Every `dbt_valid_from` timestamp is later than every transaction
+date, so a naive range join would match zero rows for every single record.
+Caught this before writing the join, not after debugging an all-null
+`customer_sk` column. Used each customer's **earliest known version**
+instead — the closest available approximation of "their state during
+2024-2025" given what the data actually supports — and documented the
+tradeoff directly in `fct_orders.sql` as a comment, not just in this log.
+
+**Verified (per the quality-check standard):**
+1. **Connections resolve correctly:** `dbt build` — 71 nodes, 64 pass, 7
+   warnings, 0 errors. Every warning traces to an already-tracked upstream
+   gap (7 null channel, 43 bad values, 207 null geo at staging; the 64
+   orphaned-customer orders correctly propagate to a null `fct_orders.
+   customer_sk`, not silently dropped or defaulted).
+2. **The earliest-version join actually does what it's supposed to:**
+   queried orders for customers 10/20/30 (the customers moved in Step 9) —
+   every one of their orders resolves to `customer_sk` for their *original*
+   region (`is_current = false`), not their current one. Confirms the join
+   picks the pre-move version, as intended.
+3. **Numbers sanity-checked against a known reference, and a real
+   discrepancy got chased down, not shrugged off:** total revenue through
+   `fct_orders` is $7,591,511.85 (20,973 rows). Raw `seed_orders` (which
+   still contains the 104 duplicate rows from Step 4) totals $7,627,034.20
+   — a $35,522.35 gap that exactly equals the duplicated rows' value.
+   Confirms the Step 6 dedup fix is correctly reflected all the way through
+   to the final fact table, and that the join introduces no fan-out
+   (`fct_orders` row count and revenue match `stg_orders` exactly).
+
+**The SQL:**
+
+```sql
+-- fct_orders.sql
+with earliest_customer_version as (
+    select customer_id, min(valid_from) as first_valid_from
+    from {{ ref('dim_customer') }}
+    group by customer_id
+)
+
+select
+    o.order_id,
+    d.date_id,
+    c.customer_sk,
+    o.product_id,
+    o.geo_id,
+    o.channel_id,
+    o.quantity,
+    o.unit_price,
+    o.unit_cost,
+    o.discount_amount,
+    round(o.quantity * o.unit_price, 2) as revenue,
+    round(o.quantity * o.unit_cost, 2) as cogs
+from {{ ref('stg_orders') }} o
+left join {{ ref('dim_date') }} d
+    on o.order_date = d.date_day
+left join earliest_customer_version ecv
+    on o.customer_id = ecv.customer_id
+left join {{ ref('dim_customer') }} c
+    on ecv.customer_id = c.customer_id
+    and ecv.first_valid_from = c.valid_from
+```
+
+`fct_subscription_events.sql` uses the identical `earliest_customer_version`
+pattern for the same reason. `fct_returns_warranty.sql` is simpler — just a
+join to `dim_date` on `claim_date`, no customer dimension involved.
+
+---
+
 <!-- New entries get appended below as each day's work happens. -->

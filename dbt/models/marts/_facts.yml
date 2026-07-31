@@ -1,0 +1,59 @@
+version: 2
+
+models:
+  - name: fct_orders
+    description: One row per order line item, joined to dims for reporting.
+    columns:
+      - name: order_id
+        data_tests: [not_null, unique]
+      - name: date_id
+        description: Should always resolve -- every order_date falls inside dim_date's spine.
+        data_tests: [not_null]
+      - name: customer_sk
+        description: >
+          Null for the ~64 orders that reference a customer_id not present
+          in dim_customer (the orphaned-customer data-quality issue tracked
+          since Step 4/6). Warn, not error -- known and monitored, not a new
+          defect introduced here.
+        data_tests:
+          - not_null:
+              config:
+                severity: warn
+          - relationships:
+              arguments:
+                to: ref('dim_customer')
+                field: customer_sk
+
+  - name: fct_subscription_events
+    description: One row per subscription signup/cancel event, joined to dims.
+    columns:
+      - name: event_id
+        data_tests: [not_null, unique]
+      - name: date_id
+        data_tests: [not_null]
+      - name: customer_sk
+        data_tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('dim_customer')
+                field: customer_sk
+
+  - name: fct_returns_warranty
+    description: One row per return/warranty claim, joined to dims.
+    columns:
+      - name: claim_id
+        data_tests: [not_null, unique]
+      - name: date_id
+        data_tests: [not_null]
+      - name: order_id
+        description: >
+          Known gap: a handful of claims reference an order_id not in
+          fct_orders (tracked since Step 4/6). Warn, not error.
+        data_tests:
+          - relationships:
+              arguments:
+                to: ref('fct_orders')
+                field: order_id
+              config:
+                severity: warn
