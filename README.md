@@ -3,8 +3,10 @@
 A small end-to-end "governed KPI" data project, built to mirror the actual work
 described in Oura's Senior Data Analyst — Corporate Financial Reporting JD:
 synthetic hardware + subscription transactional data, modeled with dbt into
-audit-ready financial KPI marts, deployed on Databricks (Unity Catalog) with
-an executive-facing dashboard on top.
+audit-ready financial KPI marts with reconciliation controls. Currently built
+on DuckDB locally; migration to Databricks (Unity Catalog) and an
+executive-facing dashboard are the next planned steps — see the build-status
+checklist in [`SCHEMA.md`](SCHEMA.md) for exactly what is and isn't done.
 
 ## Why this exists
 
@@ -26,12 +28,12 @@ See [`SCHEMA.md`](SCHEMA.md) for the dimensional model and KPI marts this
 project builds toward, and [`PROJECT_LOG.md`](PROJECT_LOG.md) for a running,
 step-by-step record of what was built and why.
 
-## Local setup
+## Local setup (Windows cmd)
 
-```bash
+```cmd
 python -m venv venv
 venv\Scripts\pip install -r requirements.txt
 cd dbt
 set DBT_PROFILES_DIR=%cd%
-venv\Scripts\dbt debug
+..\venv\Scripts\dbt debug
 ```

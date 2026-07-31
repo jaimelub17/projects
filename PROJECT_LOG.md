@@ -610,4 +610,55 @@ reconciliation controls pass. Snapshot stable at 18,863 across rebuilds.
 
 ---
 
+## Step 13 — Full-system verification audit (34 checks, every layer)
+
+**What we did:** Stepped back and verified the entire system end to end —
+not the incremental per-step checks, but everything at once, including the
+things "already verified" in earlier steps (trust, but re-verify after 12
+steps of churn). Five layers:
+
+- **A. Row-count lineage (12 checks):** every row accounted for from seed
+  to mart. seed_orders 21,021 = stg 20,917 + 104 dups; fct = stg exactly
+  (no join fan-out); snapshot 18,863 = 18,860 customers + 3 moves;
+  sub events 21,287 = 21,126 + 161 dups; claims 571 identical at all
+  layers; dim_date 731 days; 24 months in every mart.
+- **B. Documented DQ counts vs live data (6 checks):** every count in
+  SCHEMA.md's injection table re-queried against the database — all match
+  (206, 70, 48, 104, 100, 7).
+- **C. Financial recomputation via independent paths (7 checks):** mart
+  revenue == fct == stg qty x price ($7,599,897.60 at all three layers);
+  gross profit ties; final MRR ($66,489) recomputed from raw staging
+  events bypassing the marts entirely — matches; the Dec-25 YoY column
+  matches a hand recompute (101.3%).
+- **D. SCD2 integrity (5 checks):** exactly 3 customers with exactly 2
+  versions, nobody with more, exactly one current row per customer, zero
+  gaps between version windows (v1.valid_to == v2.valid_from), and the 70
+  null customer_sk rows in fct_orders are exactly the 70 known orphans.
+- **E. FK coverage (4 checks):** every date, product, and non-null
+  customer key in the fact tables resolves to its dimension.
+
+**Result: 34 of 34 checks pass.** Plus a fresh `dbt build` stability run
+first: 90 nodes, 83 pass, 7 known warnings, 0 errors — identical to the
+previous run, no drift.
+
+**Docs-vs-reality findings (4 caught, all fixed):**
+1. The Guide's commit log was missing 2 commits (33fee81, c192abb — the
+   two doc-only commits) and claimed "9 commits" when git shows 11.
+2. The Guide's "70 files changed" stat was a drifted estimate; the real
+   unique-file count is 45. Relabeled to "files in repo" and corrected.
+3. README claimed the project is "deployed on Databricks (Unity Catalog)
+   with an executive-facing dashboard" — present tense for work that
+   hasn't happened. Reworded to point at the build-status checklist.
+4. README's setup snippet ran `venv\Scripts\dbt debug` *after* `cd dbt` —
+   a path that doesn't exist from inside dbt/. Anyone following the README
+   verbatim would hit an error. Fixed to `..\venv\`.
+
+**Why this step exists:** the incremental checks each verified the piece
+being built; this pass verified the *joints between* pieces and the claims
+the docs make about the whole. The four findings were all in the docs, not
+the data — consistent with the project's recurring lesson that
+documentation drift is the failure mode that sneaks through.
+
+---
+
 <!-- New entries get appended below as each day's work happens. -->
