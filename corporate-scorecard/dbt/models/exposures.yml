@@ -1,8 +1,8 @@
 version: 2
 
 exposures:
-  - name: oura_corporate_scorecard_dashboard
-    label: "Oura Corporate Scorecard (Synthetic)"
+  - name: corporate_scorecard_dashboard
+    label: "Corporate Scorecard (synthetic data)"
     type: dashboard
     maturity: high
     url: https://dbc-31be9496-9d3d.cloud.databricks.com/dashboardsv3/01f18d216dbf16b186d81091d355e7a1/published?o=7474649765201631

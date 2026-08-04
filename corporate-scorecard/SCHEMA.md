@@ -1,11 +1,12 @@
-# Schema Design — Oura Corporate Scorecard (portfolio project)
+# Schema Design — Corporate Scorecard (portfolio project)
 
-Simulates the data layer behind a "Corporate Scorecard" for a hardware + subscription
-business modeled on Oura's economics: hardware-dominant revenue with a growing
-membership layer (~9% subscription share in our 2-year window; Oura's real ~20%
-reflects membership cohorts accumulated over many more years — see "Modeling
-assumptions" below). Built to mirror the KPIs named in the JD: Revenue, Gross
-Profit/Margin, Units Sold, Warranty Rate, and subscription metrics (MRR, ARR, Churn).
+Simulates the data layer behind a "Corporate Scorecard" for a hardware +
+subscription consumer wearables business: hardware-dominant revenue with a
+growing membership layer (~9% subscription share in our 2-year window; the
+benchmark company's real ~20% reflects membership cohorts accumulated over many
+more years — see "Modeling assumptions" below). Built to mirror the KPIs a
+corporate financial reporting role owns: Revenue, Gross Profit/Margin, Units
+Sold, Warranty Rate, and subscription metrics (MRR, ARR, Churn).
 
 ## Dimensions
 

@@ -1,12 +1,13 @@
-# Oura Corporate Scorecard (portfolio project)
+# Corporate Scorecard (portfolio project)
 
-A small end-to-end "governed KPI" data project, built to mirror the actual work
-described in Oura's Senior Data Analyst — Corporate Financial Reporting JD:
-synthetic hardware + subscription transactional data, modeled with dbt into
-audit-ready financial KPI marts with reconciliation controls. Currently built
-on DuckDB locally; migration to Databricks (Unity Catalog) and an
-executive-facing dashboard are the next planned steps — see the build-status
-checklist in [`SCHEMA.md`](SCHEMA.md) for exactly what is and isn't done.
+An end-to-end "governed KPI" data project, built to mirror the work described
+in a Senior Data Analyst — Corporate Financial Reporting role at a consumer
+wearables company: synthetic hardware + subscription transactional data,
+modeled with dbt into audit-ready financial KPI marts with reconciliation
+controls. Developed locally on DuckDB, migrated to Databricks (Unity Catalog)
+with an executive-facing dashboard on top — totals reconcile across both
+engines to the penny. See the build-status checklist in
+[`SCHEMA.md`](SCHEMA.md) for exactly what is and isn't in scope.
 
 ## Why this exists
 
@@ -19,8 +20,8 @@ documentation, and make it trustworthy enough for a CFO and auditors.
 - **dbt Core** — staging → marts, tests, docs, one governed-KPI writeup
 - **DuckDB** — local dev target (fast iteration, zero infra)
 - **Databricks Free Edition** — Unity Catalog, lineage, Databricks SQL dashboard
-- **Python** — synthetic data generation, scaled to roughly track Oura's real
-  2024–2025 growth (see `SCHEMA.md`)
+- **Python** — synthetic data generation, scaled to roughly track a real
+  wearables company's public 2024–2025 growth (see `SCHEMA.md`)
 
 ## Status
 

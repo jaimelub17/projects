@@ -1,10 +1,10 @@
-oura_scorecard:
+corporate_scorecard:
   target: dev
   outputs:
     # Local development: zero-infra DuckDB file. Default target.
     dev:
       type: duckdb
-      path: 'oura_scorecard.duckdb'
+      path: 'corporate_scorecard.duckdb'
       threads: 4
 
     # Databricks Free Edition. Connection details come from environment
@@ -14,7 +14,7 @@ oura_scorecard:
     databricks:
       type: databricks
       catalog: workspace
-      schema: oura_scorecard
+      schema: corporate_scorecard
       host: "{{ env_var('DATABRICKS_HOST', '') }}"
       http_path: "{{ env_var('DATABRICKS_HTTP_PATH', '') }}"
       auth_type: oauth

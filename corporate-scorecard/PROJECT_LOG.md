@@ -1041,4 +1041,38 @@ showing a repo that's alive, not a one-time dump.
 
 ---
 
+## Step 20 — Umbrella restructure + generic rename
+
+**What changed and why:** the GitHub account and repo were renamed
+(laweegee → jaimelub17; repo → `projects`), and the user decided to make
+`projects` an umbrella portfolio: an index README at the root, each
+project in a subfolder. The scorecard moved to `corporate-scorecard/`,
+and its identity was genericized so it can be presented beyond the
+original interview context — "Oura" removed from all *naming* surfaces
+(folder, dbt project/profile `corporate_scorecard`, database file,
+Databricks schema, dashboard title, exposure, README/SCHEMA headlines)
+while deliberately **keeping** benchmark citations and this log's
+history: "anchored to a real wearables company's public numbers" is
+evidence, not branding, and scrubbing it would weaken the project's
+best quality.
+
+**Also caught (doc drift, again):** the README still described the
+Databricks migration as a "next planned step" — stale since Step 16.
+Fixed in the same pass.
+
+**The one real breakage:** the venv. Its `.exe` launchers embed the
+absolute path of the folder they were created in, and the folder moved
+twice — `dbt.exe` began failing silently (exit 1, no output). Rebuilt
+the venv in place from the pinned `requirements.txt` in ~2 minutes.
+Lesson worth keeping: **venvs don't survive folder moves; everything
+else did** — git renames preserved file history, `%~dp0`-based scripts
+adapted automatically, and the renamed DuckDB file carried all data.
+
+**Verified:** full local build under the new identity — 91 nodes, 83
+pass, 7 known warnings, 0 errors; revenue regression check
+$7,599,897.60 unchanged. Databricks rebuild into the new schema +
+dashboard dataset repointing handed to the user (documented next step).
+
+---
+
 <!-- New entries get appended below as each day's work happens. -->
