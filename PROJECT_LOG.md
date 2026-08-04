@@ -1012,9 +1012,12 @@ prep.
 ## Step 19 — Published to GitHub
 
 **What we did — user-driven, like the dashboard:** created the empty repo
-on github.com (`laweegee/oura-corporate-scorecard`, public — synthetic
-data, no secrets), renamed the local branch `master` → `main` (GitHub's
-convention), added the remote, and pushed all 21 commits. First push
+on github.com (public — synthetic data, no secrets), renamed the local
+branch `master` → `main` (GitHub's convention), added the remote, and
+pushed all 21 commits. *(Repo lived at `laweegee/oura-corporate-scorecard`
+at push time; renamed 2026-08-03 to `jaimelub17/projects` — account and
+repository both renamed, local remote re-pointed, old URL redirects for
+now but shouldn't be relied on.)* First push
 authenticated via Git Credential Manager's browser sign-in — the same
 cached-login pattern as the Databricks OAuth.
 
