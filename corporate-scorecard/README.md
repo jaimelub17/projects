@@ -11,9 +11,7 @@ engines to the penny. See the build-status checklist in
 
 ## Why this exists
 
-This isn't a resume bullet — it's a working proof of concept that I can do the
-job: take raw transactional data, build a governed KPI layer with tests and
-documentation, and make it trustworthy enough for a CFO and auditors.
+I was really excited about interviewing at Oura and wanted to show that I can do the job: take raw transactional data, build a governed KPI layer with tests and documentation, and make it trustworthy enough for a CFO and auditors.
 
 ## Stack
 
@@ -26,8 +24,7 @@ documentation, and make it trustworthy enough for a CFO and auditors.
 ## Status
 
 See [`SCHEMA.md`](SCHEMA.md) for the dimensional model and KPI marts this
-project builds toward, and [`PROJECT_LOG.md`](PROJECT_LOG.md) for a running,
-step-by-step record of what was built and why.
+project builds toward.
 
 ## Local setup (Windows cmd)
 
