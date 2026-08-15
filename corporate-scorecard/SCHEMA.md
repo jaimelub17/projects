@@ -82,8 +82,7 @@ seeds/*.csv
   the penny. See PROJECT_LOG.md Step 16.
 - [x] Dashboard (Databricks AI/BI, built in-workspace) + dbt exposure
   (`models/exposures.yml`) — lineage now terminates at the executive surface.
-  See PROJECT_LOG.md Step 18. **Build complete — everything in the original
-  scope is done.**
+  **
 
 ## Modeling assumptions (benchmarked, not guessed)
 
