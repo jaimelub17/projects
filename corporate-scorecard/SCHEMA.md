@@ -65,21 +65,19 @@ seeds/*.csv
   with `dbt test` coverage tuned to the known injected data-quality issues
   (see PROJECT_LOG.md Step 6)
 - [x] SCD Type 2 on customer geo/channel via `dbt snapshot` (`snapshots/customer_snapshot.sql`)
-  — see PROJECT_LOG.md Step 7. `dim_customer` will source from this snapshot,
+   `dim_customer` will source from this snapshot,
   not directly from `stg_customers`, once built.
 - [x] `dim_date`, `dim_product`, `dim_geo`, `dim_channel`, `dim_customer` (SCD2,
-  sourced from `customer_snapshot`) — see PROJECT_LOG.md Steps 8-9
+  sourced from `customer_snapshot`) 
 - [x] Fact models (`fct_orders`, `fct_subscription_events`, `fct_returns_warranty`)
-  — see PROJECT_LOG.md Step 10 for the SCD2 join design decision
+  
 - [x] KPI marts (`mart_revenue_summary`, `mart_subscription_metrics`,
-  `mart_warranty_rate`) with two error-severity reconciliation controls —
-  see PROJECT_LOG.md Step 12
-- [x] dbt docs site with lineage graph (`dbt docs generate` / `serve`) — see
-  PROJECT_LOG.md Step 14
+  `mart_warranty_rate`) with two error-severity reconciliation controls 
+- [x] dbt docs site with lineage graph (`dbt docs generate` / `serve`) 
 - [x] Governed-KPI one-pager: [`governed_kpis/gross_margin.md`](governed_kpis/gross_margin.md)
 - [x] Databricks migration — full build green on Databricks Free Edition
   (Unity Catalog `workspace.oura_scorecard`), totals reconcile to DuckDB to
-  the penny. See PROJECT_LOG.md Step 16.
+  the penny.
 - [x] Dashboard (Databricks AI/BI, built in-workspace) + dbt exposure
   (`models/exposures.yml`) — lineage now terminates at the executive surface.
   **
@@ -108,7 +106,7 @@ against the closest public comparable rather than picked arbitrarily.
   share sits on top of cohorts built up over many more years of ring sales. We
   document the deviation rather than distorting churn/attach/pricing to force the
   ratio. (Before the Step 11 audit this was far worse — the v2 generator produced
-  a 1.1% share and 10.2 orders/customer; see PROJECT_LOG.md Step 11.)
+  a 1.1% share and 10.2 orders/customer)
 
 ## Intentional data-quality issues (for the staging layer & dbt tests to catch)
 
