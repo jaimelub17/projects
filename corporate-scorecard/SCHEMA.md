@@ -12,7 +12,7 @@ Sold, Warranty Rate, and subscription metrics (MRR, ARR, Churn).
 
 | Table | Grain | Key columns |
 |---|---|---|
-| `dim_customer` | one row per customer | customer_id, signup_date, region, acquisition_channel |
+| `dim_customer` | one row per customer *version* (SCD Type 2) | customer_sk, customer_id, geo_id, acquisition_channel_id, valid_from, valid_to, is_current |
 | `dim_product` | one row per SKU | product_id, ring_model (Gen3 / Ring 4), color, size, unit_cost, list_price |
 | `dim_date` | one row per calendar day | date_id, date, year, quarter, month, week, fiscal_period |
 | `dim_geo` | one row per country/state | geo_id, country, region, state |
@@ -76,7 +76,7 @@ seeds/*.csv
 - [x] dbt docs site with lineage graph (`dbt docs generate` / `serve`) 
 - [x] Governed-KPI one-pager: [`governed_kpis/gross_margin.md`](governed_kpis/gross_margin.md)
 - [x] Databricks migration — full build green on Databricks Free Edition
-  (Unity Catalog `workspace.oura_scorecard`), totals reconcile to DuckDB to
+  (Unity Catalog `workspace.corporate_scorecard`), totals reconcile to DuckDB to
   the penny.
 - [x] Dashboard (Databricks AI/BI, built in-workspace) + dbt exposure
   (`models/exposures.yml`) — lineage now terminates at the executive surface.

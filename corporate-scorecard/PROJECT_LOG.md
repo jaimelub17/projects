@@ -30,7 +30,7 @@ jargon, the answer is probably here.
   zero-setup development target.
 - **Databricks / Unity Catalog:** the cloud data platform (and its
   governance layer) the project migrated to; our tables live under
-  `workspace.oura_scorecard`.
+  `workspace.corporate_scorecard`.
 - **venv:** an isolated Python environment so this project's packages
   can't collide with anything else on the machine.
 - **.env:** a gitignored file holding connection settings — the pattern

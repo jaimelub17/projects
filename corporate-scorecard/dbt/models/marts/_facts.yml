@@ -11,7 +11,7 @@ models:
         data_tests: [not_null]
       - name: customer_sk
         description: >
-          Null for the ~64 orders that reference a customer_id not present
+          Null for the ~70 orders that reference a customer_id not present
           in dim_customer (the orphaned-customer data-quality issue tracked
           since Step 4/6). Warn, not error -- known and monitored, not a new
           defect introduced here.
