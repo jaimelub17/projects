@@ -54,9 +54,7 @@ seeds/*.csv
   writeup (owner, definition, tests, sign-off) — see `governed_kpis/gross_margin.md` once built.
 - `fct_subscription_events` only ever has `signup`/`cancel` rows, not `renew`. Monthly
   renewals were deliberately left out — MRR is a running total of `mrr_delta`, so a
-  renewal event would add rows without adding any information a KPI needs. (Corrected
-  here after the doc had drifted from what the generator actually produces — this table
-  used to say "signup/renew/cancel".)
+  renewal event would add rows without adding any information a KPI needs. 
 
 ## Build status
 
@@ -95,18 +93,12 @@ against the closest public comparable rather than picked arbitrarily.
   declines with tenure down to a 2% floor after month 6. This matches the real
   shape of subscription-business churn (early-tenure risk is always highest) rather
   than an unrealistic constant rate.
-- **Customer behavior (rebuilt in the Step 11 realism audit)**: customers are
+- **Customer behavior **: customers are
   *derived from orders* — ~90% of orders create a new customer, ~10% are repeat
   purchases (upgrades/gifts) — giving ~1.11 orders per customer, matching real
   ring-buyer behavior. `signup_date` is the first order date, and subscriptions
   attach 0-30 days *after* that first ring purchase at a ~90% attach rate (Oura's
   real attach is reportedly very high; a membership without a ring makes no sense).
-- **Known honest deviation — subscription revenue share (~9% vs Oura's real ~20%)**:
-  our 2-year window only accumulates 2 years of membership cohorts; Oura's real 20%
-  share sits on top of cohorts built up over many more years of ring sales. We
-  document the deviation rather than distorting churn/attach/pricing to force the
-  ratio. (Before the Step 11 audit this was far worse — the v2 generator produced
-  a 1.1% share and 10.2 orders/customer)
 
 ## Intentional data-quality issues (for the staging layer & dbt tests to catch)
 
@@ -115,19 +107,3 @@ catch — a dataset with zero data-quality issues doesn't demonstrate anything a
 the governed-KPI / staging-layer process. Counts below are from the current seed
 generation (`random.seed(42)`, reproducible):
 
-| Issue | Table | Simulates | Count |
-|---|---|---|---|
-| Null `geo_id` | `seed_orders` | Channel integration gap | 206 |
-| Orphaned `customer_id` | `seed_orders` | Order synced before customer record | 70 |
-| Zero `quantity` / `unit_price` | `seed_orders` | Data entry glitch | 48 |
-| Duplicate `order_id` rows | `seed_orders` | Ingestion pipeline replay bug | 104 |
-| Null `acquisition_channel_id` | `seed_customers` | Incomplete profile data | 100 |
-| Duplicate `event_id` rows | `seed_subscription_events` | Webhook double-fire | 161 |
-| Orphaned `order_id` | `seed_returns_warranty` | Claim logged before order fully synced | 7 |
-
-(Counts updated after the Step 11 data rebuild — same injection *rates*, new
-volumes because the customer/subscription universe grew ~10x.)
-
-Each of these should map to a specific dbt test in the staging layer
-(`not_null`, `unique`, `relationships`) — the point is to be able to show a
-failing test, explain what it caught, and show the staging model's fix.
