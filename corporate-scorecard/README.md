@@ -11,7 +11,7 @@ engines to the penny. See the build-status checklist in
 
 ## Why this exists
 
-I was really excited about this opportunity and wanted to show that I can do the job: take raw transactional data, build a governed KPI layer with tests and documentation, and make it trustworthy enough for a CFO and auditors.
+I was really excited about this opportunity and wanted challenge myself and see how I would enjoy the job: take raw transactional data, build a governed KPI layer with tests and documentation, and make it trustworthy enough for a CFO and auditors.
 
 ## Stack
 
