@@ -1,8 +1,6 @@
 # Corporate Scorecard (portfolio project)
 
-An end-to-end "governed KPI" data project, built to mirror the work described
-in a Senior Data Analyst — Corporate Financial Reporting role at a consumer
-wearables company: synthetic hardware + subscription transactional data,
+An end-to-end "governed KPI" data project for a synthetic hardware + subscription business. I took synthesized transactional data and
 modeled with dbt into audit-ready financial KPI marts with reconciliation
 controls. Developed locally on DuckDB, migrated to Databricks (Unity Catalog)
 with an executive-facing dashboard on top — totals reconcile across both
@@ -11,7 +9,7 @@ engines to the penny. See the build-status checklist in
 
 ## Why this exists
 
-I was really excited about this opportunity and wanted challenge myself and see how I would enjoy the job: take raw transactional data, build a governed KPI layer with tests and documentation, and make it trustworthy enough for a CFO and auditors.
+I was really excited about this opportunity and wanted to challenge myself and see how I would enjoy the job: take raw transactional data, build a governed KPI layer with tests and documentation, and make it trustworthy enough for a CFO and auditors.
 
 ## Stack
 
