@@ -137,4 +137,9 @@ Build journal. One entry per step: what was done, why, how it was verified. A st
 
 **What:** working tree moved to `projects/stream-radar/`; the workflow moved to the umbrella's `.github/workflows/collect.yml` (`working-directory: stream-radar`, commit messages prefixed `stream-radar` so umbrella history stays legible); Twitch secrets re-uploaded to the umbrella repo; badge repointed. The standalone `stream-radar` repo is archived with a moved-notice README — Steps 1–6 granular history, the first bot cycles, and the review trail remain browsable there permanently.
 
-**Verify:** (pending — dispatched umbrella run green with both stream-radar-prefixed bot commits, local venv rebuilt at the new path)
+**Verify:**
+- Dispatched run on the umbrella repo: green, producing both prefixed bot commits (`stream-radar snapshot 2026-08-28T05:59Z`, `stream-radar report 2026-08-28T05:59Z`) with all paths under `stream-radar/`.
+- `stream-radar/.env` confirmed ignored inside the umbrella (nested .gitignore); secrets re-uploaded encrypted to the umbrella repo.
+- Standalone repo archived (`archived: true`) after its moved-notice push — its scheduler is disabled with it, so no double-collection.
+- Local venv rebuilt at the new path (venvs don't survive folder moves — scorecard lesson, reapplied).
+- Cron self-fire watch re-armed on the umbrella repo (schedule registration resets with the workflow's new home).
