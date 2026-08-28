@@ -64,7 +64,7 @@ A GPS tick every second must not mean a re-route every second:
 | Stations + live dock/bike counts | `gbfs.lyft.com/gbfs/1.1/bay/en/` (`station_information`, `station_status`) — public, CORS-open, 633 stations Bay-wide |
 | Address search | `photon.komoot.io`, fallback `nominatim.openstreetmap.org` |
 | Cycling route | `routing.openstreetmap.de/routed-bike` (OSRM) |
-| Tiles | CartoDB Voyager / OpenStreetMap |
+| Tiles | `tile.openstreetmap.org` (CARTO's free basemaps now watermark every tile with "API KEY REQUIRED") |
 
 All free, no API keys, no backend.
 

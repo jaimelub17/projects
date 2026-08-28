@@ -228,6 +228,7 @@ var mode = 'riding';       // 'riding' = already on a bike | 'need' = still need
 var pinnedParkId = null;   // a rack you chose by hand; survives auto-refresh
 var follow = true;         // keep the map centred on you until you pan away
 var watchId = null, geoState = 'off';   // off | asking | live | denied
+var geoErrShown = false, coarseTried = false;
 var layers = { route:null, pins:[], me:null, acc:null };
 var routeToken = 0, lastRouteKey = null, lastRoute = null;
 var lastPlanAt = 0, lastPlanPos = null;
@@ -270,10 +271,12 @@ function gmaps(from, to, mode){
 function initMap(){
   map = L.map('map', { zoomControl:false, attributionControl:false, tap:false })
          .setView([37.7749,-122.4194], 13);
-  L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png',
-    { maxZoom:20, subdomains:'abcd' }).addTo(map);
+  // OpenStreetMap's own tiles: no key, no watermark. (CARTO's free basemaps
+  // now stamp "API KEY REQUIRED" across every tile.)
+  L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png',
+    { maxZoom:19, crossOrigin:true }).addTo(map);
   L.control.attribution({ position:'topright', prefix:false })
-   .addAttribution('&copy; OSM &middot; Carto &middot; Lyft GBFS').addTo(map);
+   .addAttribution('&copy; OpenStreetMap &middot; Lyft GBFS').addTo(map);
 
   // Panning by hand means you want to look around; stop yanking the map back.
   map.on('dragstart', function(){ setFollow(false); });
@@ -341,15 +344,26 @@ function setFollow(v){
 }
 function startWatch(interactive){
   if (!navigator.geolocation){
-    if (interactive) toast('This browser has no location access.');
+    if (interactive) toast('This browser has no location access.', 4000);
     return;
   }
-  if (watchId !== null){                 // already live — just re-centre
+  // A healthy watch that's already giving fixes: just re-follow.
+  if (watchId !== null && geoState === 'live'){
     setFollow(true);
     if (me) recenterOnMe(Math.max(map.getZoom(), 16));
     return;
   }
+  // Otherwise tear the old watch down and genuinely retry. Without this, a
+  // watch that was denied or timed out stays wedged and ◎ does nothing, even
+  // after you've fixed the permission in Settings.
+  if (watchId !== null){
+    navigator.geolocation.clearWatch(watchId);
+    watchId = null;
+  }
+  if (interactive) geoErrShown = false;   // a deliberate tap deserves an answer
+  coarseTried = false;
   setGeo('asking');
+  setFollow(true);
   watchId = navigator.geolocation.watchPosition(onPos, onGeoErr, {
     enableHighAccuracy:true, maximumAge:4000, timeout:20000
   });
@@ -359,6 +373,7 @@ function onPos(pos){
   me = { lat:pos.coords.latitude, lon:pos.coords.longitude,
          acc:pos.coords.accuracy || 0 };
   setGeo('live');
+  geoErrShown = false;
   drawMe();
   if (follow) recenterOnMe(dest ? map.getZoom() : Math.max(map.getZoom(), 16));
   maybeReplan(prev);
@@ -375,12 +390,33 @@ function recenterOnMe(zoom){
           || haversine(me, { lat:c.lat, lon:c.lng }) > 400;
   map.setView([me.lat, me.lon], zoom, { animate:!jump, duration:.6 });
 }
+/* watchPosition can fire errors over and over — say something useful once,
+   and say which of the three failures it actually was. */
 function onGeoErr(err){
-  if (err && err.code === 1){
+  var code = err && err.code;
+  if (code === 1){
     setGeo('denied');
-    toast('Location is blocked. Allow it for this site and tap ◎ again.', 4200);
-  } else {
-    setGeo('off');
+    if (!geoErrShown){
+      geoErrShown = true;
+      toast('Location is blocked for this site. Allow it, then tap ◎ again.', 5200);
+    }
+    return;
+  }
+  setGeo('off');
+  // High accuracy indoors often just times out; coarse usually still answers.
+  if (code === 3 && !coarseTried){
+    coarseTried = true;
+    if (watchId !== null){ navigator.geolocation.clearWatch(watchId); }
+    watchId = navigator.geolocation.watchPosition(onPos, onGeoErr, {
+      enableHighAccuracy:false, maximumAge:30000, timeout:45000
+    });
+    return;
+  }
+  if (!geoErrShown){
+    geoErrShown = true;
+    toast(code === 3
+      ? 'No GPS fix yet. Outdoors it locks on quickly — tap ◎ to retry.'
+      : 'Location is unavailable right now. Tap ◎ to retry.', 5200);
   }
 }
 function drawMe(){

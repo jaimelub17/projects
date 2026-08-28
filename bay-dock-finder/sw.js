@@ -2,7 +2,7 @@
    Goal: the app shell opens instantly and still opens with no signal.
    Live data is never cached — a stale dock count is worse than no answer. */
 
-var CACHE = 'dockfinder-v1';
+var CACHE = 'dockfinder-v2';
 var SHELL = [
   './',
   './index.html',
