@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-08-28T05` (UTC). History: 2 snapshots spanning 4h.
-Reference windows: short = `2026-08-28T01`, day = `None`.
+Generated from snapshot `2026-08-28T18` (UTC). History: 3 snapshots spanning 17h.
+Reference windows: short = `2026-08-28T05`, day = `2026-08-28T01`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Rust | +4.08 | 11 | 19,885 | +247% | - | 97 | -3% | 0.6112 |  |
-| 2 | Super Mario Maker 2 | +2.50 | 22 | 14,503 | - | - | 9 | - | 0.8897 | ENTRY IGNITION:indegnasen0706 |
-| 3 | Halo: Combat Evolved | +2.50 | 36 | 6,313 | - | - | 6 | - | 0.7988 | ENTRY IGNITION:cdawg |
-| 4 | Street Fighter 6 | +2.40 | 48 | 4,203 | +49% | - | 100 | +0% | 0.4273 |  |
-| 5 | I'm Only Sleeping | +1.73 | 35 | 6,597 | +36% | - | 100 | +0% | 0.2086 |  |
-| 6 | Virtual Casino | +1.67 | 30 | 8,507 | +52% | - | 27 | -13% | 0.2489 |  |
-| 7 | World of Tanks | +1.63 | 55 | 3,443 | +15% | - | 83 | +14% | 0.201 |  |
-| 8 | PlateUp! | +1.50 | 19 | 17,387 | - | - | 21 | - | 0.9608 | ENTRY |
-| 9 | Hariti | +1.50 | 70 | 2,145 | - | - | 2 | - | 0.9958 | ENTRY |
-| 10 | Geometry Dash | +1.50 | 73 | 2,209 | - | - | 74 | - | 0.8266 | ENTRY |
-| 11 | Waterpark Simulator | +1.50 | 2 | 62,596 | - | - | 51 | - | 0.8417 | ENTRY |
-| 12 | Deltarune | +1.50 | 85 | 1,730 | - | - | 35 | - | 0.8902 | ENTRY |
-| 13 | The Lord of the Rings: The Two Towers | +1.50 | 72 | 2,214 | - | - | 1 | - | 1.0 | ENTRY |
-| 14 | Escape the Backrooms | +1.50 | 83 | 2,105 | - | - | 100 | - | 0.4485 | ENTRY |
-| 15 | TEKKEN 8 | +1.50 | 83 | 1,777 | - | - | 68 | - | 0.4598 | ENTRY |
+| 1 | Pokémon GO | +13.91 | 9 | 80,397 | +2714% | +2723% | 57 | +46% | 0.7983 |  |
+| 2 | Call of Duty: Modern Warfare 4 | +13.23 | 4 | 98,448 | +5207% | +1582% | 99 | +34% | 0.1119 |  |
+| 3 | World of Tanks | +9.60 | 20 | 28,948 | +741% | +864% | 100 | +20% | 0.313 |  |
+| 4 | Grand Theft Auto VI | +9.57 | 16 | 41,514 | +3264% | +296% | 100 | +47% | 0.6677 |  |
+| 5 | ROBLOX | +9.01 | 15 | 38,302 | +1052% | +1108% | 100 | +8% | 0.6082 |  |
+| 6 | Street Fighter 6 | +6.85 | 38 | 13,267 | +216% | +371% | 100 | +0% | 0.7464 | IGNITION:indegnasen0706 |
+| 7 | Counter-Strike | +5.99 | 3 | 128,914 | +744% | +312% | 99 | +1% | 0.1795 |  |
+| 8 | ELDEN RING | +5.99 | 25 | 24,245 | +610% | +146% | 97 | -3% | 0.233 | IGNITION:nmplol |
+| 9 | Dota 2 | +5.36 | 6 | 96,700 | +449% | +335% | 100 | +0% | 0.5281 |  |
+| 10 | Hero Siege | +5.21 | 63 | 6,737 | +364% | +49% | 100 | +133% | 0.2748 |  |
+| 11 | Genshin Impact | +4.85 | 47 | 8,419 | +464% | +88% | 100 | +0% | 0.4824 |  |
+| 12 | League of Legends | +4.81 | 2 | 149,948 | +374% | +336% | 98 | +2% | 0.2782 |  |
+| 13 | Crypto | +4.72 | 42 | 11,422 | +301% | +138% | 100 | +5% | 0.2174 |  |
+| 14 | PEAK | +4.62 | 45 | 9,185 | +376% | +60% | 100 | +2% | 0.613 | IGNITION:frametamer666 |
+| 15 | Rocket League | +4.13 | 30 | 19,678 | +675% | -33% | 100 | +1% | 0.6172 | IGNITION:peereira7 |
 
 ## Ignition alerts
 
@@ -30,25 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Super Mario Maker 2 | indegnasen0706 | 12,903 | 12,903 | 89% | 22 |
-| Darkest Dungeon | moonmoon | 13,957 | 10,281 | 98% | 27 |
-| Red Dead Redemption II | fanum | 6,787 | 6,154 | 80% | 32 |
-| Halo: Combat Evolved | cdawg | 5,043 | 5,043 | 80% | 36 |
+| Pokémon Trading Card Game | pokemontcg | 17,755 | 17,755 | 86% | 31 |
+| Rust | fps_shaka | 14,656 | 14,656 | 63% | 29 |
+| Rocket League | peereira7 | 12,146 | 12,146 | 62% | 30 |
+| SILENT HILL 2 | zarbex | 11,743 | 11,743 | 96% | 40 |
+| Street Fighter 6 | indegnasen0706 | 12,903 | 9,902 | 75% | 38 |
+| MARVEL Contest of Champions | pepe | 8,029 | 8,029 | 55% | 36 |
+| Pokémon UNITE | pokemonunite | 7,375 | 7,375 | 66% | 43 |
+| SIGame | sleduck | 6,120 | 6,120 | 68% | 49 |
+| PEAK | frametamer666 | 5,630 | 5,630 | 61% | 45 |
+| Dispatch | h2p_gucio | 5,290 | 5,290 | 98% | 72 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 1.377 | Escape from Tarkov | 52,460 | 38,097 |
-| 0.488 | Path of Exile 2 | 9,702 | 19,879 |
-| 0.256 | Yu-Gi-Oh! Master Duel | 4,844 | 18,887 |
-| 0.248 | Star Wars Zero Company | 17,134 | 69,046 |
-| 0.217 | Dead by Daylight | 15,430 | 71,264 |
-| 0.018 | Rainbow Six Siege | 1,438 | 80,039 |
-| 0.018 | Delta Force | 2,005 | 110,318 |
-| 0.012 | Counter-Strike | 15,274 | 1,249,537 |
-| 0.008 | How to Fish | 2,812 | 372,462 |
-| 0.004 | PUBG: BATTLEGROUNDS | 2,760 | 735,831 |
+| 1.475 | Escape from Tarkov | 56,192 | 38,097 |
+| 0.846 | ELDEN RING | 24,245 | 28,651 |
+| 0.771 | Rocket League | 19,678 | 25,527 |
+| 0.503 | Path of Exile 2 | 10,006 | 19,879 |
+| 0.502 | Grand Theft Auto V | 41,260 | 82,145 |
+| 0.048 | Rainbow Six Siege | 3,810 | 80,039 |
+| 0.043 | Delta Force | 4,730 | 110,318 |
+| 0.034 | Palworld | 5,551 | 162,853 |
+| 0.021 | How to Fish | 7,953 | 372,462 |
+| 0.008 | PUBG: BATTLEGROUNDS | 6,044 | 735,831 |
 
 ---
 

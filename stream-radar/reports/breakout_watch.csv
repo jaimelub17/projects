@@ -1,114 +1,101 @@
 snapshot_hour_utc,game_id,name,is_game,rank,viewers_top100,channels_top100,share_top1,v_short,v_day,c_short,flags,score,components,steam_appid
-2026-08-28T05,263490,Rust,True,11,19885,97,0.6112,1.2440756430900535,,-0.030459207484708574,,4.082,channel_growth_short=-0.05;rank_climb=+1.64;steam_growth=+0.00;viewer_growth_short=+2.49,252490
-2026-08-28T05,509577,Dungeons & Dragons,False,51,3568,44,0.9179,,,,ENTRY IGNITION:criticalrole,2.5,entry_short=+1.50;ignition=+1.00,
-2026-08-28T05,511399,Super Mario Maker 2,True,22,14503,9,0.8897,,,,ENTRY IGNITION:indegnasen0706,2.5,entry_short=+1.50;ignition=+1.00,
-2026-08-28T05,2397,Halo: Combat Evolved,True,36,6313,6,0.7988,,,,ENTRY IGNITION:cdawg,2.5,entry_short=+1.50;ignition=+1.00,
-2026-08-28T05,55453844,Street Fighter 6,True,48,4203,100,0.4273,0.400836294431326,,0.0,,2.402,channel_growth_short=+0.00;rank_climb=+1.60;steam_growth=+0.00;viewer_growth_short=+0.80,1364780
-2026-08-28T05,498592,I'm Only Sleeping,True,35,6597,100,0.2086,0.3055765623283314,,0.0,,1.731,channel_growth_short=+0.00;rank_climb=+1.12;viewer_growth_short=+0.61,
-2026-08-28T05,29452,Virtual Casino,True,30,8507,27,0.2489,0.41687353685221185,,-0.13815033848081718,,1.667,channel_growth_short=-0.21;rank_climb=+1.04;viewer_growth_short=+0.83,
-2026-08-28T05,27546,World of Tanks,True,55,3443,83,0.201,0.13706445114511648,,0.1283811666482069,,1.627,channel_growth_short=+0.19;rank_climb=+1.16;viewer_growth_short=+0.27,1407200
-2026-08-28T05,1115711128,PlateUp!,True,19,17387,21,0.9608,,,,ENTRY,1.5,entry_short=+1.50,1599600
-2026-08-28T05,1743359147,MARVEL SNAP,True,97,1255,13,0.651,,,,ENTRY,1.5,entry_short=+1.50,1997040
-2026-08-28T05,1432155743,Hariti,True,70,2145,2,0.9958,,,,ENTRY,1.5,entry_short=+1.50,4018740
-2026-08-28T05,460951,Geometry Dash,True,73,2209,74,0.8266,,,,ENTRY,1.5,entry_short=+1.50;steam_growth=+0.00,322170
-2026-08-28T05,497057,Destiny 2,True,91,1455,99,0.1388,,,,ENTRY,1.5,entry_short=+1.50;steam_growth=+0.00,1085660
-2026-08-28T05,213930085,Honkai: Star Rail,True,92,1490,87,0.5289,,,,ENTRY,1.5,entry_short=+1.50,
-2026-08-28T05,2059463486,Waterpark Simulator,True,2,62596,51,0.8417,,,,ENTRY,1.5,entry_short=+1.50,3293260
-2026-08-28T05,24226,Metal Gear Solid: Peace Walker,True,100,561,20,0.8182,,,,ENTRY,1.5,entry_short=+1.50,
-2026-08-28T05,1771721043,"OOC, The Playable Anime",False,79,2041,3,0.7766,,,,ENTRY,1.5,entry_short=+1.50,
-2026-08-28T05,965771331,Deltarune,True,85,1730,35,0.8902,,,,ENTRY,1.5,entry_short=+1.50,1671210
-2026-08-28T05,6521,Grand Theft Auto: San Andreas,True,96,1423,27,0.4736,,,,ENTRY,1.5,entry_short=+1.50,12120
-2026-08-28T05,997367275,Pokémon Legends: Z-A,True,98,1306,35,0.2205,,,,ENTRY,1.5,entry_short=+1.50,
-2026-08-28T05,19441,The Lord of the Rings: The Two Towers,True,72,2214,1,1.0,,,,ENTRY,1.5,entry_short=+1.50,
-2026-08-28T05,743,Chess,False,100,1318,35,0.6351,,,,ENTRY,1.5,entry_short=+1.50,
-2026-08-28T05,2066107586,Escape the Backrooms,True,83,2105,100,0.4485,,,,ENTRY,1.5,entry_short=+1.50;steam_growth=+0.00,1943950
-2026-08-28T05,538054672,TEKKEN 8,True,83,1777,68,0.4598,,,,ENTRY,1.5,entry_short=+1.50,1778820
-2026-08-28T05,1042236765,GIRLS' FRONTLINE 2: EXILIUM,True,82,1871,8,0.5943,,,,ENTRY,1.5,entry_short=+1.50,3308670
-2026-08-28T05,511229,Pogostuck: Rage With Your Friends,True,84,1793,11,0.3687,,,,ENTRY,1.5,entry_short=+1.50,688130
-2026-08-28T05,491168,Clash Royale,True,100,1282,30,0.4563,,,,ENTRY,1.5,entry_short=+1.50,
-2026-08-28T05,11456,Super Mario Strikers,True,58,3152,1,1.0,,,,ENTRY,1.5,entry_short=+1.50,
-2026-08-28T05,7022,The Forest,True,87,1591,23,0.9485,,,,ENTRY,1.5,entry_short=+1.50,242760
-2026-08-28T05,1033687757,Metal Gear Solid: The Twin Snakes,True,80,2346,1,1.0,,,,ENTRY,1.5,entry_short=+1.50,
-2026-08-28T05,1687175620,Shadow Dungeon,True,94,1433,3,0.9951,,,,ENTRY,1.5,entry_short=+1.50,4423580
-2026-08-28T05,415998825,Guildrun,True,99,1288,4,0.8851,,,,ENTRY,1.5,entry_short=+1.50,3669200
-2026-08-28T05,937636808,Hapunan,True,2,57081,1,1.0,,,,ENTRY,1.5,entry_short=+1.50,4750540
-2026-08-28T05,1851682118,Frenzy!,True,68,2476,1,1.0,,,,ENTRY,1.5,entry_short=+1.50,
-2026-08-28T05,1832841853,Mortal Shell II,True,41,4662,100,0.3142,0.11778303565638346,,0.03045920748470844,,1.201,channel_growth_short=+0.05;rank_climb=+0.92;steam_growth=+0.00;viewer_growth_short=+0.24,2584270
-2026-08-28T05,1441208453,Once Human,True,39,4325,100,0.2527,0.13389479473295038,,0.0,,1.188,channel_growth_short=+0.00;rank_climb=+0.92;steam_growth=+0.00;viewer_growth_short=+0.27,2139460
-2026-08-28T05,602040818,NBA 2K27,True,4,40491,98,0.3064,0.4638533091144606,,-0.010152371464017962,,1.112,channel_growth_short=-0.02;rank_climb=+0.20;viewer_growth_short=+0.93,4356430
-2026-08-28T05,1036710512,Palworld,True,40,4366,100,0.2558,0.0813223472572255,,0.02020270731751947,,0.913,channel_growth_short=+0.03;rank_climb=+0.72;steam_growth=+0.00;viewer_growth_short=+0.16,1623730
-2026-08-28T05,490655,Pokémon GO,True,62,2857,39,0.2328,0.003155129698906729,,-0.09763846956391606,,0.86,channel_growth_short=-0.15;rank_climb=+1.00;viewer_growth_short=+0.01,
-2026-08-28T05,272263131,"Animals, Aquariums, and Zoos",False,51,3515,100,0.233,-0.05533915290709428,,0.0,,0.849,channel_growth_short=+0.00;rank_climb=+0.96;viewer_growth_short=-0.11,
-2026-08-28T05,509660,Art,False,33,5435,100,0.0741,0.001104565649858697,,0.083381608939051,BREADTH,0.747,breadth_bonus=+0.50;channel_growth_short=+0.13;rank_climb=+0.12;viewer_growth_short=+0.00,
-2026-08-28T05,493959,Red Dead Redemption II,True,32,7655,99,0.8039,-0.1636417476278281,,0.010152371464017908,IGNITION:fanum,0.728,channel_growth_short=+0.02;ignition=+1.00;rank_climb=+0.04;steam_growth=+0.00;viewer_growth_short=-0.33,1174180
-2026-08-28T05,516575,VALORANT,True,7,27186,98,0.2498,0.23348708459926162,,0.010256500167189061,,0.642,channel_growth_short=+0.02;rank_climb=+0.16;viewer_growth_short=+0.47,
-2026-08-28T05,509659,ASMR,False,23,13001,100,0.1453,0.1448359425117226,,0.05129329438755048,,0.607,channel_growth_short=+0.08;rank_climb=+0.24;viewer_growth_short=+0.29,
-2026-08-28T05,1282866981,Delta Force,True,77,2005,99,0.2748,-0.09644306765631636,,-0.01005033585350145,,0.592,channel_growth_short=-0.02;rank_climb=+0.80;steam_growth=+0.00;viewer_growth_short=-0.19,2507950
-2026-08-28T05,23020,ROBLOX,True,38,3325,93,0.366,0.047738086218628135,,-0.07257069283483537,,0.587,channel_growth_short=-0.11;rank_climb=+0.60;viewer_growth_short=+0.10,
-2026-08-28T05,512710,Call of Duty: Warzone,True,26,9643,99,0.2542,0.21506160381544118,,0.06252035698133393,,0.524,channel_growth_short=+0.09;viewer_growth_short=+0.43,
-2026-08-28T05,500188,Hunt: Showdown 1896,True,67,2542,99,0.1676,-0.0775582343458745,,0.0,,0.485,channel_growth_short=+0.00;rank_climb=+0.64;steam_growth=+0.00;viewer_growth_short=-0.16,594650
-2026-08-28T05,2132205352,Deadlock,True,29,8656,96,0.2097,0.05411856783391832,,-0.040821994520255166,,0.367,channel_growth_short=-0.06;rank_climb=+0.32;steam_growth=+0.00;viewer_growth_short=+0.11,1422450
-2026-08-28T05,674491029,Star Wars Zero Company,True,14,17134,100,0.2759,0.038492601962810624,,0.02020270731751947,,0.347,channel_growth_short=+0.03;rank_climb=+0.24;steam_growth=+0.00;viewer_growth_short=+0.08,2075800
-2026-08-28T05,491931,Escape from Tarkov,True,3,52460,99,0.7566,0.07115331041231877,,0.05182506786458595,,0.3,channel_growth_short=+0.08;rank_climb=+0.08;steam_growth=+0.00;viewer_growth_short=+0.14,3932890
-2026-08-28T05,386821,Black Desert,True,37,6048,100,0.0865,-0.061091366282317754,,0.0,,0.238,channel_growth_short=+0.00;rank_climb=+0.36;viewer_growth_short=-0.12,582660
-2026-08-28T05,491487,Dead by Daylight,True,9,15430,100,0.2879,-0.08851165520022095,,0.02020270731751947,,0.013,channel_growth_short=+0.03;rank_climb=+0.16;steam_growth=+0.00;viewer_growth_short=-0.18,381210
-2026-08-28T05,1702520304,Path of Exile 2,True,28,9702,74,0.3403,-0.3082634959260708,,-0.22853439994908623,IGNITION:787prada,0.001,channel_growth_short=-0.34;ignition=+1.00;rank_climb=-0.04;steam_growth=+0.00;viewer_growth_short=-0.62,2694490
-2026-08-28T05,138585,Hearthstone,True,34,7336,67,0.1854,0.02316705928153438,,-0.2261241794523475,,-0.013,channel_growth_short=-0.34;rank_climb=+0.28;viewer_growth_short=+0.05,
-2026-08-28T05,515025,Overwatch,True,25,7413,100,0.1292,-0.007124164817809438,,0.0,,-0.014,channel_growth_short=+0.00;steam_growth=+0.00;viewer_growth_short=-0.01,2357570
-2026-08-28T05,27284,Retro,False,31,7716,100,0.29,-0.08481655610000745,,0.0,,-0.05,channel_growth_short=+0.00;rank_climb=+0.12;viewer_growth_short=-0.17,
-2026-08-28T05,21779,League of Legends,True,6,31637,96,0.0952,-0.08355480884567795,,0.021053409197832263,,-0.136,channel_growth_short=+0.03;viewer_growth_short=-0.17,
-2026-08-28T05,509672,IRL,False,20,15768,99,0.1475,-0.10724230562378964,,0.0,,-0.174,channel_growth_short=+0.00;rank_climb=+0.04;viewer_growth_short=-0.21,
-2026-08-28T05,1264310518,Marvel Rivals,True,15,11884,97,0.1224,-0.10646223099690137,,-0.030459207484708574,,-0.179,channel_growth_short=-0.05;rank_climb=+0.08;steam_growth=+0.00;viewer_growth_short=-0.21,2767030
-2026-08-28T05,29595,Dota 2,True,13,17618,100,0.2674,-0.23261158575259872,,0.010050335853501506,,-0.25,channel_growth_short=+0.02;rank_climb=+0.20;steam_growth=+0.00;viewer_growth_short=-0.47,570
-2026-08-28T05,464339927,ARC Raiders,True,46,3732,100,0.1576,-0.2354999079288827,,0.010050335853501506,,-0.256,channel_growth_short=+0.02;rank_climb=+0.20;steam_growth=+0.00;viewer_growth_short=-0.47,1808500
-2026-08-28T05,18122,World of Warcraft,True,5,43690,99,0.2419,-0.08105984959268275,,-0.01005033585350145,,-0.297,channel_growth_short=-0.02;rank_climb=-0.12;viewer_growth_short=-0.16,
-2026-08-28T05,499003,VRChat,True,44,4510,100,0.3153,-0.3208294595507593,,0.010050335853501506,,-0.387,channel_growth_short=+0.02;rank_climb=+0.24;steam_growth=+0.00;viewer_growth_short=-0.64,438100
-2026-08-28T05,499973,Always On,False,24,11926,100,0.0861,-0.19776984149352994,,0.0,,-0.396,channel_growth_short=+0.00;viewer_growth_short=-0.40,
-2026-08-28T05,13332,Pokémon FireRed/LeafGreen,False,45,4397,70,0.1692,-0.22745537009033084,,-0.3364722366212129,,-0.48,channel_growth_short=-0.50;rank_climb=+0.48;viewer_growth_short=-0.45,
-2026-08-28T05,31339,Project Zomboid,True,54,3152,99,0.1018,-0.3782364991776989,,0.0,,-0.556,channel_growth_short=+0.00;rank_climb=+0.20;steam_growth=+0.00;viewer_growth_short=-0.76,108600
-2026-08-28T05,33214,Fortnite,True,8,16644,97,0.1975,-0.3148423151313182,,0.031416196233378914,,-0.583,channel_growth_short=+0.05;viewer_growth_short=-0.63,
-2026-08-28T05,670138298,Madden NFL 27,True,53,3219,100,0.4436,-0.3550271129504139,,0.05129329438755048,,-0.593,channel_growth_short=+0.08;rank_climb=+0.04;viewer_growth_short=-0.71,3940610
-2026-08-28T05,26936,Music,False,47,3378,98,0.1261,-0.3433839296790627,,-0.010152371464017962,,-0.622,channel_growth_short=-0.02;rank_climb=+0.08;viewer_growth_short=-0.69,
-2026-08-28T05,459931,Old School RuneScape,True,43,4139,100,0.2952,-0.4341235488536109,,0.0,,-0.708,channel_growth_short=+0.00;rank_climb=+0.16;viewer_growth_short=-0.87,1343370
-2026-08-28T05,498566,Slots,False,16,17534,60,0.1437,-0.2502175441458087,,-0.30010459245033816,,-0.831,channel_growth_short=-0.45;rank_climb=+0.12;viewer_growth_short=-0.50,
-2026-08-28T05,458353,Darkest Dungeon,True,27,10513,15,0.9779,-0.4416153107495686,,-0.5500463369192721,IGNITION:moonmoon,-0.908,channel_growth_short=-0.83;ignition=+1.00;rank_climb=-0.20;viewer_growth_short=-0.88,262060
-2026-08-28T05,499634,Crypto,True,64,2851,95,0.3609,-0.5221953273837423,,-0.05129329438755058,,-1.001,channel_growth_short=-0.08;rank_climb=+0.12;viewer_growth_short=-1.04,
-2026-08-28T05,570615518,Resonance: A Plague Tale Legacy,True,21,14423,99,0.3803,-0.8331532683444992,,0.0,IGNITION:maximilian_dood,-1.026,channel_growth_short=+0.00;ignition=+1.00;rank_climb=-0.36;viewer_growth_short=-1.67,2713000
-2026-08-28T05,512923,Baldur's Gate 3,True,98,1380,99,0.2196,-0.4535649029025756,,0.0,,-1.027,channel_growth_short=+0.00;rank_climb=-0.12;steam_growth=+0.00;viewer_growth_short=-0.91,1086940
-2026-08-28T05,493057,PUBG: BATTLEGROUNDS,True,60,2760,94,0.4833,-0.4910664737855284,,-0.06187540371808753,,-1.075,channel_growth_short=-0.09;steam_growth=+0.00;viewer_growth_short=-0.98,578080
-2026-08-28T05,511224,Apex Legends,True,17,12792,100,0.3707,-0.5304258982501555,,0.010050335853501506,,-1.086,channel_growth_short=+0.02;rank_climb=-0.04;steam_growth=+0.00;viewer_growth_short=-1.06,1172470
-2026-08-28T05,513143,Teamfight Tactics,True,18,15722,100,0.1782,-0.5089793714510097,,0.0,,-1.138,channel_growth_short=+0.00;rank_climb=-0.12;viewer_growth_short=-1.02,
-2026-08-28T05,18893,Metal Gear Solid 4: Guns of the Patriots,True,70,2425,79,0.4058,-0.4766823080650407,,-0.23572233352106983,,-1.147,channel_growth_short=-0.35;rank_climb=+0.16;viewer_growth_short=-0.95,
-2026-08-28T05,401587136,Arena Breakout: Infinite,True,95,1431,100,0.1488,-0.5170952367795861,,0.0,,-1.154,channel_growth_short=+0.00;rank_climb=-0.12;steam_growth=+0.00;viewer_growth_short=-1.03,2073620
-2026-08-28T05,24241,FINAL FANTASY XIV ONLINE,True,49,3357,100,0.1254,-0.420934158871097,,0.0,,-1.202,channel_growth_short=+0.00;rank_climb=-0.36;viewer_growth_short=-0.84,262341
-2026-08-28T05,982017546,Palia,True,71,2367,73,0.2226,-0.4736408594752648,,-0.30466040898619884,,-1.204,channel_growth_short=-0.46;rank_climb=+0.20;viewer_growth_short=-0.95,2707930
-2026-08-28T05,504463,Tom Clancy's The Division 2,True,63,2809,99,0.3403,-0.6005211843583067,,0.0,,-1.281,channel_growth_short=+0.00;rank_climb=-0.08;viewer_growth_short=-1.20,2221490
-2026-08-28T05,852009328,Mistfall Hunter,True,90,1553,87,0.2273,-0.547492183794278,,-0.13926206733350766,,-1.304,channel_growth_short=-0.21;viewer_growth_short=-1.09,3282300
-2026-08-28T05,1669431183,DJs,False,52,3589,98,0.1279,-0.581855983501852,,-0.010152371464017962,,-1.499,channel_growth_short=-0.02;rank_climb=-0.32;viewer_growth_short=-1.16,
-2026-08-28T05,518184,Phasmophobia,True,96,1275,99,0.1945,-0.5432358679167453,,-0.01005033585350145,,-1.502,channel_growth_short=-0.02;rank_climb=-0.40;steam_growth=+0.00;viewer_growth_short=-1.09,739630
-2026-08-28T05,1494,Call of Duty,True,89,663,100,0.1327,-0.639708218404385,,0.0,,-1.559,channel_growth_short=+0.00;rank_climb=-0.28;viewer_growth_short=-1.28,2620
-2026-08-28T05,27471,Minecraft,True,10,16913,94,0.439,-0.6973069080632008,,-0.05182506786458602,,-1.592,channel_growth_short=-0.08;rank_climb=-0.12;viewer_growth_short=-1.39,
-2026-08-28T05,1119642287,Yu-Gi-Oh! Master Duel,True,42,4844,54,0.4977,-0.3584075461625138,,-0.616186139423817,,-1.641,channel_growth_short=-0.92;steam_growth=+0.00;viewer_growth_short=-0.72,1449850
-2026-08-28T05,417528,Albion Online,True,75,2124,83,0.1963,-0.6564656139253403,,-0.18632957819149348,,-1.712,channel_growth_short=-0.28;rank_climb=-0.12;viewer_growth_short=-1.31,761890
-2026-08-28T05,66170,Warframe,True,69,2384,100,0.4002,-0.9625208946454843,,0.010050335853501506,IGNITION:ladytheladdy,-1.75,channel_growth_short=+0.02;ignition=+1.00;rank_climb=-0.84;steam_growth=+0.00;viewer_growth_short=-1.93,230410
-2026-08-28T05,32399,Counter-Strike,True,19,15274,98,0.0566,-0.715995331524917,,0.010256500167189061,,-1.777,channel_growth_short=+0.02;rank_climb=-0.36;steam_growth=+0.00;viewer_growth_short=-1.43,730
-2026-08-28T05,65632,DayZ,True,78,1976,99,0.2788,-0.7714755575712798,,0.030771658666753687,,-1.817,channel_growth_short=+0.05;rank_climb=-0.32;steam_growth=+0.00;viewer_growth_short=-1.54,221100
-2026-08-28T05,168648543,Battlefield 6,True,81,1613,100,0.1463,-0.7780898766297983,,0.0,,-1.876,channel_growth_short=+0.00;rank_climb=-0.32;steam_growth=+0.00;viewer_growth_short=-1.56,2807960
-2026-08-28T05,509658,Just Chatting,False,1,103699,97,0.1545,-0.9322876138740335,,-0.020408871631207123,,-1.895,channel_growth_short=-0.03;viewer_growth_short=-1.86,
-2026-08-28T05,66082,Games + Demos,False,74,1762,100,0.3712,-0.7888700293064723,,0.0,,-1.938,channel_growth_short=+0.00;rank_climb=-0.36;viewer_growth_short=-1.58,
-2026-08-28T05,676802825,Big Walk,True,97,1435,100,0.154,-0.7131547468874807,,0.0,,-2.186,channel_growth_short=+0.00;rank_climb=-0.76;viewer_growth_short=-1.43,1478500
-2026-08-28T05,32982,Grand Theft Auto V,True,12,13162,97,0.0653,-0.9545408152698441,,0.020834086902842053,,-2.198,channel_growth_short=+0.03;rank_climb=-0.32;steam_growth=+0.00;viewer_growth_short=-1.91,271590
-2026-08-28T05,509511,Marbles on Stream,True,80,1875,67,0.1621,-0.9187410606983045,,-0.20202662787328712,,-2.621,channel_growth_short=-0.30;rank_climb=-0.48;viewer_growth_short=-1.84,1170970
-2026-08-28T05,512953,ELDEN RING,True,50,3416,100,0.2152,-1.0581886665174631,,0.0,,-2.876,channel_growth_short=+0.00;rank_climb=-0.76;steam_growth=+0.00;viewer_growth_short=-2.12,1245620
-2026-08-28T05,2012789438,Call of Duty: Black Ops 7,True,61,2502,100,0.2178,-0.9830749310271221,,0.0,,-2.886,channel_growth_short=+0.00;rank_climb=-0.92;viewer_growth_short=-1.97,3606480
-2026-08-28T05,513181,Genshin Impact,True,88,1494,100,0.2088,-1.099281408800134,,0.0,,-3.079,channel_growth_short=+0.00;rank_climb=-0.88;viewer_growth_short=-2.20,
-2026-08-28T05,19619,Tibia,True,59,3013,100,0.1321,-1.0134397293247344,,0.0,,-3.107,channel_growth_short=+0.00;rank_climb=-1.08;viewer_growth_short=-2.03,
-2026-08-28T05,1081998272,PEAK,True,76,1930,98,0.2306,-1.0918537498148229,,-0.020202707317519466,,-3.454,channel_growth_short=-0.03;rank_climb=-1.24;steam_growth=+0.00;viewer_growth_short=-2.18,3527290
-2026-08-28T05,1478650472,Call of Duty: Modern Warfare 4,True,82,1855,74,0.5687,-1.1490696542496852,,-0.3011050927839216,,-3.83,channel_growth_short=-0.45;rank_climb=-1.08;viewer_growth_short=-2.30,4435490
-2026-08-28T05,416015,Hero Siege,True,93,1451,43,0.5706,-1.1333787698064604,,-0.5292593254548287,,-4.021,channel_growth_short=-0.79;rank_climb=-0.96;viewer_growth_short=-2.27,269210
-2026-08-28T05,460630,Rainbow Six Siege,True,65,1438,100,0.0967,-1.4891308317456349,,0.010050335853501506,,-4.163,channel_growth_short=+0.02;rank_climb=-1.20;steam_growth=+0.00;viewer_growth_short=-2.98,359550
-2026-08-28T05,624536948,EA Sports FC 26,True,66,2288,100,0.097,-1.8603734810779686,,0.0,,-5.441,channel_growth_short=+0.00;rank_climb=-1.72;steam_growth=+0.00;viewer_growth_short=-3.72,3405690
-2026-08-28T05,509663,Special Events,False,86,1679,64,0.2942,-1.5155918181653432,,-0.40546510810816444,,-5.519,channel_growth_short=-0.61;rank_climb=-1.88;viewer_growth_short=-3.03,
-2026-08-28T05,1867279146,Grand Theft Auto VI,True,55,1234,68,0.2707,-2.1387305403250054,,-0.3552032733272762,,-5.81,channel_growth_short=-0.53;rank_climb=-1.00;viewer_growth_short=-4.28,
-2026-08-28T05,30921,Rocket League,True,57,2540,99,0.1815,-2.448082013878778,,0.07333127308554951,,-6.506,channel_growth_short=+0.11;rank_climb=-1.72;steam_growth=+0.00;viewer_growth_short=-4.90,252950
-2026-08-28T05,1898040946,How to Fish,True,56,2812,100,0.1803,-2.9736371912867186,,0.0,,-8.067,channel_growth_short=+0.00;rank_climb=-2.12;steam_growth=+0.00;viewer_growth_short=-5.95,4001890
+2026-08-28T18,490655,Pokémon GO,True,9,80397,57,0.7983,3.3372047388072854,3.340359868506192,0.3794896217049037,,13.915,channel_growth_day=+0.21;channel_growth_short=+0.57;rank_climb=+3.12;viewer_growth_day=+3.34;viewer_growth_short=+6.67,
+2026-08-28T18,1478650472,Call of Duty: Modern Warfare 4,True,4,98448,99,0.1119,3.971643793938736,2.822574139689051,0.29105475693042027,,13.235,channel_growth_day=-0.01;channel_growth_short=+0.44;rank_climb=+2.04;viewer_growth_day=+2.82;viewer_growth_short=+7.94,4435490
+2026-08-28T18,27546,World of Tanks,True,20,28948,100,0.313,2.1291579326474945,2.266222383792611,0.18632957819149354,,9.6,channel_growth_day=+0.24;channel_growth_short=+0.28;rank_climb=+2.56;viewer_growth_day=+2.27;viewer_growth_short=+4.26,1407200
+2026-08-28T18,1867279146,Grand Theft Auto VI,True,16,41514,100,0.6677,3.515769794261533,1.3770392539365275,0.38566248081198473,,9.57,channel_growth_day=+0.02;channel_growth_short=+0.58;rank_climb=+0.56;viewer_growth_day=+1.38;viewer_growth_short=+7.03,
+2026-08-28T18,23020,ROBLOX,True,15,38302,100,0.6082,2.4440324400365503,2.4917705262551784,0.07257069283483537,,9.009,channel_growth_day=+0.00;channel_growth_short=+0.11;rank_climb=+1.52;viewer_growth_day=+2.49;viewer_growth_short=+4.89,
+2026-08-28T18,509663,Special Events,False,19,29646,98,0.5779,2.8711288309962644,1.355537012830921,0.4260843953109001,,8.552,channel_growth_day=+0.02;channel_growth_short=+0.64;rank_climb=+0.80;viewer_growth_day=+1.36;viewer_growth_short=+5.74,
+2026-08-28T18,55453844,Street Fighter 6,True,38,13267,100,0.7464,1.1494811929118,1.550317487343126,0.0,IGNITION:indegnasen0706,6.849,channel_growth_day=+0.00;channel_growth_short=+0.00;ignition=+1.00;rank_climb=+2.00;steam_growth=+0.00;viewer_growth_day=+1.55;viewer_growth_short=+2.30,1364780
+2026-08-28T18,32399,Counter-Strike,True,3,128914,99,0.1795,2.132993478907776,1.4169981473828588,0.010152371464017908,,5.994,channel_growth_day=+0.02;channel_growth_short=+0.02;rank_climb=+0.28;steam_growth=+0.00;viewer_growth_day=+1.42;viewer_growth_short=+4.27,730
+2026-08-28T18,512953,ELDEN RING,True,25,24245,97,0.233,1.9597401346309922,0.901551468113529,-0.030459207484708574,IGNITION:nmplol,5.992,channel_growth_day=-0.02;channel_growth_short=-0.05;ignition=+1.00;rank_climb=+0.24;steam_growth=+0.00;viewer_growth_day=+0.90;viewer_growth_short=+3.92,1245620
+2026-08-28T18,509672,IRL,False,8,92771,99,0.2364,1.7721515211034358,1.6649092154796463,0.0,,5.729,channel_growth_day=+0.00;channel_growth_short=+0.00;rank_climb=+0.52;viewer_growth_day=+1.66;viewer_growth_short=+3.54,
+2026-08-28T18,29595,Dota 2,True,6,96700,100,0.5281,1.7026922957716446,1.470080710019046,0.0,,5.363,channel_growth_day=+0.01;channel_growth_short=+0.00;rank_climb=+0.48;steam_growth=+0.00;viewer_growth_day=+1.47;viewer_growth_short=+3.41,570
+2026-08-28T18,416015,Hero Siege,True,63,6737,100,0.2748,1.535361748076472,0.4019829782700116,0.843970070294529,,5.215,channel_growth_day=+0.24;channel_growth_short=+1.27;rank_climb=+0.24;viewer_growth_day=+0.40;viewer_growth_short=+3.07,269210
+2026-08-28T18,513181,Genshin Impact,True,47,8419,100,0.4824,1.7290339696449013,0.6297525608447675,0.0,,4.848,channel_growth_day=+0.00;channel_growth_short=+0.00;rank_climb=+0.76;viewer_growth_day=+0.63;viewer_growth_short=+3.46,
+2026-08-28T18,21779,League of Legends,True,2,149948,98,0.2782,1.5559612456104797,1.4724064367648015,0.02061928720273561,,4.807,channel_growth_day=+0.03;channel_growth_short=+0.03;rank_climb=+0.16;viewer_growth_day=+1.47;viewer_growth_short=+3.11,
+2026-08-28T18,499634,Crypto,True,42,11422,100,0.2174,1.3878715103121362,0.8656761829283941,0.05129329438755048,,4.718,channel_growth_day=+0.00;channel_growth_short=+0.08;rank_climb=+1.00;viewer_growth_day=+0.87;viewer_growth_short=+2.78,
+2026-08-28T18,1081998272,PEAK,True,45,9185,100,0.613,1.5600517157502949,0.4681979659354718,0.02020270731751947,IGNITION:frametamer666,4.619,channel_growth_day=+0.00;channel_growth_short=+0.03;ignition=+1.00;steam_growth=+0.00;viewer_growth_day=+0.47;viewer_growth_short=+3.12,3527290
+2026-08-28T18,1669431183,DJs,False,32,15241,100,0.1155,1.4461155527382423,0.8642595692363904,0.02020270731751947,,4.274,channel_growth_day=+0.01;channel_growth_short=+0.03;rank_climb=+0.48;viewer_growth_day=+0.86;viewer_growth_short=+2.89,
+2026-08-28T18,30921,Rocket League,True,30,19678,100,0.6172,2.0473371794131285,-0.4007448344656493,0.010050335853501506,IGNITION:peereira7,4.132,channel_growth_day=+0.06;channel_growth_short=+0.02;ignition=+1.00;rank_climb=-0.64;steam_growth=+0.00;viewer_growth_day=-0.40;viewer_growth_short=+4.09,252950
+2026-08-28T18,71375,Star Citizen,True,65,6148,100,0.3526,,1.0497291833768114,,ENTRY,3.83,channel_growth_day=+0.00;entry_short=+1.50;rank_climb=+1.28;viewer_growth_day=+1.05,
+2026-08-28T18,263490,Rust,True,29,23192,100,0.6319,0.15384171295970048,1.397917356049754,0.03045920748470844,IGNITION:fps_shaka,3.671,channel_growth_day=+0.00;channel_growth_short=+0.05;ignition=+1.00;rank_climb=+0.92;steam_growth=+0.00;viewer_growth_day=+1.40;viewer_growth_short=+0.31,252490
+2026-08-28T18,401587136,Arena Breakout: Infinite,True,80,4410,100,0.2435,1.1255011888844408,0.6084059521048546,0.0,,3.339,channel_growth_day=+0.00;channel_growth_short=+0.00;rank_climb=+0.48;steam_growth=+0.00;viewer_growth_day=+0.61;viewer_growth_short=+2.25,2073620
+2026-08-28T18,65632,DayZ,True,60,6694,100,0.1618,1.2201370034634589,0.448661445892179,0.010050335853501506,,3.335,channel_growth_day=+0.03;channel_growth_short=+0.02;rank_climb=+0.40;steam_growth=+0.00;viewer_growth_day=+0.45;viewer_growth_short=+2.44,221100
+2026-08-28T18,1282866981,Delta Force,True,76,4730,100,0.2197,0.858281141745309,0.7618380740889927,0.010050335853501506,,3.333,channel_growth_day=+0.00;channel_growth_short=+0.02;rank_climb=+0.84;steam_growth=+0.00;viewer_growth_day=+0.76;viewer_growth_short=+1.72,2507950
+2026-08-28T18,488190,Poker,False,61,7129,100,0.288,,0.773283407358211,,ENTRY,3.289,channel_growth_day=+0.22;entry_short=+1.50;rank_climb=+0.80;viewer_growth_day=+0.77,
+2026-08-28T18,461221,MARVEL Contest of Champions,True,36,14469,30,0.5549,,,,ENTRY IGNITION:pepe,3.25,entry_day=+0.75;entry_short=+1.50;ignition=+1.00,3127280
+2026-08-28T18,250649084,SILENT HILL 2,True,40,12247,30,0.9588,,,,ENTRY IGNITION:zarbex,3.25,entry_day=+0.75;entry_short=+1.50;ignition=+1.00,2124490
+2026-08-28T18,9618,Pokémon Trading Card Game,True,31,20598,100,0.862,,,,ENTRY IGNITION:pokemontcg,3.25,entry_day=+0.75;entry_short=+1.50;ignition=+1.00,
+2026-08-28T18,518379,Pokémon UNITE,True,43,11186,71,0.6593,,,,ENTRY IGNITION:pokemonunite,3.25,entry_day=+0.75;entry_short=+1.50;ignition=+1.00,
+2026-08-28T18,602959317,Dispatch,True,72,5402,20,0.9793,,,,ENTRY IGNITION:h2p_gucio,3.25,entry_day=+0.75;entry_short=+1.50;ignition=+1.00,2592160
+2026-08-28T18,876369548,SIGame,True,49,8994,22,0.6805,,,,ENTRY IGNITION:sleduck,3.25,entry_day=+0.75;entry_short=+1.50;ignition=+1.00,
+2026-08-28T18,852009328,Mistfall Hunter,True,83,4586,100,0.1821,1.0828196402691628,0.5353274564748848,0.1392620673335076,,3.19,channel_growth_day=+0.00;channel_growth_short=+0.21;rank_climb=+0.28;viewer_growth_day=+0.54;viewer_growth_short=+2.17,3282300
+2026-08-28T18,498566,Slots,False,17,37450,100,0.1806,0.7588648567968347,0.5086473126510258,0.5108256237659907,,3.031,channel_growth_day=+0.16;channel_growth_short=+0.77;rank_climb=+0.08;viewer_growth_day=+0.51;viewer_growth_short=+1.52,
+2026-08-28T18,417528,Albion Online,True,66,5873,100,0.1246,1.0170644731606902,0.3605988592353497,0.18632957819149354,,2.914,channel_growth_day=+0.00;channel_growth_short=+0.28;rank_climb=+0.24;viewer_growth_day=+0.36;viewer_growth_short=+2.03,761890
+2026-08-28T18,624536948,EA Sports FC 26,True,35,13121,100,0.2792,1.7465359266060272,-0.11383755447194145,0.0,,2.899,channel_growth_day=+0.00;channel_growth_short=+0.00;rank_climb=-0.48;steam_growth=+0.00;viewer_growth_day=-0.11;viewer_growth_short=+3.49,3405690
+2026-08-28T18,31339,Project Zomboid,True,50,7695,100,0.0797,0.8925335952952099,0.514297096117511,0.010050335853501506,,2.682,channel_growth_day=+0.01;channel_growth_short=+0.02;rank_climb=+0.36;steam_growth=+0.00;viewer_growth_day=+0.51;viewer_growth_short=+1.79,108600
+2026-08-28T18,518203,Sports,False,33,17198,100,0.4558,,0.3526626031113848,,ENTRY IGNITION:spontent,2.66,channel_growth_day=+0.01;entry_short=+1.50;ignition=+1.00;rank_climb=-0.20;viewer_growth_day=+0.35,
+2026-08-28T18,509658,Just Chatting,False,1,335008,95,0.08,1.1726619401495018,0.24037432627546831,-0.020834086902842025,,2.524,channel_growth_day=-0.03;channel_growth_short=-0.03;viewer_growth_day=+0.24;viewer_growth_short=+2.35,
+2026-08-28T18,512710,Call of Duty: Warzone,True,26,19775,100,0.1782,0.7181862501254701,0.9332478539409114,0.010050335853501506,,2.439,channel_growth_day=+0.05;channel_growth_short=+0.02;viewer_growth_day=+0.93;viewer_growth_short=+1.44,
+2026-08-28T18,515025,Overwatch,True,27,17840,95,0.1692,0.8782079114772806,0.8710837466594712,-0.05129329438755058,,2.432,channel_growth_day=-0.04;channel_growth_short=-0.08;rank_climb=-0.08;steam_growth=+0.00;viewer_growth_day=+0.87;viewer_growth_short=+1.76,2357570
+2026-08-28T18,417752,Talk Shows & Podcasts,False,95,3827,100,0.2569,,0.6296217148512471,,ENTRY,2.257,channel_growth_day=+0.01;entry_short=+1.50;rank_climb=+0.12;viewer_growth_day=+0.63,
+2026-08-28T18,988100999,Demon's Souls,True,99,3826,2,0.9976,,,,ENTRY,2.25,entry_day=+0.75;entry_short=+1.50,
+2026-08-28T18,2005329090,Jinro Metropolis,True,79,4903,7,0.8246,,,,ENTRY,2.25,entry_day=+0.75;entry_short=+1.50,
+2026-08-28T18,36799602,Clair Obscur: Expedition 33,True,82,4784,99,0.7184,,,,ENTRY,2.25,entry_day=+0.75;entry_short=+1.50,1903340
+2026-08-28T18,490377,Sea of Thieves,True,87,4310,100,0.2413,,,,ENTRY,2.25,entry_day=+0.75;entry_short=+1.50,1172620
+2026-08-28T18,12924,Warcraft III,False,96,3902,47,0.6922,,,,ENTRY,2.25,entry_day=+0.75;entry_short=+1.50,
+2026-08-28T18,494184,Mobile Legends: Bang Bang,True,70,5510,100,0.3886,,,,ENTRY,2.25,entry_day=+0.75;entry_short=+1.50,
+2026-08-28T18,29307,Path of Exile,True,89,4214,100,0.3749,,,,ENTRY,2.25,entry_day=+0.75;entry_short=+1.50;steam_growth=+0.00,238960
+2026-08-28T18,460402,FIFA 15,True,75,5029,14,0.6107,,,,ENTRY,2.25,entry_day=+0.75;entry_short=+1.50,
+2026-08-28T18,510389,Shakes and Fidget,True,77,4954,12,0.5093,,,,ENTRY,2.25,entry_day=+0.75;entry_short=+1.50,438040
+2026-08-28T18,515186,Crimson Desert,True,97,3853,92,0.8575,,,,ENTRY,2.25,entry_day=+0.75;entry_short=+1.50;steam_growth=+0.00,3321460
+2026-08-28T18,31376,Terraria,True,94,3920,100,0.6666,,,,ENTRY,2.25,entry_day=+0.75;entry_short=+1.50;steam_growth=+0.00,105600
+2026-08-28T18,543818421,Breathedge 2,True,84,4474,34,0.6451,,,,ENTRY,2.25,entry_day=+0.75;entry_short=+1.50,2412960
+2026-08-28T18,1931693784,Pokémon Champions,True,5,117235,100,0.5412,,,,ENTRY,2.25,entry_day=+0.75;entry_short=+1.50,
+2026-08-28T18,1137788951,Security 51,True,92,4151,2,0.9998,,,,ENTRY,2.25,entry_day=+0.75;entry_short=+1.50,4246860
+2026-08-28T18,490147,Hollow Knight,True,88,4271,100,0.6884,,,,ENTRY,2.25,entry_day=+0.75;entry_short=+1.50,367520
+2026-08-28T18,32982,Grand Theft Auto V,True,10,41260,94,0.0983,1.1425596176091783,0.18801880233933413,-0.03141619623337893,,2.178,channel_growth_day=-0.01;channel_growth_short=-0.05;rank_climb=-0.24;steam_growth=+0.00;viewer_growth_day=+0.19;viewer_growth_short=+2.29,271590
+2026-08-28T18,493057,PUBG: BATTLEGROUNDS,True,56,6044,98,0.0769,0.7838353646814344,0.29276889089590613,0.04167269640056808,,2.068,channel_growth_day=-0.02;channel_growth_short=+0.06;rank_climb=+0.16;steam_growth=+0.00;viewer_growth_day=+0.29;viewer_growth_short=+1.57,578080
+2026-08-28T18,386821,Black Desert,True,41,11251,100,0.0971,0.620729374711703,0.5596380084293852,0.0,,2.001,channel_growth_day=+0.00;channel_growth_short=+0.00;rank_climb=+0.20;viewer_growth_day=+0.56;viewer_growth_short=+1.24,582660
+2026-08-28T18,12839,Heroes of Might and Magic III: The Restoration of Erathia,True,98,3831,54,0.3511,,-0.011161699266292227,,ENTRY,1.993,channel_growth_day=+1.34;entry_short=+1.50;rank_climb=-0.84;viewer_growth_day=-0.01,
+2026-08-28T18,516575,VALORANT,True,11,46807,100,0.1408,0.543330629475244,0.7768177140745057,0.02020270731751947,,1.917,channel_growth_day=+0.02;channel_growth_short=+0.03;viewer_growth_day=+0.78;viewer_growth_short=+1.09,
+2026-08-28T18,982017546,Palia,True,81,4739,99,0.1916,0.6942028124536044,0.22056195297833958,0.30466040898619884,,1.866,channel_growth_day=+0.00;channel_growth_short=+0.46;rank_climb=-0.20;viewer_growth_day=+0.22;viewer_growth_short=+1.39,2707930
+2026-08-28T18,511224,Apex Legends,True,18,29032,99,0.2656,0.8195786943791161,0.2891527961289606,-0.01005033585350145,,1.833,channel_growth_day=+0.00;channel_growth_short=-0.02;rank_climb=-0.08;steam_growth=+0.00;viewer_growth_day=+0.29;viewer_growth_short=+1.64,1172470
+2026-08-28T18,18122,World of Warcraft,True,7,87679,98,0.2468,0.6965631750618331,0.6155033254691503,-0.010152371464017962,,1.778,channel_growth_day=-0.02;channel_growth_short=-0.02;rank_climb=-0.20;viewer_growth_day=+0.62;viewer_growth_short=+1.39,
+2026-08-28T18,1763844707,Aliens: Fireteam Elite 2,True,100,3650,99,0.3849,,0.3403702349137888,,ENTRY,1.553,channel_growth_day=-0.01;entry_short=+1.50;rank_climb=-0.28;viewer_growth_day=+0.34,3448650
+2026-08-28T18,513143,Teamfight Tactics,True,23,25204,97,0.3248,0.47194170670824437,-0.03703766474276538,-0.030459207484708574,IGNITION:k3soju,1.518,channel_growth_day=-0.02;channel_growth_short=-0.05;ignition=+1.00;rank_climb=-0.32;viewer_growth_day=-0.04;viewer_growth_short=+0.94,
+2026-08-28T18,33214,Fortnite,True,13,30692,97,0.113,0.611952243194724,0.29710992806340575,0.0,,1.345,channel_growth_day=+0.02;channel_growth_short=+0.00;rank_climb=-0.20;viewer_growth_day=+0.30;viewer_growth_short=+1.22,
+2026-08-28T18,509511,Marbles on Stream,True,91,4188,100,0.1982,0.8036146335859163,-0.11512642711238823,0.40047756659712536,,1.322,channel_growth_day=+0.15;channel_growth_short=+0.60;rank_climb=-0.92;viewer_growth_day=-0.12;viewer_growth_short=+1.61,1170970
+2026-08-28T18,459931,Old School RuneScape,True,53,8003,100,0.1441,0.6593622586183138,0.22523870976470287,0.0,,1.304,channel_growth_day=+0.00;channel_growth_short=+0.00;rank_climb=-0.24;viewer_growth_day=+0.23;viewer_growth_short=+1.32,1343370
+2026-08-28T18,674491029,Star Wars Zero Company,True,21,26090,99,0.16,0.4204873056067849,0.45897990756959556,-0.01005033585350145,,1.252,channel_growth_day=+0.01;channel_growth_short=-0.02;rank_climb=-0.04;steam_growth=+0.00;viewer_growth_day=+0.46;viewer_growth_short=+0.84,2075800
+2026-08-28T18,26936,Music,False,55,6131,98,0.0923,0.5960740503949425,0.2526901207158798,0.0,,1.197,channel_growth_day=-0.01;channel_growth_short=+0.00;rank_climb=-0.24;viewer_growth_day=+0.25;viewer_growth_short=+1.19,
+2026-08-28T18,464339927,ARC Raiders,True,57,6604,97,0.1679,0.5707312430727841,0.3352313351439015,-0.030459207484708574,,1.176,channel_growth_day=-0.02;channel_growth_short=-0.05;rank_climb=-0.24;steam_growth=+0.00;viewer_growth_day=+0.34;viewer_growth_short=+1.14,1808500
+2026-08-28T18,19619,Tibia,True,46,7367,100,0.071,0.8940743075525124,-0.11936542177222206,0.0,,1.109,channel_growth_day=+0.00;channel_growth_short=+0.00;rank_climb=-0.56;viewer_growth_day=-0.12;viewer_growth_short=+1.79,
+2026-08-28T18,1832841853,Mortal Shell II,True,59,5877,100,0.1385,0.23160188701694803,0.3493849226733315,0.0,,1.035,channel_growth_day=+0.02;channel_growth_short=+0.00;rank_climb=+0.20;steam_growth=+0.00;viewer_growth_day=+0.35;viewer_growth_short=+0.46,2584270
+2026-08-28T18,509660,Art,False,39,7553,99,0.0827,0.3290853147581381,0.3301898804079969,-0.01005033585350145,,0.908,channel_growth_day=+0.05;channel_growth_short=-0.02;rank_climb=-0.12;viewer_growth_day=+0.33;viewer_growth_short=+0.66,
+2026-08-28T18,570615518,Resonance: A Plague Tale Legacy,True,28,22664,100,0.293,0.45195360792684225,-0.38119966041765696,0.010050335853501506,IGNITION:elajjaz,0.905,channel_growth_day=+0.01;channel_growth_short=+0.02;ignition=+1.00;rank_climb=-0.64;viewer_growth_day=-0.38;viewer_growth_short=+0.90,2713000
+2026-08-28T18,500188,Hunt: Showdown 1896,True,86,3641,100,0.0931,0.3593071964260341,0.2817489620801596,0.010050335853501506,,0.903,channel_growth_day=+0.01;channel_growth_short=+0.02;rank_climb=-0.12;steam_growth=+0.00;viewer_growth_day=+0.28;viewer_growth_short=+0.72,594650
+2026-08-28T18,1036710512,Palworld,True,62,5551,100,0.285,0.2401308335802721,0.3214531808374976,0.0,,0.657,channel_growth_day=+0.02;channel_growth_short=+0.00;rank_climb=-0.16;steam_growth=+0.00;viewer_growth_day=+0.32;viewer_growth_short=+0.48,1623730
+2026-08-28T18,27471,Minecraft,True,14,29102,95,0.1033,0.5427243433461819,-0.15458256471701887,0.010582109330537008,,0.636,channel_growth_day=-0.03;channel_growth_short=+0.02;rank_climb=-0.28;viewer_growth_day=-0.15;viewer_growth_short=+1.09,
+2026-08-28T18,504463,Tom Clancy's The Division 2,True,74,4996,99,0.1986,0.5758090441412246,-0.02471214021708202,0.0,,0.607,channel_growth_day=+0.00;channel_growth_short=+0.00;rank_climb=-0.52;viewer_growth_day=-0.02;viewer_growth_short=+1.15,2221490
+2026-08-28T18,138585,Hearthstone,True,58,7394,100,0.1662,0.007875125560276454,0.031042184841810764,0.40047756659712536,BREADTH,0.598,breadth_bonus=+0.50;channel_growth_day=+0.13;channel_growth_short=+0.60;rank_climb=-0.68;viewer_growth_day=+0.03;viewer_growth_short=+0.02,
+2026-08-28T18,29452,Virtual Casino,True,54,8127,29,0.1464,-0.04569750222267956,0.37117603462953225,0.07145896398214505,,0.417,channel_growth_day=-0.05;channel_growth_short=+0.11;rank_climb=+0.08;viewer_growth_day=+0.37;viewer_growth_short=-0.09,
+2026-08-28T18,66082,Games + Demos,False,69,2703,100,0.1191,0.42791273978032274,-0.36095728952614947,0.0,,0.335,channel_growth_day=+0.00;channel_growth_short=+0.00;rank_climb=-0.16;viewer_growth_day=-0.36;viewer_growth_short=+0.86,
+2026-08-28T18,1702520304,Path of Exile 2,True,44,10006,99,0.2399,0.030852863242988603,-0.2774106326830823,0.29105475693042027,BREADTH,0.088,breadth_bonus=+0.50;channel_growth_day=+0.05;channel_growth_short=+0.44;rank_climb=-0.68;steam_growth=+0.00;viewer_growth_day=-0.28;viewer_growth_short=+0.06,2694490
+2026-08-28T18,491931,Escape from Tarkov,True,12,56192,98,0.259,0.06872342357392389,0.1398767339862427,-0.010152371464017962,,0.013,channel_growth_day=+0.03;channel_growth_short=-0.02;rank_climb=-0.28;steam_growth=+0.00;viewer_growth_day=+0.14;viewer_growth_short=+0.14,3932890
+2026-08-28T18,13332,Pokémon FireRed/LeafGreen,False,85,4652,100,0.2784,0.05637474445774497,-0.17108062563258603,0.3566749439387324,BREADTH,-0.128,breadth_bonus=+0.50;channel_growth_day=+0.02;channel_growth_short=+0.54;rank_climb=-1.12;viewer_growth_day=-0.17;viewer_growth_short=+0.11,
+2026-08-28T18,460630,Rainbow Six Siege,True,71,3810,93,0.1291,0.9743759298397546,-0.5147549019058802,-0.07257069283483537,,-0.162,channel_growth_day=-0.05;channel_growth_short=-0.11;rank_climb=-1.44;steam_growth=+0.00;viewer_growth_day=-0.51;viewer_growth_short=+1.95,359550
+2026-08-28T18,272263131,"Animals, Aquariums, and Zoos",False,90,3941,100,0.0756,0.11439497295023848,0.05905582004314414,0.0,,-0.312,channel_growth_day=+0.00;channel_growth_short=+0.00;rank_climb=-0.60;viewer_growth_day=+0.06;viewer_growth_short=+0.23,
+2026-08-28T18,499973,Always On,False,37,13422,100,0.1613,0.11817426103513348,-0.07959558045839657,0.0,,-0.363,channel_growth_day=+0.00;channel_growth_short=+0.00;rank_climb=-0.52;viewer_growth_day=-0.08;viewer_growth_short=+0.24,
+2026-08-28T18,24241,FINAL FANTASY XIV ONLINE,True,68,4473,99,0.1095,0.2870116064528132,-0.1339225524182838,-0.01005033585350145,,-0.703,channel_growth_day=-0.01;channel_growth_short=-0.02;rank_climb=-1.12;viewer_growth_day=-0.13;viewer_growth_short=+0.57,262341
+2026-08-28T18,27284,Retro,False,52,7812,100,0.1094,0.012364917970949935,-0.0724516381290576,0.0,,-0.768,channel_growth_day=+0.00;channel_growth_short=+0.00;rank_climb=-0.72;viewer_growth_day=-0.07;viewer_growth_short=+0.02,
+2026-08-28T18,491487,Dead by Daylight,True,24,14457,97,0.1188,-0.06513494004876412,-0.15364659524898502,-0.030459207484708574,,-0.777,channel_growth_day=-0.01;channel_growth_short=-0.05;rank_climb=-0.44;steam_growth=+0.00;viewer_growth_day=-0.15;viewer_growth_short=-0.13,381210
+2026-08-28T18,499003,VRChat,True,73,5244,100,0.2584,0.1507874123868665,-0.17004204716389293,0.0,,-0.781,channel_growth_day=+0.01;channel_growth_short=+0.00;rank_climb=-0.92;steam_growth=+0.00;viewer_growth_day=-0.17;viewer_growth_short=+0.30,438100
+2026-08-28T18,1441208453,Once Human,True,78,3860,100,0.1925,-0.11374495690710315,0.020149837825847224,0.0,,-0.847,channel_growth_day=+0.00;channel_growth_short=+0.00;rank_climb=-0.64;steam_growth=+0.00;viewer_growth_day=+0.02;viewer_growth_short=-0.23,2139460
+2026-08-28T18,602040818,NBA 2K27,True,22,21903,99,0.2733,-0.6144561134531963,-0.15060280433873552,0.010152371464017908,IGNITION:flight23white,-0.884,channel_growth_day=+0.00;channel_growth_short=+0.02;ignition=+1.00;rank_climb=-0.52;viewer_growth_day=-0.15;viewer_growth_short=-1.23,4356430
+2026-08-28T18,1264310518,Marvel Rivals,True,34,10663,98,0.0916,-0.10841315256431874,-0.21487538356122013,0.010256500167189061,,-1.111,channel_growth_day=-0.02;channel_growth_short=+0.02;rank_climb=-0.68;steam_growth=+0.00;viewer_growth_day=-0.21;viewer_growth_short=-0.22,2767030
+2026-08-28T18,511399,Super Mario Maker 2,True,93,3970,13,0.9159,-1.2955894298790138,,0.36772478012531734,ENTRY,-1.29,channel_growth_short=+0.55;entry_day=+0.75;viewer_growth_short=-2.59,
+2026-08-28T18,1898040946,How to Fish,True,48,7953,99,0.2327,1.0396532420265798,-1.933983949260139,-0.01005033585350145,,-1.677,channel_growth_day=-0.01;channel_growth_short=-0.02;rank_climb=-1.80;steam_growth=+0.00;viewer_growth_day=-1.93;viewer_growth_short=+2.08,4001890
+2026-08-28T18,509659,ASMR,False,51,8855,100,0.1663,-0.3840440063452347,-0.23920806383351217,0.0,,-1.849,channel_growth_day=+0.04;channel_growth_short=+0.00;rank_climb=-0.88;viewer_growth_day=-0.24;viewer_growth_short=-0.77,
+2026-08-28T18,2132205352,Deadlock,True,64,6110,100,0.247,-0.3483259489206218,-0.29420738108670347,0.0408219945202552,,-2.01,channel_growth_day=+0.00;channel_growth_short=+0.06;rank_climb=-1.08;steam_growth=+0.00;viewer_growth_day=-0.29;viewer_growth_short=-0.70,1422450
+2026-08-28T18,493959,Red Dead Redemption II,True,67,5058,97,0.3434,-0.4143878808618736,-0.5780296284897019,-0.020408871631207123,,-2.805,channel_growth_day=-0.01;channel_growth_short=-0.03;rank_climb=-1.36;steam_growth=+0.00;viewer_growth_day=-0.58;viewer_growth_short=-0.83,1174180
