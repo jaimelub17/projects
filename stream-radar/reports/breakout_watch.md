@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-08-28T18` (UTC). History: 3 snapshots spanning 17h.
-Reference windows: short = `2026-08-28T05`, day = `2026-08-28T01`.
+Generated from snapshot `2026-08-29T02` (UTC). History: 4 snapshots spanning 25h.
+Reference windows: short = `2026-08-28T18`, day = `2026-08-28T01`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Pokémon GO | +13.91 | 9 | 80,397 | +2714% | +2723% | 57 | +46% | 0.7983 |  |
-| 2 | Call of Duty: Modern Warfare 4 | +13.23 | 4 | 98,448 | +5207% | +1582% | 99 | +34% | 0.1119 |  |
-| 3 | World of Tanks | +9.60 | 20 | 28,948 | +741% | +864% | 100 | +20% | 0.313 |  |
-| 4 | Grand Theft Auto VI | +9.57 | 16 | 41,514 | +3264% | +296% | 100 | +47% | 0.6677 |  |
-| 5 | ROBLOX | +9.01 | 15 | 38,302 | +1052% | +1108% | 100 | +8% | 0.6082 |  |
-| 6 | Street Fighter 6 | +6.85 | 38 | 13,267 | +216% | +371% | 100 | +0% | 0.7464 | IGNITION:indegnasen0706 |
-| 7 | Counter-Strike | +5.99 | 3 | 128,914 | +744% | +312% | 99 | +1% | 0.1795 |  |
-| 8 | ELDEN RING | +5.99 | 25 | 24,245 | +610% | +146% | 97 | -3% | 0.233 | IGNITION:nmplol |
-| 9 | Dota 2 | +5.36 | 6 | 96,700 | +449% | +335% | 100 | +0% | 0.5281 |  |
-| 10 | Hero Siege | +5.21 | 63 | 6,737 | +364% | +49% | 100 | +133% | 0.2748 |  |
-| 11 | Genshin Impact | +4.85 | 47 | 8,419 | +464% | +88% | 100 | +0% | 0.4824 |  |
-| 12 | League of Legends | +4.81 | 2 | 149,948 | +374% | +336% | 98 | +2% | 0.2782 |  |
-| 13 | Crypto | +4.72 | 42 | 11,422 | +301% | +138% | 100 | +5% | 0.2174 |  |
-| 14 | PEAK | +4.62 | 45 | 9,185 | +376% | +60% | 100 | +2% | 0.613 | IGNITION:frametamer666 |
-| 15 | Rocket League | +4.13 | 30 | 19,678 | +675% | -33% | 100 | +1% | 0.6172 | IGNITION:peereira7 |
+| 1 | Street Fighter 6 | +5.27 | 23 | 13,733 | +4% | +388% | 100 | +0% | 0.3513 | IGNITION:ren_kisaragi__ |
+| 2 | VRChat | +5.23 | 22 | 15,488 | +195% | +149% | 100 | +0% | 0.4328 | IGNITION:vrchat |
+| 3 | Call of Duty: Modern Warfare 4 | +3.76 | 3 | 71,224 | -28% | +1117% | 92 | -7% | 0.722 |  |
+| 4 | Snowed Under | +3.25 | 29 | 11,265 | - | - | 2 | - | 0.9995 | ENTRY IGNITION:gronkh |
+| 5 | Bills Must Be Paid | +3.25 | 40 | 7,991 | - | - | 8 | - | 0.997 | ENTRY IGNITION:rivers_gg |
+| 6 | Halo 2 | +3.25 | 55 | 6,332 | - | - | 3 | - | 0.6841 | ENTRY IGNITION:cdawg |
+| 7 | Zenless Zone Zero | +2.35 | 74 | 3,695 | - | - | 98 | - | 0.5383 | ENTRY |
+| 8 | ELDEN RING NIGHTREIGN | +2.27 | 91 | 2,602 | - | - | 99 | - | 0.4108 | ENTRY |
+| 9 | HELLDIVERS 2 | +2.27 | 88 | 1,871 | - | - | 100 | - | 0.1085 | ENTRY |
+| 10 | Dragon Ball Z: Dokkan Battle | +2.25 | 28 | 11,303 | - | - | 96 | - | 0.3037 | ENTRY |
+| 11 | Waterpark Simulator | +2.25 | 97 | 2,265 | - | - | 100 | - | 0.2905 | ENTRY |
+| 12 | The Legend of Zelda: Majora's Mask | +2.25 | 99 | 2,233 | - | - | 36 | - | 0.7694 | ENTRY |
+| 13 | Demon's Souls | +2.25 | 77 | 3,654 | - | - | 8 | - | 0.9762 | ENTRY |
+| 14 | Phasmophobia | +2.03 | 78 | 2,671 | - | +22% | 100 | - | 0.2782 | ENTRY |
+| 15 | Darkest Dungeon | +2.02 | 25 | 12,966 | - | -21% | 22 | - | 0.9803 | ENTRY IGNITION:moonmoon |
 
 ## Ignition alerts
 
@@ -30,31 +30,28 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Pokémon Trading Card Game | pokemontcg | 17,755 | 17,755 | 86% | 31 |
-| Rust | fps_shaka | 14,656 | 14,656 | 63% | 29 |
-| Rocket League | peereira7 | 12,146 | 12,146 | 62% | 30 |
-| SILENT HILL 2 | zarbex | 11,743 | 11,743 | 96% | 40 |
-| Street Fighter 6 | indegnasen0706 | 12,903 | 9,902 | 75% | 38 |
-| MARVEL Contest of Champions | pepe | 8,029 | 8,029 | 55% | 36 |
-| Pokémon UNITE | pokemonunite | 7,375 | 7,375 | 66% | 43 |
-| SIGame | sleduck | 6,120 | 6,120 | 68% | 49 |
-| PEAK | frametamer666 | 5,630 | 5,630 | 61% | 45 |
-| Dispatch | h2p_gucio | 5,290 | 5,290 | 98% | 72 |
+| Darkest Dungeon | moonmoon | 13,957 | 12,710 | 98% | 25 |
+| Pokémon Trading Card Game | pokemontcg | 17,755 | 11,474 | 83% | 24 |
+| Snowed Under | gronkh | 27,718 | 11,259 | 100% | 29 |
+| Bills Must Be Paid | rivers_gg | 7,967 | 7,967 | 100% | 40 |
+| Cyberpunk 2077 | jltomy | 6,145 | 4,843 | 90% | 60 |
+| Pokémon UNITE | pokemonunite | 7,375 | 4,746 | 77% | 54 |
+| Halo 2 | cdawg | 5,043 | 4,332 | 68% | 55 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 1.475 | Escape from Tarkov | 56,192 | 38,097 |
-| 0.846 | ELDEN RING | 24,245 | 28,651 |
-| 0.771 | Rocket League | 19,678 | 25,527 |
-| 0.503 | Path of Exile 2 | 10,006 | 19,879 |
-| 0.502 | Grand Theft Auto V | 41,260 | 82,145 |
-| 0.048 | Rainbow Six Siege | 3,810 | 80,039 |
-| 0.043 | Delta Force | 4,730 | 110,318 |
-| 0.034 | Palworld | 5,551 | 162,853 |
-| 0.021 | How to Fish | 7,953 | 372,462 |
-| 0.008 | PUBG: BATTLEGROUNDS | 6,044 | 735,831 |
+| 0.454 | Grand Theft Auto V | 40,623 | 89,493 |
+| 0.383 | Street Fighter 6 | 13,733 | 35,830 |
+| 0.36 | Escape from Tarkov | 13,907 | 38,610 |
+| 0.328 | Zenless Zone Zero | 3,695 | 11,268 |
+| 0.273 | Dead by Daylight | 19,903 | 73,035 |
+| 0.024 | Delta Force | 2,714 | 112,831 |
+| 0.021 | Dota 2 | 19,663 | 917,705 |
+| 0.017 | How to Fish | 5,054 | 288,978 |
+| 0.016 | Counter-Strike | 20,189 | 1,251,152 |
+| 0.004 | PUBG: BATTLEGROUNDS | 3,019 | 736,109 |
 
 ---
 
