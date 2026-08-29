@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-08-29T16` (UTC). History: 6 snapshots spanning 39h.
-Reference windows: short = `2026-08-29T11`, day = `2026-08-28T18`.
+Generated from snapshot `2026-08-29T20` (UTC). History: 7 snapshots spanning 43h.
+Reference windows: short = `2026-08-29T16`, day = `2026-08-28T18`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Super Mario Maker 2 | +6.71 | 29 | 14,940 | - | +276% | 20 | - | 0.7138 | ENTRY IGNITION:batora324 |
-| 2 | Pokémon UNITE | +5.43 | 47 | 9,184 | +307% | -18% | 71 | +274% | 0.5552 | IGNITION:pokemonunite |
-| 3 | Pokémon Trading Card Game | +5.32 | 22 | 19,196 | +376% | -7% | 61 | +135% | 0.8683 | IGNITION:pokemontcg |
-| 4 | Pokémon Champions | +3.78 | 9 | 75,640 | +350% | -35% | 100 | +150% | 0.5371 |  |
-| 5 | Virtual Casino | +3.77 | 32 | 12,611 | +37% | +55% | 35 | +119% | 0.1697 | BREADTH |
-| 6 | FINAL FANTASY XVI | +3.60 | 35 | 11,454 | +10% | - | 26 | +117% | 0.9899 | BREADTH ENTRY IGNITION:indegnasen0706 |
-| 7 | War Thunder | +3.25 | 44 | 9,488 | - | - | 100 | - | 0.6068 | ENTRY IGNITION:warthunder_esports |
-| 8 | Rainbow Six Siege | +3.25 | 57 | 5,606 | +191% | +47% | 98 | +9% | 0.3027 |  |
-| 9 | EVE Online | +3.25 | 59 | 7,055 | - | - | 23 | - | 0.859 | ENTRY IGNITION:fenriscreations |
-| 10 | Golf With Your Friends | +3.25 | 66 | 5,821 | - | - | 20 | - | 0.8296 | ENTRY IGNITION:xthesolutiontv |
-| 11 | House 2 | +3.25 | 40 | 10,600 | - | - | 7 | - | 0.798 | ENTRY IGNITION:elajjaz |
-| 12 | Metal Gear Solid 4: Guns of the Patriots | +3.25 | 64 | 6,133 | - | - | 68 | - | 0.8691 | ENTRY IGNITION:forsen |
-| 13 | Grand Theft Auto: San Andreas | +2.87 | 78 | 4,688 | +56% | - | 65 | +62% | 0.8385 | BREADTH ENTRY |
-| 14 | ARC Raiders | +2.66 | 49 | 7,709 | +191% | +17% | 100 | +0% | 0.2354 |  |
-| 15 | Once Human | +2.50 | 65 | 5,026 | +132% | +30% | 100 | +0% | 0.1916 |  |
+| 1 | Overwatch | +5.31 | 7 | 69,565 | +356% | +290% | 97 | +4% | 0.6937 |  |
+| 2 | How to Fish | +4.33 | 31 | 17,098 | +176% | +115% | 99 | -1% | 0.4316 | IGNITION:edison |
+| 3 | Among Us | +4.25 | 27 | 20,932 | - | - | 15 | - | 0.7183 | ENTRY IGNITION:yourragegaming,fanum |
+| 4 | Bodycam | +4.25 | 26 | 21,428 | - | - | 76 | - | 0.543 | ENTRY IGNITION:hutchmf,cloakzy |
+| 5 | Apex Legends | +4.11 | 11 | 51,468 | +408% | +77% | 98 | +1% | 0.1903 |  |
+| 6 | Project Zomboid | +3.67 | 29 | 17,200 | +68% | +124% | 99 | -1% | 0.4516 | IGNITION:quin69 |
+| 7 | Left 4 Dead 2 | +3.26 | 36 | 13,915 | - | - | 67 | - | 0.9127 | ENTRY IGNITION:joe_bartolozzi |
+| 8 | Granny 3 | +3.25 | 40 | 12,004 | - | - | 1 | - | 1.0 | ENTRY IGNITION:deepins02 |
+| 9 | The Elder Scrolls V: Skyrim | +3.25 | 81 | 5,217 | - | - | 99 | - | 0.9387 | ENTRY IGNITION:vedal987 |
+| 10 | Darkest Dungeon | +3.25 | 41 | 11,305 | - | - | 37 | - | 0.9018 | ENTRY IGNITION:sodapoppin |
+| 11 | Arma Reforger | +3.25 | 39 | 12,121 | - | - | 97 | - | 0.9335 | ENTRY IGNITION:lirik |
+| 12 | StarRupture | +3.25 | 35 | 15,263 | - | - | 17 | - | 0.8359 | ENTRY IGNITION:trymacs |
+| 13 | Planet Zoo | +3.25 | 66 | 6,228 | - | - | 13 | - | 0.9823 | ENTRY IGNITION:squeex |
+| 14 | nanos world | +3.25 | 51 | 8,135 | - | - | 51 | - | 0.6842 | ENTRY IGNITION:mehditdonc |
+| 15 | House 2 | +3.25 | 37 | 13,361 | +26% | - | 10 | +43% | 0.5767 | BREADTH ENTRY IGNITION:elajjaz |
 
 ## Ignition alerts
 
@@ -30,31 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Pokémon Trading Card Game | pokemontcg | 17,755 | 16,667 | 87% | 22 |
-| FINAL FANTASY XVI | indegnasen0706 | 12,903 | 11,338 | 99% | 35 |
-| Super Mario Maker 2 | batora324 | 10,664 | 10,664 | 71% | 29 |
-| House 2 | elajjaz | 8,459 | 8,459 | 80% | 40 |
-| EVE Online | fenriscreations | 6,060 | 6,060 | 86% | 59 |
-| War Thunder | warthunder_esports | 5,757 | 5,757 | 61% | 44 |
-| Metal Gear Solid 4: Guns of the Patriots | forsen | 5,330 | 5,330 | 87% | 64 |
-| Pokémon UNITE | pokemonunite | 7,375 | 5,099 | 56% | 47 |
-| Halo 2 | cdawg | 5,348 | 5,068 | 76% | 62 |
-| Golf With Your Friends | xthesolutiontv | 4,829 | 4,829 | 83% | 66 |
+| Pokémon Trading Card Game | pokemontcg | 20,087 | 20,087 | 86% | 25 |
+| Among Us | yourragegaming | 17,859 | 15,035 | 72% | 27 |
+| StarRupture | trymacs | 12,758 | 12,758 | 84% | 35 |
+| Left 4 Dead 2 | joe_bartolozzi | 12,700 | 12,700 | 91% | 36 |
+| Granny 3 | deepins02 | 12,004 | 12,004 | 100% | 40 |
+| Bodycam | hutchmf | 11,636 | 11,636 | 54% | 26 |
+| Arma Reforger | lirik | 11,315 | 11,315 | 93% | 39 |
+| Darkest Dungeon | sodapoppin | 10,195 | 10,195 | 90% | 41 |
+| House 2 | elajjaz | 8,459 | 7,705 | 58% | 37 |
+| Planet Zoo | squeex | 6,118 | 6,118 | 98% | 66 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 1.544 | Escape from Tarkov | 59,630 | 38,610 |
-| 0.885 | Grand Theft Auto V | 79,210 | 89,493 |
-| 0.643 | Rust | 80,353 | 124,952 |
-| 0.436 | Path of Exile 2 | 9,408 | 21,598 |
-| 0.321 | Star Wars Zero Company | 21,803 | 67,892 |
-| 0.039 | Apex Legends | 10,135 | 258,866 |
-| 0.037 | Delta Force | 4,168 | 112,831 |
-| 0.021 | How to Fish | 6,202 | 288,978 |
-| 0.019 | Palworld | 3,269 | 168,519 |
-| 0.013 | PUBG: BATTLEGROUNDS | 9,232 | 736,109 |
+| 6.922 | Among Us | 106,768 | 15,425 |
+| 1.013 | Overwatch | 69,565 | 68,697 |
+| 0.703 | Escape from Tarkov | 27,149 | 38,610 |
+| 0.572 | Grand Theft Auto V | 51,186 | 89,493 |
+| 0.55 | Star Wars Zero Company | 37,329 | 67,892 |
+| 0.044 | Rust | 5,537 | 124,952 |
+| 0.041 | Counter-Strike | 51,543 | 1,251,152 |
+| 0.039 | Delta Force | 4,398 | 112,831 |
+| 0.031 | Palworld | 5,228 | 168,519 |
+| 0.007 | PUBG: BATTLEGROUNDS | 5,153 | 736,109 |
 
 ---
 
