@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-08-30T08` (UTC). History: 9 snapshots spanning 55h.
-Reference windows: short = `2026-08-30T00`, day = `2026-08-29T11`.
+Generated from snapshot `2026-08-30T14` (UTC). History: 10 snapshots spanning 61h.
+Reference windows: short = `2026-08-30T08`, day = `2026-08-29T16`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Rust | +6.92 | 3 | 87,599 | +2974% | +4% | 99 | +0% | 0.3315 |  |
-| 2 | Call of Duty: Black Ops 7 | +3.25 | 45 | 5,404 | - | - | 97 | - | 0.8521 | ENTRY IGNITION:itsdkal |
-| 3 | Halo 3 | +3.25 | 36 | 6,720 | - | - | 6 | - | 0.747 | ENTRY IGNITION:cdawg |
-| 4 | Splatoon 2 | +3.25 | 21 | 14,974 | - | - | 1 | - | 1.0 | ENTRY IGNITION:gon_vl |
-| 5 | Street Fighter X Tekken | +3.25 | 42 | 6,225 | - | - | 1 | - | 1.0 | ENTRY IGNITION:maximilian_dood |
-| 6 | Wordless Forest | +3.25 | 50 | 4,598 | - | - | 1 | - | 1.0 | ENTRY IGNITION:mynthos |
-| 7 | Super Mario Maker 2 | +3.02 | 27 | 11,189 | +232% | - | 8 | -53% | 0.99 | ENTRY IGNITION:batora324 |
-| 8 | Street Fighter 6 | +2.72 | 13 | 19,593 | - | +82% | 100 | - | 0.3933 | ENTRY |
-| 9 | I'm Only Sleeping | +2.46 | 28 | 10,422 | +133% | -11% | 97 | -1% | 0.3881 | IGNITION:cinna |
-| 10 | RimWorld | +2.32 | 90 | 1,879 | - | - | 26 | - | 0.81 | ENTRY |
-| 11 | Farming Simulator 25 | +2.29 | 96 | 1,635 | - | - | 100 | - | 0.1529 | ENTRY |
-| 12 | Shadowverse: Worlds Beyond | +2.25 | 35 | 7,151 | - | - | 39 | - | 0.4809 | ENTRY |
-| 13 | Wolcen 2 | +2.25 | 67 | 3,312 | - | - | 3 | - | 0.532 | ENTRY |
-| 14 | Starbound | +2.25 | 92 | 1,829 | - | - | 2 | - | 0.994 | ENTRY |
-| 15 | No, I'm Not A Human | +2.25 | 83 | 2,075 | - | - | 5 | - | 0.9971 | ENTRY |
+| 1 | S.T.A.L.K.E.R. 2: Heart of Chornobyl | +5.81 | 29 | 12,087 | +617% | - | 98 | +2% | 0.8438 | ENTRY IGNITION:cohhcarnage |
+| 2 | Red Dead Redemption II | +5.55 | 45 | 6,985 | - | +137% | 99 | - | 0.7115 | ENTRY IGNITION:niklaswilson |
+| 3 | ELDEN RING | +5.07 | 25 | 14,257 | +341% | +56% | 99 | -1% | 0.5009 | IGNITION:nmplol |
+| 4 | Apex Legends | +4.61 | 9 | 36,539 | +281% | +261% | 99 | +3% | 0.5264 |  |
+| 5 | Project Zomboid | +4.41 | 20 | 22,560 | +325% | +120% | 98 | +1% | 0.3767 |  |
+| 6 | World of Tanks | +4.24 | 23 | 18,373 | +189% | +13% | 95 | -1% | 0.2937 | IGNITION:dakillzor,skill4ltu |
+| 7 | Genshin Impact | +3.52 | 54 | 5,653 | +316% | +18% | 98 | +0% | 0.2843 |  |
+| 8 | Grand Theft Auto V | +3.46 | 7 | 61,866 | +525% | -22% | 99 | +8% | 0.1026 |  |
+| 9 | Counter-Strike | +3.32 | 3 | 133,139 | +380% | +19% | 98 | -1% | 0.2229 |  |
+| 10 | Super Mario World | +3.25 | 68 | 5,063 | - | - | 19 | - | 0.9449 | ENTRY IGNITION:gamesdonequick |
+| 11 | Can I Take Your Order | +3.25 | 57 | 6,317 | - | - | 3 | - | 0.9441 | ENTRY IGNITION:mobilmobil |
+| 12 | The IDOLM@STER Shiny Colors: Song for Prism | +3.25 | 76 | 4,670 | - | - | 1 | - | 1.0 | ENTRY IGNITION:yuyuta0702 |
+| 13 | Worms: Ultimate Mayhem | +3.25 | 71 | 4,926 | - | - | 1 | - | 1.0 | ENTRY IGNITION:stintik |
+| 14 | Twisted Tower | +3.25 | 42 | 7,677 | - | - | 6 | - | 0.9924 | ENTRY IGNITION:elajjaz |
+| 15 | ARK: Survival Ascended | +3.25 | 32 | 10,335 | - | - | 98 | - | 0.704 | ENTRY IGNITION:k4sen |
 
 ## Ignition alerts
 
@@ -30,31 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Splatoon 2 | gon_vl | 14,974 | 14,974 | 100% | 21 |
-| Pokémon Champions | pokemon | 63,452 | 12,337 | 95% | 25 |
-| Super Mario Maker 2 | batora324 | 11,077 | 11,077 | 99% | 27 |
-| Darkest Dungeon | sodapoppin | 10,195 | 9,945 | 93% | 29 |
-| Street Fighter X Tekken | maximilian_dood | 6,225 | 6,225 | 100% | 42 |
-| Halo 3 | cdawg | 5,348 | 5,020 | 75% | 36 |
-| Call of Duty: Black Ops 7 | itsdkal | 4,605 | 4,605 | 85% | 45 |
-| Wordless Forest | mynthos | 6,006 | 4,598 | 100% | 50 |
-| Pokémon Trading Card Game | pokemontcg | 20,087 | 3,499 | 89% | 58 |
-| Pokémon UNITE | pokemonunite | 7,375 | 1,495 | 75% | 86 |
+| Pokémon GO | pokemongo | 64,181 | 16,221 | 71% | 21 |
+| S.T.A.L.K.E.R. 2: Heart of Chornobyl | cohhcarnage | 10,199 | 10,199 | 84% | 29 |
+| Twisted Tower | elajjaz | 8,459 | 7,619 | 99% | 42 |
+| ARK: Survival Ascended | k4sen | 7,276 | 7,276 | 70% | 32 |
+| ELDEN RING | nmplol | 7,141 | 7,141 | 50% | 25 |
+| Pokémon Trading Card Game | pokemontcg | 20,087 | 6,641 | 94% | 47 |
+| Can I Take Your Order | mobilmobil | 5,964 | 5,964 | 94% | 57 |
+| There Are No Ghosts at the Grand | michimochievee | 5,788 | 5,788 | 100% | 62 |
+| Red Dead Redemption II | niklaswilson | 7,835 | 4,970 | 71% | 45 |
+| Worms: Ultimate Mayhem | stintik | 4,926 | 4,926 | 100% | 71 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 0.703 | Rust | 87,599 | 124,616 |
-| 0.562 | Street Fighter 6 | 19,593 | 34,849 |
-| 0.368 | Yu-Gi-Oh! Master Duel | 6,423 | 17,434 |
-| 0.308 | Escape from Tarkov | 12,773 | 41,511 |
-| 0.23 | Star Wars Zero Company | 17,178 | 74,834 |
-| 0.029 | Delta Force | 3,329 | 114,293 |
-| 0.022 | Counter-Strike | 27,750 | 1,282,502 |
-| 0.019 | Rainbow Six Siege | 1,773 | 93,585 |
-| 0.01 | Palworld | 2,041 | 198,776 |
-| 0.003 | PUBG: BATTLEGROUNDS | 1,945 | 729,602 |
+| 0.755 | Rust | 94,032 | 124,616 |
+| 0.675 | Grand Theft Auto V | 61,866 | 91,642 |
+| 0.587 | Escape from Tarkov | 24,357 | 41,511 |
+| 0.334 | S.T.A.L.K.E.R. 2: Heart of Chornobyl | 12,087 | 36,187 |
+| 0.285 | ELDEN RING | 14,257 | 50,021 |
+| 0.04 | Dota 2 | 37,918 | 947,995 |
+| 0.034 | Delta Force | 3,872 | 114,293 |
+| 0.019 | Palworld | 3,714 | 198,776 |
+| 0.014 | How to Fish | 3,650 | 261,588 |
+| 0.011 | PUBG: BATTLEGROUNDS | 8,126 | 729,602 |
 
 ---
 
