@@ -38,33 +38,30 @@
   /* ---------- search ---------- */
   #searchWrap{
     position:fixed; top:0; left:0; right:0; z-index:1000;
-    padding:calc(env(safe-area-inset-top) + 10px) 10px 0;
-    pointer-events:none;
+    padding:calc(env(safe-area-inset-top) + 10px) 10px 0; pointer-events:none;
   }
   #searchBar{
-    pointer-events:auto;
-    display:flex; align-items:center; gap:8px; background:var(--sheet);
+    pointer-events:auto; display:flex; align-items:center; gap:8px; background:var(--sheet);
     border:1px solid var(--line); border-radius:14px; padding:9px 11px;
     box-shadow:0 4px 20px rgba(0,0,0,.18);
   }
-  #q{
-    flex:1; border:0; background:transparent; color:var(--ink);
-    font-size:16px; outline:none; min-width:0; /* 16px keeps iOS from zooming on focus */
-  }
+  #q{ flex:1; border:0; background:transparent; color:var(--ink);
+      font-size:16px; outline:none; min-width:0; }  /* 16px stops iOS zooming on focus */
   #q::placeholder{color:var(--muted)}
   .iconbtn{
     border:0; background:var(--chip); color:var(--ink); width:34px; height:34px;
     border-radius:50%; font-size:16px; cursor:pointer; flex:none; line-height:1;
     display:flex; align-items:center; justify-content:center; padding:0;
-    transition:background .15s, color .15s;
+    transition:background .15s, color .15s, box-shadow .15s;
   }
+  /* Solid = live and following. Ring = live but you panned away. Pulse = asking. */
   #locBtn.live{background:var(--live); color:#fff}
+  #locBtn.live-idle{background:var(--chip); color:var(--live); box-shadow:inset 0 0 0 1.5px var(--live)}
   #locBtn.asking{background:var(--chip); color:var(--live); animation:pulse 1.1s infinite}
-  #locBtn.denied{background:var(--chip); color:var(--bad)}
+  #locBtn.denied{background:var(--chip); color:var(--bad); box-shadow:inset 0 0 0 1.5px var(--bad)}
   @keyframes pulse{50%{opacity:.42}}
   #results{
-    pointer-events:auto;
-    margin-top:6px; background:var(--sheet); border:1px solid var(--line);
+    pointer-events:auto; margin-top:6px; background:var(--sheet); border:1px solid var(--line);
     border-radius:14px; box-shadow:0 4px 20px rgba(0,0,0,.18);
     max-height:52vh; overflow-y:auto; -webkit-overflow-scrolling:touch; display:none;
   }
@@ -81,13 +78,12 @@
     position:fixed; left:0; right:0; bottom:0; z-index:1000;
     background:var(--sheet); border-top:1px solid var(--line);
     border-radius:18px 18px 0 0; box-shadow:var(--shadow);
-    padding:0 14px calc(env(safe-area-inset-bottom) + 16px);
-    max-height:74vh; overflow-y:auto; -webkit-overflow-scrolling:touch;
+    padding:0 14px; max-height:58vh; overflow-y:auto; -webkit-overflow-scrolling:touch;
     overscroll-behavior:contain;
     transform:translateY(101%); transition:transform .26s cubic-bezier(.32,.72,0,1);
     will-change:transform;
   }
-  @supports (max-height:100dvh){ #sheet{max-height:74dvh} }
+  @supports (max-height:100dvh){ #sheet{max-height:58dvh} }
   #sheet.on{transform:none}
   body.searching #sheet{transform:translateY(101%)}
   #gripWrap{
@@ -96,7 +92,6 @@
   }
   #grip{width:38px;height:4px;border-radius:2px;background:var(--line);margin:0 auto}
 
-  /* collapsed peek bar, so a dismissed sheet is one tap from coming back */
   #peek{
     position:fixed; left:10px; right:10px; z-index:999;
     bottom:calc(env(safe-area-inset-bottom) + 12px);
@@ -109,16 +104,17 @@
   #peek b{font-size:14.5px; font-weight:650; display:block}
   #peek .meta{font-size:12.5px}
 
-  h2{font-size:17px;margin:0 0 2px}
-  .sub{color:var(--muted); font-size:13px; margin:0 0 12px}
-
-  #modes{display:flex; gap:5px; background:var(--chip); border-radius:11px; padding:3px; margin-bottom:12px}
-  #modes button{
-    flex:1; border:0; background:transparent; color:var(--muted); cursor:pointer;
-    font:inherit; font-size:13.5px; font-weight:650; padding:8px 6px; border-radius:9px;
-    transition:background .15s, color .15s;
+  /* ---------- step rail ---------- */
+  #rail{display:flex; gap:5px; margin:0 0 12px}
+  #rail div{
+    flex:1; text-align:center; font-size:11.5px; font-weight:700; color:var(--muted);
+    padding:7px 4px; border-radius:8px; background:var(--chip); letter-spacing:.02em;
   }
-  #modes button.on{background:var(--sheet); color:var(--ink); box-shadow:0 1px 5px rgba(0,0,0,.2)}
+  #rail div.on{background:var(--accent); color:var(--accent-ink)}
+  #rail div.done{color:var(--ink); cursor:pointer}
+
+  h2{font-size:19px;margin:0 0 3px; letter-spacing:-.01em}
+  .sub{color:var(--muted); font-size:13.5px; margin:0 0 12px}
 
   .card{border:1px solid var(--line); border-radius:14px; padding:12px; margin-bottom:10px}
   .card.primary{border-color:var(--accent); border-width:2px}
@@ -128,33 +124,44 @@
     display:flex; justify-content:space-between; gap:8px; align-items:center;
   }
   .lbl .undo{
-    text-transform:none; letter-spacing:0; font-size:12px; font-weight:650;
+    text-transform:none; letter-spacing:0; font-size:12.5px; font-weight:650;
     color:var(--accent); cursor:pointer; flex:none;
   }
   .name{font-size:16.5px; font-weight:650; margin-bottom:4px}
   .meta{font-size:13px; color:var(--muted)}
   .stat{font-weight:700}
   .good{color:var(--good)} .warn{color:var(--warn)} .bad{color:var(--bad)}
-  .live{color:var(--live); font-weight:650}
-  .row{display:flex; gap:8px; margin-top:11px; flex-wrap:wrap}
-  .btn{
-    flex:1 1 auto; text-align:center; text-decoration:none; padding:11px 12px;
-    border-radius:11px; font-weight:650; font-size:14px;
-    background:var(--chip); color:var(--ink); border:0; cursor:pointer;
-  }
-  .btn:active{opacity:.7}
-  .btn.go{background:var(--accent); color:var(--accent-ink)}
+  .tiny{font-size:12.5px; color:var(--accent); font-weight:650; cursor:pointer;
+        display:inline-block; margin-top:9px; text-decoration:none}
   details{margin:0 0 10px}
-  summary{cursor:pointer; color:var(--muted); font-size:13px; padding:7px 0; list-style:none}
+  summary{cursor:pointer; color:var(--muted); font-size:13px; padding:8px 0; list-style:none}
   summary::-webkit-details-marker{display:none}
   summary::after{content:' ›'; display:inline-block; transform:rotate(90deg); opacity:.6}
+  summary.warn{color:var(--warn); font-weight:650}
   .alt{
     display:flex; justify-content:space-between; gap:10px; align-items:center;
     padding:10px 0; border-top:1px solid var(--line); font-size:14px; cursor:pointer;
   }
   .alt:active{opacity:.6}
   .alt .meta{font-size:12px}
-  #foot{color:var(--muted); font-size:11.5px; margin:12px 0 0; text-align:center}
+
+  /* The primary action never moves: same place on screen at every step. */
+  #stepAction{
+    position:sticky; bottom:0; background:var(--sheet); margin:0 -14px;
+    padding:8px 14px calc(env(safe-area-inset-bottom) + 10px); z-index:2;
+  }
+  #stepAction .btn{width:100%; min-height:50px; font-size:15.5px}
+  .btn{
+    display:flex; align-items:center; justify-content:center; text-align:center;
+    text-decoration:none; padding:11px 12px; border-radius:12px;
+    font-weight:650; font-size:14px; font-family:inherit;
+    background:var(--chip); color:var(--ink); border:0; cursor:pointer;
+  }
+  .btn:active{opacity:.7}
+  .btn.go{background:var(--accent); color:var(--accent-ink)}
+  .btn.armed{animation:armed 1.2s ease-out 1}
+  @keyframes armed{0%{transform:scale(1)}35%{transform:scale(1.035)}100%{transform:scale(1)}}
+  #foot{color:var(--muted); font-size:11.5px; margin:2px 0 0; text-align:center; cursor:pointer}
 
   /* ---------- map markers ---------- */
   .pin{
@@ -162,21 +169,34 @@
     border-radius:50%; font-size:13px; font-weight:700; color:#fff;
     border:2px solid #fff; box-shadow:0 1px 7px rgba(0,0,0,.45);
   }
+  .pin-bike{background:var(--accent); width:34px; height:34px; font-size:15px}
   .pin-park{background:var(--accent); width:34px; height:34px; font-size:15px}
-  .pin-start{background:#0a7c46; width:30px; height:30px}
   .pin-dest{background:#1b2330; width:28px; height:28px}
+  .pin-dest.big{width:34px; height:34px; font-size:15px}
+  .pin-done{background:var(--muted); width:22px; height:22px; opacity:.75; border-width:1.5px; font-size:11px}
   .pin-alt{background:var(--sheet); color:var(--ink); width:25px; height:25px;
            font-size:11.5px; border-color:var(--accent)}
   .pin-me{
     width:18px; height:18px; border-radius:50%; background:var(--live);
     border:2.5px solid #fff; box-shadow:0 0 0 1px rgba(0,0,0,.18), 0 2px 6px rgba(0,0,0,.4);
   }
+  /* Toast sits above the sheet, never over the blue dot in the map centre. */
   #toast{
-    position:fixed; left:50%; top:50%; transform:translate(-50%,-50%); z-index:1200;
+    position:fixed; left:50%; bottom:calc(env(safe-area-inset-bottom) + 96px);
+    transform:translateX(-50%); z-index:1200;
     background:rgba(20,22,28,.94); color:#fff; padding:12px 16px; border-radius:12px;
-    font-size:14px; display:none; max-width:78vw; text-align:center; line-height:1.4;
+    font-size:14px; display:none; max-width:82vw; text-align:center; line-height:1.4;
   }
   #toast.on{display:block}
+  #diag{
+    position:fixed; inset:auto 10px calc(env(safe-area-inset-bottom) + 10px) 10px; z-index:1300;
+    background:var(--sheet); border:1px solid var(--line); border-radius:14px;
+    padding:14px; box-shadow:var(--shadow); display:none;
+    font:12.5px/1.5 ui-monospace,SFMono-Regular,Menlo,monospace; max-height:70vh; overflow:auto;
+  }
+  #diag.on{display:block}
+  #diag h3{margin:0 0 8px; font:700 14px/1.3 -apple-system,system-ui,sans-serif}
+  #diag b{color:var(--accent)}
 </style>
 </head>
 <body>
@@ -198,45 +218,56 @@
 <div id="sheet">
   <div id="gripWrap"><div id="grip"></div></div>
   <div id="sheetBody"></div>
+  <div id="stepAction"></div>
   <div id="foot"></div>
 </div>
 
 <div id="toast"></div>
+<div id="diag"></div>
 
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
         integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
 <script>
 /* ============================================================
-   Dock Finder — the Bay Wheels rack with a free dock nearest
-   wherever you're going.
-   Data: Lyft GBFS. Geocode: Photon / Nominatim. Route: OSRM.
+   Dock Finder — one leg at a time:
+     1. walk to a bike   2. ride to a rack with room   3. walk to your door
+   Data: Lyft GBFS. Geocode: Photon / Nominatim. Routes: OSRM.
    ============================================================ */
 
 var GBFS_INFO   = 'https://gbfs.lyft.com/gbfs/1.1/bay/en/station_information.json';
 var GBFS_STATUS = 'https://gbfs.lyft.com/gbfs/1.1/bay/en/station_status.json';
-var OSRM        = 'https://routing.openstreetmap.de/routed-bike/route/v1/bike/';
-var BBOX        = [-122.65, 37.20, -121.70, 38.15];  // Bay Area, lon/lat
+var GBFS_FREE   = 'https://gbfs.lyft.com/gbfs/2.3/bay/en/free_bike_status.json';
+var GBFS_FREE_V1= 'https://gbfs.lyft.com/gbfs/1.1/bay/en/free_bike_status.json';
+var OSRM_BIKE   = 'https://routing.openstreetmap.de/routed-bike/route/v1/bike/';
+var OSRM_FOOT   = 'https://routing.openstreetmap.de/routed-foot/route/v1/foot/';
+var BBOX        = [-122.65, 37.20, -121.70, 38.15];
 var REFRESH_MS  = 60000;   // GBFS ttl is 60s
 var WALK_MPM    = 80;      // metres walked per minute
-var TIE_M       = 150;     // racks this close to each other count as the same spot
-var REPLAN_M    = 70;      // move this far and the plan is recomputed
-var REPLAN_MS   = 25000;   // ...or this long since the last one, whichever first
+var TIE_M       = 150;     // racks this close count as the same spot
+var REPLAN_M    = 70;      // move this far and targets are recomputed
+var REPLAN_MS   = 25000;
+var STALE_S     = 300;     // classic stations report every ~2 min; 5 min means dead
+var MAX_AGE_S   = 1800;    // never auto-pick a rack whose data is older than this
+var PICKUP_MAX_M  = 800;   // beyond a 10 min walk, call it "no bike nearby"
+var DROPOFF_MAX_M = 600;
+var ARRIVE_M    = 40;
+var GPS_TRUST_M = 40;      // don't act on a fix vaguer than this
+var STEP_DWELL  = 10000;
 
-var map, stations = new Map(), statusAt = 0;
-var me = null, dest = null, plan = null;
-var mode = 'riding';       // 'riding' = already on a bike | 'need' = still need one
-var pinnedParkId = null;   // a rack you chose by hand; survives auto-refresh
-var follow = true;         // keep the map centred on you until you pan away
-var watchId = null, geoState = 'off';   // off | asking | live | denied
-var geoErrShown = false, coarseTried = false;
+var map, stations = new Map(), freeBikes = [], statusAt = 0;
+var me = null, dest = null, step = 'idle', stepEnteredAt = 0, stepBlocked = false;
+var pickup = null, dropoff = null, pickupAlts = [], dropoffAlts = [];
+var pinnedPickupId = null, pinnedDropoffId = null;
+var follow = true, watchId = null, geoState = 'off';
+var geoErrShown = false, coarseTried = false, geoWatchdog = null;
+var lastFixAt = 0, lastGeoErr = null;
 var layers = { route:null, pins:[], me:null, acc:null };
 var routeToken = 0, lastRouteKey = null, lastRoute = null;
-var lastPlanAt = 0, lastPlanPos = null;
+var lastPlanAt = 0, tripStartedAt = 0, undoUntil = 0, suppressAutoUntil = 0;
 
 /* ---------- helpers ---------- */
 function $(s){ return document.querySelector(s); }
 function all(root, s){ return Array.prototype.slice.call(root.querySelectorAll(s)); }
-
 function haversine(a, b){
   var R = 6371000, r = Math.PI/180;
   var dLat = (b.lat-a.lat)*r, dLon = (b.lon-a.lon)*r;
@@ -249,18 +280,34 @@ function fmtDist(m){
   var ft = m*3.28084;
   return ft < 1000 ? Math.round(ft/10)*10 + ' ft' : (m/1609.34).toFixed(1) + ' mi';
 }
-function toast(msg, ms){
-  var t = $('#toast'); t.textContent = msg; t.classList.add('on');
-  clearTimeout(toast._t);
-  if (ms !== 0) toast._t = setTimeout(function(){ t.classList.remove('on'); }, ms || 2600);
-}
-function hideToast(){ $('#toast').classList.remove('on'); }
 function esc(s){
   return String(s).replace(/[&<>"]/g, function(c){
     return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c];
   });
 }
-/* Google Maps deep link. mode: walking | bicycling */
+function buzz(ms){ try{ if (navigator.vibrate) navigator.vibrate(ms || 15); }catch(e){} }
+
+var toastMsg = null;
+function toast(msg, ms){
+  var t = $('#toast'); t.textContent = msg; t.classList.add('on'); toastMsg = msg;
+  clearTimeout(toast._t);
+  if (ms !== 0) toast._t = setTimeout(function(){ hideToast(msg); }, ms || 2800);
+}
+/* Only clear the message you put up — otherwise a slow fetch resolving wipes a
+   geolocation error the user never got to read. */
+function hideToast(msg){
+  if (msg && toastMsg !== msg) return;
+  $('#toast').classList.remove('on'); toastMsg = null;
+}
+/* Every network call gets a deadline; flaky cellular must not hang a modal. */
+function fetchT(url, ms){
+  if (!window.AbortController) return fetch(url);
+  var c = new AbortController();
+  var t = setTimeout(function(){ c.abort(); }, ms || 12000);
+  return fetch(url, { signal:c.signal }).then(
+    function(r){ clearTimeout(t); return r; },
+    function(e){ clearTimeout(t); throw e; });
+}
 function gmaps(from, to, mode){
   var o = from ? '&origin=' + from.lat + ',' + from.lon : '';
   return 'https://www.google.com/maps/dir/?api=1' + o +
@@ -269,39 +316,32 @@ function gmaps(from, to, mode){
 
 /* ---------- map ---------- */
 function initMap(){
-  map = L.map('map', { zoomControl:false, attributionControl:false, tap:false })
+  map = L.map('map', { zoomControl:false, attributionControl:false })
          .setView([37.7749,-122.4194], 13);
-  // OpenStreetMap's own tiles: no key, no watermark. (CARTO's free basemaps
-  // now stamp "API KEY REQUIRED" across every tile.)
   L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png',
     { maxZoom:19, crossOrigin:true }).addTo(map);
   L.control.attribution({ position:'topright', prefix:false })
    .addAttribution('&copy; OpenStreetMap &middot; Lyft GBFS').addTo(map);
-
-  // Panning by hand means you want to look around; stop yanking the map back.
   map.on('dragstart', function(){ setFollow(false); });
   map.on('contextmenu', function(e){ dropPin(e.latlng.lat, e.latlng.lng); });
   wireLongPress();
 }
-
 function dropPin(lat, lon){
   setDest({ lat:lat, lon:lon, label:'Dropped pin', sub:'Point on map' });
 }
-
-/* iOS Safari never fires `contextmenu`, so long-press is done by hand. */
+/* iOS Safari never fires contextmenu, so long-press is done by hand. */
 function wireLongPress(){
   var el = map.getContainer(), timer = null, sx = 0, sy = 0;
   function cancel(){ if (timer){ clearTimeout(timer); timer = null; } }
   el.addEventListener('touchstart', function(e){
-    if (e.touches.length !== 1) { cancel(); return; }
+    if (e.touches.length !== 1){ cancel(); return; }
     sx = e.touches[0].clientX; sy = e.touches[0].clientY;
     cancel();
     timer = setTimeout(function(){
       timer = null;
       var r = el.getBoundingClientRect();
       var ll = map.containerPointToLatLng(L.point(sx - r.left, sy - r.top));
-      if (navigator.vibrate) navigator.vibrate(15);
-      dropPin(ll.lat, ll.lng);
+      buzz(); dropPin(ll.lat, ll.lng);
     }, 550);
   }, { passive:true });
   el.addEventListener('touchmove', function(e){
@@ -312,7 +352,6 @@ function wireLongPress(){
   el.addEventListener('touchend', cancel, { passive:true });
   el.addEventListener('touchcancel', cancel, { passive:true });
 }
-
 function pin(pt, cls, html, title, onTap){
   var m = L.marker([pt.lat, pt.lon], {
     title: title,
@@ -323,7 +362,6 @@ function pin(pt, cls, html, title, onTap){
   layers.pins.push(m);
   return m;
 }
-/* Clears plan graphics only — never the live "you are here" marker. */
 function clearPlanLayers(){
   layers.pins.forEach(function(m){ map.removeLayer(m); });
   layers.pins = [];
@@ -335,78 +373,74 @@ function clearPlanLayers(){
 function setGeo(s){
   geoState = s;
   var b = $('#locBtn');
-  b.className = 'iconbtn' + (s === 'live' && follow ? ' live' : s === 'asking' ? ' asking'
-                            : s === 'denied' ? ' denied' : '');
+  b.className = 'iconbtn'
+    + (s === 'live'   ? (follow ? ' live' : ' live-idle')
+     : s === 'asking' ? ' asking'
+     : s === 'denied' ? ' denied' : '');
 }
-function setFollow(v){
-  follow = v;
-  setGeo(geoState);
+function setFollow(v){ follow = v; setGeo(geoState); }
+
+/* "live" only means a fix arrived once. This asks whether one arrived recently. */
+function watchIsHealthy(){
+  return watchId !== null && geoState === 'live' && (Date.now() - lastFixAt) < 15000;
+}
+function armWatchdog(ms){
+  clearTimeout(geoWatchdog);
+  geoWatchdog = setTimeout(function(){
+    if (geoState === 'asking'){
+      setGeo('off');
+      toast('iOS never answered the location request. Tap ◎ to retry, or open ' +
+            'this page in Safari rather than from the home screen.', 6500);
+    }
+  }, ms || 12000);
 }
 function startWatch(interactive){
   if (!navigator.geolocation){
     if (interactive) toast('This browser has no location access.', 4000);
     return;
   }
-  // A healthy watch that's already giving fixes: just re-follow.
-  if (watchId !== null && geoState === 'live'){
+  if (watchIsHealthy()){                  // genuinely alive — just re-follow
     setFollow(true);
-    if (me) recenterOnMe(Math.max(map.getZoom(), 16));
+    recenterOnMe(Math.max(map.getZoom(), 16));
     return;
   }
-  // Otherwise tear the old watch down and genuinely retry. Without this, a
-  // watch that was denied or timed out stays wedged and ◎ does nothing, even
-  // after you've fixed the permission in Settings.
-  if (watchId !== null){
-    navigator.geolocation.clearWatch(watchId);
-    watchId = null;
-  }
-  if (interactive) geoErrShown = false;   // a deliberate tap deserves an answer
+  if (watchId !== null){ navigator.geolocation.clearWatch(watchId); watchId = null; }
+  if (interactive) geoErrShown = false;
   coarseTried = false;
-  setGeo('asking');
-  setFollow(true);
+  setGeo('asking'); setFollow(true); armWatchdog(12000);
   watchId = navigator.geolocation.watchPosition(onPos, onGeoErr, {
     enableHighAccuracy:true, maximumAge:4000, timeout:20000
   });
 }
 function onPos(pos){
+  clearTimeout(geoWatchdog);
+  lastFixAt = Date.now();
   var prev = me;
-  me = { lat:pos.coords.latitude, lon:pos.coords.longitude,
-         acc:pos.coords.accuracy || 0 };
-  setGeo('live');
-  geoErrShown = false;
+  me = { lat:pos.coords.latitude, lon:pos.coords.longitude, acc:pos.coords.accuracy || 0 };
+  setGeo('live'); geoErrShown = false; lastGeoErr = null;
   drawMe();
   if (follow) recenterOnMe(dest ? map.getZoom() : Math.max(map.getZoom(), 16));
-  maybeReplan(prev);
+  onMoved(prev);
 }
-
-/* Animated pans ride on requestAnimationFrame, which the browser throttles when
-   the app is hidden — a pan queued with the screen off would simply never land.
-   Glide for the short hops you can actually see; jump for everything else. */
-function recenterOnMe(zoom){
-  if (!me) return;
-  var c = map.getCenter();
-  var jump = document.hidden
-          || map.getZoom() !== zoom
-          || haversine(me, { lat:c.lat, lon:c.lng }) > 400;
-  map.setView([me.lat, me.lon], zoom, { animate:!jump, duration:.6 });
-}
-/* watchPosition can fire errors over and over — say something useful once,
-   and say which of the three failures it actually was. */
 function onGeoErr(err){
+  clearTimeout(geoWatchdog);
   var code = err && err.code;
+  lastGeoErr = { code:code, message:(err && err.message) || '', at:Date.now() };
   if (code === 1){
     setGeo('denied');
     if (!geoErrShown){
       geoErrShown = true;
-      toast('Location is blocked for this site. Allow it, then tap ◎ again.', 5200);
+      toast('iOS says location is blocked. Check Settings › Privacy › Location ' +
+            'Services, then tap ◎. If it looks allowed already, tap ◎ anyway — ' +
+            'iOS sometimes reports this wrongly.', 6500);
     }
     return;
   }
   setGeo('off');
-  // High accuracy indoors often just times out; coarse usually still answers.
-  if (code === 3 && !coarseTried){
+  if (code === 3 && !coarseTried){        // high accuracy often just times out indoors
     coarseTried = true;
-    if (watchId !== null){ navigator.geolocation.clearWatch(watchId); }
+    if (watchId !== null) navigator.geolocation.clearWatch(watchId);
+    armWatchdog(48000);
     watchId = navigator.geolocation.watchPosition(onPos, onGeoErr, {
       enableHighAccuracy:false, maximumAge:30000, timeout:45000
     });
@@ -414,9 +448,8 @@ function onGeoErr(err){
   }
   if (!geoErrShown){
     geoErrShown = true;
-    toast(code === 3
-      ? 'No GPS fix yet. Outdoors it locks on quickly — tap ◎ to retry.'
-      : 'Location is unavailable right now. Tap ◎ to retry.', 5200);
+    toast(code === 3 ? 'No GPS fix yet. Outdoors it locks on fast — tap ◎ to retry.'
+                     : 'Location is unavailable right now. Tap ◎ to retry.', 5200);
   }
 }
 function drawMe(){
@@ -435,13 +468,14 @@ function drawMe(){
     layers.acc.setLatLng(ll).setRadius(me.acc);
   }
 }
-/* A GPS tick every second must not mean a re-route every second. */
-function maybeReplan(prev){
-  if (!dest) return;
-  var moved = prev ? haversine(prev, me) : Infinity;
-  var stale = Date.now() - lastPlanAt > REPLAN_MS;
-  if (moved > REPLAN_M || stale) buildPlan();
-  else updateLiveBits();
+/* Animated pans ride on requestAnimationFrame, throttled when the app is hidden —
+   a pan queued with the screen off would never land. Jump instead. */
+function recenterOnMe(zoom){
+  if (!me) return;
+  var c = map.getCenter();
+  var jump = document.hidden || map.getZoom() !== zoom ||
+             haversine(me, { lat:c.lat, lon:c.lng }) > 400;
+  map.setView([me.lat, me.lon], zoom, { animate:!jump, duration:.6 });
 }
 
 /* ---------- GBFS ---------- */
@@ -460,14 +494,17 @@ function applyStatus(list){
 }
 function loadStations(){
   return Promise.all([
-    fetch(GBFS_INFO).then(function(r){ return r.json(); }),
-    fetch(GBFS_STATUS).then(function(r){ return r.json(); })
+    fetchT(GBFS_INFO).then(function(r){ return r.json(); }),
+    fetchT(GBFS_STATUS).then(function(r){ return r.json(); })
   ]).then(function(res){
     var byId = new Map();
     res[0].data.stations.forEach(function(s){
       byId.set(s.station_id, {
-        id:s.station_id, name:s.name, lat:s.lat, lon:s.lon,
-        capacity:s.capacity, ebikeOnly: s.station_type === 'lightweight'
+        kind:'station', id:s.station_id, name:s.name, lat:s.lat, lon:s.lon,
+        capacity:s.capacity,
+        // Lyft vendor extension. Not a dock at all: a painted zone at ordinary
+        // public bike racks. Their counts are frozen — many are years stale.
+        virtual: s.station_type === 'lightweight'
       });
     });
     stations = byId;
@@ -475,24 +512,69 @@ function loadStations(){
   });
 }
 function refreshStatus(){
-  return fetch(GBFS_STATUS).then(function(r){ return r.json(); })
+  return fetchT(GBFS_STATUS).then(function(r){ return r.json(); })
     .then(function(d){ applyStatus(d.data.stations); });
 }
+/* ~570 e-bikes are free-floating and carry no station_id, so they are invisible
+   to the station feed entirely. They only ever count as a place to GET a bike.
+   The v2.3 feed carries battery range but drops the plate number; v1.1 has the
+   plate and no range. Plates are stable per bike, so fetch those once. */
+var bikeNames = {}, namesAt = 0;
+function loadBikeNames(){
+  if (Date.now() - namesAt < 15*60000) return Promise.resolve();
+  return fetchT(GBFS_FREE_V1).then(function(r){ return r.json(); }).then(function(d){
+    (d.data.bikes || []).forEach(function(b){ if (b.name) bikeNames[b.bike_id] = b.name; });
+    namesAt = Date.now();
+  }).catch(function(){});
+}
+function loadFreeBikes(){
+  return fetchT(GBFS_FREE).then(function(r){ return r.json(); }).then(function(d){
+    freeBikes = (d.data.bikes || []).filter(function(b){
+      return !b.is_disabled && !b.is_reserved && b.lat && b.lon;
+    }).map(function(b){
+      var plate = bikeNames[b.bike_id];
+      return { kind:'bike', id:b.bike_id,
+               name: plate ? 'E-bike ' + plate : 'Parked e-bike',
+               lat:b.lat, lon:b.lon, ebikes:1,
+               rangeM: (typeof b.current_range_meters === 'number') ? b.current_range_meters : null };
+    });
+  }).catch(function(){ freeBikes = []; });
+}
+/* Loose bikes only matter while you're looking for one. Skipping this once you're
+   riding saves ~177 KB a minute of cellular data. */
+function freeBikesIfRelevant(){
+  return (step === 'idle' || step === 'walk_bike') ? loadFreeBikes() : Promise.resolve();
+}
+function ageS(s){ return s.reported ? (Date.now()/1000 - s.reported) : 0; }
+function fresh(s){ return ageS(s) < MAX_AGE_S; }
 
-/* nearest N stations to `pt` that pass `ok` */
-function nearest(pt, ok, n){
+/* ---------- candidate picking ---------- */
+function withDist(s, pt){
+  var c = {}; for (var k in s) c[k] = s[k];
+  c.dist = haversine(pt, s);
+  return c;
+}
+/* Somewhere to GET a bike: stations holding e-bikes, plus loose e-bikes. */
+function nearestPickups(pt, n){
   var out = [];
   stations.forEach(function(s){
-    if (!ok(s)) return;
-    var c = {}; for (var k in s) c[k] = s[k];
-    c.dist = haversine(pt, s);
-    out.push(c);
+    if (s.renting && s.ebikes > 0 && fresh(s)) out.push(withDist(s, pt));
   });
+  freeBikes.forEach(function(b){ out.push(withDist(b, pt)); });
   out.sort(function(a,b){ return a.dist - b.dist; });
   return out.slice(0, n);
 }
-/* Among racks all within a block of the closest, the useful pick is the one
-   with the most free docks — not the one that happens to be 3 m nearer. */
+/* Somewhere to PARK. Virtual stations are excluded: their dock counts are
+   frozen (median ~1000 days old), so "19 open docks" there is fiction. */
+function nearestDropoffs(pt, n){
+  var out = [];
+  stations.forEach(function(s){
+    if (s.returning && s.docks > 0 && !s.virtual && fresh(s)) out.push(withDist(s, pt));
+  });
+  out.sort(function(a,b){ return a.dist - b.dist; });
+  return preferRoomiest(out).slice(0, n);
+}
+/* Two racks a few metres apart are the same walk — take the one with room. */
 function preferRoomiest(list){
   if (list.length < 2) return list;
   var floor = list[0].dist + TIE_M;
@@ -502,11 +584,25 @@ function preferRoomiest(list){
   var best = tied[0];
   return [best].concat(list.filter(function(s){ return s.id !== best.id; }));
 }
+/* Virtual stations still work for cable-lock e-bikes — shown, never auto-picked,
+   and never with a dock number attached. */
+function nearestVirtual(pt, n){
+  var out = [];
+  stations.forEach(function(s){ if (s.virtual) out.push(withDist(s, pt)); });
+  out.sort(function(a,b){ return a.dist - b.dist; });
+  return out.slice(0, n);
+}
+function byId(id){
+  if (!id) return null;
+  if (stations.has(id)) return stations.get(id);
+  for (var i = 0; i < freeBikes.length; i++) if (freeBikes[i].id === id) return freeBikes[i];
+  return null;
+}
 
 /* ---------- geocoding ---------- */
 function geocode(q){
   var bb = 'bbox=' + BBOX.join(',');
-  return fetch('https://photon.komoot.io/api/?limit=6&lat=37.7749&lon=-122.4194&'
+  return fetchT('https://photon.komoot.io/api/?limit=6&lat=37.7749&lon=-122.4194&'
                + bb + '&q=' + encodeURIComponent(q))
     .then(function(r){ return r.json(); })
     .then(function(d){
@@ -521,7 +617,7 @@ function geocode(q){
     })
     .catch(function(){
       var vb = BBOX[0] + ',' + BBOX[3] + ',' + BBOX[2] + ',' + BBOX[1];
-      return fetch('https://nominatim.openstreetmap.org/search?format=jsonv2&limit=6&bounded=1'
+      return fetchT('https://nominatim.openstreetmap.org/search?format=jsonv2&limit=6&bounded=1'
                    + '&viewbox=' + vb + '&q=' + encodeURIComponent(q))
         .then(function(r){ return r.json(); })
         .then(function(d){
@@ -548,323 +644,501 @@ function decodePolyline(str){
   }
   return pts;
 }
-function bikeRoute(a, b){
-  var url = OSRM + a.lon + ',' + a.lat + ';' + b.lon + ',' + b.lat
+function route(base, a, b){
+  var url = base + a.lon + ',' + a.lat + ';' + b.lon + ',' + b.lat
           + '?overview=full&geometries=polyline';
-  return fetch(url).then(function(r){ return r.json(); }).then(function(d){
+  return fetchT(url).then(function(r){ return r.json(); }).then(function(d){
     if (d.code !== 'Ok' || !d.routes.length) throw new Error('no route');
     return { pts: decodePolyline(d.routes[0].geometry),
              dist: d.routes[0].distance, dur: d.routes[0].duration };
   });
 }
-/* Where the ride begins: you, if you're already on a bike; else the pickup rack. */
-function rideOrigin(){
-  if (mode === 'riding') return me;
-  return (plan && plan.start) ? plan.start : null;
+function accent(){
+  return getComputedStyle(document.documentElement).getPropertyValue('--accent').trim() || '#e5009f';
 }
-function drawRoute(){
-  var from = rideOrigin();
-  if (!plan || !plan.park || !from) return;
-  // Round the origin so tiny GPS jitter doesn't trigger a fresh request.
-  var key = from.lat.toFixed(4) + ',' + from.lon.toFixed(4) + '>' + plan.park.id;
-  if (key === lastRouteKey && layers.route){ paintRideMeta(lastRoute); return; }
-
-  var token = ++routeToken;                 // guards against out-of-order replies
-  bikeRoute(from, plan.park).then(function(r){
-    if (token !== routeToken) return;       // a newer request already won
+function drawLeg(from, to, walking){
+  if (!from || !to) return;
+  var key = (walking?'w':'b') + from.lat.toFixed(4) + ',' + from.lon.toFixed(4) + '>' +
+            to.lat.toFixed(4) + ',' + to.lon.toFixed(4);
+  if (key === lastRouteKey && layers.route){ paintLegMeta(lastRoute, walking); return; }
+  var token = ++routeToken;
+  route(walking ? OSRM_FOOT : OSRM_BIKE, from, to).then(function(r){
+    if (token !== routeToken) return;               // a newer request already won
     if (layers.route) map.removeLayer(layers.route);
     layers.route = L.polyline(r.pts, {
-      color:getComputedStyle(document.documentElement).getPropertyValue('--accent').trim() || '#e5009f',
-      weight:5, opacity:.85, lineJoin:'round'
+      color:accent(), weight:5, opacity:.85, lineJoin:'round',
+      dashArray: walking ? '1,10' : null, lineCap: walking ? 'round' : 'butt'
     }).addTo(map);
     lastRouteKey = key; lastRoute = r;
-    paintRideMeta(r);
+    paintLegMeta(r, walking);
   }).catch(function(){
-    if (token === routeToken) paintRideMeta(null);
+    if (token !== routeToken) return;
+    if (layers.route) map.removeLayer(layers.route);
+    layers.route = L.polyline([[from.lat, from.lon], [to.lat, to.lon]], {
+      color:accent(), weight:4, opacity:.5, dashArray:'1,9'
+    }).addTo(map);                                   // honest straight line fallback
+    lastRoute = null; lastRouteKey = key;
   });
 }
-function paintRideMeta(r){
-  var el = $('#rideMeta');
-  if (!el) return;
-  el.innerHTML = r
-    ? '<span class="live">' + fmtDist(r.dist) + ' ride · about ' +
-      Math.round(r.dur/60) + ' min</span>'
-    : '';
+function paintLegMeta(r, walking){
+  var el = $('#legMeta');
+  if (!el || !r) return;
+  el.textContent = fmtDist(r.dist) + (walking ? ' walk · ' : ' ride · ') +
+                   'about ' + Math.max(1, Math.round(r.dur/60)) + ' min';
 }
 
-/* ---------- the plan ---------- */
+/* ---------- the trip ---------- */
 function setDest(d){
   dest = d;
-  pinnedParkId = null;
   $('#q').value = d.label;
-  closeResults();
-  $('#q').blur();
+  closeResults(); $('#q').blur();
   saveRecent(d);
-  return buildPlan(true);
+  pinnedDropoffId = null;
+  if (step === 'ride' || step === 'walk_dest'){
+    // Still a bike under you; only the destination changed.
+    computeTargets(); setStep('ride', 'newdest');
+  } else {
+    pinnedPickupId = null;
+    tripStartedAt = Date.now();
+    computeTargets(); setStep('walk_bike', 'newdest');
+  }
 }
+function setStep(next, why){
+  if (step === next){ render(); drawStep(true); return; }
+  step = next; stepEnteredAt = Date.now();
+  routeToken++;                       // abandon any in-flight leg from the old step
+  lastRouteKey = null;
+  if (why !== 'restore') buzz();
+  saveTrip();
+  computeTargets();
+  render();
+  drawStep(true);
+}
+function computeTargets(){
+  if (!dest || !stations.size) return;
+  lastPlanAt = Date.now();
 
-function buildPlan(refit){
-  if (!dest) return Promise.resolve();
-  var ready = stations.size ? Promise.resolve() : loadStations();
-  return ready.then(function(){
-    // PARK: nearest rack to the destination that can actually take a bike.
-    var parks = preferRoomiest(
-      nearest(dest, function(s){ return s.returning && s.docks > 0; }, 5));
+  /* Pickup is only live while you're still walking to it. Once you're riding,
+     it's behind you and its counts stop mattering. */
+  if (step === 'idle' || step === 'walk_bike' || step === 'planning'){
+    var picks = me ? nearestPickups(me, 6) : [];
+    if (pinnedPickupId){
+      var pp = byId(pinnedPickupId);
+      if (pp && me){
+        picks = [withDist(pp, me)].concat(picks.filter(function(s){ return s.id !== pinnedPickupId; }));
+      } else pinnedPickupId = null;
+    }
+    pickup = picks[0] || null;
+    pickupAlts = picks.slice(1, 4);
+    stepBlocked = !!(pickup && pickup.dist > PICKUP_MAX_M);
+  }
 
-    // A rack you picked by hand stays picked, unless it filled up on you.
-    if (pinnedParkId){
-      var chosen = stations.get(pinnedParkId);
-      if (chosen && chosen.returning && chosen.docks > 0){
-        var c = {}; for (var k in chosen) c[k] = chosen[k];
-        c.dist = haversine(dest, chosen);
-        parks = [c].concat(parks.filter(function(s){ return s.id !== pinnedParkId; }));
-      } else {
-        pinnedParkId = null;
-        toast('That rack just filled up — showing the next best one.', 3200);
+  /* Dropoff stays live until you park, but only re-picks when it has to —
+     otherwise a rack two doors down gaining a dock flips the goal mid-ride. */
+  if (step !== 'walk_dest' && step !== 'done'){
+    var drops = nearestDropoffs(dest, 6);
+    if (pinnedDropoffId){
+      var pd = stations.get(pinnedDropoffId);
+      if (pd && pd.returning && pd.docks > 0 && !pd.virtual){
+        drops = [withDist(pd, dest)].concat(drops.filter(function(s){ return s.id !== pinnedDropoffId; }));
+      } else if (pd){
+        pinnedDropoffId = null;
+        toast('Your rack filled up. Showing the next best one.', 3600);
       }
     }
-
-    // START: the closest rack to where this ride begins. In "need a bike" mode
-    // that's the rack you collect from; riding, it's just the nearest one to you.
-    var starts = [];
-    if (me){
-      starts = mode === 'need'
-        ? nearest(me, function(s){ return s.renting && s.ebikes > 0; }, 3)
-        : nearest(me, function(s){ return s.renting || s.returning; }, 3);
+    var best = drops[0] || null;
+    if (!dropoff || !best){
+      dropoff = best;
+    } else {
+      var cur = stations.get(dropoff.id);
+      var dead = !cur || !cur.returning || cur.docks === 0;
+      var muchCloser = best.dist < dropoff.dist - TIE_M;
+      if (dead || muchCloser || pinnedDropoffId === best.id){
+        if (dead && step === 'ride' && !pinnedDropoffId){
+          toast('That rack filled up. Now heading to ' + best.name + '.', 4200);
+          buzz(30);
+        }
+        dropoff = best;
+      } else {
+        dropoff = withDist(stations.get(dropoff.id), dest);  // refresh its live counts
+      }
     }
-
-    plan = { park: parks[0], parkAlts: parks.slice(1, 4),
-             start: starts[0], startAlts: starts.slice(1) };
-    lastPlanAt = Date.now();
-    lastPlanPos = me ? { lat:me.lat, lon:me.lon } : null;
-
-    render();
-    drawPlan(refit);
-  });
+    dropoffAlts = drops.filter(function(s){ return !dropoff || s.id !== dropoff.id; }).slice(0, 3);
+  }
 }
+/* Distance-driven nudges. Proximity arms the button; it never taps it for you
+   on the walk legs, because standing at a rack is not the same as holding a bike. */
+function onMoved(prev){
+  if (!dest || !me) return;
+  var trusted = me.acc && me.acc < GPS_TRUST_M;
+  var settled = Date.now() - stepEnteredAt > STEP_DWELL;
 
-function drawPlan(refit){
-  clearPlanLayers();
-  drawMe();
-  var pts = [];
-  if (me) pts.push([me.lat, me.lon]);
-  if (dest){ pin(dest, 'pin-dest', '⚑', dest.label); pts.push([dest.lat, dest.lon]); }
-  if (plan && plan.start){
-    pin(plan.start, 'pin-start', mode === 'need' ? '\u{1F6B2}' : 'S', plan.start.name);
-    pts.push([plan.start.lat, plan.start.lon]);
+  if (step === 'walk_bike' && pickup){
+    var d = haversine(me, pickup);
+    if (trusted && d <= ARRIVE_M && !armedOnce){
+      armedOnce = true; buzz(25);
+      toast('You’re at the bike. Tap when you’ve got it.', 4000);
+      var b = $('#goBtn'); if (b) b.classList.add('armed');
+    }
   }
-  if (plan && plan.park){
-    pin(plan.park, 'pin-park', 'P', plan.park.name, openSheet);
-    pts.push([plan.park.lat, plan.park.lon]);
-    plan.parkAlts.forEach(function(a, i){
-      // Tapping a backup on the map picks it, same as tapping it in the list.
-      pin(a, 'pin-alt', String(i+2), a.name, function(){
-        pinnedParkId = a.id;
-        openSheet();
-        buildPlan(true);
-      });
-      pts.push([a.lat, a.lon]);
+  if (step === 'ride' && dropoff && trusted && settled && Date.now() > suppressAutoUntil){
+    if (haversine(me, dropoff) <= ARRIVE_M){ undoUntil = Date.now() + 10000; setStep('walk_dest', 'auto'); return; }
+  }
+  if (step === 'walk_dest' && trusted && settled && haversine(me, dest) <= ARRIVE_M){
+    setStep('done', 'auto'); return;
+  }
+
+  var moved = prev ? haversine(prev, me) : Infinity;
+  if (moved > REPLAN_M || Date.now() - lastPlanAt > REPLAN_MS){
+    computeTargets(); render(); drawStep(false);
+  } else {
+    patchLive();
+  }
+}
+var armedOnce = false;
+
+/* ---------- map per step ---------- */
+function drawStep(refit){
+  clearPlanLayers(); drawMe();
+  var pts = [], from = null, to = null, walking = true;
+
+  if (step === 'walk_bike' && pickup){
+    from = me; to = pickup; walking = true;
+    pin(pickup, 'pin-bike', '\u{1F6B2}', pickup.name);
+    if (me) pts.push([me.lat, me.lon]);
+    pts.push([pickup.lat, pickup.lon]);
+    pickupAlts.forEach(function(a, i){
+      pin(a, 'pin-alt', String(i+2), a.name, function(){ pinnedPickupId = a.id; computeTargets(); render(); drawStep(true); });
     });
+  } else if (step === 'ride' && dropoff){
+    from = me || pickup; to = dropoff; walking = false;
+    if (pickup) pin(pickup, 'pin-done', '', pickup.name);
+    pin(dropoff, 'pin-park', 'P', dropoff.name);
+    if (dest) pin(dest, 'pin-dest', '⚑', dest.label);
+    if (from) pts.push([from.lat, from.lon]);
+    pts.push([dropoff.lat, dropoff.lon]);
+    dropoffAlts.forEach(function(a, i){
+      pin(a, 'pin-alt', String(i+2), a.name, function(){ pinnedDropoffId = a.id; computeTargets(); render(); drawStep(true); });
+    });
+  } else if (step === 'walk_dest' && dropoff && dest){
+    from = dropoff; to = dest; walking = true;
+    pin(dropoff, 'pin-done', 'P', dropoff.name);
+    pin(dest, 'pin-dest big', '⚑', dest.label);
+    pts.push([dropoff.lat, dropoff.lon], [dest.lat, dest.lon]);
+  } else if (step === 'done' && dest){
+    pin(dest, 'pin-dest big', '⚑', dest.label);
+    if (refit) map.setView([dest.lat, dest.lon], 17, { animate:false });
+    return;
+  } else if (dest){
+    pin(dest, 'pin-dest', '⚑', dest.label);
+    pts.push([dest.lat, dest.lon]);
+    if (me) pts.push([me.lat, me.lon]);
   }
-  // Only frame the whole trip on a deliberate change — never on a GPS tick.
-  if (refit && pts.length){
+
+  if (refit && pts.length > 1){
     setFollow(false);
-    map.fitBounds(L.latLngBounds(pts).pad(0.22), {
-      animate:false,
-      paddingTopLeft:[20, 90],
-      paddingBottomRight:[20, Math.round(window.innerHeight * 0.42)]
+    map.fitBounds(L.latLngBounds(pts).pad(0.25), {
+      animate:false, maxZoom:18,
+      paddingTopLeft:[24, 92],
+      paddingBottomRight:[24, Math.round(window.innerHeight * 0.44)]
     });
+  } else if (refit && pts.length === 1){
+    map.setView(pts[0], 16, { animate:false });
   }
-  drawRoute();
-}
-
-/* Cheap between-replan refresh: distances that move as you do. */
-function updateLiveBits(){
-  if (!plan || !plan.park || !me) return;
-  var el = $('#youMeta');
-  if (el){
-    var d = haversine(me, plan.park);
-    el.textContent = fmtDist(d) + ' from you as the crow flies';
-  }
-}
-
-function dockClass(n){ return n >= 3 ? 'good' : (n >= 1 ? 'warn' : 'bad'); }
-function staleNote(s){
-  var age = (Date.now()/1000 - s.reported)/60;
-  return age > 30 ? ' · <span class="warn">status ' + Math.round(age) + ' min old</span>' : '';
+  drawLeg(from, to, walking);
 }
 
 /* ---------- sheet ---------- */
+function dockClass(n){ return n >= 3 ? 'good' : (n >= 1 ? 'warn' : 'bad'); }
+function staleNote(s){
+  if (s.kind === 'bike' || !s.reported) return '';
+  var a = ageS(s);
+  if (a < STALE_S) return '';
+  var mins = Math.round(a/60);
+  return ' · <span class="warn">' + (mins > 1440 ? Math.round(mins/1440) + ' days' : mins + ' min')
+         + ' stale</span>';
+}
+function bikeMeta(s){
+  if (s.kind === 'bike'){
+    return '<span class="stat good">1 e-bike</span> at a public rack' +
+           (s.rangeM ? ' · <span class="stat">' + (s.rangeM/1609.34).toFixed(1) + ' mi range</span>' : '') +
+           ' · ' + fmtDist(s.dist) + ' · ' + walkMin(s.dist) + ' min walk';
+  }
+  return '<span class="stat good">' + s.ebikes + ' e-bike' + (s.ebikes === 1 ? '' : 's') +
+         '</span> of ' + s.bikes + ' bikes · ' + fmtDist(s.dist) + ' · ' +
+         walkMin(s.dist) + ' min walk' + staleNote(s);
+}
+function rail(){
+  var order = ['walk_bike','ride','walk_dest'];
+  var names = ['Get bike','Ride','Arrive'];
+  var at = order.indexOf(step);
+  if (step === 'done') at = 3;
+  return '<div id="rail">' + names.map(function(n, i){
+    var cls = i === at ? 'on' : (i < at ? 'done' : '');
+    return '<div class="' + cls + '"' + (i < at ? ' data-back="' + order[i] + '"' : '') + '>' +
+           (i < at ? '✓ ' : '') + n + '</div>';
+  }).join('') + '</div>';
+}
+
 function render(){
-  var b = $('#sheetBody'), sheet = $('#sheet');
-  var openState = {}, scroll = sheet.scrollTop;
-  all(b, 'details[data-k]').forEach(function(d){ openState[d.dataset.k] = d.open; });
+  var b = $('#sheetBody'), act = $('#stepAction');
+  if (!dest || step === 'idle'){ act.innerHTML = ''; return; }
+  var h = rail(), action = '';
 
-  if (!plan || !plan.park){
-    b.innerHTML = '<h2>No open dock nearby</h2><p class="sub">Every rack near ' +
-      esc(dest ? dest.label : 'there') + ' is full or out of service right now. ' +
-      'This refreshes every minute.</p>';
-    openSheet();
-    return;
-  }
-  var p = plan.park, h = '';
-
-  h += '<h2>' + esc(dest.label) + '</h2>';
-  h += '<p class="sub">' + esc(dest.sub || '') + '</p>';
-  h += '<div id="modes">' +
-       '<button data-mode="riding" class="' + (mode === 'riding' ? 'on' : '') + '">Already riding</button>' +
-       '<button data-mode="need" class="' + (mode === 'need' ? 'on' : '') + '">Need a bike</button>' +
-       '</div>';
-
-  /* --- park here --- */
-  h += '<div class="card primary">';
-  h += '<div class="lbl"><span>Park here — closest rack to your destination</span>' +
-       (pinnedParkId ? '<span class="undo" id="unpin">Auto-pick</span>' : '') + '</div>';
-  h += '<div class="name">' + esc(p.name) + '</div>';
-  h += '<div class="meta"><span class="stat ' + dockClass(p.docks) + '">' + p.docks +
-       ' open dock' + (p.docks === 1 ? '' : 's') + '</span> of ' + p.capacity +
-       ' · ' + fmtDist(p.dist) + ' from ' + esc(dest.label) +
-       ' (' + walkMin(p.dist) + ' min walk)' +
-       (p.ebikeOnly ? ' · <span class="warn">corral, lock-to rack</span>' : '') +
-       staleNote(p) + '</div>';
-  h += '<div class="meta" id="rideMeta" style="margin-top:4px"></div>';
-  h += '<div class="meta" id="youMeta" style="margin-top:2px"></div>';
-  h += '<div class="row">';
-  h += '<a class="btn go" target="_blank" rel="noopener" href="' +
-       gmaps(rideOrigin(), p, 'bicycling') + '">Ride here</a>';
-  h += '<a class="btn" target="_blank" rel="noopener" href="' +
-       gmaps(p, dest, 'walking') + '">Walk the last bit</a>';
-  h += '</div>';
-  if (p.docks <= 2){
-    h += '<p class="meta" style="margin:9px 0 0">Only ' + p.docks + ' dock' +
-         (p.docks === 1 ? '' : 's') + ' free — keep a backup in mind.</p>';
-  }
-  h += '</div>';
-
-  /* --- backups --- */
-  if (plan.parkAlts.length){
-    h += '<details data-k="alts" open><summary>Backup racks near the destination</summary>';
-    plan.parkAlts.forEach(function(a, i){
-      h += '<div class="alt" data-alt="' + i + '"><div><b>' + (i+2) + '. ' + esc(a.name) +
-           '</b><div class="meta">' + fmtDist(a.dist) + ' away · ' + walkMin(a.dist) +
-           ' min walk' + (a.ebikeOnly ? ' · corral' : '') + '</div></div>' +
-           '<div class="stat ' + dockClass(a.docks) + '">' + a.docks + ' open</div></div>';
-    });
-    h += '</details>';
-  }
-
-  /* --- where the ride starts --- */
-  h += '<div class="card">';
-  if (plan.start){
-    var g = plan.start;
-    h += '<div class="lbl">' + (mode === 'need'
-          ? 'Grab an e-bike — closest to you now'
-          : 'Route starts here — closest rack to you') + '</div>';
-    h += '<div class="name">' + esc(g.name) + '</div>';
-    h += '<div class="meta">' +
-         '<span class="stat ' + (g.ebikes > 0 ? 'good' : 'muted') + '">' + g.ebikes +
-         ' e-bike' + (g.ebikes === 1 ? '' : 's') + '</span>' +
-         ' · <span class="stat ' + dockClass(g.docks) + '">' + g.docks + ' open dock' +
-         (g.docks === 1 ? '' : 's') + '</span>' +
-         ' · ' + fmtDist(g.dist) + ' · ' + walkMin(g.dist) + ' min walk' +
-         (g.ebikeOnly ? ' · corral' : '') + staleNote(g) + '</div>';
-    h += '<div class="row"><a class="btn" target="_blank" rel="noopener" href="' +
-         gmaps(me, g, 'walking') + '">' +
-         (mode === 'need' ? 'Walk to the bike' : 'Walk to this rack') + '</a></div>';
-    if (plan.startAlts.length){
-      h += '<details data-k="starts"><summary>Other racks near you</summary>';
-      plan.startAlts.forEach(function(a){
-        h += '<div class="alt"><div><b>' + esc(a.name) + '</b><div class="meta">' +
-             fmtDist(a.dist) + ' · ' + walkMin(a.dist) + ' min walk</div></div>' +
-             '<div class="stat ' + (a.ebikes > 0 ? 'good' : '') + '">' + a.ebikes +
-             ' e-bike' + (a.ebikes === 1 ? '' : 's') + '</div></div>';
-      });
-      h += '</details>';
+  if (step === 'walk_bike'){
+    if (!me){
+      h += '<h2>Turn on location</h2><p class="sub">I need to know where you are ' +
+           'to point you at the nearest bike.</p>' +
+           '<div class="card"><div class="meta">Tap ◎ at the top, then allow location.</div></div>';
+      action = '<button class="btn go" id="skipBtn">I’m already on a bike</button>';
+    } else if (!pickup){
+      h += '<h2>No e-bike found</h2><p class="sub">Nothing rentable nearby. Rechecking every minute.</p>';
+      action = '<button class="btn go" id="skipBtn">I’m already on a bike</button>';
+    } else {
+      var far = stepBlocked;
+      h += '<h2>' + (far ? 'No e-bike nearby' : 'Walk to the bike') + '</h2>';
+      // Past a couple of km, a walking time is a number nobody would act on.
+      h += '<p class="sub">' + (far
+            ? 'Nothing within a 10 min walk. Closest is ' +
+              (pickup.dist > 2000 ? fmtDist(pickup.dist) + ' away'
+                                  : walkMin(pickup.dist) + ' min away') + '.'
+            : walkMin(pickup.dist) + ' min walk · ' + fmtDist(pickup.dist)) + '</p>';
+      h += '<div class="card primary">';
+      h += '<div class="lbl">Pick up here</div>';
+      h += '<div class="name">' + esc(pickup.name) + '</div>';
+      h += '<div class="meta" data-live="pickup">' + bikeMeta(pickup) + '</div>';
+      h += '<div class="meta" id="legMeta" style="margin-top:4px"></div>';
+      h += '<a class="tiny" target="_blank" rel="noopener" href="' +
+           gmaps(me, pickup, 'walking') + '">Walking directions ↗</a>';
+      h += '</div>';
+      if (pickupAlts.length){
+        h += '<details data-k="alts"><summary>Other bikes nearby</summary>';
+        pickupAlts.forEach(function(a, i){
+          h += '<div class="alt" data-pick="' + i + '"><div><b>' + esc(a.name) + '</b>' +
+               '<div class="meta">' + fmtDist(a.dist) + ' · ' + walkMin(a.dist) + ' min walk</div></div>' +
+               '<div class="stat good">' + (a.kind === 'bike' ? '1' : a.ebikes) + '</div></div>';
+        });
+        h += '</details>';
+      }
+      h += '<a class="tiny" id="skipLink">I’m already on a bike →</a>';
+      action = '<button class="btn go" id="goBtn">I’ve got the bike</button>';
     }
-  } else if (!me){
-    h += '<div class="lbl">Where you’re starting</div>';
-    h += '<div class="meta">Tap ◎ up top to turn on live location — then this shows ' +
-         'the closest rack to your start and the real ride distance.</div>';
-  } else {
-    h += '<div class="lbl">Grab an e-bike</div>';
-    h += '<div class="meta">No rack near you has an e-bike right now.</div>';
   }
-  h += '</div>';
+
+  else if (step === 'ride'){
+    if (!dropoff){
+      h += '<h2>No open dock</h2><p class="sub">Nothing with room near ' + esc(dest.label) +
+           '. Rechecking every minute.</p>';
+      action = '<button class="btn go" id="goBtn">I’m parked</button>';
+    } else {
+      var p = dropoff;
+      h += '<h2>Ride to the rack</h2>';
+      h += '<p class="sub" id="legSub">' + fmtDist(haversine(me || p, p)) + ' to go</p>';
+      h += '<div class="card primary">';
+      h += '<div class="lbl"><span>Park here</span>' +
+           (pinnedDropoffId ? '<span class="undo" id="unpin">Auto-pick</span>' : '') + '</div>';
+      h += '<div class="name">' + esc(p.name) + '</div>';
+      h += '<div class="meta" data-live="drop"><span class="stat ' + dockClass(p.docks) + '">' +
+           p.docks + ' open dock' + (p.docks === 1 ? '' : 's') + '</span> of ' + p.capacity +
+           ' · ' + fmtDist(p.dist) + ' from ' + esc(dest.label) +
+           ' (' + walkMin(p.dist) + ' min walk)' + staleNote(p) + '</div>';
+      h += '<div class="meta" id="legMeta" style="margin-top:4px"></div>';
+      h += '<a class="tiny" target="_blank" rel="noopener" href="' +
+           gmaps(me || pickup, p, 'bicycling') + '">Bike directions ↗</a>';
+      h += '</div>';
+      if (dropoffAlts.length){
+        var risky = p.docks <= 1;
+        h += '<details data-k="alts"><summary class="' + (risky ? 'warn' : '') + '">' +
+             (risky ? 'Only ' + p.docks + ' dock left. See ' + dropoffAlts.length + ' backups'
+                    : 'Other racks near ' + esc(dest.label)) + '</summary>';
+        dropoffAlts.forEach(function(a, i){
+          h += '<div class="alt" data-drop="' + i + '"><div><b>' + esc(a.name) + '</b>' +
+               '<div class="meta">' + fmtDist(a.dist) + ' away · ' + walkMin(a.dist) +
+               ' min walk</div></div><div class="stat ' + dockClass(a.docks) + '">' +
+               a.docks + ' open</div></div>';
+        });
+        var virt = nearestVirtual(dest, 2).filter(function(v){ return v.dist < 500; });
+        if (virt.length){
+          h += '<div class="alt" style="cursor:default"><div><b>' + esc(virt[0].name) + '</b>' +
+               '<div class="meta">Virtual station — public bike racks, no docks. ' +
+               'Cable-lock e-bikes only. ' + fmtDist(virt[0].dist) + ' away.</div></div></div>';
+        }
+        h += '</details>';
+      }
+      action = '<button class="btn go" id="goBtn">I’m parked</button>';
+    }
+  }
+
+  else if (step === 'walk_dest'){
+    var w = dropoff ? haversine(dropoff, dest) : 0;
+    h += '<h2>Walk the last bit</h2>';
+    h += '<p class="sub">' + walkMin(w) + ' min · ' + fmtDist(w) + '</p>';
+    h += '<div class="card primary">';
+    h += '<div class="lbl"><span>You’re going to</span>' +
+         (Date.now() < undoUntil ? '<span class="undo" id="notyet">Not parked yet</span>' : '') + '</div>';
+    h += '<div class="name">' + esc(dest.label) + '</div>';
+    h += '<div class="meta">' + (dropoff ? 'from ' + esc(dropoff.name) : '') + '</div>';
+    h += '<div class="meta" id="legMeta" style="margin-top:4px"></div>';
+    h += '<a class="tiny" target="_blank" rel="noopener" href="' +
+         gmaps(dropoff, dest, 'walking') + '">Walking directions ↗</a>';
+    h += '</div>';
+    action = '<button class="btn go" id="goBtn">Done</button>';
+  }
+
+  else if (step === 'done'){
+    h += '<h2>You’re here</h2><p class="sub">' + esc(dest.label) + '</p>';
+    h += '<div class="card"><div class="meta">' +
+         (tripStartedAt ? 'Trip took ' + Math.max(1, Math.round((Date.now()-tripStartedAt)/60000)) + ' min'
+                        : 'Nice one.') +
+         (dropoff ? ' · parked at ' + esc(dropoff.name) : '') + '</div></div>';
+    action = '<button class="btn go" id="newBtn">New trip</button>';
+  }
 
   b.innerHTML = h;
-
-  // Restore whatever the user had expanded, and where they'd scrolled to.
-  all(b, 'details[data-k]').forEach(function(d){
-    if (Object.prototype.hasOwnProperty.call(openState, d.dataset.k)) d.open = openState[d.dataset.k];
-  });
-  sheet.scrollTop = scroll;
-
-  all(b, '[data-mode]').forEach(function(el){
-    el.addEventListener('click', function(){
-      if (mode === el.dataset.mode) return;
-      mode = el.dataset.mode;
-      try{ localStorage.setItem('bdf.mode', mode); }catch(e){}
-      buildPlan(true);
-    });
-  });
-  all(b, '[data-alt]').forEach(function(el){
-    el.addEventListener('click', function(){
-      pinnedParkId = plan.parkAlts[+el.dataset.alt].id;
-      buildPlan(true);
-    });
-  });
-  var un = $('#unpin');
-  if (un) un.addEventListener('click', function(){ pinnedParkId = null; buildPlan(true); });
-
-  updateLiveBits();
-  $('#foot').textContent = 'Live Bay Wheels data · updated ' +
-    new Date(statusAt).toLocaleTimeString([], { hour:'numeric', minute:'2-digit' });
+  act.innerHTML = action;
+  wireSheet();
+  patchLive();
+  $('#foot').textContent = 'Live Bay Wheels data · ' +
+    new Date(statusAt).toLocaleTimeString([], { hour:'numeric', minute:'2-digit' }) +
+    ' · tap for status';
   openSheet();
 }
 
-function openSheet(){
-  $('#sheet').classList.add('on');
-  $('#peek').classList.remove('on');
+function wireSheet(){
+  var b = $('#sheetBody');
+  all(b, '[data-back]').forEach(function(el){
+    el.addEventListener('click', function(){ setStep(el.dataset.back, 'rail'); });
+  });
+  all(b, '[data-pick]').forEach(function(el){
+    el.addEventListener('click', function(){
+      pinnedPickupId = pickupAlts[+el.dataset.pick].id;
+      computeTargets(); render(); drawStep(true);
+    });
+  });
+  all(b, '[data-drop]').forEach(function(el){
+    el.addEventListener('click', function(){
+      pinnedDropoffId = dropoffAlts[+el.dataset.drop].id;
+      computeTargets(); render(); drawStep(true);
+    });
+  });
+  var un = $('#unpin');
+  if (un) un.addEventListener('click', function(){
+    pinnedDropoffId = null; computeTargets(); render(); drawStep(true);
+  });
+  var ny = $('#notyet');
+  if (ny) ny.addEventListener('click', function(){
+    suppressAutoUntil = Date.now() + 60000; undoUntil = 0; setStep('ride', 'undo');
+  });
+  var skip = $('#skipLink') || $('#skipBtn');
+  if (skip) skip.addEventListener('click', function(){ armedOnce = false; setStep('ride', 'skip'); });
+  var go = $('#goBtn');
+  if (go) go.addEventListener('click', function(){
+    armedOnce = false;
+    if (step === 'walk_bike') setStep('ride', 'tap');
+    else if (step === 'ride'){ undoUntil = Date.now() + 10000; setStep('walk_dest', 'tap'); }
+    else if (step === 'walk_dest') setStep('done', 'tap');
+  });
+  var nb = $('#newBtn');
+  if (nb) nb.addEventListener('click', resetTrip);
+  var det = b.querySelector('details[data-k]');
+  if (det) det.addEventListener('toggle', function(){ drawStep(false); });
 }
+
+/* Rewrite just the numbers, so a 60s refresh never moves the button under a
+   thumb already travelling toward it. */
+function patchLive(){
+  var el;
+  if (step === 'walk_bike' && pickup && me){
+    pickup.dist = haversine(me, pickup);
+    el = document.querySelector('[data-live="pickup"]');
+    if (el) el.innerHTML = bikeMeta(pickup);
+  }
+  if (step === 'ride' && dropoff){
+    el = document.querySelector('[data-live="drop"]');
+    if (el){
+      var cur = stations.get(dropoff.id) || dropoff;
+      el.innerHTML = '<span class="stat ' + dockClass(cur.docks) + '">' + cur.docks +
+        ' open dock' + (cur.docks === 1 ? '' : 's') + '</span> of ' + dropoff.capacity +
+        ' · ' + fmtDist(dropoff.dist) + ' from ' + esc(dest.label) +
+        ' (' + walkMin(dropoff.dist) + ' min walk)' + staleNote(cur);
+    }
+    var sub = $('#legSub');
+    if (sub && me) sub.textContent = fmtDist(haversine(me, dropoff)) + ' to go';
+  }
+}
+
+function openSheet(){ $('#sheet').classList.add('on'); $('#peek').classList.remove('on'); }
 function collapseSheet(){
   $('#sheet').classList.remove('on');
-  if (plan && plan.park){
-    $('#peek').innerHTML = '<div><b>' + esc(plan.park.name) + '</b>' +
-      '<div class="meta"><span class="' + dockClass(plan.park.docks) + '">' +
-      plan.park.docks + ' open</span> · ' + walkMin(plan.park.dist) + ' min walk to ' +
-      esc(dest.label) + '</div></div><div class="meta">▲</div>';
+  var target = step === 'walk_bike' ? pickup : dropoff;
+  if (target && dest){
+    $('#peek').innerHTML = '<div><b>' + esc(target.name) + '</b><div class="meta">' +
+      (step === 'walk_bike' ? 'Walk ' + walkMin(target.dist) + ' min to the bike'
+                            : walkMin(target.dist) + ' min walk to ' + esc(dest.label)) +
+      '</div></div><div class="meta">▲</div>';
     $('#peek').classList.add('on');
   }
 }
-/* Drag the grip down to tuck the sheet away; it snaps back if you don't mean it. */
 function wireSheetDrag(){
   var sheet = $('#sheet'), wrap = $('#gripWrap');
   var startY = null, dy = 0, h = 0, moved = false;
-
-  function down(y){
-    startY = y; dy = 0; moved = false;
-    h = sheet.getBoundingClientRect().height;
-    sheet.style.transition = 'none';
-  }
-  function move(y){
-    if (startY === null) return;
-    dy = Math.max(0, y - startY);
-    if (dy > 4) moved = true;
-    sheet.style.transform = 'translateY(' + dy + 'px)';
-  }
-  function up(){
-    if (startY === null) return;
-    sheet.style.transition = '';
-    sheet.style.transform = '';
-    if (moved && dy > Math.min(90, h * 0.3)) collapseSheet();
-    startY = null;
-  }
+  function down(y){ startY = y; dy = 0; moved = false;
+                    h = sheet.getBoundingClientRect().height; sheet.style.transition = 'none'; }
+  function move(y){ if (startY === null) return;
+                    dy = Math.max(0, y - startY); if (dy > 4) moved = true;
+                    sheet.style.transform = 'translateY(' + dy + 'px)'; }
+  function up(){ if (startY === null) return;
+                 sheet.style.transition = ''; sheet.style.transform = '';
+                 if (moved && dy > Math.min(90, h * 0.3)) collapseSheet();
+                 startY = null; }
   wrap.addEventListener('touchstart', function(e){ down(e.touches[0].clientY); }, { passive:true });
   wrap.addEventListener('touchmove',  function(e){ move(e.touches[0].clientY); }, { passive:true });
   wrap.addEventListener('touchend',   up, { passive:true });
   wrap.addEventListener('touchcancel',up, { passive:true });
   wrap.addEventListener('click', function(){ if (!moved) collapseSheet(); });
   $('#peek').addEventListener('click', openSheet);
+}
+
+/* ---------- trip persistence ---------- */
+function saveTrip(){
+  try{
+    if (!dest || step === 'idle'){ localStorage.removeItem('bdf.trip'); return; }
+    localStorage.setItem('bdf.trip', JSON.stringify({
+      v:1, step:step, dest:dest, pickupId:pickup && pickup.id, dropoffId:dropoff && dropoff.id,
+      pinnedPickupId:pinnedPickupId, pinnedDropoffId:pinnedDropoffId,
+      startedAt:tripStartedAt, savedAt:Date.now()
+    }));
+  }catch(e){}
+}
+function offerResume(){
+  var t;
+  try{ t = JSON.parse(localStorage.getItem('bdf.trip') || 'null'); }catch(e){ return; }
+  if (!t || !t.dest || Date.now() - t.savedAt > 45*60000){
+    try{ localStorage.removeItem('bdf.trip'); }catch(e){}
+    return;
+  }
+  $('#peek').innerHTML = '<div><b>Resume trip to ' + esc(t.dest.label) + '</b>' +
+    '<div class="meta">Tap to pick up where you left off</div></div><div class="meta">▲</div>';
+  $('#peek').classList.add('on');
+  $('#peek').onclick = function(){
+    $('#peek').onclick = null;
+    dest = t.dest; $('#q').value = t.dest.label;
+    pinnedPickupId = t.pinnedPickupId; pinnedDropoffId = t.pinnedDropoffId;
+    tripStartedAt = t.startedAt || Date.now();
+    if (t.dropoffId && stations.has(t.dropoffId)) dropoff = withDist(stations.get(t.dropoffId), dest);
+    setStep(t.step || 'walk_bike', 'restore');
+    $('#peek').onclick = openSheet;
+  };
+}
+function resetTrip(){
+  step = 'idle'; dest = null; pickup = dropoff = null;
+  pickupAlts = dropoffAlts = []; pinnedPickupId = pinnedDropoffId = null;
+  armedOnce = false; tripStartedAt = 0;
+  try{ localStorage.removeItem('bdf.trip'); }catch(e){}
+  $('#q').value = ''; $('#sheetBody').innerHTML = ''; $('#stepAction').innerHTML = '';
+  $('#sheet').classList.remove('on'); $('#peek').classList.remove('on');
+  clearPlanLayers();
+  if (me){ setFollow(true); map.setView([me.lat, me.lon], 16); }
 }
 
 /* ---------- recents ---------- */
@@ -881,7 +1155,6 @@ function getRecent(){
 }
 function openResults(){ $('#results').classList.add('on'); document.body.classList.add('searching'); }
 function closeResults(){ $('#results').classList.remove('on'); document.body.classList.remove('searching'); }
-
 function showRecent(){
   var r = getRecent(), box = $('#results');
   if (!r.length){ closeResults(); return; }
@@ -896,25 +1169,55 @@ function showRecent(){
   openResults();
 }
 
-/* ---------- search wiring ---------- */
+/* ---------- diagnostic ---------- */
+function showDiag(){
+  var d = $('#diag');
+  var standalone = (window.navigator.standalone === true) ||
+                   (window.matchMedia && window.matchMedia('(display-mode: standalone)').matches);
+  function row(k, v){ return '<div>' + k + ': <b>' + esc(String(v)) + '</b></div>'; }
+  var html = '<h3>Location status</h3>';
+  html += row('secure context', window.isSecureContext);
+  html += row('geolocation API', !!navigator.geolocation);
+  html += row('state', geoState);
+  html += row('watch id', watchId === null ? 'none' : watchId);
+  html += row('last fix', lastFixAt ? Math.round((Date.now()-lastFixAt)/1000) + 's ago' : 'never');
+  html += row('accuracy', me ? Math.round(me.acc) + ' m' : '—');
+  html += row('position', me ? me.lat.toFixed(5) + ', ' + me.lon.toFixed(5) : '—');
+  html += row('last error', lastGeoErr
+    ? 'code ' + lastGeoErr.code + ' — ' + (lastGeoErr.message || '(no message)') : 'none');
+  html += row('home-screen app', standalone);
+  html += row('following', follow);
+  html += '<h3 style="margin-top:12px">Data</h3>';
+  html += row('stations', stations.size);
+  html += row('free e-bikes', freeBikes.length);
+  html += row('status age', Math.round((Date.now()-statusAt)/1000) + 's');
+  html += row('step', step);
+  html += '<div style="margin-top:12px"><button class="btn" id="diagClose">Close</button></div>';
+  d.innerHTML = html; d.classList.add('on');
+  $('#diagClose').addEventListener('click', function(){ d.classList.remove('on'); });
+  if (navigator.permissions && navigator.permissions.query){
+    navigator.permissions.query({ name:'geolocation' }).then(function(p){
+      var e = document.createElement('div');
+      e.innerHTML = 'permission API: <b>' + p.state + '</b>';
+      d.insertBefore(e, d.children[2]);
+    }).catch(function(){});
+  }
+}
+
+/* ---------- search ---------- */
 var searchTimer, searchToken = 0;
 function wire(){
   var q = $('#q'), box = $('#results');
-
   q.addEventListener('input', function(){
     clearTimeout(searchTimer);
     var v = q.value.trim();
     if (v.length < 3){ showRecent(); return; }
     searchTimer = setTimeout(function(){
       var token = ++searchToken;
-      box.innerHTML = '<div class="res hint">Searching…</div>';
-      openResults();
+      box.innerHTML = '<div class="res hint">Searching…</div>'; openResults();
       geocode(v).then(function(hits){
-        if (token !== searchToken) return;       // an older query finishing late
-        if (!hits.length){
-          box.innerHTML = '<div class="res hint">Nothing found around the Bay</div>';
-          return;
-        }
+        if (token !== searchToken) return;
+        if (!hits.length){ box.innerHTML = '<div class="res hint">Nothing found around the Bay</div>'; return; }
         box.innerHTML = hits.map(function(h, i){
           return '<div class="res" data-i="' + i + '"><b>' + esc(h.label) + '</b><span>' +
                  esc(h.sub || '') + '</span></div>';
@@ -928,7 +1231,6 @@ function wire(){
       });
     }, 350);
   });
-
   q.addEventListener('focus', function(){ if (q.value.trim().length < 3) showRecent(); });
   q.addEventListener('keydown', function(e){
     if (e.key === 'Enter'){
@@ -937,32 +1239,23 @@ function wire(){
       if (f) f.click(); else q.blur();
     }
   });
-  $('#clearBtn').addEventListener('click', function(){
-    q.value = ''; dest = null; plan = null; pinnedParkId = null;
-    closeResults();
-    $('#sheet').classList.remove('on');
-    $('#peek').classList.remove('on');
-    clearPlanLayers();
-    if (me){ setFollow(true); map.setView([me.lat, me.lon], 16); }
-  });
+  $('#clearBtn').addEventListener('click', resetTrip);
   $('#locBtn').addEventListener('click', function(){ startWatch(true); });
-
-  // Tapping the map dismisses the keyboard/results without losing the plan.
+  $('#foot').addEventListener('click', showDiag);
   map.on('click', function(){ closeResults(); $('#q').blur(); });
-
   wireSheetDrag();
 }
 
 /* ---------- boot ---------- */
-try{ mode = localStorage.getItem('bdf.mode') || 'riding'; }catch(e){}
 initMap();
 wire();
 setGeo('off');
+if (navigator.storage && navigator.storage.persist) navigator.storage.persist().catch(function(){});
 
-toast('Loading Bay Wheels racks…', 0);
-loadStations().then(function(){
-  hideToast();
-  if (dest) buildPlan(true);
+toast('Loading Bay Wheels…', 0);
+Promise.all([loadStations(), loadBikeNames().then(loadFreeBikes)]).then(function(){
+  hideToast('Loading Bay Wheels…');
+  offerResume();
 }).catch(function(){
   toast('Could not reach the Bay Wheels feed. Check your connection.', 5000);
 });
@@ -970,15 +1263,26 @@ loadStations().then(function(){
 startWatch(false);
 
 setInterval(function(){
-  refreshStatus().then(function(){
-    if (dest) buildPlan(false);      // refresh the numbers, don't move the map
+  Promise.all([refreshStatus(), freeBikesIfRelevant()]).then(function(){
+    if (!dest || step === 'idle') return;
+    computeTargets();
+    patchLive();
   }).catch(function(){});
 }, REFRESH_MS);
 
-// Re-check the moment you come back to the app — the numbers will be stale.
 document.addEventListener('visibilitychange', function(){
-  if (document.visibilityState === 'visible' && Date.now() - statusAt > 30000){
-    refreshStatus().then(function(){ if (dest) buildPlan(false); }).catch(function(){});
+  if (document.visibilityState !== 'visible') return;
+  if (Date.now() - statusAt > 30000){
+    Promise.all([refreshStatus(), freeBikesIfRelevant()]).then(function(){
+      if (dest && step !== 'idle'){ computeTargets(); render(); drawStep(false); }
+    }).catch(function(){});
+  }
+  // iOS suspends the watch on screen lock; re-arm a genuinely dead one, but
+  // never tear down a request still legitimately in flight.
+  if (geoState === 'live' && !watchIsHealthy()){
+    var keptFollow = follow;
+    startWatch(false);
+    follow = keptFollow; setGeo(geoState);
   }
 });
 
