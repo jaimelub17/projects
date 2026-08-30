@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-08-30T00` (UTC). History: 8 snapshots spanning 47h.
-Reference windows: short = `2026-08-29T16`, day = `2026-08-29T02`.
+Generated from snapshot `2026-08-30T08` (UTC). History: 9 snapshots spanning 55h.
+Reference windows: short = `2026-08-30T00`, day = `2026-08-29T11`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Red Dead Redemption II | +9.69 | 29 | 18,004 | +511% | +592% | 100 | +1% | 0.4352 | IGNITION:niklaswilson,fanum |
-| 2 | Darkest Dungeon | +4.26 | 25 | 22,498 | - | +74% | 29 | - | 0.4679 | ENTRY IGNITION:moonmoon,sodapoppin |
-| 3 | Apex Legends | +3.66 | 10 | 51,314 | +406% | +58% | 99 | +2% | 0.2446 |  |
-| 4 | Waterpark Simulator | +3.61 | 65 | 5,175 | - | +128% | 100 | - | 0.2284 | ENTRY |
-| 5 | Big Ambitions | +3.25 | 34 | 12,173 | - | - | 12 | - | 0.9699 | ENTRY IGNITION:jerma985 |
-| 6 | nanos world | +3.25 | 49 | 6,827 | - | - | 39 | - | 0.6889 | ENTRY IGNITION:mehditdonc |
-| 7 | Little Nightmares II | +3.25 | 66 | 5,071 | - | - | 5 | - | 0.9974 | ENTRY IGNITION:realzbluewater |
-| 8 | Overwatch | +3.11 | 13 | 34,576 | +126% | +218% | 96 | +3% | 0.2533 |  |
-| 9 | Project P.I.T.T. | +2.62 | 70 | 4,667 | +4% | - | 11 | +22% | 0.9638 | BREADTH ENTRY IGNITION:locklear |
-| 10 | Project Zomboid | +2.58 | 32 | 13,330 | +30% | +90% | 99 | -1% | 0.4884 | IGNITION:squeex |
-| 11 | Chained Together | +2.52 | 2 | 115,917 | +38% | - | 32 | +52% | 0.5758 | BREADTH ENTRY |
-| 12 | MLB The Show 26 | +2.25 | 87 | 3,418 | - | - | 99 | - | 0.2194 | ENTRY |
-| 13 | BodyCam 2025 | +2.25 | 98 | 2,840 | - | - | 3 | - | 0.9979 | ENTRY |
-| 14 | The Choicer Voicer | +2.25 | 95 | 3,005 | - | - | 35 | - | 0.8386 | ENTRY |
-| 15 | Heroes of Might and Magic III: The Restoration of Erathia | +2.25 | 64 | 5,129 | - | - | 20 | - | 0.5857 | ENTRY |
+| 1 | Rust | +6.92 | 3 | 87,599 | +2974% | +4% | 99 | +0% | 0.3315 |  |
+| 2 | Call of Duty: Black Ops 7 | +3.25 | 45 | 5,404 | - | - | 97 | - | 0.8521 | ENTRY IGNITION:itsdkal |
+| 3 | Halo 3 | +3.25 | 36 | 6,720 | - | - | 6 | - | 0.747 | ENTRY IGNITION:cdawg |
+| 4 | Splatoon 2 | +3.25 | 21 | 14,974 | - | - | 1 | - | 1.0 | ENTRY IGNITION:gon_vl |
+| 5 | Street Fighter X Tekken | +3.25 | 42 | 6,225 | - | - | 1 | - | 1.0 | ENTRY IGNITION:maximilian_dood |
+| 6 | Wordless Forest | +3.25 | 50 | 4,598 | - | - | 1 | - | 1.0 | ENTRY IGNITION:mynthos |
+| 7 | Super Mario Maker 2 | +3.02 | 27 | 11,189 | +232% | - | 8 | -53% | 0.99 | ENTRY IGNITION:batora324 |
+| 8 | Street Fighter 6 | +2.72 | 13 | 19,593 | - | +82% | 100 | - | 0.3933 | ENTRY |
+| 9 | I'm Only Sleeping | +2.46 | 28 | 10,422 | +133% | -11% | 97 | -1% | 0.3881 | IGNITION:cinna |
+| 10 | RimWorld | +2.32 | 90 | 1,879 | - | - | 26 | - | 0.81 | ENTRY |
+| 11 | Farming Simulator 25 | +2.29 | 96 | 1,635 | - | - | 100 | - | 0.1529 | ENTRY |
+| 12 | Shadowverse: Worlds Beyond | +2.25 | 35 | 7,151 | - | - | 39 | - | 0.4809 | ENTRY |
+| 13 | Wolcen 2 | +2.25 | 67 | 3,312 | - | - | 3 | - | 0.532 | ENTRY |
+| 14 | Starbound | +2.25 | 92 | 1,829 | - | - | 2 | - | 0.994 | ENTRY |
+| 15 | No, I'm Not A Human | +2.25 | 83 | 2,075 | - | - | 5 | - | 0.9971 | ENTRY |
 
 ## Ignition alerts
 
@@ -30,28 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Pokémon Trading Card Game | pokemontcg | 20,087 | 16,024 | 83% | 27 |
-| Big Ambitions | jerma985 | 11,806 | 11,806 | 97% | 34 |
-| Little Nightmares II | realzbluewater | 5,058 | 5,058 | 100% | 66 |
-| nanos world | mehditdonc | 5,566 | 4,703 | 69% | 49 |
-| Project P.I.T.T. | locklear | 5,433 | 4,498 | 96% | 70 |
-| Pokémon UNITE | pokemonunite | 7,375 | 4,162 | 57% | 46 |
-| Cyberpunk 2077 | jltomy | 6,145 | 3,491 | 74% | 68 |
+| Splatoon 2 | gon_vl | 14,974 | 14,974 | 100% | 21 |
+| Pokémon Champions | pokemon | 63,452 | 12,337 | 95% | 25 |
+| Super Mario Maker 2 | batora324 | 11,077 | 11,077 | 99% | 27 |
+| Darkest Dungeon | sodapoppin | 10,195 | 9,945 | 93% | 29 |
+| Street Fighter X Tekken | maximilian_dood | 6,225 | 6,225 | 100% | 42 |
+| Halo 3 | cdawg | 5,348 | 5,020 | 75% | 36 |
+| Call of Duty: Black Ops 7 | itsdkal | 4,605 | 4,605 | 85% | 45 |
+| Wordless Forest | mynthos | 6,006 | 4,598 | 100% | 50 |
+| Pokémon Trading Card Game | pokemontcg | 20,087 | 3,499 | 89% | 58 |
+| Pokémon UNITE | pokemonunite | 7,375 | 1,495 | 75% | 86 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 0.503 | Overwatch | 34,576 | 68,697 |
-| 0.493 | Grand Theft Auto V | 44,153 | 89,493 |
-| 0.419 | Red Dead Redemption II | 18,004 | 42,994 |
-| 0.35 | Escape from Tarkov | 13,524 | 38,610 |
-| 0.321 | Mortal Shell II | 7,135 | 22,220 |
-| 0.029 | Dota 2 | 26,738 | 917,705 |
-| 0.025 | Counter-Strike | 31,371 | 1,251,152 |
-| 0.023 | Rust | 2,850 | 124,952 |
-| 0.017 | How to Fish | 5,038 | 288,978 |
-| 0.007 | PUBG: BATTLEGROUNDS | 5,387 | 736,109 |
+| 0.703 | Rust | 87,599 | 124,616 |
+| 0.562 | Street Fighter 6 | 19,593 | 34,849 |
+| 0.368 | Yu-Gi-Oh! Master Duel | 6,423 | 17,434 |
+| 0.308 | Escape from Tarkov | 12,773 | 41,511 |
+| 0.23 | Star Wars Zero Company | 17,178 | 74,834 |
+| 0.029 | Delta Force | 3,329 | 114,293 |
+| 0.022 | Counter-Strike | 27,750 | 1,282,502 |
+| 0.019 | Rainbow Six Siege | 1,773 | 93,585 |
+| 0.01 | Palworld | 2,041 | 198,776 |
+| 0.003 | PUBG: BATTLEGROUNDS | 1,945 | 729,602 |
 
 ---
 
