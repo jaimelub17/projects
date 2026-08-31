@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-08-30T22` (UTC). History: 12 snapshots spanning 69h.
-Reference windows: short = `2026-08-30T14`, day = `2026-08-29T20`.
+Generated from snapshot `2026-08-31T05` (UTC). History: 13 snapshots spanning 76h.
+Reference windows: short = `2026-08-30T22`, day = `2026-08-30T08`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Pokémon Trading Card Game | +8.95 | 5 | 88,107 | +1150% | +277% | 100 | +194% | 0.6015 |  |
-| 2 | SILENT BREATH | +4.25 | 28 | 16,127 | - | - | 4 | - | 0.4618 | ENTRY IGNITION:xrohat,giggand |
-| 3 | Rocket League | +3.28 | 36 | 9,222 | +101% | +126% | 96 | -4% | 0.3426 |  |
-| 4 | Golf With Your Friends | +3.25 | 31 | 12,682 | - | - | 23 | - | 0.9341 | ENTRY IGNITION:therealmarzaa |
-| 5 | Snowed Under | +3.25 | 27 | 16,212 | - | - | 3 | - | 0.9997 | ENTRY IGNITION:gronkh |
-| 6 | The Last of Us Part II Remastered | +3.25 | 62 | 6,154 | - | - | 86 | - | 0.9139 | ENTRY IGNITION:itachi |
-| 7 | Pokémon | +3.25 | 89 | 3,063 | - | - | 53 | - | 0.7382 | ENTRY IGNITION:kkatamina |
-| 8 | Project P.I.T.T. | +2.65 | 72 | 4,944 | - | -14% | 16 | - | 0.9858 | ENTRY IGNITION:locklear |
-| 9 | VRChat | +2.50 | 58 | 6,458 | +87% | +18% | 98 | +21% | 0.233 |  |
-| 10 | Geometry Dash | +2.33 | 97 | 2,756 | - | - | 99 | - | 0.7025 | ENTRY |
-| 11 | Warframe | +2.30 | 85 | 2,770 | - | - | 99 | - | 0.0856 | ENTRY |
-| 12 | Terraria | +2.30 | 79 | 3,694 | - | - | 99 | - | 0.82 | ENTRY |
-| 13 | Phasmophobia | +2.30 | 73 | 4,216 | - | - | 100 | - | 0.3444 | ENTRY |
-| 14 | Halo Infinite | +2.25 | 99 | 3,046 | - | - | 82 | - | 0.5726 | ENTRY |
-| 15 | Call of Duty: Black Ops 7 | +2.25 | 92 | 2,475 | - | - | 100 | - | 0.0974 | ENTRY |
+| 1 | EA Sports FC 26 | +8.13 | 3 | 43,869 | +354% | +1252% | 100 | +3% | 0.9228 |  |
+| 2 | Rust | +4.74 | 4 | 42,807 | +1449% | -51% | 100 | +2% | 0.4104 |  |
+| 3 | the cabin game | +3.25 | 31 | 8,974 | - | - | 13 | - | 0.8267 | ENTRY IGNITION:ironmouse |
+| 4 | Street Fighter V | +3.25 | 24 | 12,904 | - | - | 2 | - | 0.9998 | ENTRY IGNITION:lowtiergod |
+| 5 | Black Myth: Wukong | +3.24 | 37 | 6,833 | - | - | 59 | - | 0.8354 | ENTRY IGNITION:kaise |
+| 6 | Mistfall Hunter | +2.54 | 69 | 2,432 | - | +28% | 100 | - | 0.3729 | ENTRY |
+| 7 | Minecraft Dungeons | +2.25 | 72 | 2,215 | - | - | 16 | - | 0.5964 | ENTRY |
+| 8 | LOCKDOWN Protocol | +2.25 | 57 | 3,324 | - | - | 9 | - | 0.7037 | ENTRY |
+| 9 | Crime Simulator | +2.25 | 93 | 1,614 | - | - | 3 | - | 0.9994 | ENTRY |
+| 10 |  SEKIRO: SHADOWS DIE TWICE | +2.25 | 95 | 1,578 | - | - | 29 | - | 0.8156 | ENTRY |
+| 11 | Endacopia | +2.25 | 76 | 2,171 | - | - | 17 | - | 0.9484 | ENTRY |
+| 12 | Waterpark Simulator | +2.25 | 2 | 62,905 | - | - | 53 | - | 0.9681 | ENTRY |
+| 13 | TEKKEN 8 | +2.25 | 90 | 1,732 | - | - | 79 | - | 0.336 | ENTRY |
+| 14 | Going Medieval | +2.25 | 98 | 1,568 | - | - | 3 | - | 0.9452 | ENTRY |
+| 15 | The Forest | +2.25 | 70 | 2,328 | - | - | 22 | - | 0.9785 | ENTRY |
 
 ## Ignition alerts
 
@@ -30,28 +30,27 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Snowed Under | gronkh | 27,718 | 16,207 | 100% | 27 |
-| Golf With Your Friends | therealmarzaa | 11,846 | 11,846 | 93% | 31 |
-| The Last of Us Part II Remastered | itachi | 8,040 | 5,624 | 91% | 62 |
-| Project P.I.T.T. | locklear | 5,433 | 4,874 | 99% | 72 |
-| World of Tanks | dakillzor | 8,827 | 4,015 | 58% | 55 |
-| nanos world | mehditdonc | 5,566 | 3,345 | 59% | 65 |
-| Pokémon | kkatamina | 5,462 | 2,261 | 74% | 89 |
+| Street Fighter V | lowtiergod | 12,902 | 12,902 | 100% | 24 |
+| Pokémon Champions | pokemon | 69,321 | 10,014 | 77% | 23 |
+| the cabin game | ironmouse | 7,419 | 7,419 | 83% | 31 |
+| Street Fighter 6 | stylishnoob4 | 19,234 | 5,747 | 69% | 34 |
+| Black Myth: Wukong | kaise | 5,708 | 5,708 | 84% | 37 |
+| Uncharted 3: Drake's Deception Remastered | valkyrae | 4,636 | 4,636 | 100% | 49 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 0.834 | Grand Theft Auto V | 76,460 | 91,642 |
-| 0.762 | Overwatch | 56,930 | 74,742 |
-| 0.738 | Escape from Tarkov | 30,617 | 41,511 |
-| 0.345 | Rocket League | 9,222 | 26,708 |
-| 0.276 | Mortal Shell II | 7,109 | 25,795 |
-| 0.032 | Counter-Strike | 41,410 | 1,282,502 |
-| 0.03 | Palworld | 6,009 | 198,776 |
-| 0.022 | Rust | 2,764 | 124,616 |
-| 0.02 | How to Fish | 5,109 | 261,588 |
-| 0.01 | PUBG: BATTLEGROUNDS | 7,192 | 729,602 |
+| 0.454 | EA Sports FC 26 | 43,869 | 96,647 |
+| 0.421 | Escape from Tarkov | 17,791 | 42,251 |
+| 0.356 | Rust | 42,807 | 120,326 |
+| 0.247 | Street Fighter 6 | 8,293 | 33,601 |
+| 0.2 | Dead by Daylight | 16,337 | 81,669 |
+| 0.016 | Palworld | 3,228 | 204,851 |
+| 0.011 | How to Fish | 2,606 | 240,308 |
+| 0.01 | Counter-Strike | 12,993 | 1,343,038 |
+| 0.008 | RimWorld | 314 | 38,784 |
+| 0.003 | PUBG: BATTLEGROUNDS | 1,899 | 744,374 |
 
 ---
 
