@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-08-31T20` (UTC). History: 15 snapshots spanning 91h.
-Reference windows: short = `2026-08-31T13`, day = `2026-08-30T19`.
+Generated from snapshot `2026-08-31T23` (UTC). History: 16 snapshots spanning 94h.
+Reference windows: short = `2026-08-31T20`, day = `2026-08-30T22`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Pokémon Champions | +4.95 | 40 | 11,963 | - | +74% | 86 | - | 0.598 | ENTRY IGNITION:pokemon,pokemontcg |
-| 2 | Red Dead Redemption II | +4.90 | 41 | 9,764 | +210% | +88% | 99 | +0% | 0.5059 | IGNITION:niklaswilson |
-| 3 | Phasmophobia | +4.64 | 63 | 6,738 | - | +123% | 99 | - | 0.6907 | ENTRY IGNITION:insym |
-| 4 | Breathedge 2 | +4.54 | 91 | 3,952 | +27% | - | 98 | +553% | 0.2685 | BREADTH ENTRY |
-| 5 | Virtual Casino | +3.99 | 30 | 18,359 | +97% | +69% | 43 | +95% | 0.0995 |  |
-| 6 | War Thunder | +3.97 | 69 | 5,498 | - | +74% | 93 | - | 0.6561 | ENTRY IGNITION:zentreya |
-| 7 | Rocket League | +3.62 | 18 | 24,891 | +297% | +46% | 96 | +2% | 0.5126 |  |
-| 8 | Project Zomboid | +3.54 | 16 | 33,324 | +335% | +34% | 98 | -2% | 0.2989 |  |
-| 9 | Path of Exile 2 | +3.32 | 46 | 9,766 | +58% | +57% | 98 | +1% | 0.5144 | IGNITION:fubgun |
-| 10 | Crimson Desert | +3.32 | 82 | 4,541 | - | - | 96 | - | 0.93 | ENTRY IGNITION:locklear |
-| 11 | Madison VR | +3.25 | 77 | 5,038 | - | - | 1 | - | 1.0 | ENTRY IGNITION:xthesolutiontv |
-| 12 | SILENT HILL 2 | +3.25 | 35 | 13,626 | - | - | 43 | - | 0.9738 | ENTRY IGNITION:zarbex |
-| 13 | Ultrapool | +3.25 | 36 | 13,353 | - | - | 4 | - | 0.9989 | ENTRY IGNITION:northernlion |
-| 14 | GeoGuessr | +3.25 | 33 | 14,647 | - | - | 51 | - | 0.9483 | ENTRY IGNITION:lirik |
-| 15 | Granny | +3.25 | 37 | 13,234 | - | - | 6 | - | 0.9914 | ENTRY IGNITION:deepins02 |
+| 1 | Darkest Dungeon | +4.76 | 29 | 13,030 | - | +135% | 29 | - | 0.8292 | ENTRY IGNITION:moonmoon |
+| 2 | NBA 2K27 | +3.84 | 5 | 57,232 | +253% | +140% | 100 | +0% | 0.676 |  |
+| 3 | PUBG: BATTLEGROUNDS | +3.50 | 26 | 13,894 | +64% | +93% | 99 | +0% | 0.3454 | IGNITION:krokoboss |
+| 4 | Risk of Rain 2 | +3.25 | 99 | 2,385 | - | - | 25 | - | 0.6822 | ENTRY IGNITION:foolish |
+| 5 | Stonewards | +3.25 | 63 | 4,857 | - | - | 5 | - | 0.8316 | ENTRY IGNITION:locklear |
+| 6 | Pogostuck: Rage With Your Friends | +2.51 | 68 | 4,549 | -10% | +57% | 7 | -12% | 0.9692 | IGNITION:yuyuta0702 |
+| 7 | THE FINALS | +2.30 | 85 | 2,718 | - | - | 95 | - | 0.6015 | ENTRY |
+| 8 | Among Us | +2.30 | 67 | 4,516 | - | - | 78 | - | 0.3282 | ENTRY |
+| 9 | Battlefield 6 | +2.29 | 92 | 2,185 | - | - | 100 | - | 0.1382 | ENTRY |
+| 10 | Among Us | +2.25 | 89 | 3,520 | - | - | 10 | - | 0.9938 | ENTRY |
+| 11 | Fears to Fathom: Woodbury Getaway | +2.25 | 87 | 2,704 | - | - | 2 | - | 0.9623 | ENTRY |
+| 12 | Call of Duty: Black Ops III | +2.25 | 80 | 3,124 | - | - | 100 | - | 0.8092 | ENTRY |
+| 13 | Dark and Darker | +2.25 | 77 | 3,226 | - | - | 54 | - | 0.6559 | ENTRY |
+| 14 | Valheim | +2.25 | 93 | 2,481 | - | - | 84 | - | 0.5885 | ENTRY |
+| 15 | I'm Only Sleeping | +2.25 | 90 | 2,645 | - | - | 100 | - | 0.1739 | ENTRY |
 
 ## Ignition alerts
 
@@ -30,31 +30,28 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| The Pale Mimic | youngmulti | 16,337 | 16,337 | 100% | 31 |
-| GeoGuessr | lirik | 18,304 | 13,890 | 95% | 33 |
-| Ultrapool | northernlion | 13,338 | 13,338 | 100% | 36 |
-| SILENT HILL 2 | zarbex | 13,269 | 13,269 | 97% | 35 |
-| EA Sports FC 26 | gamerbrother | 13,233 | 13,233 | 77% | 27 |
-| Granny | deepins02 | 13,120 | 13,120 | 99% | 37 |
-| Metal Gear Solid 4: Guns of the Patriots - Master Collection Version | alanzoka | 7,694 | 7,694 | 96% | 58 |
-| Pokémon Champions | pokemon | 69,321 | 7,154 | 60% | 40 |
-| Madison VR | xthesolutiontv | 5,038 | 5,038 | 100% | 77 |
-| Path of Exile 2 | fubgun | 5,024 | 5,024 | 51% | 46 |
+| Darkest Dungeon | moonmoon | 13,957 | 10,804 | 83% | 29 |
+| Metal Gear Solid 4: Guns of the Patriots - Master Collection Version | alanzoka | 7,694 | 7,411 | 91% | 39 |
+| EA Sports FC 26 | gamerbrother | 13,233 | 7,248 | 70% | 31 |
+| GeoGuessr | gingy | 7,682 | 5,436 | 83% | 52 |
+| Pogostuck: Rage With Your Friends | yuyuta0702 | 5,955 | 4,409 | 97% | 68 |
+| Stonewards | locklear | 5,433 | 4,039 | 83% | 63 |
+| Risk of Rain 2 | foolish | 9,603 | 1,627 | 68% | 99 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 0.952 | Grand Theft Auto V | 92,186 | 96,860 |
-| 0.884 | Rocket League | 24,891 | 28,168 |
-| 0.681 | Escape from Tarkov | 28,769 | 42,251 |
-| 0.466 | Star Wars Zero Company | 36,295 | 77,889 |
-| 0.373 | Phasmophobia | 6,738 | 18,055 |
-| 0.05 | Dota 2 | 48,580 | 963,976 |
-| 0.04 | Apex Legends | 11,228 | 278,891 |
-| 0.027 | Delta Force | 3,178 | 115,589 |
-| 0.026 | Palworld | 5,224 | 204,851 |
-| 0.011 | PUBG: BATTLEGROUNDS | 8,481 | 744,374 |
+| 0.722 | Grand Theft Auto V | 69,946 | 96,860 |
+| 0.548 | Escape from Tarkov | 23,165 | 42,251 |
+| 0.246 | Among Us | 4,516 | 18,325 |
+| 0.222 | Rocket League | 6,266 | 28,168 |
+| 0.222 | Overwatch | 17,275 | 77,868 |
+| 0.024 | Palworld | 4,991 | 204,851 |
+| 0.024 | How to Fish | 5,796 | 240,308 |
+| 0.022 | Counter-Strike | 30,155 | 1,343,038 |
+| 0.02 | Delta Force | 2,344 | 115,589 |
+| 0.019 | PUBG: BATTLEGROUNDS | 13,894 | 744,374 |
 
 ---
 
