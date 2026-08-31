@@ -1,0 +1,607 @@
+{
+ "response": {
+  "rollup_date": 1788048000,
+  "ranks": [
+   {
+    "rank": 1,
+    "appid": 730,
+    "last_week_rank": 1,
+    "peak_in_game": 1343038
+   },
+   {
+    "rank": 2,
+    "appid": 570,
+    "last_week_rank": 2,
+    "peak_in_game": 963976
+   },
+   {
+    "rank": 3,
+    "appid": 578080,
+    "last_week_rank": 3,
+    "peak_in_game": 744374
+   },
+   {
+    "rank": 4,
+    "appid": 431960,
+    "last_week_rank": 4,
+    "peak_in_game": 117865
+   },
+   {
+    "rank": 5,
+    "appid": 4001890,
+    "last_week_rank": 6,
+    "peak_in_game": 240308
+   },
+   {
+    "rank": 6,
+    "appid": 1172470,
+    "last_week_rank": 5,
+    "peak_in_game": 278891
+   },
+   {
+    "rank": 7,
+    "appid": 1623730,
+    "last_week_rank": 7,
+    "peak_in_game": 204851
+   },
+   {
+    "rank": 8,
+    "appid": 271590,
+    "last_week_rank": 10,
+    "peak_in_game": 96860
+   },
+   {
+    "rank": 9,
+    "appid": 2868840,
+    "last_week_rank": 12,
+    "peak_in_game": 105320
+   },
+   {
+    "rank": 10,
+    "appid": 250900,
+    "last_week_rank": 11,
+    "peak_in_game": 96669
+   },
+   {
+    "rank": 11,
+    "appid": 4783780,
+    "last_week_rank": 30,
+    "peak_in_game": 87755
+   },
+   {
+    "rank": 12,
+    "appid": 553850,
+    "last_week_rank": 8,
+    "peak_in_game": 82073
+   },
+   {
+    "rank": 13,
+    "appid": 2767030,
+    "last_week_rank": 9,
+    "peak_in_game": 99369
+   },
+   {
+    "rank": 14,
+    "appid": 2676230,
+    "last_week_rank": 15,
+    "peak_in_game": 201812
+   },
+   {
+    "rank": 15,
+    "appid": 359550,
+    "last_week_rank": 16,
+    "peak_in_game": 103722
+   },
+   {
+    "rank": 16,
+    "appid": 3405690,
+    "last_week_rank": 13,
+    "peak_in_game": 96647
+   },
+   {
+    "rank": 17,
+    "appid": 381210,
+    "last_week_rank": 22,
+    "peak_in_game": 81669
+   },
+   {
+    "rank": 18,
+    "appid": 3240220,
+    "last_week_rank": 25,
+    "peak_in_game": 99893
+   },
+   {
+    "rank": 19,
+    "appid": 2357570,
+    "last_week_rank": 18,
+    "peak_in_game": 77868
+   },
+   {
+    "rank": 20,
+    "appid": 105600,
+    "last_week_rank": 17,
+    "peak_in_game": 73808
+   },
+   {
+    "rank": 21,
+    "appid": 236390,
+    "last_week_rank": 20,
+    "peak_in_game": 87619
+   },
+   {
+    "rank": 22,
+    "appid": 3527290,
+    "last_week_rank": 14,
+    "peak_in_game": 61531
+   },
+   {
+    "rank": 23,
+    "appid": 2807960,
+    "last_week_rank": 19,
+    "peak_in_game": 62897
+   },
+   {
+    "rank": 24,
+    "appid": 322170,
+    "last_week_rank": 23,
+    "peak_in_game": 61712
+   },
+   {
+    "rank": 25,
+    "appid": 413150,
+    "last_week_rank": 24,
+    "peak_in_game": 101137
+   },
+   {
+    "rank": 26,
+    "appid": 108600,
+    "last_week_rank": 21,
+    "peak_in_game": 106873
+   },
+   {
+    "rank": 27,
+    "appid": 1422450,
+    "last_week_rank": 26,
+    "peak_in_game": 90934
+   },
+   {
+    "rank": 28,
+    "appid": 2507950,
+    "last_week_rank": 29,
+    "peak_in_game": 115589
+   },
+   {
+    "rank": 29,
+    "appid": 252490,
+    "last_week_rank": 27,
+    "peak_in_game": 120326
+   },
+   {
+    "rank": 30,
+    "appid": 230410,
+    "last_week_rank": 28,
+    "peak_in_game": 70771
+   },
+   {
+    "rank": 31,
+    "appid": 1973530,
+    "last_week_rank": 31,
+    "peak_in_game": 33636
+   },
+   {
+    "rank": 32,
+    "appid": 1174180,
+    "last_week_rank": 46,
+    "peak_in_game": 59125
+   },
+   {
+    "rank": 33,
+    "appid": 227300,
+    "last_week_rank": 32,
+    "peak_in_game": 52952
+   },
+   {
+    "rank": 34,
+    "appid": 1091500,
+    "last_week_rank": 35,
+    "peak_in_game": 61668
+   },
+   {
+    "rank": 35,
+    "appid": 1086940,
+    "last_week_rank": 33,
+    "peak_in_game": 80399
+   },
+   {
+    "rank": 36,
+    "appid": 550,
+    "last_week_rank": 34,
+    "peak_in_game": 40164
+   },
+   {
+    "rank": 37,
+    "appid": 440,
+    "last_week_rank": 36,
+    "peak_in_game": 60891
+   },
+   {
+    "rank": 38,
+    "appid": 438100,
+    "last_week_rank": 37,
+    "peak_in_game": 64170
+   },
+   {
+    "rank": 39,
+    "appid": 1245620,
+    "last_week_rank": 49,
+    "peak_in_game": 52413
+   },
+   {
+    "rank": 40,
+    "appid": 3241660,
+    "last_week_rank": 40,
+    "peak_in_game": 33220
+   },
+   {
+    "rank": 41,
+    "appid": 1203220,
+    "last_week_rank": 39,
+    "peak_in_game": 67660
+   },
+   {
+    "rank": 42,
+    "appid": 2075800,
+    "last_week_rank": -1,
+    "peak_in_game": 77889
+   },
+   {
+    "rank": 43,
+    "appid": 394360,
+    "last_week_rank": 41,
+    "peak_in_game": 58104
+   },
+   {
+    "rank": 44,
+    "appid": 322330,
+    "last_week_rank": 42,
+    "peak_in_game": 54070
+   },
+   {
+    "rank": 45,
+    "appid": 2483190,
+    "last_week_rank": 50,
+    "peak_in_game": 29728
+   },
+   {
+    "rank": 46,
+    "appid": 1938090,
+    "last_week_rank": 43,
+    "peak_in_game": 32867
+   },
+   {
+    "rank": 47,
+    "appid": 284160,
+    "last_week_rank": 45,
+    "peak_in_game": 30218
+   },
+   {
+    "rank": 48,
+    "appid": 4000,
+    "last_week_rank": 48,
+    "peak_in_game": 39117
+   },
+   {
+    "rank": 49,
+    "appid": 1281930,
+    "last_week_rank": 47,
+    "peak_in_game": 39833
+   },
+   {
+    "rank": 50,
+    "appid": 1142710,
+    "last_week_rank": 53,
+    "peak_in_game": 50443
+   },
+   {
+    "rank": 51,
+    "appid": 3678970,
+    "last_week_rank": 44,
+    "peak_in_game": 92925
+   },
+   {
+    "rank": 52,
+    "appid": 1449850,
+    "last_week_rank": 51,
+    "peak_in_game": 17575
+   },
+   {
+    "rank": 53,
+    "appid": 252950,
+    "last_week_rank": 56,
+    "peak_in_game": 28168
+   },
+   {
+    "rank": 54,
+    "appid": 1665460,
+    "last_week_rank": 54,
+    "peak_in_game": 26456
+   },
+   {
+    "rank": 55,
+    "appid": 1222670,
+    "last_week_rank": 57,
+    "peak_in_game": 36764
+   },
+   {
+    "rank": 56,
+    "appid": 489830,
+    "last_week_rank": 58,
+    "peak_in_game": 39694
+   },
+   {
+    "rank": 57,
+    "appid": 4704690,
+    "last_week_rank": 52,
+    "peak_in_game": 16115
+   },
+   {
+    "rank": 58,
+    "appid": 289070,
+    "last_week_rank": 59,
+    "peak_in_game": 48715
+   },
+   {
+    "rank": 59,
+    "appid": 2358720,
+    "last_week_rank": 55,
+    "peak_in_game": 43250
+   },
+   {
+    "rank": 60,
+    "appid": 1364780,
+    "last_week_rank": 62,
+    "peak_in_game": 33601
+   },
+   {
+    "rank": 61,
+    "appid": 261550,
+    "last_week_rank": 60,
+    "peak_in_game": 50374
+   },
+   {
+    "rank": 62,
+    "appid": 2300320,
+    "last_week_rank": 64,
+    "peak_in_game": 56718
+   },
+   {
+    "rank": 63,
+    "appid": 251570,
+    "last_week_rank": 65,
+    "peak_in_game": 47479
+   },
+   {
+    "rank": 64,
+    "appid": 1808500,
+    "last_week_rank": 63,
+    "peak_in_game": 37173
+   },
+   {
+    "rank": 65,
+    "appid": 292030,
+    "last_week_rank": 93,
+    "peak_in_game": 31959
+   },
+   {
+    "rank": 66,
+    "appid": 3321460,
+    "last_week_rank": 144,
+    "peak_in_game": 37096
+   },
+   {
+    "rank": 67,
+    "appid": 1905180,
+    "last_week_rank": 66,
+    "peak_in_game": 32111
+   },
+   {
+    "rank": 68,
+    "appid": 3513350,
+    "last_week_rank": 61,
+    "peak_in_game": 15688
+   },
+   {
+    "rank": 69,
+    "appid": 291550,
+    "last_week_rank": 67,
+    "peak_in_game": 16696
+   },
+   {
+    "rank": 70,
+    "appid": 221100,
+    "last_week_rank": 73,
+    "peak_in_game": 62430
+   },
+   {
+    "rank": 71,
+    "appid": 945360,
+    "last_week_rank": 71,
+    "peak_in_game": 18325
+   },
+   {
+    "rank": 72,
+    "appid": 2073620,
+    "last_week_rank": 74,
+    "peak_in_game": 38463
+   },
+   {
+    "rank": 73,
+    "appid": 1366800,
+    "last_week_rank": 72,
+    "peak_in_game": 45555
+   },
+   {
+    "rank": 74,
+    "appid": 3472040,
+    "last_week_rank": 70,
+    "peak_in_game": 23297
+   },
+   {
+    "rank": 75,
+    "appid": 1643320,
+    "last_week_rank": 75,
+    "peak_in_game": 39674
+   },
+   {
+    "rank": 76,
+    "appid": 739630,
+    "last_week_rank": 88,
+    "peak_in_game": 18055
+   },
+   {
+    "rank": 77,
+    "appid": 3419430,
+    "last_week_rank": 69,
+    "peak_in_game": 160308
+   },
+   {
+    "rank": 78,
+    "appid": 3551340,
+    "last_week_rank": 78,
+    "peak_in_game": 54219
+   },
+   {
+    "rank": 79,
+    "appid": 1085660,
+    "last_week_rank": 76,
+    "peak_in_game": 26252
+   },
+   {
+    "rank": 80,
+    "appid": 594650,
+    "last_week_rank": 92,
+    "peak_in_game": 30808
+   },
+   {
+    "rank": 81,
+    "appid": 244210,
+    "last_week_rank": 82,
+    "peak_in_game": 14348
+   },
+   {
+    "rank": 82,
+    "appid": 813780,
+    "last_week_rank": 81,
+    "peak_in_game": 26525
+   },
+   {
+    "rank": 83,
+    "appid": 2073850,
+    "last_week_rank": 84,
+    "peak_in_game": 20640
+   },
+   {
+    "rank": 84,
+    "appid": 294100,
+    "last_week_rank": 79,
+    "peak_in_game": 38784
+   },
+   {
+    "rank": 85,
+    "appid": 714010,
+    "last_week_rank": 83,
+    "peak_in_game": 6274
+   },
+   {
+    "rank": 86,
+    "appid": 2139460,
+    "last_week_rank": 134,
+    "peak_in_game": 32372
+   },
+   {
+    "rank": 87,
+    "appid": 2622380,
+    "last_week_rank": 87,
+    "peak_in_game": 33982
+   },
+   {
+    "rank": 88,
+    "appid": 1551360,
+    "last_week_rank": 143,
+    "peak_in_game": 18088
+   },
+   {
+    "rank": 89,
+    "appid": 1144200,
+    "last_week_rank": 94,
+    "peak_in_game": 12229
+   },
+   {
+    "rank": 90,
+    "appid": 1158310,
+    "last_week_rank": 80,
+    "peak_in_game": 31027
+   },
+   {
+    "rank": 91,
+    "appid": 2584270,
+    "last_week_rank": 68,
+    "peak_in_game": 28086
+   },
+   {
+    "rank": 92,
+    "appid": 960090,
+    "last_week_rank": 85,
+    "peak_in_game": 12054
+   },
+   {
+    "rank": 93,
+    "appid": 2694490,
+    "last_week_rank": 102,
+    "peak_in_game": 26310
+   },
+   {
+    "rank": 94,
+    "appid": 892970,
+    "last_week_rank": 95,
+    "peak_in_game": 30901
+   },
+   {
+    "rank": 95,
+    "appid": 1478500,
+    "last_week_rank": 77,
+    "peak_in_game": 20820
+   },
+   {
+    "rank": 96,
+    "appid": 2246340,
+    "last_week_rank": 96,
+    "peak_in_game": 24694
+   },
+   {
+    "rank": 97,
+    "appid": 2183900,
+    "last_week_rank": 99,
+    "peak_in_game": 17037
+   },
+   {
+    "rank": 98,
+    "appid": 3932890,
+    "last_week_rank": 90,
+    "peak_in_game": 42251
+   },
+   {
+    "rank": 99,
+    "appid": 1329410,
+    "last_week_rank": 98,
+    "peak_in_game": 15271
+   },
+   {
+    "rank": 100,
+    "appid": 2399830,
+    "last_week_rank": 107,
+    "peak_in_game": 38404
+   }
+  ]
+ }
+}
