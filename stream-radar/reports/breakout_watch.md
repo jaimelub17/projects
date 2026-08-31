@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-08-31T05` (UTC). History: 13 snapshots spanning 76h.
-Reference windows: short = `2026-08-30T22`, day = `2026-08-30T08`.
+Generated from snapshot `2026-08-31T13` (UTC). History: 14 snapshots spanning 84h.
+Reference windows: short = `2026-08-31T05`, day = `2026-08-30T14`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | EA Sports FC 26 | +8.13 | 3 | 43,869 | +354% | +1252% | 100 | +3% | 0.9228 |  |
-| 2 | Rust | +4.74 | 4 | 42,807 | +1449% | -51% | 100 | +2% | 0.4104 |  |
-| 3 | the cabin game | +3.25 | 31 | 8,974 | - | - | 13 | - | 0.8267 | ENTRY IGNITION:ironmouse |
-| 4 | Street Fighter V | +3.25 | 24 | 12,904 | - | - | 2 | - | 0.9998 | ENTRY IGNITION:lowtiergod |
-| 5 | Black Myth: Wukong | +3.24 | 37 | 6,833 | - | - | 59 | - | 0.8354 | ENTRY IGNITION:kaise |
-| 6 | Mistfall Hunter | +2.54 | 69 | 2,432 | - | +28% | 100 | - | 0.3729 | ENTRY |
-| 7 | Minecraft Dungeons | +2.25 | 72 | 2,215 | - | - | 16 | - | 0.5964 | ENTRY |
-| 8 | LOCKDOWN Protocol | +2.25 | 57 | 3,324 | - | - | 9 | - | 0.7037 | ENTRY |
-| 9 | Crime Simulator | +2.25 | 93 | 1,614 | - | - | 3 | - | 0.9994 | ENTRY |
-| 10 |  SEKIRO: SHADOWS DIE TWICE | +2.25 | 95 | 1,578 | - | - | 29 | - | 0.8156 | ENTRY |
-| 11 | Endacopia | +2.25 | 76 | 2,171 | - | - | 17 | - | 0.9484 | ENTRY |
-| 12 | Waterpark Simulator | +2.25 | 2 | 62,905 | - | - | 53 | - | 0.9681 | ENTRY |
-| 13 | TEKKEN 8 | +2.25 | 90 | 1,732 | - | - | 79 | - | 0.336 | ENTRY |
-| 14 | Going Medieval | +2.25 | 98 | 1,568 | - | - | 3 | - | 0.9452 | ENTRY |
-| 15 | The Forest | +2.25 | 70 | 2,328 | - | - | 22 | - | 0.9785 | ENTRY |
+| 1 | Albion Online | +8.14 | 20 | 20,196 | +691% | +320% | 100 | +30% | 0.1284 |  |
+| 2 | BALL BOY Simulator | +6.57 | 7 | 48,548 | +1735% | - | 3 | +0% | 0.9998 | ENTRY |
+| 3 | Counter-Strike | +6.35 | 2 | 226,190 | +1641% | +70% | 100 | +2% | 0.2133 |  |
+| 4 | Pogostuck: Rage With Your Friends | +5.90 | 37 | 8,774 | - | +167% | 27 | - | 0.6787 | ENTRY IGNITION:yuyuta0702 |
+| 5 | RimWorld | +5.71 | 92 | 2,536 | +708% | - | 40 | +67% | 0.6447 | ENTRY |
+| 6 | World of Tanks | +5.53 | 29 | 11,104 | +473% | -40% | 99 | +65% | 0.2853 | IGNITION:skill4ltu,quickybaby |
+| 7 | Pokémon Trading Card Game | +4.37 | 27 | 11,669 | - | +66% | 19 | - | 0.8743 | ENTRY IGNITION:pokemon,pokemontcg |
+| 8 | Hearthstone | +4.30 | 23 | 16,428 | +177% | +41% | 99 | +50% | 0.3337 | IGNITION:silvername |
+| 9 | PUBG: BATTLEGROUNDS | +3.81 | 31 | 10,155 | +435% | +25% | 100 | +0% | 0.2587 |  |
+| 10 | Rocket League | +3.53 | 44 | 6,272 | +228% | +37% | 94 | +4% | 0.4206 |  |
+| 11 | Crypto | +3.49 | 33 | 10,125 | +310% | +25% | 100 | +15% | 0.265 |  |
+| 12 | FINAL FANTASY XVI | +3.25 | 32 | 10,261 | - | - | 20 | - | 0.9786 | ENTRY IGNITION:indegnasen0706 |
+| 13 | Agefield High: Rock the School | +3.25 | 54 | 5,371 | - | - | 3 | - | 0.9989 | ENTRY IGNITION:sterzik |
+| 14 | Call of Duty: Warzone | +3.15 | 30 | 9,452 | +147% | +79% | 96 | +9% | 0.1809 |  |
+| 15 | Resonance: A Plague Tale Legacy | +2.99 | 42 | 6,926 | +239% | +18% | 100 | +0% | 0.1151 |  |
 
 ## Ignition alerts
 
@@ -30,27 +30,26 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Street Fighter V | lowtiergod | 12,902 | 12,902 | 100% | 24 |
-| Pokémon Champions | pokemon | 69,321 | 10,014 | 77% | 23 |
-| the cabin game | ironmouse | 7,419 | 7,419 | 83% | 31 |
-| Street Fighter 6 | stylishnoob4 | 19,234 | 5,747 | 69% | 34 |
-| Black Myth: Wukong | kaise | 5,708 | 5,708 | 84% | 37 |
-| Uncharted 3: Drake's Deception Remastered | valkyrae | 4,636 | 4,636 | 100% | 49 |
+| Pokémon Trading Card Game | pokemon | 69,321 | 10,202 | 87% | 27 |
+| FINAL FANTASY XVI | indegnasen0706 | 12,903 | 10,041 | 98% | 32 |
+| ARK: Survival Ascended | k4sen | 7,276 | 6,132 | 66% | 34 |
+| Pogostuck: Rage With Your Friends | yuyuta0702 | 5,955 | 5,955 | 68% | 37 |
+| Agefield High: Rock the School | sterzik | 5,365 | 5,365 | 100% | 54 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 0.454 | EA Sports FC 26 | 43,869 | 96,647 |
-| 0.421 | Escape from Tarkov | 17,791 | 42,251 |
-| 0.356 | Rust | 42,807 | 120,326 |
-| 0.247 | Street Fighter 6 | 8,293 | 33,601 |
-| 0.2 | Dead by Daylight | 16,337 | 81,669 |
-| 0.016 | Palworld | 3,228 | 204,851 |
-| 0.011 | How to Fish | 2,606 | 240,308 |
-| 0.01 | Counter-Strike | 12,993 | 1,343,038 |
-| 0.008 | RimWorld | 314 | 38,784 |
-| 0.003 | PUBG: BATTLEGROUNDS | 1,899 | 744,374 |
+| 0.756 | Escape from Tarkov | 31,922 | 42,251 |
+| 0.679 | Rust | 81,702 | 120,326 |
+| 0.304 | Star Wars Zero Company | 23,698 | 77,889 |
+| 0.276 | Grand Theft Auto V | 26,728 | 96,860 |
+| 0.24 | ARK: Survival Ascended | 9,233 | 38,404 |
+| 0.037 | Dota 2 | 35,375 | 963,976 |
+| 0.032 | Delta Force | 3,705 | 115,589 |
+| 0.023 | Rainbow Six Siege | 2,430 | 103,722 |
+| 0.014 | PUBG: BATTLEGROUNDS | 10,155 | 744,374 |
+| 0.011 | Palworld | 2,221 | 204,851 |
 
 ---
 
