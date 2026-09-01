@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-08-31T23` (UTC). History: 16 snapshots spanning 94h.
-Reference windows: short = `2026-08-31T20`, day = `2026-08-30T22`.
+Generated from snapshot `2026-09-01T05` (UTC). History: 17 snapshots spanning 100h.
+Reference windows: short = `2026-08-31T23`, day = `2026-08-31T05`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Darkest Dungeon | +4.76 | 29 | 13,030 | - | +135% | 29 | - | 0.8292 | ENTRY IGNITION:moonmoon |
-| 2 | NBA 2K27 | +3.84 | 5 | 57,232 | +253% | +140% | 100 | +0% | 0.676 |  |
-| 3 | PUBG: BATTLEGROUNDS | +3.50 | 26 | 13,894 | +64% | +93% | 99 | +0% | 0.3454 | IGNITION:krokoboss |
-| 4 | Risk of Rain 2 | +3.25 | 99 | 2,385 | - | - | 25 | - | 0.6822 | ENTRY IGNITION:foolish |
-| 5 | Stonewards | +3.25 | 63 | 4,857 | - | - | 5 | - | 0.8316 | ENTRY IGNITION:locklear |
-| 6 | Pogostuck: Rage With Your Friends | +2.51 | 68 | 4,549 | -10% | +57% | 7 | -12% | 0.9692 | IGNITION:yuyuta0702 |
-| 7 | THE FINALS | +2.30 | 85 | 2,718 | - | - | 95 | - | 0.6015 | ENTRY |
-| 8 | Among Us | +2.30 | 67 | 4,516 | - | - | 78 | - | 0.3282 | ENTRY |
-| 9 | Battlefield 6 | +2.29 | 92 | 2,185 | - | - | 100 | - | 0.1382 | ENTRY |
-| 10 | Among Us | +2.25 | 89 | 3,520 | - | - | 10 | - | 0.9938 | ENTRY |
-| 11 | Fears to Fathom: Woodbury Getaway | +2.25 | 87 | 2,704 | - | - | 2 | - | 0.9623 | ENTRY |
-| 12 | Call of Duty: Black Ops III | +2.25 | 80 | 3,124 | - | - | 100 | - | 0.8092 | ENTRY |
-| 13 | Dark and Darker | +2.25 | 77 | 3,226 | - | - | 54 | - | 0.6559 | ENTRY |
-| 14 | Valheim | +2.25 | 93 | 2,481 | - | - | 84 | - | 0.5885 | ENTRY |
-| 15 | I'm Only Sleeping | +2.25 | 90 | 2,645 | - | - | 100 | - | 0.1739 | ENTRY |
+| 1 | How to Fish | +10.01 | 2 | 65,874 | +1037% | +2428% | 88 | -12% | 0.9304 |  |
+| 2 | Genshin Impact | +3.93 | 40 | 5,607 | +33% | +256% | 100 | +1% | 0.3685 |  |
+| 3 | The Choicer Voicer | +3.25 | 39 | 5,710 | - | - | 21 | - | 0.9175 | ENTRY IGNITION:pattymeza |
+| 4 | Moonlighter 2: The Endless Vault | +3.25 | 44 | 5,189 | - | - | 2 | - | 0.9769 | ENTRY IGNITION:vinesauce |
+| 5 | LISA: The Painful | +3.25 | 33 | 5,674 | - | - | 1 | - | 1.0 | ENTRY IGNITION:supertf |
+| 6 | Cyberpunk 2077 | +3.13 | 32 | 7,551 | - | - | 100 | - | 0.7583 | ENTRY IGNITION:summit1g |
+| 7 | Super Mario Maker 2 | +2.90 | 27 | 1,734 | - | -22% | 11 | - | 0.7722 | ENTRY |
+| 8 | Escape from Tarkov | +2.83 | 3 | 47,859 | +107% | +169% | 98 | -2% | 0.7414 |  |
+| 9 | R2 Online: Reign of Revolution | +2.60 | 70 | 2,186 | - | +29% | 30 | - | 0.4506 | ENTRY |
+| 10 | MiSide | +2.25 | 73 | 2,151 | - | - | 5 | - | 0.9949 | ENTRY |
+| 11 | Breathedge 2 | +2.25 | 69 | 2,287 | - | - | 29 | - | 0.662 | ENTRY |
+| 12 | Squirrel Stapler | +2.25 | 85 | 1,711 | - | - | 1 | - | 1.0 | ENTRY |
+| 13 | Super Mario Bros. | +2.25 | 77 | 1,954 | - | - | 8 | - | 0.9708 | ENTRY |
+| 14 | How Many Dudes? | +2.25 | 63 | 2,956 | - | - | 3 | - | 0.9983 | ENTRY |
+| 15 | Fell & Sell | +2.25 | 94 | 1,511 | - | - | 7 | - | 0.8001 | ENTRY |
 
 ## Ignition alerts
 
@@ -30,28 +30,27 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Darkest Dungeon | moonmoon | 13,957 | 10,804 | 83% | 29 |
-| Metal Gear Solid 4: Guns of the Patriots - Master Collection Version | alanzoka | 7,694 | 7,411 | 91% | 39 |
-| EA Sports FC 26 | gamerbrother | 13,233 | 7,248 | 70% | 31 |
-| GeoGuessr | gingy | 7,682 | 5,436 | 83% | 52 |
-| Pogostuck: Rage With Your Friends | yuyuta0702 | 5,955 | 4,409 | 97% | 68 |
-| Stonewards | locklear | 5,433 | 4,039 | 83% | 63 |
-| Risk of Rain 2 | foolish | 9,603 | 1,627 | 68% | 99 |
+| Darkest Dungeon | moonmoon | 13,957 | 10,466 | 89% | 24 |
+| Cyberpunk 2077 | summit1g | 6,476 | 5,726 | 76% | 32 |
+| LISA: The Painful | supertf | 7,673 | 5,674 | 100% | 33 |
+| The Choicer Voicer | pattymeza | 5,239 | 5,239 | 92% | 39 |
+| Moonlighter 2: The Endless Vault | vinesauce | 8,979 | 5,069 | 98% | 44 |
+| Black Myth: Wukong | kaise | 5,708 | 1,937 | 92% | 74 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 0.722 | Grand Theft Auto V | 69,946 | 96,860 |
-| 0.548 | Escape from Tarkov | 23,165 | 42,251 |
-| 0.246 | Among Us | 4,516 | 18,325 |
-| 0.222 | Rocket League | 6,266 | 28,168 |
-| 0.222 | Overwatch | 17,275 | 77,868 |
-| 0.024 | Palworld | 4,991 | 204,851 |
-| 0.024 | How to Fish | 5,796 | 240,308 |
-| 0.022 | Counter-Strike | 30,155 | 1,343,038 |
-| 0.02 | Delta Force | 2,344 | 115,589 |
-| 0.019 | PUBG: BATTLEGROUNDS | 13,894 | 744,374 |
+| 1.25 | Escape from Tarkov | 47,859 | 38,289 |
+| 0.348 | How to Fish | 65,874 | 189,520 |
+| 0.254 | Grand Theft Auto V | 21,819 | 85,891 |
+| 0.17 | Project Zomboid | 13,969 | 82,039 |
+| 0.162 | Path of Exile 2 | 3,551 | 21,979 |
+| 0.022 | Rainbow Six Siege | 1,912 | 88,101 |
+| 0.018 | Delta Force | 1,912 | 108,070 |
+| 0.014 | Dota 2 | 11,848 | 852,622 |
+| 0.013 | Counter-Strike | 15,631 | 1,193,764 |
+| 0.005 | PUBG: BATTLEGROUNDS | 3,464 | 709,735 |
 
 ---
 
