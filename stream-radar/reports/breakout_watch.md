@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-09-01T16` (UTC). History: 19 snapshots spanning 111h.
-Reference windows: short = `2026-09-01T11`, day = `2026-08-31T13`.
+Generated from snapshot `2026-09-01T21` (UTC). History: 20 snapshots spanning 116h.
+Reference windows: short = `2026-09-01T16`, day = `2026-08-31T20`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Rainbow Six Siege | +8.43 | 13 | 30,675 | +497% | +1162% | 98 | -1% | 0.2016 |  |
-| 2 | Breathedge 2 | +5.56 | 54 | 7,410 | - | +137% | 82 | - | 0.552 | ENTRY IGNITION:blackufa |
-| 3 | EA Sports FC 26 | +4.91 | 43 | 9,109 | +268% | +128% | 100 | +0% | 0.4378 | IGNITION:dannyaarons |
-| 4 | Rocket League | +4.66 | 35 | 11,710 | +528% | +87% | 99 | +0% | 0.1732 |  |
-| 5 | Delta Force | +4.43 | 38 | 9,587 | +262% | +159% | 90 | -9% | 0.1654 |  |
-| 6 | Star Wars Zero Company | +3.58 | 21 | 19,228 | +363% | -19% | 100 | +1% | 0.2048 | IGNITION:missmikkaa |
-| 7 | Virtual Casino | +3.27 | 33 | 13,451 | +76% | +44% | 29 | +93% | 0.1421 | BREADTH |
-| 8 | Detective Sherlock: Shadow Stalker | +3.25 | 84 | 3,999 | - | - | 3 | - | 0.9977 | ENTRY IGNITION:mobilmobil |
-| 9 | Fall Guys | +3.25 | 78 | 4,349 | - | - | 54 | - | 0.8542 | ENTRY IGNITION:realzbluewater |
-| 10 | Pizza House Simulator | +3.25 | 30 | 14,063 | - | - | 21 | - | 0.9006 | ENTRY IGNITION:handofblood |
-| 11 | Guildrun | +3.25 | 95 | 3,359 | - | - | 10 | - | 0.9476 | ENTRY IGNITION:admiralbahroo |
-| 12 | Contraband Police | +3.25 | 77 | 4,479 | - | - | 3 | - | 0.9993 | ENTRY IGNITION:kr1stw |
-| 13 | Minecraft | +3.25 | 8 | 47,444 | +150% | +188% | 100 | +5% | 0.3076 |  |
-| 14 | Box of Broken Nails | +3.25 | 47 | 8,812 | - | - | 1 | - | 1.0 | ENTRY IGNITION:elajjaz |
-| 15 | A Weird Game About Sausage | +3.25 | 76 | 4,562 | - | - | 8 | - | 0.838 | ENTRY IGNITION:bonjwa |
+| 1 | Rainbow Six Siege | +5.00 | 8 | 53,745 | +75% | +741% | 100 | +2% | 0.7808 |  |
+| 2 | ROBLOX | +4.48 | 38 | 10,559 | +184% | +99% | 94 | -3% | 0.6398 | IGNITION:realzbluewater |
+| 3 | Crimson Moon | +4.25 | 21 | 26,347 | - | - | 99 | - | 0.2988 | ENTRY IGNITION:elajjaz,missmikkaa |
+| 4 | nanos world | +3.59 | 69 | 5,760 | - | +37% | 63 | - | 0.5007 | ENTRY IGNITION:mehditdonc |
+| 5 | Window Seat | +3.25 | 84 | 3,824 | - | - | 1 | - | 1.0 | ENTRY IGNITION:insym |
+| 6 | Wanderburg | +3.25 | 67 | 6,018 | - | - | 2 | - | 0.9975 | ENTRY IGNITION:locklear |
+| 7 | Pokémon Emerald Version | +3.25 | 89 | 3,497 | - | - | 28 | - | 0.6932 | ENTRY IGNITION:cydonia_chiara |
+| 8 | RollerCoaster Tycoon 2 | +3.25 | 71 | 5,514 | - | - | 2 | - | 0.9996 | ENTRY IGNITION:squeex |
+| 9 | Outlast II | +3.25 | 33 | 15,358 | - | - | 17 | - | 0.9955 | ENTRY IGNITION:joe_bartolozzi |
+| 10 | Too Many Toys | +3.25 | 64 | 6,494 | - | - | 3 | - | 0.9654 | ENTRY IGNITION:knekro |
+| 11 | Big Ambitions | +3.25 | 52 | 8,212 | - | - | 38 | - | 0.843 | ENTRY IGNITION:jerma985 |
+| 12 | Kingdom Come: Deliverance | +3.25 | 27 | 22,603 | - | - | 34 | - | 0.9789 | ENTRY IGNITION:rubius |
+| 13 | How Many Dudes? | +3.25 | 46 | 9,162 | - | - | 2 | - | 0.9997 | ENTRY IGNITION:domingo |
+| 14 | Grand Theft Auto IV | +3.25 | 32 | 13,969 | - | - | 53 | - | 0.9837 | ENTRY IGNITION:lirik |
+| 15 | Metal Gear Solid 4: Guns of the Patriots - Master Collection Version | +2.81 | 51 | 8,561 | - | +7% | 96 | - | 0.9679 | ENTRY IGNITION:alanzoka |
 
 ## Ignition alerts
 
@@ -30,31 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Pizza House Simulator | handofblood | 12,665 | 12,665 | 90% | 30 |
-| DRAGON BALL Z: KAKAROT | yaritaiji | 13,430 | 12,067 | 100% | 39 |
-| Box of Broken Nails | elajjaz | 8,812 | 8,812 | 100% | 47 |
-| FINAL FANTASY XVI | indegnasen0706 | 12,903 | 8,406 | 99% | 48 |
-| MECCHA CHAMELEON | by_owl | 7,293 | 7,293 | 57% | 36 |
-| Metal Gear Rising: Revengeance | forsen | 6,126 | 6,126 | 100% | 64 |
-| Pogostuck: Rage With Your Friends | yuyuta0702 | 5,955 | 4,709 | 52% | 45 |
-| Contraband Police | kr1stw | 4,476 | 4,476 | 100% | 77 |
-| Breathedge 2 | blackufa | 4,452 | 4,090 | 55% | 54 |
-| Detective Sherlock: Shadow Stalker | mobilmobil | 5,964 | 3,990 | 100% | 84 |
+| Kingdom Come: Deliverance | rubius | 31,804 | 22,125 | 98% | 27 |
+| Outlast II | joe_bartolozzi | 15,289 | 15,289 | 100% | 33 |
+| Grand Theft Auto IV | lirik | 18,304 | 13,742 | 98% | 32 |
+| Rocket League | peereira7 | 14,532 | 13,355 | 61% | 26 |
+| How Many Dudes? | domingo | 9,159 | 9,159 | 100% | 46 |
+| Metal Gear Solid 4: Guns of the Patriots - Master Collection Version | alanzoka | 8,286 | 8,286 | 97% | 51 |
+| Big Ambitions | jerma985 | 11,806 | 6,923 | 84% | 52 |
+| ROBLOX | realzbluewater | 6,756 | 6,756 | 64% | 38 |
+| Too Many Toys | knekro | 8,435 | 6,269 | 97% | 64 |
+| Wanderburg | locklear | 6,003 | 6,003 | 100% | 67 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 1.073 | MECCHA CHAMELEON | 12,709 | 11,839 |
-| 1.008 | Escape from Tarkov | 38,589 | 38,289 |
-| 0.452 | Rocket League | 11,710 | 25,886 |
-| 0.449 | Grand Theft Auto V | 38,580 | 85,891 |
-| 0.402 | Dead by Daylight | 27,444 | 68,292 |
-| 0.054 | How to Fish | 10,164 | 189,520 |
-| 0.053 | Counter-Strike | 63,206 | 1,193,764 |
-| 0.035 | Rust | 3,783 | 106,877 |
-| 0.032 | Palworld | 4,983 | 157,895 |
-| 0.008 | PUBG: BATTLEGROUNDS | 5,759 | 709,735 |
+| 1.224 | Grand Theft Auto V | 105,137 | 85,891 |
+| 1.04 | Escape from Tarkov | 39,830 | 38,289 |
+| 0.841 | Rocket League | 21,763 | 25,886 |
+| 0.61 | Rainbow Six Siege | 53,745 | 88,101 |
+| 0.469 | Project Zomboid | 38,509 | 82,039 |
+| 0.042 | Counter-Strike | 50,683 | 1,193,764 |
+| 0.041 | Rust | 4,329 | 106,877 |
+| 0.035 | Palworld | 5,455 | 157,895 |
+| 0.029 | Delta Force | 3,113 | 108,070 |
+| 0.012 | PUBG: BATTLEGROUNDS | 8,715 | 709,735 |
 
 ---
 
