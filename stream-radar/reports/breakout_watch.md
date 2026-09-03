@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-09-03T00` (UTC). History: 26 snapshots spanning 143h.
-Reference windows: short = `2026-09-02T16`, day = `2026-09-02T00`.
+Generated from snapshot `2026-09-03T04` (UTC). History: 27 snapshots spanning 147h.
+Reference windows: short = `2026-09-02T21`, day = `2026-09-02T04`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Pokémon Emerald Version | +4.25 | 29 | 13,301 | - | - | 44 | - | 0.3468 | ENTRY IGNITION:valkyrae,fuslie |
-| 2 | Bombanana! | +4.25 | 26 | 14,361 | - | - | 100 | - | 0.2936 | ENTRY IGNITION:crelly,zentreya |
-| 3 | Virtual Casino | +4.10 | 13 | 29,495 | +215% | +87% | 37 | +61% | 0.6587 |  |
-| 4 | How to Fish | +3.98 | 25 | 14,550 | +83% | +52% | 98 | -1% | 0.312 | IGNITION:xrohat,giggand |
-| 5 | Phasmophobia | +3.52 | 65 | 4,010 | - | +121% | 92 | - | 0.2713 | ENTRY |
-| 6 | Rainbow Six Siege | +3.43 | 8 | 41,129 | +148% | +179% | 96 | -3% | 0.7794 |  |
-| 7 | Pokémon | +3.25 | 71 | 4,113 | - | - | 64 | - | 0.4335 | ENTRY IGNITION:kkatamina |
-| 8 | Bills Must Be Paid | +3.25 | 37 | 9,998 | - | - | 8 | - | 0.9909 | ENTRY IGNITION:joe_bartolozzi |
-| 9 | Watch Your Plastic Duck | +3.25 | 40 | 8,836 | - | - | 2 | - | 0.9999 | ENTRY IGNITION:ironmouse |
-| 10 | Pokémon Red Version | +3.25 | 24 | 18,600 | - | - | 6 | - | 0.9987 | ENTRY IGNITION:yourragegaming |
-| 11 | Balatro | +3.25 | 96 | 2,279 | - | - | 29 | - | 0.7486 | ENTRY IGNITION:florence |
-| 12 | Call of Duty: Black Ops | +3.25 | 81 | 3,198 | - | - | 60 | - | 0.9472 | ENTRY IGNITION:zoomaa |
-| 13 | Deadlock | +2.64 | 28 | 12,799 | +84% | +25% | 100 | +0% | 0.3277 | IGNITION:deadlocknightshift |
-| 14 | Darkest Dungeon | +2.41 | 31 | 11,908 | - | -11% | 30 | - | 0.7978 | ENTRY IGNITION:sodapoppin |
-| 15 | Geometry Dash | +2.39 | 76 | 3,429 | - | +42% | 100 | - | 0.3118 | ENTRY |
+| 1 | Pokémon | +3.72 | 24 | 13,067 | +169% | - | 30 | -49% | 0.5756 | ENTRY IGNITION:ludwig,kkatamina |
+| 2 | Crab Game | +3.25 | 64 | 3,140 | - | - | 2 | - | 0.9997 | ENTRY IGNITION:erobb221 |
+| 3 | The Choicer Voicer | +3.25 | 26 | 12,579 | - | - | 23 | - | 0.9856 | ENTRY IGNITION:ironmouse |
+| 4 | Tomodachi Life: Living the Dream | +3.25 | 38 | 6,767 | - | - | 30 | - | 0.9329 | ENTRY IGNITION:vinesauce |
+| 5 | NBA 2K | +3.25 | 75 | 2,453 | - | - | 9 | - | 0.9935 | ENTRY IGNITION:rayasianboy |
+| 6 | LOCKDOWN Protocol | +3.25 | 25 | 12,949 | - | - | 14 | - | 0.9214 | ENTRY IGNITION:rdcgaming |
+| 7 | R.E.P.O. | +3.24 | 66 | 2,940 | - | - | 100 | - | 0.4007 | ENTRY IGNITION:pattymeza |
+| 8 | Dead by Daylight | +2.40 | 5 | 30,478 | +126% | +88% | 95 | -2% | 0.6489 |  |
+| 9 | Geometry Dash | +2.25 | 67 | 3,020 | - | - | 82 | - | 0.8533 | ENTRY |
+| 10 | Call of Duty: Black Ops II | +2.25 | 93 | 1,750 | - | - | 100 | - | 0.44 | ENTRY |
+| 11 | EVE Online | +2.25 | 80 | 2,246 | - | - | 14 | - | 0.768 | ENTRY |
+| 12 | Phantasy Star Online Blue Burst | +2.25 | 95 | 1,765 | - | - | 7 | - | 0.9756 | ENTRY |
+| 13 | MLB The Show 26 | +2.25 | 74 | 2,523 | - | - | 100 | - | 0.3516 | ENTRY |
+| 14 | Blasphemous | +2.25 | 85 | 2,050 | - | - | 11 | - | 0.9854 | ENTRY |
+| 15 | Dark Souls: Remastered | +2.25 | 100 | 1,686 | - | - | 55 | - | 0.4365 | ENTRY |
 
 ## Ignition alerts
 
@@ -30,31 +30,30 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Pokémon Red Version | yourragegaming | 18,576 | 18,576 | 100% | 24 |
-| Big Ambitions | jerma985 | 11,861 | 10,079 | 96% | 35 |
-| Bills Must Be Paid | joe_bartolozzi | 15,289 | 9,907 | 99% | 37 |
-| Darkest Dungeon | sodapoppin | 10,195 | 9,500 | 80% | 31 |
-| Watch Your Plastic Duck | ironmouse | 13,776 | 8,835 | 100% | 40 |
-| Heroes of Might and Magic III: The Restoration of Erathia | voodoosh | 4,639 | 4,100 | 71% | 56 |
-| Rocket League | zenrll | 4,096 | 4,096 | 56% | 38 |
-| Call of Duty: Black Ops | zoomaa | 4,799 | 3,029 | 95% | 81 |
-| nanos world | mehditdonc | 5,566 | 2,110 | 59% | 75 |
-| Balatro | florence | 4,725 | 1,706 | 75% | 96 |
+| The Choicer Voicer | ironmouse | 13,776 | 12,398 | 99% | 26 |
+| LOCKDOWN Protocol | rdcgaming | 11,931 | 11,931 | 92% | 25 |
+| Pokémon | ludwig | 7,522 | 7,522 | 58% | 24 |
+| Tomodachi Life: Living the Dream | vinesauce | 8,979 | 6,313 | 93% | 38 |
+| Pokémon Emerald Version | valkyrae | 6,107 | 4,352 | 95% | 43 |
+| Crab Game | erobb221 | 3,817 | 3,139 | 100% | 64 |
+| NBA 2K | rayasianboy | 6,600 | 2,437 | 99% | 75 |
+| Rust | zerost_s | 5,146 | 2,253 | 54% | 52 |
+| PUBG: BATTLEGROUNDS | voodoosh | 4,639 | 2,179 | 59% | 56 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 1.44 | Escape from Tarkov | 54,689 | 37,978 |
-| 1.005 | Grand Theft Auto V | 74,369 | 73,985 |
-| 0.463 | Rainbow Six Siege | 41,129 | 88,927 |
-| 0.307 | Path of Exile 2 | 6,552 | 21,355 |
-| 0.281 | Phasmophobia | 4,010 | 14,264 |
-| 0.029 | Dota 2 | 24,318 | 844,584 |
-| 0.028 | HELLDIVERS 2 | 1,817 | 64,042 |
-| 0.028 | Counter-Strike | 33,804 | 1,225,505 |
-| 0.024 | Delta Force | 2,563 | 108,656 |
-| 0.009 | PUBG: BATTLEGROUNDS | 6,387 | 703,864 |
+| 1.288 | Escape from Tarkov | 47,590 | 36,953 |
+| 0.487 | Dead by Daylight | 30,478 | 62,633 |
+| 0.338 | Grand Theft Auto V | 24,935 | 73,667 |
+| 0.171 | Path of Exile 2 | 3,609 | 21,117 |
+| 0.154 | Overwatch | 9,974 | 64,916 |
+| 0.028 | Warframe | 1,663 | 58,369 |
+| 0.018 | Delta Force | 1,927 | 109,341 |
+| 0.013 | Dota 2 | 10,760 | 834,096 |
+| 0.013 | Counter-Strike | 17,083 | 1,300,990 |
+| 0.005 | PUBG: BATTLEGROUNDS | 3,685 | 725,224 |
 
 ---
 
