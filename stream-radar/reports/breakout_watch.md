@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-09-03T16` (UTC). History: 29 snapshots spanning 159h.
-Reference windows: short = `2026-09-03T11`, day = `2026-09-02T16`.
+Generated from snapshot `2026-09-03T21` (UTC). History: 30 snapshots spanning 164h.
+Reference windows: short = `2026-09-03T16`, day = `2026-09-02T21`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Onimusha: Way of the Sword | +9.63 | 14 | 41,600 | +1534% | - | 99 | +800% | 0.1765 | ENTRY |
-| 2 | Path of Exile 2 | +8.83 | 11 | 57,068 | +1653% | +470% | 99 | +25% | 0.8718 |  |
-| 3 | BOMBANANA! | +7.47 | 46 | 8,478 | +249% | - | 92 | +513% | 0.7366 | BREADTH ENTRY IGNITION:morphe_ya |
-| 4 | WARDOGS | +7.40 | 34 | 12,064 | +615% | - | 88 | +214% | 0.5973 | ENTRY IGNITION:thefpsgamesshow |
-| 5 | Tanks Blitz | +5.97 | 58 | 6,513 | - | +1541% | 16 | - | 0.9721 | ENTRY IGNITION:tanks_blitz_official |
-| 6 | Friendly Steps | +4.25 | 29 | 15,061 | - | - | 8 | - | 0.6641 | ENTRY IGNITION:t2x2,stintik |
-| 7 | ROBLOX | +4.20 | 42 | 8,280 | +185% | +52% | 100 | +3% | 0.4498 | IGNITION:aslanshukasha |
-| 8 | Hunt: Showdown 1896 | +4.02 | 65 | 5,339 | +214% | +81% | 100 | +0% | 0.2536 |  |
-| 9 | Minecraft | +3.97 | 6 | 94,123 | +645% | +4% | 98 | +0% | 0.4735 |  |
-| 10 | World of Warships | +3.52 | 72 | 5,336 | - | +63% | 25 | - | 0.8304 | ENTRY IGNITION:worldofwarships |
-| 11 | Rogue Blight | +3.25 | 49 | 7,706 | - | - | 7 | - | 0.9581 | ENTRY IGNITION:elajjaz |
-| 12 | Portal 2 | +3.25 | 24 | 17,939 | - | - | 11 | - | 0.9984 | ENTRY IGNITION:ohnepixel |
-| 13 | Taguan | +3.25 | 91 | 3,615 | - | - | 1 | - | 1.0 | ENTRY IGNITION:appie |
-| 14 | BioEden | +3.25 | 54 | 6,606 | - | - | 6 | - | 0.5486 | ENTRY IGNITION:alexelcapo |
-| 15 | Super Mario Maker 2 | +3.25 | 80 | 4,546 | - | - | 13 | - | 0.9461 | ENTRY IGNITION:hanjoudesu |
+| 1 | WARDOGS | +9.65 | 2 | 159,957 | +1226% | +1317% | 100 | +14% | 0.2102 |  |
+| 2 | Path of Exile | +8.22 | 23 | 22,964 | - | +568% | 103 | - | 0.5427 | ENTRY IGNITION:pathofexile,fubgun |
+| 3 | Rust | +6.72 | 18 | 26,280 | +488% | +304% | 100 | +2% | 0.2495 |  |
+| 4 | EA Sports FC 26 | +5.85 | 30 | 14,100 | +163% | +262% | 95 | -5% | 0.7515 | IGNITION:gamerbrother |
+| 5 | How to Fish | +5.39 | 7 | 83,586 | +983% | +87% | 96 | -3% | 0.3937 |  |
+| 6 | nanos world | +4.11 | 57 | 7,491 | - | +59% | 64 | - | 0.5062 | ENTRY IGNITION:mehditdonc |
+| 7 | Bodycam | +3.26 | 44 | 9,498 | +47% | +72% | 90 | -10% | 0.6986 | IGNITION:youngmulti |
+| 8 | Anomaly Company | +3.25 | 36 | 11,556 | - | - | 4 | - | 0.375 | ENTRY IGNITION:crelly |
+| 9 | CYCLE01 | +3.25 | 82 | 5,064 | - | - | 1 | - | 1.0 | ENTRY IGNITION:knekro |
+| 10 | Pokémon Champions | +3.25 | 85 | 4,121 | - | - | 63 | - | 0.3832 | ENTRY IGNITION:foolish |
+| 11 | Clank! | +3.25 | 59 | 7,230 | - | - | 2 | - | 0.9909 | ENTRY IGNITION:northernlion |
+| 12 | Timberborn | +3.25 | 52 | 8,475 | - | - | 10 | - | 0.7445 | ENTRY IGNITION:bonjwa |
+| 13 | Watch Your Plastic Duck | +3.25 | 66 | 6,486 | - | - | 1 | - | 1.0 | ENTRY IGNITION:ironmouse |
+| 14 | A Weird Game About Sausage | +3.25 | 42 | 10,021 | - | - | 11 | - | 0.6664 | ENTRY IGNITION:lollolacustre |
+| 15 | Madden NFL 27 | +3.19 | 69 | 5,885 | - | +100% | 93 | - | 0.2209 | ENTRY |
 
 ## Ignition alerts
 
@@ -30,31 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Portal 2 | ohnepixel | 45,139 | 17,910 | 100% | 24 |
-| Friendly Steps | t2x2 | 14,592 | 10,002 | 66% | 29 |
-| Rogue Blight | elajjaz | 8,812 | 7,383 | 96% | 49 |
-| WARDOGS | thefpsgamesshow | 7,206 | 7,206 | 60% | 34 |
-| LEGO Party! | northernlion | 13,338 | 7,082 | 90% | 48 |
-| Tanks Blitz | tanks_blitz_official | 6,331 | 6,331 | 97% | 58 |
-| BOMBANANA! | morphe_ya | 6,245 | 6,245 | 74% | 46 |
-| World of Warships | worldofwarships | 4,431 | 4,431 | 83% | 72 |
-| Super Mario Maker 2 | hanjoudesu | 4,301 | 4,301 | 95% | 80 |
-| How to Fish | terracid | 4,281 | 4,281 | 55% | 50 |
+| Path of Exile | pathofexile | 12,463 | 12,463 | 54% | 23 |
+| EA Sports FC 26 | gamerbrother | 13,233 | 10,596 | 75% | 30 |
+| Darkest Dungeon | sodapoppin | 10,195 | 9,117 | 83% | 38 |
+| Clank! | northernlion | 13,338 | 7,164 | 99% | 59 |
+| A Weird Game About Sausage | lollolacustre | 6,678 | 6,678 | 67% | 42 |
+| Bodycam | youngmulti | 16,337 | 6,635 | 70% | 44 |
+| Watch Your Plastic Duck | ironmouse | 13,776 | 6,486 | 100% | 66 |
+| Timberborn | bonjwa | 7,172 | 6,310 | 74% | 52 |
+| MECCHA CHAMELEON | ewroon | 9,263 | 5,541 | 86% | 67 |
+| CYCLE01 | knekro | 8,435 | 5,064 | 100% | 82 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 2.702 | Path of Exile 2 | 57,068 | 21,117 |
-| 1.337 | Grand Theft Auto V | 98,529 | 73,667 |
-| 1.122 | Escape from Tarkov | 41,448 | 36,953 |
-| 0.632 | MECCHA CHAMELEON | 6,623 | 10,485 |
-| 0.32 | Street Fighter 6 | 11,336 | 35,473 |
-| 0.057 | How to Fish | 7,721 | 134,759 |
-| 0.056 | Rust | 4,468 | 80,135 |
-| 0.05 | Dota 2 | 41,435 | 834,096 |
-| 0.038 | Delta Force | 4,172 | 109,341 |
-| 0.02 | PUBG: BATTLEGROUNDS | 14,565 | 725,224 |
+| 0.843 | Grand Theft Auto V | 62,135 | 73,667 |
+| 0.62 | How to Fish | 83,586 | 134,759 |
+| 0.616 | MECCHA CHAMELEON | 6,460 | 10,485 |
+| 0.353 | Balatro | 3,070 | 8,697 |
+| 0.328 | Rust | 26,280 | 80,135 |
+| 0.049 | Dota 2 | 40,647 | 834,096 |
+| 0.044 | Apex Legends | 11,885 | 270,278 |
+| 0.04 | Counter-Strike | 52,655 | 1,300,990 |
+| 0.033 | Palworld | 4,754 | 145,377 |
+| 0.009 | PUBG: BATTLEGROUNDS | 6,288 | 725,224 |
 
 ---
 
