@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-09-02T21` (UTC). History: 25 snapshots spanning 140h.
-Reference windows: short = `2026-09-02T16`, day = `2026-09-01T21`.
+Generated from snapshot `2026-09-03T00` (UTC). History: 26 snapshots spanning 143h.
+Reference windows: short = `2026-09-02T16`, day = `2026-09-02T00`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Pokémon Emerald Version | +6.16 | 48 | 8,768 | - | +151% | 32 | - | 0.5793 | ENTRY IGNITION:valkyrae,foolish |
-| 2 | How to Fish | +4.46 | 11 | 44,690 | +461% | +107% | 100 | +1% | 0.528 |  |
-| 3 | Not for Broadcast | +4.25 | 40 | 11,532 | - | - | 3 | - | 0.6798 | ENTRY IGNITION:wankilstudio,laink |
-| 4 | Big Ambitions | +4.02 | 44 | 11,124 | - | +35% | 33 | - | 0.5971 | ENTRY IGNITION:jerma985,insym |
-| 5 | ROBLOX | +3.45 | 27 | 13,285 | +144% | +26% | 94 | +0% | 0.5303 | IGNITION:realzbluewater |
-| 6 | Rocket League | +3.39 | 12 | 39,031 | +194% | +79% | 99 | +5% | 0.4173 |  |
-| 7 | Hide and Moo! | +3.26 | 42 | 11,118 | +29% | - | 6 | +0% | 0.6451 | ENTRY IGNITION:bonjwa,kdrkitten |
-| 8 | Can I Come In? | +3.25 | 59 | 7,036 | - | - | 5 | - | 0.9945 | ENTRY IGNITION:elajjaz |
-| 9 | Contraband Police | +3.25 | 73 | 5,810 | - | - | 5 | - | 0.9986 | ENTRY IGNITION:ewroon |
-| 10 | PowerWash Simulator 2 | +3.25 | 79 | 4,823 | - | - | 17 | - | 0.9797 | ENTRY IGNITION:florence |
-| 11 | Pokémon | +3.25 | 78 | 4,853 | - | - | 59 | - | 0.4389 | ENTRY IGNITION:kkatamina |
-| 12 | Last Pill Bar | +3.25 | 34 | 14,133 | - | - | 2 | - | 0.9975 | ENTRY IGNITION:joe_bartolozzi |
-| 13 | House 2 | +3.25 | 92 | 3,380 | - | - | 7 | - | 0.9399 | ENTRY IGNITION:distortion2 |
-| 14 | Path of Titans | +3.25 | 58 | 7,224 | - | - | 34 | - | 0.9838 | ENTRY IGNITION:knekro |
-| 15 | Battlefield 1 | +3.25 | 41 | 11,576 | - | - | 19 | - | 0.9956 | ENTRY IGNITION:alanzoka |
+| 1 | Pokémon Emerald Version | +4.25 | 29 | 13,301 | - | - | 44 | - | 0.3468 | ENTRY IGNITION:valkyrae,fuslie |
+| 2 | Bombanana! | +4.25 | 26 | 14,361 | - | - | 100 | - | 0.2936 | ENTRY IGNITION:crelly,zentreya |
+| 3 | Virtual Casino | +4.10 | 13 | 29,495 | +215% | +87% | 37 | +61% | 0.6587 |  |
+| 4 | How to Fish | +3.98 | 25 | 14,550 | +83% | +52% | 98 | -1% | 0.312 | IGNITION:xrohat,giggand |
+| 5 | Phasmophobia | +3.52 | 65 | 4,010 | - | +121% | 92 | - | 0.2713 | ENTRY |
+| 6 | Rainbow Six Siege | +3.43 | 8 | 41,129 | +148% | +179% | 96 | -3% | 0.7794 |  |
+| 7 | Pokémon | +3.25 | 71 | 4,113 | - | - | 64 | - | 0.4335 | ENTRY IGNITION:kkatamina |
+| 8 | Bills Must Be Paid | +3.25 | 37 | 9,998 | - | - | 8 | - | 0.9909 | ENTRY IGNITION:joe_bartolozzi |
+| 9 | Watch Your Plastic Duck | +3.25 | 40 | 8,836 | - | - | 2 | - | 0.9999 | ENTRY IGNITION:ironmouse |
+| 10 | Pokémon Red Version | +3.25 | 24 | 18,600 | - | - | 6 | - | 0.9987 | ENTRY IGNITION:yourragegaming |
+| 11 | Balatro | +3.25 | 96 | 2,279 | - | - | 29 | - | 0.7486 | ENTRY IGNITION:florence |
+| 12 | Call of Duty: Black Ops | +3.25 | 81 | 3,198 | - | - | 60 | - | 0.9472 | ENTRY IGNITION:zoomaa |
+| 13 | Deadlock | +2.64 | 28 | 12,799 | +84% | +25% | 100 | +0% | 0.3277 | IGNITION:deadlocknightshift |
+| 14 | Darkest Dungeon | +2.41 | 31 | 11,908 | - | -11% | 30 | - | 0.7978 | ENTRY IGNITION:sodapoppin |
+| 15 | Geometry Dash | +2.39 | 76 | 3,429 | - | +42% | 100 | - | 0.3118 | ENTRY |
 
 ## Ignition alerts
 
@@ -30,31 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Last Pill Bar | joe_bartolozzi | 15,289 | 14,097 | 100% | 34 |
-| Battlefield 1 | alanzoka | 11,525 | 11,525 | 100% | 41 |
-| Darkest Dungeon | sodapoppin | 10,195 | 10,100 | 79% | 37 |
-| Not for Broadcast | wankilstudio | 7,869 | 7,840 | 68% | 40 |
-| Hide and Moo! | bonjwa | 7,172 | 7,172 | 65% | 42 |
-| Path of Titans | knekro | 8,435 | 7,107 | 98% | 58 |
-| ROBLOX | realzbluewater | 7,065 | 7,045 | 53% | 27 |
-| Can I Come In? | elajjaz | 8,812 | 6,997 | 99% | 59 |
-| Big Ambitions | jerma985 | 11,861 | 6,642 | 60% | 44 |
-| Contraband Police | ewroon | 9,263 | 5,802 | 100% | 73 |
+| Pokémon Red Version | yourragegaming | 18,576 | 18,576 | 100% | 24 |
+| Big Ambitions | jerma985 | 11,861 | 10,079 | 96% | 35 |
+| Bills Must Be Paid | joe_bartolozzi | 15,289 | 9,907 | 99% | 37 |
+| Darkest Dungeon | sodapoppin | 10,195 | 9,500 | 80% | 31 |
+| Watch Your Plastic Duck | ironmouse | 13,776 | 8,835 | 100% | 40 |
+| Heroes of Might and Magic III: The Restoration of Erathia | voodoosh | 4,639 | 4,100 | 71% | 56 |
+| Rocket League | zenrll | 4,096 | 4,096 | 56% | 38 |
+| Call of Duty: Black Ops | zoomaa | 4,799 | 3,029 | 95% | 81 |
+| nanos world | mehditdonc | 5,566 | 2,110 | 59% | 75 |
+| Balatro | florence | 4,725 | 1,706 | 75% | 96 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 1.474 | Rocket League | 39,031 | 26,474 |
-| 1.36 | Grand Theft Auto V | 100,588 | 73,985 |
-| 0.893 | Escape from Tarkov | 33,920 | 37,978 |
-| 0.493 | Rainbow Six Siege | 43,876 | 88,927 |
-| 0.427 | Star Wars Zero Company | 20,537 | 48,107 |
-| 0.054 | EA Sports FC 26 | 3,894 | 71,893 |
-| 0.054 | Apex Legends | 14,127 | 260,821 |
-| 0.036 | Palworld | 5,389 | 149,204 |
-| 0.028 | Delta Force | 3,061 | 108,656 |
-| 0.026 | PUBG: BATTLEGROUNDS | 18,167 | 703,864 |
+| 1.44 | Escape from Tarkov | 54,689 | 37,978 |
+| 1.005 | Grand Theft Auto V | 74,369 | 73,985 |
+| 0.463 | Rainbow Six Siege | 41,129 | 88,927 |
+| 0.307 | Path of Exile 2 | 6,552 | 21,355 |
+| 0.281 | Phasmophobia | 4,010 | 14,264 |
+| 0.029 | Dota 2 | 24,318 | 844,584 |
+| 0.028 | HELLDIVERS 2 | 1,817 | 64,042 |
+| 0.028 | Counter-Strike | 33,804 | 1,225,505 |
+| 0.024 | Delta Force | 2,563 | 108,656 |
+| 0.009 | PUBG: BATTLEGROUNDS | 6,387 | 703,864 |
 
 ---
 
