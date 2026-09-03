@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-09-03T11` (UTC). History: 28 snapshots spanning 154h.
-Reference windows: short = `2026-09-03T04`, day = `2026-09-02T11`.
+Generated from snapshot `2026-09-03T16` (UTC). History: 29 snapshots spanning 159h.
+Reference windows: short = `2026-09-03T11`, day = `2026-09-02T16`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Hero Siege | +7.34 | 23 | 13,685 | - | +692% | 48 | - | 0.8797 | ENTRY IGNITION:bendurry |
-| 2 | Street Fighter 6 | +5.52 | 12 | 27,678 | +770% | +130% | 100 | +0% | 0.5475 |  |
-| 3 | World of Tanks | +4.71 | 28 | 9,812 | +228% | -16% | 100 | +64% | 0.1943 | IGNITION:skill4ltu,dakillzor |
-| 4 | ARKNIGHTS: ENDFIELD | +3.76 | 36 | 6,967 | +178% | +58% | 82 | -12% | 0.6326 | IGNITION:k4sen |
-| 5 | League of Legends | +3.47 | 1 | 183,287 | +668% | -44% | 98 | -1% | 0.4155 |  |
-| 6 | Dota 2 | +3.37 | 6 | 52,505 | +388% | +17% | 100 | +0% | 0.2688 |  |
-| 7 | R2 Online: Reign of Revolution | +3.31 | 63 | 2,528 | +18% | +60% | 44 | +76% | 0.3762 | BREADTH |
-| 8 | Mario Kart World | +3.25 | 22 | 14,653 | - | - | 12 | - | 0.7734 | ENTRY IGNITION:gon_vl |
-| 9 | The Isle | +3.25 | 66 | 2,488 | - | - | 54 | - | 0.6363 | ENTRY IGNITION:gssspotted |
-| 10 | Bodycam | +3.25 | 41 | 5,398 | - | - | 73 | - | 0.6473 | ENTRY IGNITION:glorious_e |
-| 11 | Rainbow Six Siege | +3.06 | 24 | 12,214 | +46% | +98% | 100 | +3% | 0.6828 | IGNITION:rainbow6 |
-| 12 | Hearthstone | +2.66 | 26 | 11,045 | +141% | +30% | 98 | +46% | 0.168 |  |
-| 13 | Crypto | +2.58 | 35 | 7,111 | +44% | +119% | 100 | +12% | 0.3658 |  |
-| 14 | 7 Days to Die | +2.25 | 99 | 1,530 | - | - | 100 | - | 0.2974 | ENTRY |
-| 15 | Duet Night Abyss | +2.25 | 90 | 1,678 | - | - | 5 | - | 0.9946 | ENTRY |
+| 1 | Onimusha: Way of the Sword | +9.63 | 14 | 41,600 | +1534% | - | 99 | +800% | 0.1765 | ENTRY |
+| 2 | Path of Exile 2 | +8.83 | 11 | 57,068 | +1653% | +470% | 99 | +25% | 0.8718 |  |
+| 3 | BOMBANANA! | +7.47 | 46 | 8,478 | +249% | - | 92 | +513% | 0.7366 | BREADTH ENTRY IGNITION:morphe_ya |
+| 4 | WARDOGS | +7.40 | 34 | 12,064 | +615% | - | 88 | +214% | 0.5973 | ENTRY IGNITION:thefpsgamesshow |
+| 5 | Tanks Blitz | +5.97 | 58 | 6,513 | - | +1541% | 16 | - | 0.9721 | ENTRY IGNITION:tanks_blitz_official |
+| 6 | Friendly Steps | +4.25 | 29 | 15,061 | - | - | 8 | - | 0.6641 | ENTRY IGNITION:t2x2,stintik |
+| 7 | ROBLOX | +4.20 | 42 | 8,280 | +185% | +52% | 100 | +3% | 0.4498 | IGNITION:aslanshukasha |
+| 8 | Hunt: Showdown 1896 | +4.02 | 65 | 5,339 | +214% | +81% | 100 | +0% | 0.2536 |  |
+| 9 | Minecraft | +3.97 | 6 | 94,123 | +645% | +4% | 98 | +0% | 0.4735 |  |
+| 10 | World of Warships | +3.52 | 72 | 5,336 | - | +63% | 25 | - | 0.8304 | ENTRY IGNITION:worldofwarships |
+| 11 | Rogue Blight | +3.25 | 49 | 7,706 | - | - | 7 | - | 0.9581 | ENTRY IGNITION:elajjaz |
+| 12 | Portal 2 | +3.25 | 24 | 17,939 | - | - | 11 | - | 0.9984 | ENTRY IGNITION:ohnepixel |
+| 13 | Taguan | +3.25 | 91 | 3,615 | - | - | 1 | - | 1.0 | ENTRY IGNITION:appie |
+| 14 | BioEden | +3.25 | 54 | 6,606 | - | - | 6 | - | 0.5486 | ENTRY IGNITION:alexelcapo |
+| 15 | Super Mario Maker 2 | +3.25 | 80 | 4,546 | - | - | 13 | - | 0.9461 | ENTRY IGNITION:hanjoudesu |
 
 ## Ignition alerts
 
@@ -30,27 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Hero Siege | bendurry | 12,039 | 12,039 | 88% | 23 |
-| Mario Kart World | gon_vl | 15,317 | 11,333 | 77% | 22 |
-| Rainbow Six Siege | rainbow6 | 8,340 | 8,340 | 68% | 24 |
-| ARKNIGHTS: ENDFIELD | k4sen | 10,777 | 4,407 | 63% | 36 |
-| Bodycam | glorious_e | 5,890 | 3,494 | 65% | 41 |
-| The Isle | gssspotted | 3,697 | 1,583 | 64% | 66 |
+| Portal 2 | ohnepixel | 45,139 | 17,910 | 100% | 24 |
+| Friendly Steps | t2x2 | 14,592 | 10,002 | 66% | 29 |
+| Rogue Blight | elajjaz | 8,812 | 7,383 | 96% | 49 |
+| WARDOGS | thefpsgamesshow | 7,206 | 7,206 | 60% | 34 |
+| LEGO Party! | northernlion | 13,338 | 7,082 | 90% | 48 |
+| Tanks Blitz | tanks_blitz_official | 6,331 | 6,331 | 97% | 58 |
+| BOMBANANA! | morphe_ya | 6,245 | 6,245 | 74% | 46 |
+| World of Warships | worldofwarships | 4,431 | 4,431 | 83% | 72 |
+| Super Mario Maker 2 | hanjoudesu | 4,301 | 4,301 | 95% | 80 |
+| How to Fish | terracid | 4,281 | 4,281 | 55% | 50 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 0.78 | Street Fighter 6 | 27,678 | 35,473 |
-| 0.602 | Grand Theft Auto V | 44,376 | 73,667 |
-| 0.34 | Escape from Tarkov | 12,575 | 36,953 |
-| 0.28 | Project Zomboid | 22,095 | 78,960 |
-| 0.19 | Overwatch | 12,328 | 64,916 |
-| 0.024 | Delta Force | 2,607 | 109,341 |
-| 0.022 | Counter-Strike | 28,074 | 1,300,990 |
-| 0.02 | Rust | 1,569 | 80,135 |
-| 0.012 | Palworld | 1,702 | 145,377 |
-| 0.008 | PUBG: BATTLEGROUNDS | 5,682 | 725,224 |
+| 2.702 | Path of Exile 2 | 57,068 | 21,117 |
+| 1.337 | Grand Theft Auto V | 98,529 | 73,667 |
+| 1.122 | Escape from Tarkov | 41,448 | 36,953 |
+| 0.632 | MECCHA CHAMELEON | 6,623 | 10,485 |
+| 0.32 | Street Fighter 6 | 11,336 | 35,473 |
+| 0.057 | How to Fish | 7,721 | 134,759 |
+| 0.056 | Rust | 4,468 | 80,135 |
+| 0.05 | Dota 2 | 41,435 | 834,096 |
+| 0.038 | Delta Force | 4,172 | 109,341 |
+| 0.02 | PUBG: BATTLEGROUNDS | 14,565 | 725,224 |
 
 ---
 
