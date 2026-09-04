@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-09-04T16` (UTC). History: 34 snapshots spanning 183h.
-Reference windows: short = `2026-09-04T11`, day = `2026-09-03T16`.
+Generated from snapshot `2026-09-04T20` (UTC). History: 35 snapshots spanning 187h.
+Reference windows: short = `2026-09-04T16`, day = `2026-09-03T21`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | EA Sports FC 26 | +7.55 | 35 | 11,123 | +533% | +108% | 100 | +1% | 0.3621 | IGNITION:dannyaarons,auziomf |
-| 2 | Minecraft | +5.65 | 5 | 98,508 | +1525% | +5% | 97 | +0% | 0.4632 |  |
-| 3 | Pogostuck: Rage With Your Friends | +5.54 | 42 | 9,075 | +60% | +226% | 17 | -11% | 0.6437 | IGNITION:yuyuta0702 |
-| 4 | Counter-Strike | +5.09 | 3 | 195,754 | +640% | +149% | 97 | +3% | 0.1708 |  |
-| 5 | Halloween: The Game | +5.04 | 13 | 43,872 | - | +309% | 98 | - | 0.1524 | ENTRY |
-| 6 | WARDOGS | +4.79 | 6 | 90,916 | +125% | +654% | 97 | -3% | 0.1452 |  |
-| 7 | Resonance: A Plague Tale Legacy | +4.49 | 57 | 5,615 | +261% | - | 100 | +12% | 0.7569 | ENTRY IGNITION:forsen |
-| 8 | VRChat | +4.36 | 64 | 4,517 | +182% | +31% | 92 | +64% | 0.2683 |  |
-| 9 | Hearthstone | +3.43 | 22 | 20,691 | +135% | +52% | 95 | -1% | 0.2676 | IGNITION:silvername |
-| 10 | Standoff 2 | +3.28 | 75 | 3,595 | +59% | +171% | 92 | +51% | 0.4637 |  |
-| 11 | Jinro Metropolis | +3.25 | 65 | 4,472 | - | - | 8 | - | 0.9119 | ENTRY IGNITION:xhalli4x |
-| 12 | Fields of Mistria | +3.25 | 63 | 4,992 | - | - | 71 | - | 0.6763 | ENTRY IGNITION:shxtou |
-| 13 | Rocket League | +3.23 | 45 | 5,631 | +163% | +31% | 100 | +0% | 0.2222 |  |
-| 14 | World of Tanks | +3.12 | 17 | 32,220 | +228% | +78% | 97 | -3% | 0.2191 |  |
-| 15 | Call of Duty: Warzone | +2.69 | 23 | 14,833 | +116% | +5% | 99 | -1% | 0.2312 | IGNITION:camy |
+| 1 | Path of Exile 2 | +11.89 | 4 | 105,398 | +1682% | +1933% | 100 | +9% | 0.1547 |  |
+| 2 | Halloween: The Game | +4.76 | 7 | 70,746 | +61% | +490% | 100 | +2% | 0.236 |  |
+| 3 | Project Zomboid | +3.89 | 31 | 15,639 | +203% | -13% | 99 | +0% | 0.4669 | IGNITION:quin69,edopeh |
+| 4 | GeoGuessr | +3.85 | 21 | 25,779 | +18% | - | 61 | +20% | 0.2883 | BREADTH ENTRY IGNITION:geoguessr,bastighg |
+| 5 | Trackmania | +3.73 | 50 | 7,818 | +132% | - | 49 | +23% | 0.8542 | ENTRY IGNITION:therealmarzaa |
+| 6 | Bodycam | +3.43 | 20 | 26,150 | - | +175% | 98 | - | 0.9476 | ENTRY |
+| 7 | Watch Your Plastic Duck | +3.42 | 48 | 7,962 | - | +23% | 1 | - | 1.0 | ENTRY IGNITION:ironmouse |
+| 8 | Breathedge 2 | +3.25 | 29 | 18,792 | - | - | 21 | - | 0.9864 | ENTRY IGNITION:gronkh |
+| 9 | Sephiria | +3.25 | 59 | 6,755 | - | - | 11 | - | 0.9618 | ENTRY IGNITION:northernlion |
+| 10 | F1 25 | +3.25 | 60 | 6,619 | - | - | 100 | - | 0.637 | ENTRY IGNITION:mrdzinold |
+| 11 | MARVEL Contest of Champions | +3.25 | 28 | 18,882 | - | - | 30 | - | 0.569 | ENTRY IGNITION:pepe |
+| 12 | Control | +3.25 | 83 | 3,684 | - | - | 41 | - | 0.7839 | ENTRY IGNITION:limealicious |
+| 13 | Schoolboy Runaway | +3.25 | 69 | 5,574 | - | - | 2 | - | 0.9996 | ENTRY IGNITION:lollolacustre |
+| 14 | Kerbal Space Program | +3.25 | 85 | 3,607 | - | - | 12 | - | 0.9809 | ENTRY IGNITION:erobb221 |
+| 15 | Withering Realms | +3.25 | 61 | 6,334 | - | - | 6 | - | 0.9848 | ENTRY IGNITION:jerma985 |
 
 ## Ignition alerts
 
@@ -30,27 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Super Mario Maker 2 | hanjoudesu | 6,250 | 6,250 | 67% | 40 |
-| Tanks Blitz | tanks_blitz_official | 6,331 | 6,243 | 99% | 52 |
-| Pogostuck: Rage With Your Friends | yuyuta0702 | 7,864 | 5,842 | 64% | 42 |
-| Resonance: A Plague Tale Legacy | forsen | 6,387 | 4,250 | 76% | 57 |
-| Jinro Metropolis | xhalli4x | 5,270 | 4,078 | 91% | 65 |
-| Fields of Mistria | shxtou | 4,061 | 3,376 | 68% | 63 |
+| Breathedge 2 | gronkh | 27,718 | 18,537 | 99% | 29 |
+| MARVEL Contest of Champions | pepe | 10,744 | 10,744 | 57% | 28 |
+| Watch Your Plastic Duck | ironmouse | 13,776 | 7,962 | 100% | 48 |
+| Trackmania | therealmarzaa | 11,846 | 6,678 | 85% | 50 |
+| Sephiria | northernlion | 13,338 | 6,497 | 96% | 59 |
+| Withering Realms | jerma985 | 11,861 | 6,238 | 98% | 61 |
+| Schoolboy Runaway | lollolacustre | 6,678 | 5,572 | 100% | 69 |
+| F1 25 | mrdzinold | 4,216 | 4,216 | 64% | 60 |
+| Kerbal Space Program | erobb221 | 3,817 | 3,538 | 98% | 85 |
+| Jinro Metropolis | xhalli4x | 5,270 | 3,439 | 97% | 86 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 0.946 | The Blood of Dawnwalker | 60,468 | 63,948 |
-| 0.739 | Grand Theft Auto V | 53,776 | 72,793 |
-| 0.368 | Escape from Tarkov | 13,452 | 36,577 |
-| 0.36 | Street Fighter 6 | 13,092 | 36,411 |
-| 0.286 | Path of Exile 2 | 5,913 | 20,642 |
-| 0.054 | Dota 2 | 44,352 | 828,824 |
-| 0.053 | Warframe | 3,063 | 57,678 |
-| 0.047 | Red Dead Redemption II | 2,253 | 48,087 |
-| 0.03 | Delta Force | 3,132 | 105,867 |
-| 0.02 | PUBG: BATTLEGROUNDS | 14,179 | 719,645 |
+| 5.106 | Path of Exile 2 | 105,398 | 20,642 |
+| 0.987 | Bodycam | 26,150 | 26,489 |
+| 0.661 | The Blood of Dawnwalker | 42,299 | 63,948 |
+| 0.655 | Grand Theft Auto V | 47,688 | 72,793 |
+| 0.301 | Rocket League | 7,499 | 24,946 |
+| 0.041 | How to Fish | 4,699 | 115,369 |
+| 0.029 | Apex Legends | 7,891 | 269,308 |
+| 0.028 | Delta Force | 2,937 | 105,867 |
+| 0.023 | Palworld | 3,269 | 139,842 |
+| 0.009 | PUBG: BATTLEGROUNDS | 6,366 | 719,645 |
 
 ---
 
