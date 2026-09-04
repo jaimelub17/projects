@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-09-04T04` (UTC). History: 32 snapshots spanning 171h.
-Reference windows: short = `2026-09-03T21`, day = `2026-09-03T04`.
+Generated from snapshot `2026-09-04T11` (UTC). History: 33 snapshots spanning 178h.
+Reference windows: short = `2026-09-04T04`, day = `2026-09-03T11`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Pokémon Emerald Version | +5.56 | 28 | 10,804 | +131% | +135% | 35 | +21% | 0.3128 | IGNITION:valkyrae,fuslie |
-| 2 | WARDOGS | +4.94 | 2 | 102,495 | -36% | +2481% | 100 | +0% | 0.4505 |  |
-| 3 | I'm Only Sleeping | +3.26 | 35 | 7,127 | - | +44% | 100 | - | 0.411 | ENTRY IGNITION:zarbex |
-| 4 | Cyberpunk 2077 | +3.23 | 41 | 5,908 | - | - | 100 | - | 0.8568 | ENTRY IGNITION:summit1g |
-| 5 | Black Myth: Wukong | +3.23 | 83 | 2,026 | - | - | 89 | - | 0.844 | ENTRY IGNITION:kaise |
-| 6 | Warframe | +2.99 | 65 | 2,820 | - | +70% | 99 | - | 0.5117 | ENTRY |
-| 7 | Rust | +2.50 | 22 | 14,091 | -46% | +235% | 100 | +0% | 0.5853 | IGNITION:sasatikk |
-| 8 | Phasmophobia | +2.27 | 73 | 2,201 | - | +26% | 99 | - | 0.3594 | ENTRY |
-| 9 | Welcome to Elderfield | +2.25 | 96 | 1,644 | - | - | 1 | - | 1.0 | ENTRY |
-| 10 | Machine Party | +2.25 | 93 | 1,801 | - | - | 26 | - | 0.432 | ENTRY |
-| 11 | Forest Escape: Last Train | +2.25 | 62 | 3,576 | - | - | 2 | - | 0.8974 | ENTRY |
-| 12 | Diablo IV | +2.25 | 84 | 2,006 | - | - | 44 | - | 0.8948 | ENTRY |
-| 13 | MapleStory | +2.25 | 71 | 2,511 | - | - | 64 | - | 0.2382 | ENTRY |
-| 14 | Call of Duty: Modern Warfare 4 | +2.25 | 97 | 1,571 | - | - | 95 | - | 0.2864 | ENTRY |
-| 15 | Liminal Shroud | +2.25 | 3 | 54,685 | - | - | 7 | - | 0.9968 | ENTRY |
+| 1 | Onimusha: Way of the Sword | +7.17 | 8 | 42,349 | +33% | +1563% | 99 | -1% | 0.087 |  |
+| 2 | Street Fighter 6 | +6.77 | 5 | 57,108 | +1585% | +106% | 99 | +8% | 0.2746 |  |
+| 3 | Rust | +6.66 | 21 | 14,286 | +1% | +811% | 99 | -1% | 0.2516 | IGNITION:moons |
+| 4 | WARDOGS | +5.63 | 7 | 40,426 | -61% | +2296% | 100 | +0% | 0.1643 |  |
+| 5 | World of Tanks | +5.48 | 31 | 9,816 | +296% | +0% | 100 | +75% | 0.205 | IGNITION:dakillzor,skill4ltu |
+| 6 | Super Mario Maker 2 | +5.43 | 15 | 23,634 | +1247% | - | 12 | -29% | 0.8885 | ENTRY |
+| 7 | Warframe | +5.34 | 12 | 27,829 | +887% | - | 100 | +1% | 0.8751 | ENTRY |
+| 8 | Dying Light | +4.25 | 24 | 12,847 | - | - | 15 | - | 0.7791 | ENTRY IGNITION:ironmouse,cdawg |
+| 9 | League of Legends | +3.98 | 1 | 232,079 | +529% | +27% | 100 | +3% | 0.4305 |  |
+| 10 | NARAKA: BLADEPOINT | +3.33 | 49 | 4,751 | - | - | 20 | - | 0.9194 | ENTRY IGNITION:shipbroman |
+| 11 | Pogostuck: Rage With Your Friends | +3.25 | 42 | 5,668 | - | - | 19 | - | 0.7992 | ENTRY IGNITION:yuyuta0702 |
+| 12 | Can I Come In? | +3.25 | 57 | 3,343 | - | - | 1 | - | 1.0 | ENTRY IGNITION:sterzik |
+| 13 | PUBG: BATTLEGROUNDS | +3.16 | 41 | 8,059 | +302% | +42% | 100 | +4% | 0.3281 |  |
+| 14 | Apex Legends | +2.62 | 10 | 33,564 | +276% | +7% | 93 | -3% | 0.3225 |  |
+| 15 | Mobile Legends: Bang Bang | +2.46 | 70 | 2,349 | - | +38% | 95 | - | 0.2397 | ENTRY |
 
 ## Ignition alerts
 
@@ -30,26 +30,26 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Darkest Dungeon | moonmoon | 13,957 | 10,312 | 99% | 29 |
-| Rust | sasatikk | 8,248 | 8,248 | 59% | 22 |
-| Cyberpunk 2077 | summit1g | 6,476 | 5,062 | 86% | 41 |
-| Pokémon | kkatamina | 5,462 | 1,754 | 80% | 80 |
-| Black Myth: Wukong | kaise | 5,708 | 1,710 | 84% | 83 |
+| Dying Light | ironmouse | 13,776 | 10,009 | 78% | 24 |
+| Rainbow Six Siege | rainbow6 | 8,340 | 6,979 | 68% | 28 |
+| Pogostuck: Rage With Your Friends | yuyuta0702 | 7,864 | 4,530 | 80% | 42 |
+| NARAKA: BLADEPOINT | shipbroman | 4,368 | 4,368 | 92% | 49 |
+| Can I Come In? | sterzik | 5,365 | 3,343 | 100% | 57 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 0.42 | Dead by Daylight | 24,879 | 59,278 |
-| 0.329 | The Blood of Dawnwalker | 21,068 | 63,948 |
-| 0.308 | Overwatch | 19,555 | 63,524 |
-| 0.274 | Grand Theft Auto V | 19,954 | 72,793 |
-| 0.185 | Phasmophobia | 2,201 | 11,929 |
-| 0.023 | Palworld | 3,238 | 139,842 |
-| 0.02 | Dota 2 | 16,180 | 828,824 |
-| 0.02 | Delta Force | 2,115 | 105,867 |
-| 0.013 | Counter-Strike | 16,071 | 1,193,750 |
-| 0.003 | PUBG: BATTLEGROUNDS | 2,005 | 719,645 |
+| 1.568 | Street Fighter 6 | 57,108 | 36,411 |
+| 0.644 | Grand Theft Auto V | 46,846 | 72,793 |
+| 0.482 | Warframe | 27,829 | 57,678 |
+| 0.331 | The Blood of Dawnwalker | 21,137 | 63,948 |
+| 0.28 | Escape from Tarkov | 10,249 | 36,577 |
+| 0.031 | VRChat | 1,601 | 52,443 |
+| 0.025 | EA Sports FC 26 | 1,758 | 69,432 |
+| 0.024 | Delta Force | 2,552 | 105,867 |
+| 0.022 | Counter-Strike | 26,438 | 1,193,750 |
+| 0.011 | PUBG: BATTLEGROUNDS | 8,059 | 719,645 |
 
 ---
 
