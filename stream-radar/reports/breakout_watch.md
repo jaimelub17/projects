@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-09-04T11` (UTC). History: 33 snapshots spanning 178h.
-Reference windows: short = `2026-09-04T04`, day = `2026-09-03T11`.
+Generated from snapshot `2026-09-04T16` (UTC). History: 34 snapshots spanning 183h.
+Reference windows: short = `2026-09-04T11`, day = `2026-09-03T16`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Onimusha: Way of the Sword | +7.17 | 8 | 42,349 | +33% | +1563% | 99 | -1% | 0.087 |  |
-| 2 | Street Fighter 6 | +6.77 | 5 | 57,108 | +1585% | +106% | 99 | +8% | 0.2746 |  |
-| 3 | Rust | +6.66 | 21 | 14,286 | +1% | +811% | 99 | -1% | 0.2516 | IGNITION:moons |
-| 4 | WARDOGS | +5.63 | 7 | 40,426 | -61% | +2296% | 100 | +0% | 0.1643 |  |
-| 5 | World of Tanks | +5.48 | 31 | 9,816 | +296% | +0% | 100 | +75% | 0.205 | IGNITION:dakillzor,skill4ltu |
-| 6 | Super Mario Maker 2 | +5.43 | 15 | 23,634 | +1247% | - | 12 | -29% | 0.8885 | ENTRY |
-| 7 | Warframe | +5.34 | 12 | 27,829 | +887% | - | 100 | +1% | 0.8751 | ENTRY |
-| 8 | Dying Light | +4.25 | 24 | 12,847 | - | - | 15 | - | 0.7791 | ENTRY IGNITION:ironmouse,cdawg |
-| 9 | League of Legends | +3.98 | 1 | 232,079 | +529% | +27% | 100 | +3% | 0.4305 |  |
-| 10 | NARAKA: BLADEPOINT | +3.33 | 49 | 4,751 | - | - | 20 | - | 0.9194 | ENTRY IGNITION:shipbroman |
-| 11 | Pogostuck: Rage With Your Friends | +3.25 | 42 | 5,668 | - | - | 19 | - | 0.7992 | ENTRY IGNITION:yuyuta0702 |
-| 12 | Can I Come In? | +3.25 | 57 | 3,343 | - | - | 1 | - | 1.0 | ENTRY IGNITION:sterzik |
-| 13 | PUBG: BATTLEGROUNDS | +3.16 | 41 | 8,059 | +302% | +42% | 100 | +4% | 0.3281 |  |
-| 14 | Apex Legends | +2.62 | 10 | 33,564 | +276% | +7% | 93 | -3% | 0.3225 |  |
-| 15 | Mobile Legends: Bang Bang | +2.46 | 70 | 2,349 | - | +38% | 95 | - | 0.2397 | ENTRY |
+| 1 | EA Sports FC 26 | +7.55 | 35 | 11,123 | +533% | +108% | 100 | +1% | 0.3621 | IGNITION:dannyaarons,auziomf |
+| 2 | Minecraft | +5.65 | 5 | 98,508 | +1525% | +5% | 97 | +0% | 0.4632 |  |
+| 3 | Pogostuck: Rage With Your Friends | +5.54 | 42 | 9,075 | +60% | +226% | 17 | -11% | 0.6437 | IGNITION:yuyuta0702 |
+| 4 | Counter-Strike | +5.09 | 3 | 195,754 | +640% | +149% | 97 | +3% | 0.1708 |  |
+| 5 | Halloween: The Game | +5.04 | 13 | 43,872 | - | +309% | 98 | - | 0.1524 | ENTRY |
+| 6 | WARDOGS | +4.79 | 6 | 90,916 | +125% | +654% | 97 | -3% | 0.1452 |  |
+| 7 | Resonance: A Plague Tale Legacy | +4.49 | 57 | 5,615 | +261% | - | 100 | +12% | 0.7569 | ENTRY IGNITION:forsen |
+| 8 | VRChat | +4.36 | 64 | 4,517 | +182% | +31% | 92 | +64% | 0.2683 |  |
+| 9 | Hearthstone | +3.43 | 22 | 20,691 | +135% | +52% | 95 | -1% | 0.2676 | IGNITION:silvername |
+| 10 | Standoff 2 | +3.28 | 75 | 3,595 | +59% | +171% | 92 | +51% | 0.4637 |  |
+| 11 | Jinro Metropolis | +3.25 | 65 | 4,472 | - | - | 8 | - | 0.9119 | ENTRY IGNITION:xhalli4x |
+| 12 | Fields of Mistria | +3.25 | 63 | 4,992 | - | - | 71 | - | 0.6763 | ENTRY IGNITION:shxtou |
+| 13 | Rocket League | +3.23 | 45 | 5,631 | +163% | +31% | 100 | +0% | 0.2222 |  |
+| 14 | World of Tanks | +3.12 | 17 | 32,220 | +228% | +78% | 97 | -3% | 0.2191 |  |
+| 15 | Call of Duty: Warzone | +2.69 | 23 | 14,833 | +116% | +5% | 99 | -1% | 0.2312 | IGNITION:camy |
 
 ## Ignition alerts
 
@@ -30,26 +30,27 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Dying Light | ironmouse | 13,776 | 10,009 | 78% | 24 |
-| Rainbow Six Siege | rainbow6 | 8,340 | 6,979 | 68% | 28 |
-| Pogostuck: Rage With Your Friends | yuyuta0702 | 7,864 | 4,530 | 80% | 42 |
-| NARAKA: BLADEPOINT | shipbroman | 4,368 | 4,368 | 92% | 49 |
-| Can I Come In? | sterzik | 5,365 | 3,343 | 100% | 57 |
+| Super Mario Maker 2 | hanjoudesu | 6,250 | 6,250 | 67% | 40 |
+| Tanks Blitz | tanks_blitz_official | 6,331 | 6,243 | 99% | 52 |
+| Pogostuck: Rage With Your Friends | yuyuta0702 | 7,864 | 5,842 | 64% | 42 |
+| Resonance: A Plague Tale Legacy | forsen | 6,387 | 4,250 | 76% | 57 |
+| Jinro Metropolis | xhalli4x | 5,270 | 4,078 | 91% | 65 |
+| Fields of Mistria | shxtou | 4,061 | 3,376 | 68% | 63 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 1.568 | Street Fighter 6 | 57,108 | 36,411 |
-| 0.644 | Grand Theft Auto V | 46,846 | 72,793 |
-| 0.482 | Warframe | 27,829 | 57,678 |
-| 0.331 | The Blood of Dawnwalker | 21,137 | 63,948 |
-| 0.28 | Escape from Tarkov | 10,249 | 36,577 |
-| 0.031 | VRChat | 1,601 | 52,443 |
-| 0.025 | EA Sports FC 26 | 1,758 | 69,432 |
-| 0.024 | Delta Force | 2,552 | 105,867 |
-| 0.022 | Counter-Strike | 26,438 | 1,193,750 |
-| 0.011 | PUBG: BATTLEGROUNDS | 8,059 | 719,645 |
+| 0.946 | The Blood of Dawnwalker | 60,468 | 63,948 |
+| 0.739 | Grand Theft Auto V | 53,776 | 72,793 |
+| 0.368 | Escape from Tarkov | 13,452 | 36,577 |
+| 0.36 | Street Fighter 6 | 13,092 | 36,411 |
+| 0.286 | Path of Exile 2 | 5,913 | 20,642 |
+| 0.054 | Dota 2 | 44,352 | 828,824 |
+| 0.053 | Warframe | 3,063 | 57,678 |
+| 0.047 | Red Dead Redemption II | 2,253 | 48,087 |
+| 0.03 | Delta Force | 3,132 | 105,867 |
+| 0.02 | PUBG: BATTLEGROUNDS | 14,179 | 719,645 |
 
 ---
 
