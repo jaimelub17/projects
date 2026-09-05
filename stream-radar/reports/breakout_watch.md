@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-09-05T04` (UTC). History: 37 snapshots spanning 195h.
-Reference windows: short = `2026-09-04T20`, day = `2026-09-04T04`.
+Generated from snapshot `2026-09-05T10` (UTC). History: 38 snapshots spanning 201h.
+Reference windows: short = `2026-09-05T04`, day = `2026-09-04T11`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Call of Duty | +8.08 | 13 | 22,934 | - | +3288% | 100 | - | 0.9681 | ENTRY |
-| 2 | Pokémon | +7.35 | 29 | 13,377 | - | +512% | 40 | - | 0.5142 | ENTRY IGNITION:ludwig,kkatamina |
-| 3 | PUBG: BATTLEGROUNDS | +6.33 | 20 | 17,970 | +182% | +796% | 91 | -9% | 0.6993 |  |
-| 4 | Halloween: The Game | +5.52 | 4 | 55,117 | -22% | +1256% | 100 | +0% | 0.4263 |  |
-| 5 | Path of Exile 2 | +5.13 | 5 | 54,035 | -49% | +1758% | 98 | -2% | 0.1832 |  |
-| 6 | Black Myth: Wukong | +4.54 | 53 | 5,671 | - | +180% | 70 | - | 0.9656 | ENTRY IGNITION:kaise |
-| 7 | PEAK | +4.28 | 41 | 6,467 | - | +280% | 100 | - | 0.16 | ENTRY |
-| 8 | Super Mario Maker 2 | +4.09 | 58 | 5,264 | - | +200% | 25 | - | 0.9111 | ENTRY IGNITION:hanjoudesu |
-| 9 | Satanic | +3.25 | 75 | 3,879 | - | - | 1 | - | 1.0 | ENTRY IGNITION:vargskelethor |
-| 10 | Kingdom Hearts Final Mix | +3.25 | 36 | 10,188 | - | - | 1 | - | 1.0 | ENTRY IGNITION:ironmouse |
-| 11 | Don’t Sleep with the Fishes | +3.25 | 33 | 11,377 | - | - | 2 | - | 0.9999 | ENTRY IGNITION:elmariana |
-| 12 | Worming from Home | +3.25 | 37 | 9,433 | - | - | 21 | - | 0.8272 | ENTRY IGNITION:vanillamace |
-| 13 | Project ZETA | +3.25 | 67 | 4,458 | - | - | 22 | - | 0.5709 | ENTRY IGNITION:tenz |
-| 14 | Apex Legends | +2.68 | 15 | 16,983 | +115% | +90% | 100 | +1% | 0.3141 |  |
-| 15 | Darkest Dungeon | +2.52 | 34 | 11,107 | - | +7% | 16 | - | 0.9896 | ENTRY IGNITION:moonmoon |
+| 1 | Path of Exile 2 | +7.15 | 7 | 51,475 | -5% | +2247% | 99 | +1% | 0.2116 |  |
+| 2 | PUBG: BATTLEGROUNDS | +6.67 | 5 | 77,356 | +330% | +860% | 96 | +5% | 0.5122 |  |
+| 3 | League of Legends | +5.01 | 2 | 298,520 | +1004% | +29% | 99 | +0% | 0.3239 |  |
+| 4 | World of Tanks | +4.68 | 28 | 11,961 | +190% | +22% | 98 | +18% | 0.2891 | IGNITION:dakillzor,skill4ltu |
+| 5 | Escape from Tarkov | +3.42 | 21 | 15,244 | +146% | +49% | 99 | -1% | 0.3251 | IGNITION:gingy |
+| 6 | Snowed Under | +3.25 | 26 | 13,147 | - | - | 5 | - | 0.9983 | ENTRY IGNITION:stylishnoob4 |
+| 7 | Pokémon Showdown | +3.25 | 52 | 3,666 | - | - | 2 | - | 0.9997 | ENTRY IGNITION:yourragegaming |
+| 8 | Don't Drop The Cake | +3.25 | 44 | 5,489 | - | - | 5 | - | 0.9758 | ENTRY IGNITION:batora324 |
+| 9 | Hunt: Showdown 1896 | +3.04 | 60 | 3,082 | +78% | +83% | 100 | +3% | 0.4987 |  |
+| 10 | Rainbow Six Siege | +2.86 | 23 | 13,772 | +98% | +34% | 99 | +1% | 0.5579 | IGNITION:rainbow6 |
+| 11 | Dota 2 | +2.59 | 9 | 44,170 | +227% | +25% | 98 | -2% | 0.3209 |  |
+| 12 | Counter-Strike | +2.41 | 11 | 33,974 | +177% | +29% | 100 | +4% | 0.2262 |  |
+| 13 | TEKKEN 8 | +2.25 | 78 | 2,117 | - | - | 75 | - | 0.1545 | ENTRY |
+| 14 | Far Cry 2 | +2.25 | 68 | 2,609 | - | - | 3 | - | 0.9989 | ENTRY |
+| 15 | Tom Clancy's The Division 2 | +2.25 | 61 | 2,902 | - | - | 100 | - | 0.7033 | ENTRY |
 
 ## Ignition alerts
 
@@ -30,31 +30,27 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Don’t Sleep with the Fishes | elmariana | 11,376 | 11,376 | 100% | 33 |
-| Darkest Dungeon | moonmoon | 13,957 | 10,991 | 99% | 34 |
-| Kingdom Hearts Final Mix | ironmouse | 13,776 | 10,188 | 100% | 36 |
-| Rust | sasatikk | 8,476 | 8,476 | 56% | 23 |
-| Worming from Home | vanillamace | 11,222 | 7,803 | 83% | 37 |
-| Pokémon | ludwig | 7,522 | 6,878 | 51% | 29 |
-| Black Myth: Wukong | kaise | 5,708 | 5,476 | 97% | 53 |
-| Super Mario Maker 2 | hanjoudesu | 6,250 | 4,796 | 91% | 58 |
-| Satanic | vargskelethor | 3,879 | 3,879 | 100% | 75 |
-| Project ZETA | tenz | 5,568 | 2,545 | 57% | 67 |
+| Snowed Under | stylishnoob4 | 19,234 | 13,125 | 100% | 26 |
+| Kingdom Hearts Final Mix | ironmouse | 13,776 | 10,665 | 100% | 30 |
+| Rainbow Six Siege | rainbow6 | 8,340 | 7,683 | 56% | 23 |
+| Don't Drop The Cake | batora324 | 11,077 | 5,356 | 98% | 44 |
+| Pogostuck: Rage With Your Friends | yuyuta0702 | 7,864 | 3,817 | 86% | 50 |
+| Pokémon Showdown | yourragegaming | 18,576 | 3,665 | 100% | 52 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 0.366 | Path of Exile 2 | 54,035 | 147,624 |
-| 0.311 | Onimusha: Way of the Sword | 23,146 | 74,472 |
-| 0.305 | Grand Theft Auto V | 22,577 | 74,115 |
-| 0.198 | Bodycam | 6,186 | 31,263 |
-| 0.181 | The Blood of Dawnwalker | 11,347 | 62,588 |
-| 0.023 | HELLDIVERS 2 | 1,472 | 65,230 |
-| 0.022 | Palworld | 3,102 | 143,621 |
-| 0.016 | Delta Force | 2,076 | 127,375 |
-| 0.015 | Dota 2 | 13,521 | 880,822 |
-| 0.01 | Counter-Strike | 12,273 | 1,227,890 |
+| 0.449 | Grand Theft Auto V | 33,270 | 74,115 |
+| 0.445 | Onimusha: Way of the Sword | 33,151 | 74,472 |
+| 0.349 | Path of Exile 2 | 51,475 | 147,624 |
+| 0.267 | The Blood of Dawnwalker | 16,718 | 62,588 |
+| 0.166 | Apex Legends | 43,106 | 260,149 |
+| 0.044 | DayZ | 2,312 | 52,539 |
+| 0.042 | EA Sports FC 26 | 3,101 | 74,032 |
+| 0.028 | Counter-Strike | 33,974 | 1,227,890 |
+| 0.021 | Delta Force | 2,660 | 127,375 |
+| 0.014 | Palworld | 2,003 | 143,621 |
 
 ---
 
