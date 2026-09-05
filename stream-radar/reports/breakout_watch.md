@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-09-05T15` (UTC). History: 39 snapshots spanning 206h.
+Generated from snapshot `2026-09-05T18` (UTC). History: 40 snapshots spanning 209h.
 Reference windows: short = `2026-09-05T10`, day = `2026-09-04T16`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Clash Royale | +6.88 | 31 | 13,932 | - | +390% | 49 | - | 0.3727 | ENTRY IGNITION:bale_gg |
-| 2 | Old School RuneScape | +5.35 | 32 | 13,537 | +323% | +116% | 99 | -1% | 0.5534 | IGNITION:oldschoolrs |
-| 3 | Counter-Strike | +5.32 | 2 | 354,394 | +943% | +81% | 98 | -2% | 0.1796 |  |
-| 4 | Path of Exile 2 | +4.82 | 11 | 49,145 | -5% | +731% | 99 | +0% | 0.2088 |  |
-| 5 | Street Fighter 6 | +4.09 | 29 | 13,779 | +188% | +5% | 95 | -5% | 0.2366 | IGNITION:spygea,capcomfighters_jp |
-| 6 | ELDEN RING | +3.64 | 44 | 7,773 | +233% | +24% | 99 | +0% | 0.4619 | IGNITION:takayaspecial |
-| 7 | Super Mario Maker 2 | +3.50 | 35 | 12,419 | - | +33% | 22 | - | 0.9723 | ENTRY IGNITION:batora324 |
-| 8 | ROBLOX | +3.34 | 41 | 5,234 | +303% | +19% | 99 | +3% | 0.1418 |  |
-| 9 | War Thunder | +3.25 | 36 | 11,875 | - | - | 98 | - | 0.5923 | ENTRY IGNITION:warthunder_esports |
-| 10 | EVE Online | +3.25 | 58 | 5,920 | - | - | 25 | - | 0.8324 | ENTRY IGNITION:fenriscreations |
-| 11 | DRAGON BALL Z: KAKAROT | +3.25 | 30 | 13,985 | - | - | 12 | - | 0.9989 | ENTRY IGNITION:yaritaiji |
-| 12 | Moo Who? | +3.25 | 52 | 6,754 | - | - | 5 | - | 0.9051 | ENTRY IGNITION:mobilmobil |
-| 13 | Watch Your Plastic Duck | +3.25 | 59 | 5,924 | - | - | 1 | - | 1.0 | ENTRY IGNITION:ironmouse |
-| 14 | Marvel's Spider-Man | +3.25 | 91 | 2,837 | - | - | 30 | - | 0.9827 | ENTRY IGNITION:rtgame |
-| 15 | Palworld | +2.71 | 60 | 5,298 | +165% | - | 100 | +0% | 0.3505 | ENTRY |
+| 1 | Clash Royale | +7.22 | 28 | 14,951 | - | +426% | 60 | - | 0.4407 | ENTRY IGNITION:bale_gg |
+| 2 | Project Zomboid | +5.78 | 27 | 14,687 | +128% | +185% | 98 | -1% | 0.4325 | IGNITION:quin69,edopeh |
+| 3 | Old School RuneScape | +5.66 | 30 | 14,615 | +357% | +133% | 99 | -1% | 0.5292 | IGNITION:oldschoolrs |
+| 4 | Genshin Impact | +5.31 | 44 | 8,892 | +249% | +139% | 99 | -1% | 0.353 | IGNITION:shxtou |
+| 5 | Counter-Strike | +4.57 | 3 | 279,713 | +723% | +43% | 98 | -2% | 0.1942 |  |
+| 6 | Minecraft | +4.56 | 5 | 107,024 | +829% | +9% | 98 | +1% | 0.4043 |  |
+| 7 | Path of Exile 2 | +4.39 | 15 | 46,217 | -10% | +682% | 95 | -4% | 0.2312 |  |
+| 8 | Overwatch | +4.34 | 14 | 44,680 | +386% | +151% | 100 | +1% | 0.6066 |  |
+| 9 | Fire Emblem: Three Houses | +4.31 | 89 | 3,011 | +79% | - | 20 | +82% | 0.9366 | BREADTH ENTRY IGNITION:admiralbahroo |
+| 10 | ELDEN RING | +4.29 | 39 | 9,109 | +290% | +45% | 98 | -1% | 0.4514 | IGNITION:captain_domo |
+| 11 | ROBLOX | +4.28 | 36 | 6,742 | +419% | +54% | 98 | +2% | 0.2888 |  |
+| 12 | War Thunder | +4.25 | 24 | 21,911 | - | - | 94 | - | 0.6029 | ENTRY IGNITION:warthunder_esports,warthunder_esports_ru |
+| 13 | Madden NFL 27 | +4.13 | 66 | 4,527 | +202% | +64% | 97 | +24% | 0.2235 |  |
+| 14 | Rainbow Six Siege | +3.45 | 22 | 22,954 | +67% | +133% | 98 | -1% | 0.5334 | IGNITION:rainbow6 |
+| 15 | Star Wars Zero Company | +3.39 | 57 | 6,021 | +258% | - | 100 | +8% | 0.296 | ENTRY |
 
 ## Ignition alerts
 
@@ -30,31 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| DRAGON BALL Z: KAKAROT | yaritaiji | 13,970 | 13,970 | 100% | 30 |
-| Super Mario Maker 2 | batora324 | 12,075 | 12,075 | 97% | 35 |
-| Old School RuneScape | oldschoolrs | 7,491 | 7,491 | 55% | 32 |
-| War Thunder | warthunder_esports | 7,034 | 7,034 | 59% | 36 |
-| Moo Who? | mobilmobil | 6,113 | 6,113 | 91% | 52 |
-| Watch Your Plastic Duck | ironmouse | 13,776 | 5,924 | 100% | 59 |
-| EVE Online | fenriscreations | 6,060 | 4,928 | 83% | 58 |
-| EA Sports FC 26 | dannyaarons | 4,102 | 4,020 | 59% | 49 |
-| Jinro Metropolis | xhalli4x | 5,270 | 3,758 | 88% | 75 |
-| Marvel's Spider-Man | rtgame | 3,385 | 2,788 | 98% | 91 |
+| War Thunder | warthunder_esports | 13,211 | 13,211 | 60% | 24 |
+| Rainbow Six Siege | rainbow6 | 12,243 | 12,243 | 53% | 22 |
+| Super Mario Maker 2 | batora324 | 12,075 | 10,503 | 97% | 37 |
+| Old School RuneScape | oldschoolrs | 7,734 | 7,734 | 53% | 30 |
+| Grand Theft Auto | agent00 | 11,014 | 7,636 | 95% | 49 |
+| EVE Online | fenriscreations | 6,299 | 6,299 | 90% | 54 |
+| Watch Your Plastic Duck | ironmouse | 13,776 | 5,698 | 100% | 60 |
+| Jinro Metropolis | xhalli4x | 5,270 | 4,079 | 94% | 73 |
+| The Elder Scrolls V: Skyrim | vedal987 | 8,267 | 3,764 | 95% | 78 |
+| Serve or Die | insym | 4,654 | 3,741 | 98% | 80 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 0.774 | The Blood of Dawnwalker | 48,433 | 62,588 |
-| 0.757 | Grand Theft Auto V | 56,126 | 74,115 |
-| 0.715 | Onimusha: Way of the Sword | 53,211 | 74,472 |
-| 0.374 | Street Fighter 6 | 13,779 | 36,813 |
-| 0.333 | Path of Exile 2 | 49,145 | 147,624 |
-| 0.044 | Dota 2 | 39,142 | 880,822 |
-| 0.043 | How to Fish | 4,508 | 104,048 |
-| 0.037 | Palworld | 5,298 | 143,621 |
-| 0.025 | Delta Force | 3,222 | 127,375 |
-| 0.011 | PUBG: BATTLEGROUNDS | 8,231 | 717,645 |
+| 0.699 | Onimusha: Way of the Sword | 52,044 | 74,472 |
+| 0.609 | The Blood of Dawnwalker | 38,106 | 62,588 |
+| 0.595 | Overwatch | 44,680 | 75,046 |
+| 0.433 | Grand Theft Auto V | 32,087 | 74,115 |
+| 0.313 | Path of Exile 2 | 46,217 | 147,624 |
+| 0.039 | Red Dead Redemption II | 1,977 | 50,724 |
+| 0.033 | Warframe | 2,340 | 71,434 |
+| 0.025 | Palworld | 3,527 | 143,621 |
+| 0.023 | Delta Force | 2,926 | 127,375 |
+| 0.012 | PUBG: BATTLEGROUNDS | 8,436 | 717,645 |
 
 ---
 
