@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-09-05T18` (UTC). History: 40 snapshots spanning 209h.
-Reference windows: short = `2026-09-05T10`, day = `2026-09-04T16`.
+Generated from snapshot `2026-09-05T22` (UTC). History: 41 snapshots spanning 213h.
+Reference windows: short = `2026-09-05T15`, day = `2026-09-04T20`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Clash Royale | +7.22 | 28 | 14,951 | - | +426% | 60 | - | 0.4407 | ENTRY IGNITION:bale_gg |
-| 2 | Project Zomboid | +5.78 | 27 | 14,687 | +128% | +185% | 98 | -1% | 0.4325 | IGNITION:quin69,edopeh |
-| 3 | Old School RuneScape | +5.66 | 30 | 14,615 | +357% | +133% | 99 | -1% | 0.5292 | IGNITION:oldschoolrs |
-| 4 | Genshin Impact | +5.31 | 44 | 8,892 | +249% | +139% | 99 | -1% | 0.353 | IGNITION:shxtou |
-| 5 | Counter-Strike | +4.57 | 3 | 279,713 | +723% | +43% | 98 | -2% | 0.1942 |  |
-| 6 | Minecraft | +4.56 | 5 | 107,024 | +829% | +9% | 98 | +1% | 0.4043 |  |
-| 7 | Path of Exile 2 | +4.39 | 15 | 46,217 | -10% | +682% | 95 | -4% | 0.2312 |  |
-| 8 | Overwatch | +4.34 | 14 | 44,680 | +386% | +151% | 100 | +1% | 0.6066 |  |
-| 9 | Fire Emblem: Three Houses | +4.31 | 89 | 3,011 | +79% | - | 20 | +82% | 0.9366 | BREADTH ENTRY IGNITION:admiralbahroo |
-| 10 | ELDEN RING | +4.29 | 39 | 9,109 | +290% | +45% | 98 | -1% | 0.4514 | IGNITION:captain_domo |
-| 11 | ROBLOX | +4.28 | 36 | 6,742 | +419% | +54% | 98 | +2% | 0.2888 |  |
-| 12 | War Thunder | +4.25 | 24 | 21,911 | - | - | 94 | - | 0.6029 | ENTRY IGNITION:warthunder_esports,warthunder_esports_ru |
-| 13 | Madden NFL 27 | +4.13 | 66 | 4,527 | +202% | +64% | 97 | +24% | 0.2235 |  |
-| 14 | Rainbow Six Siege | +3.45 | 22 | 22,954 | +67% | +133% | 98 | -1% | 0.5334 | IGNITION:rainbow6 |
-| 15 | Star Wars Zero Company | +3.39 | 57 | 6,021 | +258% | - | 100 | +8% | 0.296 | ENTRY |
+| 1 | Rainbow Six Siege | +8.93 | 11 | 55,933 | +1049% | +1083% | 96 | -2% | 0.7939 |  |
+| 2 | How to Fish | +8.16 | 18 | 34,312 | +661% | +630% | 100 | +0% | 0.8624 |  |
+| 3 | Project Zomboid | +5.96 | 22 | 26,309 | +357% | +68% | 99 | +1% | 0.2317 | IGNITION:squeex,edopeh |
+| 4 | ELDEN RING | +4.67 | 25 | 19,312 | +148% | +183% | 97 | -2% | 0.5314 | IGNITION:sodapoppin |
+| 5 | Fields of Mistria | +3.75 | 76 | 3,796 | +14% | +23% | 81 | +69% | 0.7827 | BREADTH IGNITION:shxtou |
+| 6 | Apex Legends | +3.61 | 20 | 29,301 | +123% | +271% | 93 | +0% | 0.2899 |  |
+| 7 | Overwatch | +3.60 | 12 | 49,173 | +208% | +166% | 99 | -1% | 0.4829 |  |
+| 8 | The Elder Scrolls V: Skyrim | +3.25 | 48 | 6,873 | - | - | 100 | - | 0.7057 | ENTRY IGNITION:vedal987 |
+| 9 | Fire Emblem: Three Houses | +3.25 | 86 | 3,152 | - | - | 24 | - | 0.9261 | ENTRY IGNITION:admiralbahroo |
+| 10 | Destiny 2 | +3.24 | 75 | 3,808 | - | - | 100 | - | 0.4748 | ENTRY IGNITION:aztecross |
+| 11 | nanos world | +3.16 | 50 | 6,521 | - | +9% | 57 | - | 0.5294 | ENTRY IGNITION:mehditdonc |
+| 12 | EVE Online | +2.69 | 52 | 6,006 | +1% | - | 33 | +32% | 0.8551 | BREADTH ENTRY IGNITION:fenriscreations |
+| 13 | Control | +2.64 | 77 | 3,336 | - | -9% | 41 | - | 0.8459 | ENTRY IGNITION:limealicious |
+| 14 | Star Wars Zero Company | +2.64 | 56 | 5,629 | +50% | +75% | 100 | +0% | 0.3034 |  |
+| 15 | Teamfight Tactics | +2.32 | 23 | 22,586 | +18% | -3% | 99 | +0% | 0.4386 | IGNITION:k3soju,wasianiverson |
 
 ## Ignition alerts
 
@@ -30,31 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| War Thunder | warthunder_esports | 13,211 | 13,211 | 60% | 24 |
-| Rainbow Six Siege | rainbow6 | 12,243 | 12,243 | 53% | 22 |
-| Super Mario Maker 2 | batora324 | 12,075 | 10,503 | 97% | 37 |
-| Old School RuneScape | oldschoolrs | 7,734 | 7,734 | 53% | 30 |
-| Grand Theft Auto | agent00 | 11,014 | 7,636 | 95% | 49 |
-| EVE Online | fenriscreations | 6,299 | 6,299 | 90% | 54 |
-| Watch Your Plastic Duck | ironmouse | 13,776 | 5,698 | 100% | 60 |
-| Jinro Metropolis | xhalli4x | 5,270 | 4,079 | 94% | 73 |
-| The Elder Scrolls V: Skyrim | vedal987 | 8,267 | 3,764 | 95% | 78 |
-| Serve or Die | insym | 4,654 | 3,741 | 98% | 80 |
+| ELDEN RING | sodapoppin | 10,262 | 10,262 | 53% | 25 |
+| EVE Online | fenriscreations | 6,299 | 5,136 | 86% | 52 |
+| The Elder Scrolls V: Skyrim | vedal987 | 8,267 | 4,850 | 71% | 48 |
+| GeoGuessr | toro3317 | 3,918 | 3,918 | 89% | 70 |
+| nanos world | mehditdonc | 5,566 | 3,452 | 53% | 50 |
+| Super Mario Maker 2 | xhalli4x | 5,270 | 3,089 | 63% | 63 |
+| F1 25 | mrdzinold | 4,216 | 3,087 | 96% | 82 |
+| Fields of Mistria | shxtou | 4,061 | 2,971 | 78% | 76 |
+| Fire Emblem: Three Houses | admiralbahroo | 4,272 | 2,919 | 93% | 86 |
+| Control | limealicious | 5,036 | 2,822 | 85% | 77 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 0.699 | Onimusha: Way of the Sword | 52,044 | 74,472 |
-| 0.609 | The Blood of Dawnwalker | 38,106 | 62,588 |
-| 0.595 | Overwatch | 44,680 | 75,046 |
-| 0.433 | Grand Theft Auto V | 32,087 | 74,115 |
-| 0.313 | Path of Exile 2 | 46,217 | 147,624 |
-| 0.039 | Red Dead Redemption II | 1,977 | 50,724 |
-| 0.033 | Warframe | 2,340 | 71,434 |
-| 0.025 | Palworld | 3,527 | 143,621 |
-| 0.023 | Delta Force | 2,926 | 127,375 |
-| 0.012 | PUBG: BATTLEGROUNDS | 8,436 | 717,645 |
+| 0.655 | Overwatch | 49,173 | 75,046 |
+| 0.592 | Rainbow Six Siege | 55,933 | 94,544 |
+| 0.511 | Onimusha: Way of the Sword | 38,032 | 74,472 |
+| 0.468 | Grand Theft Auto V | 34,702 | 74,115 |
+| 0.464 | The Blood of Dawnwalker | 29,057 | 62,588 |
+| 0.042 | EA Sports FC 26 | 3,099 | 74,032 |
+| 0.034 | Warframe | 2,405 | 71,434 |
+| 0.028 | Palworld | 3,951 | 143,621 |
+| 0.028 | Delta Force | 3,540 | 127,375 |
+| 0.006 | PUBG: BATTLEGROUNDS | 4,292 | 717,645 |
 
 ---
 
