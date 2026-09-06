@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-09-06T04` (UTC). History: 43 snapshots spanning 219h.
-Reference windows: short = `2026-09-05T22`, day = `2026-09-05T04`.
+Generated from snapshot `2026-09-06T10` (UTC). History: 44 snapshots spanning 225h.
+Reference windows: short = `2026-09-06T04`, day = `2026-09-05T10`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Call of Duty | +6.28 | 13 | 21,876 | +2260% | -5% | 100 | +0% | 0.9653 |  |
-| 2 | Endacopia | +3.25 | 77 | 2,398 | - | - | 24 | - | 0.8849 | ENTRY IGNITION:vargskelethor |
-| 3 | Knights End | +3.25 | 29 | 13,522 | - | - | 3 | - | 0.8249 | ENTRY IGNITION:ironmouse |
-| 4 | Withering Realms | +3.25 | 42 | 7,335 | - | - | 5 | - | 0.9192 | ENTRY IGNITION:jerma985 |
-| 5 | Beetleball | +3.25 | 22 | 16,872 | - | - | 5 | - | 0.9883 | ENTRY IGNITION:xqc |
-| 6 | Stupid Never Dies | +3.25 | 48 | 6,113 | - | - | 4 | - | 0.9982 | ENTRY IGNITION:maximilian_dood |
-| 7 |  SEKIRO: SHADOWS DIE TWICE | +3.25 | 34 | 9,399 | - | - | 42 | - | 0.9661 | ENTRY IGNITION:rdcgaming |
-| 8 | Castlevania: Order of Ecclesia | +3.25 | 73 | 2,712 | - | - | 4 | - | 0.9889 | ENTRY IGNITION:cdawg |
-| 9 | Darkest Dungeon | +3.24 | 30 | 13,443 | - | +21% | 27 | - | 0.8535 | ENTRY IGNITION:moonmoon |
-| 10 | I'm Only Sleeping | +2.44 | 40 | 8,000 | - | -2% | 100 | - | 0.3615 | ENTRY IGNITION:zarbex |
-| 11 | BOMBANANA! | +2.29 | 92 | 1,906 | - | - | 100 | - | 0.574 | ENTRY |
-| 12 | ARKNIGHTS: ENDFIELD | +2.25 | 88 | 1,859 | - | - | 37 | - | 0.575 | ENTRY |
-| 13 | Just Dance 2026 Edition | +2.25 | 68 | 2,874 | - | - | 6 | - | 0.8876 | ENTRY |
-| 14 | MARVEL TŌKON: Fighting Souls | +2.25 | 59 | 4,307 | - | - | 78 | - | 0.3854 | ENTRY |
-| 15 | Crimson Moon | +2.25 | 81 | 2,331 | - | - | 49 | - | 0.5697 | ENTRY |
+| 1 | Street Fighter 6 | +10.83 | 7 | 56,030 | +3055% | +1070% | 98 | -2% | 0.4729 |  |
+| 2 | World of Tanks | +5.71 | 26 | 12,620 | +330% | +6% | 100 | +54% | 0.2361 | IGNITION:dakillzor,skill4ltu |
+| 3 | League of Legends | +5.37 | 2 | 350,567 | +1230% | +17% | 99 | +2% | 0.3748 |  |
+| 4 | Rust | +4.11 | 24 | 13,440 | +439% | -15% | 97 | +0% | 0.1965 | IGNITION:takayaspecial |
+| 5 | Pogostuck: Rage With Your Friends | +3.26 | 51 | 4,746 | - | +7% | 21 | - | 0.8767 | ENTRY IGNITION:yuyuta0702 |
+| 6 | Super Mario Maker 2 | +3.25 | 22 | 17,283 | - | - | 11 | - | 0.991 | ENTRY IGNITION:indegnasen0706 |
+| 7 | Project ZETA | +3.25 | 73 | 2,605 | - | - | 11 | - | 0.777 | ENTRY IGNITION:maxim |
+| 8 | Kingdom Hearts Final Mix | +3.25 | 32 | 10,898 | - | - | 2 | - | 0.9983 | ENTRY IGNITION:ironmouse |
+| 9 | Brawl Stars | +3.11 | 28 | 11,471 | - | +41% | 99 | - | 0.2927 | ENTRY IGNITION:kuzan_tv |
+| 10 | Arena Breakout: Infinite | +3.01 | 57 | 4,303 | - | +106% | 100 | - | 0.1985 | ENTRY |
+| 11 | Apex Legends | +2.75 | 6 | 68,063 | +199% | +58% | 100 | +0% | 0.177 |  |
+| 12 | Project Zomboid | +2.61 | 29 | 11,197 | +34% | +74% | 100 | +1% | 0.278 | IGNITION:bonjwa |
+| 13 | Star Citizen | +2.54 | 72 | 2,591 | - | +34% | 80 | - | 0.1748 | ENTRY |
+| 14 | Heroes of Might and Magic III: The Restoration of Erathia | +2.42 | 70 | 2,888 | - | +39% | 38 | - | 0.2299 | ENTRY |
+| 15 | Left 4 Dead 2 | +2.36 | 13 | 36,496 | - | - | 21 | - | 0.6089 | ENTRY |
 
 ## Ignition alerts
 
@@ -30,30 +30,26 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Beetleball | xqc | 23,670 | 16,674 | 99% | 22 |
-| Darkest Dungeon | moonmoon | 13,957 | 11,473 | 85% | 30 |
-| Knights End | ironmouse | 13,776 | 11,154 | 82% | 29 |
-|  SEKIRO: SHADOWS DIE TWICE | rdcgaming | 11,931 | 9,080 | 97% | 34 |
-| Pokémon | ludwig | 7,600 | 7,600 | 72% | 33 |
-| Withering Realms | jerma985 | 11,861 | 6,742 | 92% | 42 |
-| Stupid Never Dies | maximilian_dood | 9,734 | 6,102 | 100% | 48 |
-| Castlevania: Order of Ecclesia | cdawg | 5,348 | 2,682 | 99% | 73 |
-| Endacopia | vargskelethor | 3,879 | 2,122 | 88% | 77 |
+| Super Mario Maker 2 | indegnasen0706 | 20,998 | 17,128 | 99% | 22 |
+| Kingdom Hearts Final Mix | ironmouse | 13,776 | 10,880 | 100% | 32 |
+| Pogostuck: Rage With Your Friends | yuyuta0702 | 7,864 | 4,161 | 88% | 51 |
+| Castlevania: Order of Ecclesia | cdawg | 5,348 | 4,083 | 100% | 58 |
+| Project ZETA | maxim | 4,406 | 2,024 | 78% | 73 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 0.228 | Overwatch | 17,977 | 78,697 |
-| 0.198 | Onimusha: Way of the Sword | 16,179 | 81,559 |
-| 0.188 | Grand Theft Auto V | 15,296 | 81,469 |
-| 0.183 | The Blood of Dawnwalker | 12,956 | 70,692 |
-| 0.171 | Dead by Daylight | 11,397 | 66,784 |
-| 0.017 | Rust | 2,492 | 147,899 |
-| 0.016 | Dota 2 | 14,014 | 903,585 |
-| 0.016 | Delta Force | 2,370 | 145,269 |
-| 0.013 | Counter-Strike | 16,449 | 1,296,533 |
-| 0.003 | PUBG: BATTLEGROUNDS | 2,066 | 715,714 |
+| 1.547 | Street Fighter 6 | 56,030 | 36,208 |
+| 0.949 | Left 4 Dead 2 | 36,496 | 38,459 |
+| 0.418 | Grand Theft Auto V | 34,044 | 81,469 |
+| 0.254 | The Blood of Dawnwalker | 17,974 | 70,692 |
+| 0.253 | Apex Legends | 68,063 | 269,056 |
+| 0.033 | Rainbow Six Siege | 3,501 | 107,709 |
+| 0.031 | Counter-Strike | 40,425 | 1,296,533 |
+| 0.02 | Delta Force | 2,946 | 145,269 |
+| 0.013 | Palworld | 2,231 | 165,328 |
+| 0.012 | PUBG: BATTLEGROUNDS | 8,823 | 715,714 |
 
 ---
 
