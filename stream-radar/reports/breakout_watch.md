@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-09-06T10` (UTC). History: 44 snapshots spanning 225h.
-Reference windows: short = `2026-09-06T04`, day = `2026-09-05T10`.
+Generated from snapshot `2026-09-06T15` (UTC). History: 45 snapshots spanning 230h.
+Reference windows: short = `2026-09-06T10`, day = `2026-09-05T15`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Street Fighter 6 | +10.83 | 7 | 56,030 | +3055% | +1070% | 98 | -2% | 0.4729 |  |
-| 2 | World of Tanks | +5.71 | 26 | 12,620 | +330% | +6% | 100 | +54% | 0.2361 | IGNITION:dakillzor,skill4ltu |
-| 3 | League of Legends | +5.37 | 2 | 350,567 | +1230% | +17% | 99 | +2% | 0.3748 |  |
-| 4 | Rust | +4.11 | 24 | 13,440 | +439% | -15% | 97 | +0% | 0.1965 | IGNITION:takayaspecial |
-| 5 | Pogostuck: Rage With Your Friends | +3.26 | 51 | 4,746 | - | +7% | 21 | - | 0.8767 | ENTRY IGNITION:yuyuta0702 |
-| 6 | Super Mario Maker 2 | +3.25 | 22 | 17,283 | - | - | 11 | - | 0.991 | ENTRY IGNITION:indegnasen0706 |
-| 7 | Project ZETA | +3.25 | 73 | 2,605 | - | - | 11 | - | 0.777 | ENTRY IGNITION:maxim |
-| 8 | Kingdom Hearts Final Mix | +3.25 | 32 | 10,898 | - | - | 2 | - | 0.9983 | ENTRY IGNITION:ironmouse |
-| 9 | Brawl Stars | +3.11 | 28 | 11,471 | - | +41% | 99 | - | 0.2927 | ENTRY IGNITION:kuzan_tv |
-| 10 | Arena Breakout: Infinite | +3.01 | 57 | 4,303 | - | +106% | 100 | - | 0.1985 | ENTRY |
-| 11 | Apex Legends | +2.75 | 6 | 68,063 | +199% | +58% | 100 | +0% | 0.177 |  |
-| 12 | Project Zomboid | +2.61 | 29 | 11,197 | +34% | +74% | 100 | +1% | 0.278 | IGNITION:bonjwa |
-| 13 | Star Citizen | +2.54 | 72 | 2,591 | - | +34% | 80 | - | 0.1748 | ENTRY |
-| 14 | Heroes of Might and Magic III: The Restoration of Erathia | +2.42 | 70 | 2,888 | - | +39% | 38 | - | 0.2299 | ENTRY |
-| 15 | Left 4 Dead 2 | +2.36 | 13 | 36,496 | - | - | 21 | - | 0.6089 | ENTRY |
+| 1 | BOMBANANA! | +5.98 | 40 | 11,179 | - | +172% | 95 | - | 0.4598 | ENTRY IGNITION:mobilmobil,kr1stw |
+| 2 | How to Fish | +5.06 | 33 | 13,481 | - | +199% | 93 | - | 0.2346 | ENTRY IGNITION:qttsix |
+| 3 | Counter-Strike | +4.67 | 2 | 415,409 | +928% | +17% | 92 | -8% | 0.1993 |  |
+| 4 | Kingdom Hearts Final Mix | +4.15 | 34 | 12,389 | +14% | - | 6 | +200% | 0.998 | BREADTH ENTRY IGNITION:ironmouse |
+| 5 | War Thunder | +4.14 | 28 | 15,687 | - | +32% | 95 | - | 0.6043 | ENTRY IGNITION:warthunder_esports,warthunder_esports_ru |
+| 6 | RimWorld | +4.13 | 83 | 3,806 | +64% | - | 60 | +71% | 0.5476 | BREADTH ENTRY IGNITION:edopeh |
+| 7 | Hearthstone | +3.91 | 36 | 12,236 | +41% | +142% | 97 | +7% | 0.4882 | IGNITION:silvername |
+| 8 | Arena Breakout: Infinite | +3.69 | 56 | 6,817 | +58% | +194% | 99 | -1% | 0.1608 |  |
+| 9 | PUBG: BATTLEGROUNDS | +3.32 | 26 | 14,872 | +69% | +81% | 100 | +0% | 0.5306 | IGNITION:recrent |
+| 10 | Resonance: A Plague Tale Legacy | +3.25 | 39 | 11,295 | - | - | 99 | - | 0.8979 | ENTRY IGNITION:cohhcarnage |
+| 11 | Orbitals | +3.25 | 95 | 2,769 | - | - | 14 | - | 0.6342 | ENTRY IGNITION:rtgame |
+| 12 | 7 Nights Keeper | +3.25 | 78 | 4,256 | - | - | 1 | - | 1.0 | ENTRY IGNITION:blackufa |
+| 13 | Super Mario Maker 2 | +3.12 | 19 | 23,666 | +37% | +91% | 19 | +73% | 0.9883 | BREADTH |
+| 14 | Super Smash Bros. Ultimate | +2.99 | 79 | 4,230 | +60% | - | 41 | +71% | 0.3296 | BREADTH ENTRY |
+| 15 | Jinro Metropolis | +2.67 | 71 | 4,713 | - | +10% | 9 | - | 0.8708 | ENTRY IGNITION:xhalli4x |
 
 ## Ignition alerts
 
@@ -30,26 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Super Mario Maker 2 | indegnasen0706 | 20,998 | 17,128 | 99% | 22 |
-| Kingdom Hearts Final Mix | ironmouse | 13,776 | 10,880 | 100% | 32 |
-| Pogostuck: Rage With Your Friends | yuyuta0702 | 7,864 | 4,161 | 88% | 51 |
-| Castlevania: Order of Ecclesia | cdawg | 5,348 | 4,083 | 100% | 58 |
-| Project ZETA | maxim | 4,406 | 2,024 | 78% | 73 |
+| Kingdom Hearts Final Mix | ironmouse | 13,776 | 12,364 | 100% | 34 |
+| Resonance: A Plague Tale Legacy | cohhcarnage | 15,088 | 10,142 | 90% | 39 |
+| War Thunder | warthunder_esports | 13,211 | 9,480 | 60% | 28 |
+| PUBG: BATTLEGROUNDS | recrent | 9,871 | 7,891 | 53% | 26 |
+| EVE Online | fenriscreations | 6,299 | 4,919 | 85% | 62 |
+| Pogostuck: Rage With Your Friends | yuyuta0702 | 7,864 | 4,888 | 60% | 49 |
+| 7 Nights Keeper | blackufa | 4,452 | 4,256 | 100% | 78 |
+| Jinro Metropolis | xhalli4x | 5,270 | 4,104 | 87% | 71 |
+| EA Sports FC 26 | dannyaarons | 4,102 | 2,925 | 60% | 65 |
+| RimWorld | edopeh | 4,868 | 2,084 | 55% | 83 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 1.547 | Street Fighter 6 | 56,030 | 36,208 |
-| 0.949 | Left 4 Dead 2 | 36,496 | 38,459 |
-| 0.418 | Grand Theft Auto V | 34,044 | 81,469 |
-| 0.254 | The Blood of Dawnwalker | 17,974 | 70,692 |
-| 0.253 | Apex Legends | 68,063 | 269,056 |
-| 0.033 | Rainbow Six Siege | 3,501 | 107,709 |
-| 0.031 | Counter-Strike | 40,425 | 1,296,533 |
-| 0.02 | Delta Force | 2,946 | 145,269 |
-| 0.013 | Palworld | 2,231 | 165,328 |
-| 0.012 | PUBG: BATTLEGROUNDS | 8,823 | 715,714 |
+| 0.789 | Left 4 Dead 2 | 30,351 | 38,459 |
+| 0.733 | Grand Theft Auto V | 59,688 | 81,469 |
+| 0.525 | The Blood of Dawnwalker | 37,135 | 70,692 |
+| 0.487 | Street Fighter 6 | 17,639 | 36,208 |
+| 0.487 | BOMBANANA! | 11,179 | 22,936 |
+| 0.044 | Rainbow Six Siege | 4,719 | 107,709 |
+| 0.032 | Warframe | 2,357 | 74,300 |
+| 0.023 | Delta Force | 3,324 | 145,269 |
+| 0.021 | PUBG: BATTLEGROUNDS | 14,872 | 715,714 |
+| 0.013 | Palworld | 2,207 | 165,328 |
 
 ---
 
