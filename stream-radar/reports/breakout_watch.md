@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-09-05T23` (UTC). History: 42 snapshots spanning 214h.
-Reference windows: short = `2026-09-05T18`, day = `2026-09-05T00`.
+Generated from snapshot `2026-09-06T04` (UTC). History: 43 snapshots spanning 219h.
+Reference windows: short = `2026-09-05T22`, day = `2026-09-05T04`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | I'm Only Sleeping | +5.69 | 28 | 14,865 | - | +255% | 100 | - | 0.6864 | ENTRY IGNITION:zarbex |
-| 2 | Project Zomboid | +5.41 | 21 | 21,550 | +47% | +270% | 100 | +2% | 0.2928 | IGNITION:squeex,penta |
-| 3 | Rainbow Six Siege | +4.64 | 8 | 50,746 | +121% | +569% | 99 | +1% | 0.6673 |  |
-| 4 | Arena Breakout: Infinite | +4.33 | 39 | 8,460 | +68% | +116% | 100 | +0% | 0.6027 | IGNITION:snapple32ttv |
-| 5 | Virtual Casino | +3.91 | 23 | 20,570 | +176% | +38% | 39 | +129% | 0.1132 |  |
-| 6 | Heroes of Might and Magic III: The Restoration of Erathia | +3.43 | 48 | 6,867 | - | +26% | 30 | - | 0.5464 | ENTRY IGNITION:voodoosh |
-| 7 | nanos world | +3.40 | 58 | 5,369 | - | +20% | 48 | - | 0.5457 | ENTRY IGNITION:mehditdonc |
-| 8 | Plants vs. Zombies | +3.25 | 97 | 2,166 | - | - | 10 | - | 0.9788 | ENTRY IGNITION:gamesdonequick |
-| 9 | Waterpark Simulator | +3.25 | 32 | 12,563 | - | - | 75 | - | 0.9167 | ENTRY IGNITION:vanillamace |
-| 10 | Destiny 2 | +3.24 | 64 | 4,490 | - | - | 100 | - | 0.4726 | ENTRY IGNITION:aztecross |
-| 11 | Apex Legends | +3.12 | 9 | 48,303 | +149% | +128% | 100 | +4% | 0.29 |  |
-| 12 | ELDEN RING | +2.75 | 24 | 17,202 | +89% | +27% | 99 | +1% | 0.5642 | IGNITION:sodapoppin |
-| 13 | PEAK | +2.58 | 81 | 2,417 | - | +44% | 99 | - | 0.1812 | ENTRY |
-| 14 | Darkest Dungeon | +2.55 | 35 | 10,080 | - | +9% | 20 | - | 0.8008 | ENTRY IGNITION:moonmoon |
-| 15 | Geometry Dash | +2.31 | 94 | 2,193 | - | - | 100 | - | 0.7255 | ENTRY |
+| 1 | Call of Duty | +6.28 | 13 | 21,876 | +2260% | -5% | 100 | +0% | 0.9653 |  |
+| 2 | Endacopia | +3.25 | 77 | 2,398 | - | - | 24 | - | 0.8849 | ENTRY IGNITION:vargskelethor |
+| 3 | Knights End | +3.25 | 29 | 13,522 | - | - | 3 | - | 0.8249 | ENTRY IGNITION:ironmouse |
+| 4 | Withering Realms | +3.25 | 42 | 7,335 | - | - | 5 | - | 0.9192 | ENTRY IGNITION:jerma985 |
+| 5 | Beetleball | +3.25 | 22 | 16,872 | - | - | 5 | - | 0.9883 | ENTRY IGNITION:xqc |
+| 6 | Stupid Never Dies | +3.25 | 48 | 6,113 | - | - | 4 | - | 0.9982 | ENTRY IGNITION:maximilian_dood |
+| 7 |  SEKIRO: SHADOWS DIE TWICE | +3.25 | 34 | 9,399 | - | - | 42 | - | 0.9661 | ENTRY IGNITION:rdcgaming |
+| 8 | Castlevania: Order of Ecclesia | +3.25 | 73 | 2,712 | - | - | 4 | - | 0.9889 | ENTRY IGNITION:cdawg |
+| 9 | Darkest Dungeon | +3.24 | 30 | 13,443 | - | +21% | 27 | - | 0.8535 | ENTRY IGNITION:moonmoon |
+| 10 | I'm Only Sleeping | +2.44 | 40 | 8,000 | - | -2% | 100 | - | 0.3615 | ENTRY IGNITION:zarbex |
+| 11 | BOMBANANA! | +2.29 | 92 | 1,906 | - | - | 100 | - | 0.574 | ENTRY |
+| 12 | ARKNIGHTS: ENDFIELD | +2.25 | 88 | 1,859 | - | - | 37 | - | 0.575 | ENTRY |
+| 13 | Just Dance 2026 Edition | +2.25 | 68 | 2,874 | - | - | 6 | - | 0.8876 | ENTRY |
+| 14 | MARVEL TŌKON: Fighting Souls | +2.25 | 59 | 4,307 | - | - | 78 | - | 0.3854 | ENTRY |
+| 15 | Crimson Moon | +2.25 | 81 | 2,331 | - | - | 49 | - | 0.5697 | ENTRY |
 
 ## Ignition alerts
 
@@ -30,31 +30,30 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Waterpark Simulator | vanillamace | 11,517 | 11,517 | 92% | 32 |
-| I'm Only Sleeping | zarbex | 28,526 | 10,204 | 69% | 28 |
-| ELDEN RING | sodapoppin | 10,262 | 9,705 | 56% | 24 |
-| Darkest Dungeon | moonmoon | 13,957 | 8,072 | 80% | 35 |
-| Arena Breakout: Infinite | snapple32ttv | 5,099 | 5,099 | 60% | 39 |
-| Withering Realms | jerma985 | 11,861 | 4,182 | 98% | 67 |
-| Heroes of Might and Magic III: The Restoration of Erathia | voodoosh | 4,639 | 3,752 | 55% | 48 |
-| Super Mario Maker 2 | xhalli4x | 5,270 | 3,100 | 90% | 73 |
-| nanos world | mehditdonc | 5,566 | 2,930 | 55% | 58 |
-| Fire Emblem: Three Houses | admiralbahroo | 4,272 | 2,663 | 90% | 79 |
+| Beetleball | xqc | 23,670 | 16,674 | 99% | 22 |
+| Darkest Dungeon | moonmoon | 13,957 | 11,473 | 85% | 30 |
+| Knights End | ironmouse | 13,776 | 11,154 | 82% | 29 |
+|  SEKIRO: SHADOWS DIE TWICE | rdcgaming | 11,931 | 9,080 | 97% | 34 |
+| Pokémon | ludwig | 7,600 | 7,600 | 72% | 33 |
+| Withering Realms | jerma985 | 11,861 | 6,742 | 92% | 42 |
+| Stupid Never Dies | maximilian_dood | 9,734 | 6,102 | 100% | 48 |
+| Castlevania: Order of Ecclesia | cdawg | 5,348 | 2,682 | 99% | 73 |
+| Endacopia | vargskelethor | 3,879 | 2,122 | 88% | 77 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 0.586 | Overwatch | 43,970 | 75,046 |
-| 0.537 | Rainbow Six Siege | 50,746 | 94,544 |
-| 0.459 | Onimusha: Way of the Sword | 34,157 | 74,472 |
-| 0.455 | The Blood of Dawnwalker | 28,452 | 62,588 |
-| 0.379 | ELDEN RING | 17,202 | 45,416 |
-| 0.031 | How to Fish | 3,229 | 104,048 |
-| 0.03 | Palworld | 4,347 | 143,621 |
-| 0.027 | Counter-Strike | 32,773 | 1,227,890 |
-| 0.024 | Delta Force | 3,039 | 127,375 |
-| 0.006 | PUBG: BATTLEGROUNDS | 4,601 | 717,645 |
+| 0.228 | Overwatch | 17,977 | 78,697 |
+| 0.198 | Onimusha: Way of the Sword | 16,179 | 81,559 |
+| 0.188 | Grand Theft Auto V | 15,296 | 81,469 |
+| 0.183 | The Blood of Dawnwalker | 12,956 | 70,692 |
+| 0.171 | Dead by Daylight | 11,397 | 66,784 |
+| 0.017 | Rust | 2,492 | 147,899 |
+| 0.016 | Dota 2 | 14,014 | 903,585 |
+| 0.016 | Delta Force | 2,370 | 145,269 |
+| 0.013 | Counter-Strike | 16,449 | 1,296,533 |
+| 0.003 | PUBG: BATTLEGROUNDS | 2,066 | 715,714 |
 
 ---
 
