@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-09-07T12` (UTC). History: 50 snapshots spanning 251h.
-Reference windows: short = `2026-09-07T04`, day = `2026-09-06T10`.
+Generated from snapshot `2026-09-07T18` (UTC). History: 51 snapshots spanning 257h.
+Reference windows: short = `2026-09-07T12`, day = `2026-09-06T18`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Rust | +11.04 | 2 | 118,349 | +5289% | +781% | 99 | +1% | 0.3464 |  |
-| 2 | Rainbow Six Siege | +5.20 | 21 | 14,628 | +115% | +318% | 100 | +10% | 0.7462 | IGNITION:rainbow6 |
-| 3 | World of Tanks | +4.36 | 32 | 10,293 | +178% | -18% | 100 | +67% | 0.2575 | IGNITION:dakillzor,quickybaby |
-| 4 | Arena Breakout: Infinite | +4.09 | 39 | 7,215 | +306% | +68% | 100 | +0% | 0.2557 |  |
-| 5 | Crimson Desert | +3.31 | 62 | 3,370 | - | - | 78 | - | 0.9463 | ENTRY IGNITION:sterzik |
-| 6 | ARK: Survival Ascended | +3.27 | 43 | 6,105 | - | - | 97 | - | 0.7998 | ENTRY IGNITION:k4sen |
-| 7 | Hamtaro: Ham-Hams Unite! | +3.25 | 38 | 8,098 | - | - | 1 | - | 1.0 | ENTRY IGNITION:batora324 |
-| 8 | Kingdom Hearts II Final Mix | +3.25 | 28 | 11,081 | - | - | 4 | - | 0.998 | ENTRY IGNITION:ironmouse |
-| 9 | Baldur's Gate 3 | +3.20 | 52 | 4,141 | - | +18% | 81 | - | 0.8433 | ENTRY IGNITION:melharucos |
-| 10 | PUBG: BATTLEGROUNDS | +3.12 | 26 | 10,537 | +265% | +19% | 98 | +3% | 0.251 |  |
-| 11 | Albion Online | +3.06 | 31 | 10,710 | +109% | +82% | 100 | +3% | 0.2463 |  |
-| 12 | Battlefield 6 | +2.42 | 72 | 2,615 | +61% | +44% | 100 | +5% | 0.4279 |  |
-| 13 | Escape from Tarkov | +2.42 | 11 | 24,731 | +71% | +98% | 98 | +7% | 0.2055 |  |
-| 14 | Resonance: A Plague Tale Legacy | +2.25 | 78 | 2,362 | - | - | 100 | - | 0.3239 | ENTRY |
-| 15 | Big Ambitions | +2.25 | 76 | 2,397 | - | - | 14 | - | 0.7555 | ENTRY |
+| 1 | Clash Royale | +9.91 | 21 | 27,655 | +2066% | +84% | 55 | +62% | 0.7457 | IGNITION:jynxzi,narek_cr |
+| 2 | ROBLOX | +9.33 | 20 | 24,368 | +1356% | +680% | 99 | +8% | 0.883 |  |
+| 3 | EA Sports FC 26 | +8.73 | 13 | 38,028 | +930% | +611% | 94 | +1% | 0.9005 |  |
+| 4 | Worming from Home | +5.98 | 30 | 17,141 | - | +265% | 27 | - | 0.7741 | ENTRY IGNITION:jerma985 |
+| 5 | How to Fish | +5.83 | 16 | 36,582 | +912% | +93% | 99 | -1% | 0.9234 |  |
+| 6 | Mobile Legends: Bang Bang | +5.60 | 48 | 9,487 | - | +199% | 100 | - | 0.2346 | ENTRY IGNITION:tpabomah |
+| 7 | PUBG: BATTLEGROUNDS | +4.89 | 22 | 24,367 | +131% | +200% | 100 | +2% | 0.5207 | IGNITION:sasavot |
+| 8 | Minecraft | +4.45 | 2 | 143,322 | +735% | +0% | 100 | +3% | 0.4214 |  |
+| 9 | Heroes of Might and Magic III: The Restoration of Erathia | +4.00 | 66 | 6,509 | +176% | +43% | 60 | +67% | 0.2218 |  |
+| 10 | World of Tanks | +3.99 | 18 | 34,418 | +234% | +132% | 100 | +0% | 0.2056 |  |
+| 11 | Project Zomboid | +3.92 | 28 | 19,954 | +87% | +35% | 100 | +2% | 0.3637 | IGNITION:quin69,edopeh |
+| 12 | Street Fighter 6 | +3.81 | 29 | 20,762 | +62% | +49% | 100 | +0% | 0.6945 | IGNITION:fps_shaka,akarindao |
+| 13 | Teamfight Tactics | +3.67 | 27 | 21,039 | +46% | +53% | 100 | +0% | 0.2354 | IGNITION:setsuko,emilyywang |
+| 14 | Virtual Casino | +3.42 | 35 | 14,489 | +68% | +35% | 33 | +94% | 0.0891 | BREADTH |
+| 15 | Phasmophobia | +3.27 | 56 | 7,516 | - | - | 98 | - | 0.6173 | ENTRY IGNITION:insym |
 
 ## Ignition alerts
 
@@ -30,28 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Kingdom Hearts II Final Mix | ironmouse | 13,776 | 11,059 | 100% | 28 |
-| Rainbow Six Siege | rainbow6 | 12,358 | 10,916 | 75% | 21 |
-| Street Fighter 6 | yaritaiji | 13,970 | 9,128 | 71% | 24 |
-| Hamtaro: Ham-Hams Unite! | batora324 | 12,075 | 8,098 | 100% | 38 |
-| ARK: Survival Ascended | k4sen | 13,201 | 4,883 | 80% | 43 |
-| Baldur's Gate 3 | melharucos | 6,614 | 3,492 | 84% | 52 |
-| Crimson Desert | sterzik | 5,365 | 3,189 | 95% | 62 |
+| Clash Royale | jynxzi | 69,722 | 20,621 | 75% | 21 |
+| THE WELL IS NOT EMPTY | joe_bartolozzi | 18,551 | 18,551 | 99% | 31 |
+| Street Fighter 6 | fps_shaka | 40,997 | 14,419 | 69% | 29 |
+| Worming from Home | jerma985 | 13,269 | 13,269 | 77% | 30 |
+| PUBG: BATTLEGROUNDS | sasavot | 14,400 | 12,688 | 52% | 22 |
+| Withering Realms | elajjaz | 8,850 | 8,850 | 99% | 51 |
+| Watch Your Plastic Duck | ironmouse | 13,776 | 7,795 | 100% | 59 |
+| S.T.A.L.K.E.R. 2: Heart of Chornobyl | cohhcarnage | 15,088 | 7,619 | 86% | 50 |
+| Hamtaro: Ham-Hams Unite! | batora324 | 12,075 | 5,794 | 100% | 72 |
+| Path of Titans | knekro | 8,435 | 5,537 | 97% | 74 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 0.842 | Rust | 118,349 | 140,596 |
-| 0.452 | Grand Theft Auto V | 38,264 | 84,716 |
-| 0.359 | Street Fighter 6 | 12,805 | 35,700 |
-| 0.348 | The Blood of Dawnwalker | 27,195 | 78,188 |
-| 0.256 | Onimusha: Way of the Sword | 21,798 | 85,081 |
-| 0.033 | Counter-Strike | 44,484 | 1,337,437 |
-| 0.022 | Warframe | 1,620 | 73,852 |
-| 0.019 | Delta Force | 2,734 | 147,181 |
-| 0.016 | Slay the Spire II | 1,621 | 100,688 |
-| 0.015 | PUBG: BATTLEGROUNDS | 10,537 | 721,474 |
+| 0.724 | Grand Theft Auto V | 61,336 | 84,716 |
+| 0.722 | The Blood of Dawnwalker | 56,441 | 78,188 |
+| 0.582 | Street Fighter 6 | 20,762 | 35,700 |
+| 0.462 | EA Sports FC 26 | 38,028 | 82,285 |
+| 0.442 | Phasmophobia | 7,516 | 17,017 |
+| 0.052 | Counter-Strike | 69,830 | 1,337,437 |
+| 0.047 | Battlefield 6 | 2,789 | 58,997 |
+| 0.047 | Apex Legends | 12,712 | 271,262 |
+| 0.034 | PUBG: BATTLEGROUNDS | 24,367 | 721,474 |
+| 0.02 | Delta Force | 2,988 | 147,181 |
 
 ---
 
