@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-09-07T04` (UTC). History: 49 snapshots spanning 243h.
-Reference windows: short = `2026-09-06T23`, day = `2026-09-06T04`.
+Generated from snapshot `2026-09-07T12` (UTC). History: 50 snapshots spanning 251h.
+Reference windows: short = `2026-09-07T04`, day = `2026-09-06T10`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | ROBLOX | +10.36 | 2 | 67,950 | +1234% | +2611% | 100 | +2% | 0.9175 |  |
-| 2 | Street Fighter 6 | +5.09 | 49 | 5,102 | +83% | +187% | 99 | +0% | 0.3865 | IGNITION:zerost_s |
-| 3 | Clash Royale | +4.24 | 42 | 6,103 | +34% | +240% | 41 | -2% | 0.2495 |  |
-| 4 | Pokémon | +3.79 | 31 | 11,533 | - | +9% | 44 | - | 0.5561 | ENTRY IGNITION:ludwig,kkatamina |
-| 5 | Pogostuck: Rage With Your Friends | +3.52 | 69 | 3,265 | +33% | - | 8 | +60% | 0.8441 | BREADTH ENTRY IGNITION:xhalli4x |
-| 6 | ARC Raiders | +3.25 | 18 | 14,862 | +70% | +178% | 100 | +2% | 0.4093 |  |
-| 7 | Pokémon Emerald Version | +3.25 | 50 | 5,106 | - | - | 28 | - | 0.9561 | ENTRY IGNITION:valkyrae |
-| 8 | Worming from Home | +3.25 | 56 | 4,651 | - | - | 16 | - | 0.6895 | ENTRY IGNITION:shinjifromjapanxd |
-| 9 | The Choicer Voicer | +3.25 | 46 | 5,527 | - | - | 22 | - | 0.966 | ENTRY IGNITION:yonnajay |
-| 10 | Doki Doki Literature Club! | +3.25 | 71 | 2,538 | - | - | 6 | - | 0.9933 | ENTRY IGNITION:zy0xxx |
-| 11 | Bloodborne | +3.25 | 67 | 3,461 | - | - | 45 | - | 0.9081 | ENTRY IGNITION:penta |
-| 12 | Kingdom Hearts Final Mix | +3.25 | 34 | 10,400 | - | - | 4 | - | 0.9984 | ENTRY IGNITION:ironmouse |
-| 13 | Where Winds Meet | +3.25 | 47 | 5,330 | - | - | 68 | - | 0.8872 | ENTRY IGNITION:maximilian_dood |
-| 14 | Black Myth: Wukong | +3.22 | 78 | 2,234 | - | - | 75 | - | 0.9047 | ENTRY IGNITION:kaise |
-| 15 | ELDEN RING | +3.18 | 21 | 13,982 | -26% | +269% | 100 | +0% | 0.5975 | IGNITION:sodapoppin |
+| 1 | Rust | +11.04 | 2 | 118,349 | +5289% | +781% | 99 | +1% | 0.3464 |  |
+| 2 | Rainbow Six Siege | +5.20 | 21 | 14,628 | +115% | +318% | 100 | +10% | 0.7462 | IGNITION:rainbow6 |
+| 3 | World of Tanks | +4.36 | 32 | 10,293 | +178% | -18% | 100 | +67% | 0.2575 | IGNITION:dakillzor,quickybaby |
+| 4 | Arena Breakout: Infinite | +4.09 | 39 | 7,215 | +306% | +68% | 100 | +0% | 0.2557 |  |
+| 5 | Crimson Desert | +3.31 | 62 | 3,370 | - | - | 78 | - | 0.9463 | ENTRY IGNITION:sterzik |
+| 6 | ARK: Survival Ascended | +3.27 | 43 | 6,105 | - | - | 97 | - | 0.7998 | ENTRY IGNITION:k4sen |
+| 7 | Hamtaro: Ham-Hams Unite! | +3.25 | 38 | 8,098 | - | - | 1 | - | 1.0 | ENTRY IGNITION:batora324 |
+| 8 | Kingdom Hearts II Final Mix | +3.25 | 28 | 11,081 | - | - | 4 | - | 0.998 | ENTRY IGNITION:ironmouse |
+| 9 | Baldur's Gate 3 | +3.20 | 52 | 4,141 | - | +18% | 81 | - | 0.8433 | ENTRY IGNITION:melharucos |
+| 10 | PUBG: BATTLEGROUNDS | +3.12 | 26 | 10,537 | +265% | +19% | 98 | +3% | 0.251 |  |
+| 11 | Albion Online | +3.06 | 31 | 10,710 | +109% | +82% | 100 | +3% | 0.2463 |  |
+| 12 | Battlefield 6 | +2.42 | 72 | 2,615 | +61% | +44% | 100 | +5% | 0.4279 |  |
+| 13 | Escape from Tarkov | +2.42 | 11 | 24,731 | +71% | +98% | 98 | +7% | 0.2055 |  |
+| 14 | Resonance: A Plague Tale Legacy | +2.25 | 78 | 2,362 | - | - | 100 | - | 0.3239 | ENTRY |
+| 15 | Big Ambitions | +2.25 | 76 | 2,397 | - | - | 14 | - | 0.7555 | ENTRY |
 
 ## Ignition alerts
 
@@ -30,31 +30,28 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Kingdom Hearts Final Mix | ironmouse | 13,776 | 10,383 | 100% | 34 |
-| ELDEN RING | sodapoppin | 11,130 | 8,354 | 60% | 21 |
-| Pokémon | ludwig | 7,600 | 6,413 | 56% | 31 |
-| The Choicer Voicer | yonnajay | 6,628 | 5,339 | 97% | 46 |
-| Pokémon Emerald Version | valkyrae | 6,107 | 4,882 | 96% | 50 |
-| Where Winds Meet | maximilian_dood | 9,734 | 4,729 | 89% | 47 |
-| Worming from Home | shinjifromjapanxd | 5,881 | 3,207 | 69% | 56 |
-| Bloodborne | penta | 7,075 | 3,143 | 91% | 67 |
-| Bodycam | zrush | 4,517 | 3,081 | 63% | 54 |
-| Pogostuck: Rage With Your Friends | xhalli4x | 5,270 | 2,756 | 84% | 69 |
+| Kingdom Hearts II Final Mix | ironmouse | 13,776 | 11,059 | 100% | 28 |
+| Rainbow Six Siege | rainbow6 | 12,358 | 10,916 | 75% | 21 |
+| Street Fighter 6 | yaritaiji | 13,970 | 9,128 | 71% | 24 |
+| Hamtaro: Ham-Hams Unite! | batora324 | 12,075 | 8,098 | 100% | 38 |
+| ARK: Survival Ascended | k4sen | 13,201 | 4,883 | 80% | 43 |
+| Baldur's Gate 3 | melharucos | 6,614 | 3,492 | 84% | 52 |
+| Crimson Desert | sterzik | 5,365 | 3,189 | 95% | 62 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 0.412 | ARC Raiders | 14,862 | 36,044 |
-| 0.258 | ELDEN RING | 13,982 | 54,240 |
-| 0.248 | Project Zomboid | 24,985 | 100,644 |
-| 0.232 | Dead by Daylight | 15,594 | 67,212 |
-| 0.211 | Overwatch | 16,884 | 79,889 |
-| 0.017 | Counter-Strike | 22,553 | 1,337,437 |
-| 0.016 | Rust | 2,196 | 140,596 |
-| 0.014 | Dota 2 | 12,855 | 919,002 |
-| 0.012 | Delta Force | 1,838 | 147,181 |
-| 0.004 | PUBG: BATTLEGROUNDS | 2,887 | 721,474 |
+| 0.842 | Rust | 118,349 | 140,596 |
+| 0.452 | Grand Theft Auto V | 38,264 | 84,716 |
+| 0.359 | Street Fighter 6 | 12,805 | 35,700 |
+| 0.348 | The Blood of Dawnwalker | 27,195 | 78,188 |
+| 0.256 | Onimusha: Way of the Sword | 21,798 | 85,081 |
+| 0.033 | Counter-Strike | 44,484 | 1,337,437 |
+| 0.022 | Warframe | 1,620 | 73,852 |
+| 0.019 | Delta Force | 2,734 | 147,181 |
+| 0.016 | Slay the Spire II | 1,621 | 100,688 |
+| 0.015 | PUBG: BATTLEGROUNDS | 10,537 | 721,474 |
 
 ---
 
