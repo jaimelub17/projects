@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-09-08T16` (UTC). History: 55 snapshots spanning 279h.
-Reference windows: short = `2026-09-08T11`, day = `2026-09-07T18`.
+Generated from snapshot `2026-09-08T21` (UTC). History: 56 snapshots spanning 284h.
+Reference windows: short = `2026-09-08T16`, day = `2026-09-07T22`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Escape from Tarkov | +7.98 | 10 | 46,656 | +2141% | +52% | 98 | +92% | 0.1732 |  |
-| 2 | Bodycam | +6.04 | 36 | 12,485 | - | +263% | 100 | - | 0.9549 | ENTRY IGNITION:skywhywalker |
-| 3 | Minecraft | +5.26 | 4 | 111,170 | +1573% | -22% | 97 | -1% | 0.4965 |  |
-| 4 | ARC Raiders | +5.13 | 32 | 13,378 | +120% | +97% | 98 | -2% | 0.304 | IGNITION:verstappensimracing,symfuhny |
-| 5 | BOMBANANA! | +5.11 | 30 | 17,297 | - | +201% | 88 | - | 0.8949 | ENTRY IGNITION:sasavot |
-| 6 | Grand Theft Auto V | +4.43 | 2 | 173,670 | +441% | +183% | 99 | +1% | 0.2798 |  |
-| 7 | Wanderburg | +4.25 | 23 | 24,377 | - | - | 83 | - | 0.643 | ENTRY IGNITION:handofblood,barbarousking |
-| 8 | Hearthstone | +3.90 | 18 | 31,067 | +148% | +182% | 100 | +6% | 0.3079 |  |
-| 9 | Slay the Spire II | +3.83 | 79 | 4,372 | +224% | - | 61 | +65% | 0.3689 | ENTRY |
-| 10 | Delta Force | +3.59 | 43 | 8,583 | +13% | +187% | 100 | +2% | 0.2208 |  |
-| 11 | Rust | +3.58 | 7 | 76,040 | -13% | +770% | 100 | +0% | 0.3513 |  |
-| 12 | Battlefield 6 | +3.44 | 70 | 5,510 | +130% | +98% | 100 | +0% | 0.4971 |  |
-| 13 | World of Tanks | +3.33 | 13 | 41,930 | +334% | +22% | 100 | +0% | 0.4508 |  |
-| 14 | Pogostuck: Rage With Your Friends | +3.30 | 58 | 7,004 | +68% | - | 13 | -28% | 0.5635 | ENTRY IGNITION:yuyuta0702,shinjifromjapanxd |
-| 15 | Gay Battlegrounds | +3.25 | 74 | 4,779 | - | - | 1 | - | 1.0 | ENTRY IGNITION:hugodelire |
+| 1 | Clash Royale | +9.20 | 11 | 44,094 | +823% | +766% | 59 | +5% | 0.7294 |  |
+| 2 | BOMBANANA! | +5.26 | 31 | 15,770 | -9% | +282% | 100 | +14% | 0.4732 | IGNITION:gotaga,sleduck |
+| 3 | Unicycle Together | +4.25 | 37 | 11,856 | - | - | 3 | - | 0.8253 | ENTRY IGNITION:sasavot,narek_cr |
+| 4 | Pokémon Emerald Version | +4.25 | 61 | 6,999 | - | - | 34 | - | 0.2576 | ENTRY IGNITION:kkatamina,foolish |
+| 5 | Red Dead Redemption II | +3.94 | 49 | 7,590 | - | +165% | 98 | - | 0.2011 | ENTRY |
+| 6 | [HERROR] Gas Station Case | +3.25 | 36 | 12,634 | - | - | 5 | - | 0.998 | ENTRY IGNITION:youngmulti |
+| 7 | Pizza Delivery Boy | +3.25 | 46 | 9,678 | - | - | 1 | - | 1.0 | ENTRY IGNITION:jerma985 |
+| 8 | Grounded 2 | +3.25 | 91 | 3,567 | - | - | 90 | - | 0.9167 | ENTRY IGNITION:shylily |
+| 9 | Fire Emblem: Three Houses | +3.25 | 100 | 2,969 | - | - | 17 | - | 0.966 | ENTRY IGNITION:admiralbahroo |
+| 10 | Hades II | +3.25 | 76 | 4,761 | - | - | 29 | - | 0.941 | ENTRY IGNITION:etoiles |
+| 11 | Zad Archery | +3.25 | 88 | 3,774 | - | - | 1 | - | 1.0 | ENTRY IGNITION:bastighg |
+| 12 | F1 25 | +3.25 | 84 | 3,969 | - | - | 100 | - | 0.6828 | ENTRY IGNITION:mrdzinold |
+| 13 | GRAIN ROT | +3.25 | 90 | 3,631 | - | - | 14 | - | 0.9854 | ENTRY IGNITION:kopsteep |
+| 14 | Factorio | +3.25 | 99 | 2,929 | - | - | 49 | - | 0.8494 | ENTRY IGNITION:strippin |
+| 15 | X-Men Origins: Wolverine | +3.25 | 24 | 22,421 | - | - | 3 | - | 0.9996 | ENTRY IGNITION:illojuan |
 
 ## Ignition alerts
 
@@ -30,31 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Wanderburg | handofblood | 15,675 | 15,675 | 64% | 23 |
-| BOMBANANA! | sasavot | 15,479 | 15,479 | 89% | 30 |
-| Bodycam | skywhywalker | 13,992 | 11,922 | 95% | 36 |
-| Rainbow Six Siege | rainbow6 | 22,272 | 11,381 | 64% | 27 |
-| Watch Your Plastic Duck | ironmouse | 13,776 | 9,623 | 100% | 41 |
-| Super Mario Maker 2 | batora324 | 12,075 | 7,331 | 97% | 53 |
-| Stupid Never Dies | shisheyu | 4,961 | 4,961 | 100% | 73 |
-| Gay Battlegrounds | hugodelire | 4,779 | 4,779 | 100% | 74 |
-| Pogostuck: Rage With Your Friends | yuyuta0702 | 8,711 | 3,947 | 56% | 58 |
-| How to Fish | bonjwa | 7,172 | 3,869 | 59% | 59 |
+| X-Men Origins: Wolverine | illojuan | 37,098 | 22,413 | 100% | 24 |
+| [HERROR] Gas Station Case | youngmulti | 16,337 | 12,609 | 100% | 36 |
+| World of Tanks | dakillzor | 11,890 | 11,890 | 59% | 27 |
+| Rainbow Six Siege | rainbow6 | 22,272 | 11,512 | 61% | 26 |
+| Unicycle Together | sasavot | 15,479 | 9,785 | 83% | 37 |
+| Pizza Delivery Boy | jerma985 | 13,269 | 9,678 | 100% | 46 |
+| SILENT HILL 2 | zarbex | 28,526 | 9,179 | 96% | 47 |
+| Watch Your Plastic Duck | ironmouse | 13,776 | 7,060 | 100% | 60 |
+| WheelMates | therealmarzaa | 11,846 | 6,858 | 82% | 51 |
+| Chop Chop Inc. | locklear | 6,116 | 4,941 | 100% | 73 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 2.279 | Grand Theft Auto V | 173,670 | 76,221 |
-| 0.98 | BOMBANANA! | 17,297 | 17,645 |
-| 0.559 | Rust | 76,040 | 135,989 |
-| 0.503 | The Blood of Dawnwalker | 37,244 | 74,065 |
-| 0.382 | Dead by Daylight | 24,926 | 65,304 |
-| 0.06 | EA Sports FC 26 | 4,861 | 80,353 |
-| 0.059 | Delta Force | 8,583 | 144,699 |
-| 0.045 | Slay the Spire II | 4,372 | 97,245 |
-| 0.023 | Palworld | 3,194 | 137,465 |
-| 0.023 | PUBG: BATTLEGROUNDS | 16,278 | 703,219 |
+| 4.286 | Grand Theft Auto V | 326,698 | 76,221 |
+| 0.894 | BOMBANANA! | 15,770 | 17,645 |
+| 0.433 | The Blood of Dawnwalker | 32,056 | 74,065 |
+| 0.27 | Onimusha: Way of the Sword | 20,536 | 76,065 |
+| 0.262 | Project Zomboid | 25,688 | 98,065 |
+| 0.039 | Delta Force | 5,618 | 144,699 |
+| 0.038 | Warframe | 2,737 | 72,446 |
+| 0.038 | EA Sports FC 26 | 3,092 | 80,353 |
+| 0.026 | Palworld | 3,516 | 137,465 |
+| 0.017 | PUBG: BATTLEGROUNDS | 11,653 | 703,219 |
 
 ---
 
