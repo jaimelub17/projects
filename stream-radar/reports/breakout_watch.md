@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-09-07T22` (UTC). History: 52 snapshots spanning 261h.
-Reference windows: short = `2026-09-07T18`, day = `2026-09-06T23`.
+Generated from snapshot `2026-09-08T04` (UTC). History: 53 snapshots spanning 267h.
+Reference windows: short = `2026-09-07T22`, day = `2026-09-07T04`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | ARC Raiders | +3.69 | 30 | 15,555 | +129% | +78% | 100 | +2% | 0.4937 | IGNITION:cloakzy |
-| 2 | RV There Yet? | +3.35 | 19 | 23,392 | +438% | - | 30 | -40% | 0.7806 | ENTRY |
-| 3 | Darkest Dungeon | +3.25 | 48 | 7,443 | - | - | 28 | - | 0.9598 | ENTRY IGNITION:moonmoon |
-| 4 | Chop Chop Inc. | +3.25 | 76 | 4,511 | - | - | 4 | - | 0.9949 | ENTRY IGNITION:locklear |
-| 5 | Abiotic Factor | +3.25 | 78 | 4,299 | - | - | 39 | - | 0.9084 | ENTRY IGNITION:limealicious |
-| 6 | Shift at Midnight | +3.25 | 37 | 10,990 | - | - | 100 | - | 0.8749 | ENTRY IGNITION:realkatieb |
-| 7 | Bills Must Be Paid | +3.25 | 73 | 4,951 | - | - | 6 | - | 0.9952 | ENTRY IGNITION:laink |
-| 8 | Clair Obscur: Expedition 33 | +3.25 | 96 | 3,137 | - | - | 100 | - | 0.6787 | ENTRY IGNITION:fantabobshow |
-| 9 | Kerbal Space Program | +3.25 | 54 | 6,704 | - | - | 8 | - | 0.9967 | ENTRY IGNITION:dougdoug |
-| 10 | Call of Duty: Warzone | +2.70 | 12 | 33,192 | +70% | +170% | 98 | -1% | 0.1111 |  |
-| 11 | ELDEN RING | +2.47 | 18 | 22,434 | +184% | +18% | 99 | +6% | 0.5382 |  |
-| 12 | Hearthstone | +2.40 | 39 | 10,630 | -4% | +97% | 100 | +0% | 0.3277 | IGNITION:xqn_thesad |
-| 13 | Alien: Isolation | +2.40 | 72 | 4,968 | +43% | - | 39 | -5% | 0.8877 | ENTRY IGNITION:tizfizzy |
-| 14 | Baldur's Gate 3 | +2.29 | 74 | 4,337 | - | - | 100 | - | 0.5045 | ENTRY |
-| 15 | Fields of Mistria | +2.25 | 81 | 4,039 | - | - | 81 | - | 0.5187 | ENTRY |
+| 1 | Call of Duty | +7.35 | 11 | 22,787 | - | +2706% | 100 | - | 0.9713 | ENTRY |
+| 2 | Worming from Home | +4.31 | 31 | 11,685 | +163% | +151% | 16 | -30% | 0.8292 | IGNITION:ironmouse |
+| 3 | Delta Force | +3.66 | 46 | 4,963 | +64% | +170% | 100 | +0% | 0.1249 |  |
+| 4 | Pokémon Emerald Version | +3.50 | 41 | 6,923 | - | +36% | 44 | - | 0.7381 | ENTRY IGNITION:fuslie |
+| 5 | Black Myth: Wukong | +3.32 | 66 | 3,034 | - | +36% | 82 | - | 0.5877 | ENTRY IGNITION:kaise |
+| 6 | iRacing | +3.25 | 40 | 7,406 | - | - | 37 | - | 0.9475 | ENTRY IGNITION:summit1g |
+| 7 | Red Dead Redemption | +3.25 | 32 | 11,333 | - | - | 19 | - | 0.9899 | ENTRY IGNITION:fanum |
+| 8 | Mortal Shell II | +3.21 | 65 | 2,982 | - | +81% | 100 | - | 0.4624 | ENTRY |
+| 9 | ELDEN RING NIGHTREIGN | +3.21 | 28 | 15,386 | - | - | 100 | - | 0.7665 | ENTRY IGNITION:rdcgaming |
+| 10 | MapleStory | +2.72 | 81 | 2,160 | - | +37% | 67 | - | 0.1106 | ENTRY |
+| 11 | Super Mario Maker 2 | +2.32 | 73 | 2,548 | - | +34% | 23 | - | 0.5396 | ENTRY |
+| 12 | Phantasy Star Online Blue Burst | +2.29 | 99 | 1,569 | - | -3% | 7 | - | 0.9745 | ENTRY IGNITION:strippin |
+| 13 | Super Mario Bros. | +2.25 | 77 | 2,409 | - | - | 4 | - | 0.9963 | ENTRY |
+| 14 | Call of Duty: Black Ops II | +2.25 | 93 | 1,637 | - | - | 100 | - | 0.4527 | ENTRY |
+| 15 | Dark and Darker | +2.25 | 89 | 1,784 | - | - | 56 | - | 0.3531 | ENTRY |
 
 ## Ignition alerts
 
@@ -30,31 +30,29 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Shift at Midnight | realkatieb | 9,615 | 9,615 | 87% | 37 |
-| Escape from Tarkov | lvndmark | 14,551 | 9,297 | 54% | 25 |
-| Withering Realms | jerma985 | 13,269 | 8,453 | 93% | 41 |
-| How to Fish | bratishkinoff | 14,481 | 8,250 | 64% | 33 |
-| Darkest Dungeon | moonmoon | 13,957 | 7,144 | 96% | 48 |
-| Watch Your Plastic Duck | ironmouse | 13,776 | 7,041 | 100% | 50 |
-| Kerbal Space Program | dougdoug | 6,682 | 6,682 | 100% | 54 |
-| Bodycam | agent00 | 11,014 | 6,459 | 53% | 34 |
-| Path of Titans | knekro | 8,435 | 5,875 | 98% | 60 |
-| Bills Must Be Paid | laink | 4,927 | 4,927 | 100% | 73 |
+| ELDEN RING NIGHTREIGN | rdcgaming | 11,931 | 11,793 | 77% | 28 |
+| Red Dead Redemption | fanum | 11,401 | 11,219 | 99% | 32 |
+| Darkest Dungeon | moonmoon | 13,957 | 10,779 | 98% | 34 |
+| Worming from Home | ironmouse | 13,776 | 9,689 | 83% | 31 |
+| iRacing | summit1g | 15,238 | 7,017 | 95% | 40 |
+| Pokémon Emerald Version | fuslie | 12,493 | 5,110 | 74% | 41 |
+| Black Myth: Wukong | kaise | 5,708 | 1,783 | 59% | 66 |
+| Phantasy Star Online Blue Burst | strippin | 3,321 | 1,529 | 97% | 99 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 0.85 | Grand Theft Auto V | 71,980 | 84,716 |
-| 0.495 | The Blood of Dawnwalker | 38,665 | 78,188 |
-| 0.471 | Rainbow Six Siege | 53,601 | 113,692 |
-| 0.432 | ARC Raiders | 15,555 | 36,044 |
-| 0.414 | ELDEN RING | 22,434 | 54,240 |
-| 0.034 | Rust | 4,740 | 140,596 |
-| 0.031 | Counter-Strike | 41,777 | 1,337,437 |
-| 0.021 | Delta Force | 3,031 | 147,181 |
-| 0.015 | Palworld | 2,453 | 168,459 |
-| 0.013 | PUBG: BATTLEGROUNDS | 9,278 | 721,474 |
+| 0.509 | ELDEN RING NIGHTREIGN | 15,386 | 30,241 |
+| 0.455 | Project Zomboid | 44,664 | 98,065 |
+| 0.277 | Onimusha: Way of the Sword | 21,102 | 76,065 |
+| 0.23 | Grand Theft Auto V | 17,546 | 76,221 |
+| 0.202 | The Blood of Dawnwalker | 14,945 | 74,065 |
+| 0.02 | Warframe | 1,441 | 72,446 |
+| 0.019 | Dota 2 | 15,412 | 817,878 |
+| 0.018 | Rust | 2,452 | 135,989 |
+| 0.01 | Palworld | 1,344 | 137,465 |
+| 0.004 | PUBG: BATTLEGROUNDS | 2,553 | 703,219 |
 
 ---
 
