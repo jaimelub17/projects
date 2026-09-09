@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-09-09T04` (UTC). History: 58 snapshots spanning 291h.
-Reference windows: short = `2026-09-08T21`, day = `2026-09-08T04`.
+Generated from snapshot `2026-09-09T11` (UTC). History: 59 snapshots spanning 298h.
+Reference windows: short = `2026-09-09T04`, day = `2026-09-08T11`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Super Mario Maker 2 | +3.80 | 52 | 5,052 | - | +98% | 17 | - | 0.5192 | ENTRY IGNITION:hanjoudesu |
-| 2 | Phasmophobia | +3.54 | 65 | 3,246 | - | +65% | 100 | - | 0.5123 | ENTRY IGNITION:facada |
-| 3 | Pokémon | +3.25 | 31 | 9,614 | - | - | 25 | - | 0.6493 | ENTRY IGNITION:ludwig |
-| 4 | Street Fighter V | +3.25 | 89 | 1,787 | - | - | 1 | - | 1.0 | ENTRY IGNITION:lowtiergod |
-| 5 | Mahjong Soul | +3.25 | 28 | 10,106 | - | - | 15 | - | 0.9809 | ENTRY IGNITION:fps_shaka |
-| 6 | Star Wars Zero Company | +3.12 | 41 | 5,868 | - | - | 100 | - | 0.8362 | ENTRY IGNITION:vinesauce |
-| 7 | Rust | +2.84 | 43 | 5,617 | -2% | +129% | 100 | +3% | 0.6356 | IGNITION:cr_vanilla |
-| 8 | Pokémon Emerald Version | +2.56 | 33 | 8,436 | +21% | +22% | 32 | -6% | 0.3642 | IGNITION:valkyrae,kkatamina |
-| 9 | Don't Drop The Cake | +2.51 | 60 | 3,970 | - | +59% | 2 | - | 0.998 | ENTRY IGNITION:aldo_geo |
-| 10 | Street Fighter 6 | +2.28 | 73 | 2,690 | - | - | 100 | - | 0.2346 | ENTRY |
-| 11 | The Legend of Zelda: Ocarina of Time | +2.25 | 74 | 2,735 | - | - | 86 | - | 0.3865 | ENTRY |
-| 12 | Solasta II | +2.25 | 93 | 1,606 | - | - | 28 | - | 0.2553 | ENTRY |
-| 13 | TEKKEN 8 | +2.25 | 76 | 2,169 | - | - | 91 | - | 0.2914 | ENTRY |
-| 14 | FTL: Faster Than Light | +2.25 | 95 | 1,524 | - | - | 3 | - | 0.998 | ENTRY |
-| 15 | The Walking Dead | +2.25 | 98 | 1,517 | - | - | 22 | - | 0.4924 | ENTRY |
+| 1 | Pokémon Champions | +7.55 | 30 | 9,497 | - | +547% | 100 | - | 0.3693 | ENTRY IGNITION:pokealexvgc |
+| 2 | Escape from Tarkov | +6.92 | 11 | 19,346 | +130% | +829% | 100 | +5% | 0.1613 |  |
+| 3 | World of Tanks | +5.44 | 29 | 9,689 | +193% | +0% | 100 | +117% | 0.4298 | IGNITION:dakillzor,skill4ltu |
+| 4 | Rust | +5.12 | 3 | 81,003 | +1342% | -7% | 99 | -1% | 0.3135 |  |
+| 5 | We Were Here Too | +4.25 | 22 | 13,609 | - | - | 3 | - | 0.7463 | ENTRY IGNITION:ironmouse,michimochievee |
+| 6 | Valheim | +3.71 | 61 | 3,889 | - | +159% | 82 | - | 0.5094 | ENTRY |
+| 7 | Super Mario 64 | +3.25 | 65 | 3,583 | - | - | 15 | - | 0.9419 | ENTRY IGNITION:wilko |
+| 8 | Shadowverse: Worlds Beyond | +3.25 | 55 | 4,752 | - | - | 27 | - | 0.5383 | ENTRY IGNITION:oniyadayo |
+| 9 | Poppy Playtime: Chapter 3 - Deep Sleep | +3.25 | 28 | 10,366 | - | - | 3 | - | 0.9998 | ENTRY IGNITION:gon_vl |
+| 10 | Your Happy Place | +3.25 | 67 | 3,183 | - | - | 1 | - | 1.0 | ENTRY IGNITION:sterzik |
+| 11 | KOTÁMON: My Sis Found A Super-Rare Card In Her Cereal Box, So I Became A Garbage Man To Find The Entire Collection And Earn $1,000,000 | +3.25 | 49 | 5,343 | - | - | 10 | - | 0.9729 | ENTRY IGNITION:melharucos |
+| 12 | PUBG: BATTLEGROUNDS | +3.09 | 32 | 8,192 | +394% | -13% | 99 | -1% | 0.2588 |  |
+| 13 | Street Fighter 6 | +2.51 | 33 | 7,881 | +193% | -61% | 100 | +0% | 0.3453 | IGNITION:ren_kisaragi__,naru0419045 |
+| 14 | Counter-Strike | +2.31 | 2 | 88,765 | +176% | +12% | 100 | +8% | 0.1309 |  |
+| 15 | Clair Obscur: Expedition 33 | +2.25 | 69 | 3,081 | - | - | 46 | - | 0.7848 | ENTRY |
 
 ## Ignition alerts
 
@@ -30,31 +30,29 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Mahjong Soul | fps_shaka | 40,997 | 9,913 | 98% | 28 |
-| Pokémon | ludwig | 7,600 | 6,242 | 65% | 31 |
-| Star Wars Zero Company | vinesauce | 10,423 | 4,907 | 84% | 41 |
-| Don't Drop The Cake | aldo_geo | 5,431 | 3,962 | 100% | 60 |
-| Rust | cr_vanilla | 4,226 | 3,570 | 64% | 43 |
-| DayZ | smoke | 3,570 | 2,731 | 63% | 55 |
-| Super Mario Maker 2 | hanjoudesu | 6,250 | 2,623 | 52% | 52 |
-| World of Tanks | dakillzor | 11,890 | 1,987 | 60% | 67 |
-| Street Fighter V | lowtiergod | 12,902 | 1,787 | 100% | 89 |
-| Phasmophobia | facada | 8,463 | 1,663 | 51% | 65 |
+| Poppy Playtime: Chapter 3 - Deep Sleep | gon_vl | 15,317 | 10,364 | 100% | 28 |
+| We Were Here Too | ironmouse | 13,776 | 10,157 | 75% | 22 |
+| KOTÁMON: My Sis Found A Super-Rare Card In Her Cereal Box, So I Became A Garbage Man To Find The Entire Collection And Earn $1,000,000 | melharucos | 6,614 | 5,198 | 97% | 49 |
+| Rainbow Six Siege | rainbow6 | 22,272 | 4,702 | 64% | 36 |
+| Super Mario Maker 2 | hanjoudesu | 6,250 | 4,501 | 94% | 53 |
+| Super Mario 64 | wilko | 3,375 | 3,375 | 94% | 65 |
+| Your Happy Place | sterzik | 5,365 | 3,183 | 100% | 67 |
+| Shadowverse: Worlds Beyond | oniyadayo | 5,058 | 2,558 | 54% | 55 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 1.533 | Grand Theft Auto V | 107,540 | 70,136 |
-| 1.101 | Halloween: The Game | 32,191 | 29,235 |
-| 0.979 | Zenless Zone Zero | 8,751 | 8,942 |
-| 0.656 | Project Zomboid | 49,629 | 75,620 |
-| 0.304 | Overwatch | 19,813 | 65,096 |
-| 0.023 | HELLDIVERS 2 | 1,318 | 56,883 |
-| 0.022 | Palworld | 2,791 | 125,064 |
-| 0.021 | Warframe | 1,364 | 64,554 |
-| 0.02 | Dota 2 | 16,532 | 823,285 |
-| 0.002 | PUBG: BATTLEGROUNDS | 1,658 | 699,519 |
+| 0.759 | Zenless Zone Zero | 6,788 | 8,942 |
+| 0.729 | Grand Theft Auto V | 51,102 | 70,136 |
+| 0.701 | Rust | 81,003 | 115,619 |
+| 0.647 | Halloween: The Game | 18,910 | 29,235 |
+| 0.535 | Escape from Tarkov | 19,346 | 36,130 |
+| 0.034 | Battlefield 6 | 1,533 | 45,738 |
+| 0.032 | Delta Force | 4,637 | 143,426 |
+| 0.026 | EA Sports FC 26 | 1,690 | 63,847 |
+| 0.018 | Slay the Spire II | 1,633 | 92,961 |
+| 0.012 | PUBG: BATTLEGROUNDS | 8,192 | 699,519 |
 
 ---
 
