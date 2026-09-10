@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-09-10T00` (UTC). History: 62 snapshots spanning 311h.
-Reference windows: short = `2026-09-09T16`, day = `2026-09-09T00`.
+Generated from snapshot `2026-09-10T04` (UTC). History: 63 snapshots spanning 315h.
+Reference windows: short = `2026-09-09T20`, day = `2026-09-09T04`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Call of Duty | +7.49 | 20 | 17,017 | - | +1736% | 100 | - | 0.9307 | ENTRY |
-| 2 | ROBLOX | +7.38 | 19 | 19,760 | +612% | +640% | 100 | +6% | 0.8367 |  |
-| 3 | Call of Duty: Black Ops 7 | +5.11 | 37 | 10,375 | - | +241% | 100 | - | 0.6852 | ENTRY IGNITION:therealmarzaa |
-| 4 | EA Sports FC 26 | +4.35 | 36 | 10,433 | +112% | +83% | 93 | +1% | 0.4668 | IGNITION:gamerbrother,bahiaqz |
-| 5 | Rocket League | +4.08 | 25 | 13,507 | +144% | +104% | 100 | +6% | 0.3949 | IGNITION:kamet0 |
-| 6 | BOMBANANA! | +3.71 | 38 | 9,806 | +121% | - | 100 | +28% | 0.6034 | ENTRY IGNITION:shroud |
-| 7 | Virtual Casino | +3.32 | 9 | 38,498 | +221% | +98% | 31 | +0% | 0.6496 |  |
-| 8 | Pogostuck: Rage With Your Friends | +3.25 | 90 | 2,688 | - | - | 7 | - | 0.9096 | ENTRY IGNITION:xhalli4x |
-| 9 | The Dark Pictures Anthology: Man of Medan | +3.25 | 57 | 4,977 | - | - | 6 | - | 0.8796 | ENTRY IGNITION:giggand |
-| 10 | Resident Evil | +3.25 | 65 | 4,350 | - | - | 3 | - | 0.9993 | ENTRY IGNITION:krokoboss |
-| 11 | nanos world | +3.25 | 94 | 2,609 | - | - | 42 | - | 0.683 | ENTRY IGNITION:mehditdonc |
-| 12 | Clair Obscur: Expedition 33 | +3.25 | 98 | 2,327 | - | - | 100 | - | 0.6867 | ENTRY IGNITION:fantabobshow |
-| 13 | Deadlock | +2.75 | 30 | 11,826 | +75% | +35% | 100 | +9% | 0.455 | IGNITION:deadlocknightshift |
-| 14 | Pokémon | +2.35 | 60 | 4,953 | -1% | - | 65 | +51% | 0.5381 | ENTRY IGNITION:kkatamina |
-| 15 | DARK SOULS III | +2.25 | 89 | 2,701 | - | - | 63 | - | 0.833 | ENTRY |
+| 1 | PEAK | +7.25 | 31 | 8,340 | - | +395% | 100 | - | 0.4836 | ENTRY IGNITION:crystalmolly,pattymeza |
+| 2 | Street Fighter 6 | +4.77 | 36 | 6,252 | - | +132% | 95 | - | 0.4886 | ENTRY IGNITION:naru0419045 |
+| 3 | Escape from Tarkov | +4.30 | 5 | 45,421 | +118% | +440% | 100 | +4% | 0.7653 |  |
+| 4 | Pokémon Emerald Version | +3.67 | 29 | 8,824 | +110% | +5% | 38 | -10% | 0.4764 | IGNITION:fuslie,masayoshi |
+| 5 | Street Fighter V | +3.28 | 89 | 1,711 | - | -4% | 3 | - | 0.9959 | ENTRY IGNITION:lowtiergod |
+| 6 | the cabin game | +3.25 | 38 | 6,006 | - | - | 20 | - | 0.702 | ENTRY IGNITION:smii7y |
+| 7 | Kazoe Meshi | +3.25 | 65 | 3,206 | - | - | 1 | - | 1.0 | ENTRY IGNITION:shinjifromjapanxd |
+| 8 | Black Myth: Wukong | +3.24 | 39 | 5,917 | - | - | 60 | - | 0.9596 | ENTRY IGNITION:kaise |
+| 9 | I'm Only Sleeping | +3.24 | 33 | 8,029 | - | +46% | 100 | - | 0.1902 | ENTRY IGNITION:meetenshow |
+| 10 | Spelunky | +2.25 | 80 | 2,107 | - | - | 2 | - | 0.9995 | ENTRY |
+| 11 | Super Mario RPG: Legend of the Seven Stars | +2.25 | 88 | 1,730 | - | - | 5 | - | 0.8734 | ENTRY |
+| 12 | The Forest | +2.25 | 95 | 1,501 | - | - | 31 | - | 0.9307 | ENTRY |
+| 13 | Backseat | +2.25 | 3 | 57,975 | - | - | 8 | - | 0.9965 | ENTRY |
+| 14 | League of Legends: Wild Rift | +2.25 | 90 | 1,613 | - | - | 63 | - | 0.7006 | ENTRY |
+| 15 | Super Mario Bros. | +2.25 | 69 | 3,118 | - | - | 8 | - | 0.991 | ENTRY |
 
 ## Ignition alerts
 
@@ -30,31 +30,28 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Call of Duty: Black Ops 7 | therealmarzaa | 11,846 | 7,109 | 69% | 37 |
-| BOMBANANA! | shroud | 11,985 | 5,917 | 60% | 38 |
-| The Dark Pictures Anthology: Man of Medan | giggand | 5,002 | 4,378 | 88% | 57 |
-| Resident Evil | krokoboss | 9,122 | 4,347 | 100% | 65 |
-| World of Tanks | dakillzor | 13,853 | 3,744 | 64% | 52 |
-| Pokémon | kkatamina | 5,462 | 2,665 | 54% | 60 |
-| Mario Kart World | barbarousking | 4,194 | 2,479 | 70% | 73 |
-| Pogostuck: Rage With Your Friends | xhalli4x | 5,302 | 2,445 | 91% | 90 |
-| nanos world | mehditdonc | 5,566 | 1,782 | 68% | 94 |
-| Clair Obscur: Expedition 33 | fantabobshow | 4,473 | 1,598 | 69% | 98 |
+| Black Myth: Wukong | kaise | 5,708 | 5,678 | 96% | 39 |
+| the cabin game | smii7y | 4,216 | 4,216 | 70% | 38 |
+| Kazoe Meshi | shinjifromjapanxd | 5,881 | 3,206 | 100% | 65 |
+| Pokémon | kkatamina | 5,462 | 3,201 | 86% | 56 |
+| World of Tanks | dakillzor | 13,853 | 1,909 | 65% | 72 |
+| Slay the Spire II | strippin | 3,321 | 1,766 | 59% | 70 |
+| Street Fighter V | lowtiergod | 12,902 | 1,704 | 100% | 89 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 3.428 | Grand Theft Auto V | 240,400 | 70,136 |
-| 1.954 | Valheim | 52,753 | 26,994 |
-| 1.235 | Escape from Tarkov | 44,634 | 36,130 |
-| 0.71 | Halloween: The Game | 20,750 | 29,235 |
-| 0.554 | BOMBANANA! | 9,806 | 17,716 |
-| 0.039 | Dota 2 | 32,170 | 823,285 |
-| 0.03 | Counter-Strike | 37,265 | 1,244,579 |
-| 0.029 | Rust | 3,328 | 115,619 |
-| 0.023 | Delta Force | 3,300 | 143,426 |
-| 0.009 | PUBG: BATTLEGROUNDS | 6,496 | 699,519 |
+| 1.832 | Grand Theft Auto V | 127,956 | 69,852 |
+| 1.265 | Escape from Tarkov | 45,421 | 35,914 |
+| 0.555 | Halloween: The Game | 18,658 | 33,639 |
+| 0.345 | The Blood of Dawnwalker | 16,471 | 47,695 |
+| 0.255 | PEAK | 8,340 | 32,715 |
+| 0.022 | Counter-Strike | 29,609 | 1,330,410 |
+| 0.019 | Dota 2 | 14,155 | 755,627 |
+| 0.019 | Delta Force | 2,769 | 146,923 |
+| 0.014 | Rust | 1,467 | 107,435 |
+| 0.013 | Palworld | 1,541 | 117,856 |
 
 ---
 
