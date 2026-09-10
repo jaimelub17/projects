@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-09-09T20` (UTC). History: 61 snapshots spanning 307h.
-Reference windows: short = `2026-09-09T16`, day = `2026-09-08T21`.
+Generated from snapshot `2026-09-10T00` (UTC). History: 62 snapshots spanning 311h.
+Reference windows: short = `2026-09-09T16`, day = `2026-09-09T00`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | BOMBANANA! | +6.98 | 7 | 62,945 | +1316% | +299% | 63 | -19% | 0.5287 |  |
-| 2 | Wanderburg | +6.44 | 23 | 23,725 | +38% | +429% | 56 | +8% | 0.5061 | IGNITION:lirik,northernlion |
-| 3 | EA Sports FC 26 | +5.16 | 42 | 9,923 | +102% | +221% | 97 | +5% | 0.7255 | IGNITION:gamerbrother |
-| 4 | Rainbow Six Siege | +5.00 | 21 | 23,542 | +273% | +24% | 100 | +2% | 0.6875 | IGNITION:rainbow6,fettr6s |
-| 5 | Waterpark Simulator | +4.25 | 39 | 12,050 | - | - | 92 | - | 0.5947 | ENTRY IGNITION:wankilstudio,laink |
-| 6 | nanos world | +3.76 | 80 | 4,162 | - | +36% | 69 | - | 0.6663 | ENTRY IGNITION:mehditdonc |
-| 7 | ELDEN RING | +3.74 | 33 | 13,254 | +171% | +51% | 100 | +0% | 0.1153 | IGNITION:heyyouvideogame |
-| 8 | Deadlock | +3.63 | 32 | 14,008 | +107% | +67% | 96 | +4% | 0.322 | IGNITION:deadlocknightshift |
-| 9 | Marvel Rivals | +3.52 | 11 | 40,710 | +142% | +188% | 100 | +0% | 0.2963 |  |
-| 10 | Fablewood Chronicles | +3.25 | 86 | 3,759 | - | - | 1 | - | 1.0 | ENTRY IGNITION:xop0 |
-| 11 | 60 Seconds! Reatomized | +3.25 | 47 | 9,541 | - | - | 2 | - | 0.9999 | ENTRY IGNITION:deepins02 |
-| 12 | Control | +3.25 | 94 | 3,643 | - | - | 42 | - | 0.7809 | ENTRY IGNITION:limealicious |
-| 13 | DONUT PANIC | +3.25 | 98 | 3,121 | - | - | 2 | - | 0.9997 | ENTRY IGNITION:kingwoolz |
-| 14 | Bodycam | +3.07 | 50 | 9,141 | - | - | 84 | - | 0.5693 | ENTRY IGNITION:krokoboss |
-| 15 | Madden NFL 27 | +2.56 | 78 | 3,931 | - | +42% | 98 | - | 0.1628 | ENTRY |
+| 1 | Call of Duty | +7.49 | 20 | 17,017 | - | +1736% | 100 | - | 0.9307 | ENTRY |
+| 2 | ROBLOX | +7.38 | 19 | 19,760 | +612% | +640% | 100 | +6% | 0.8367 |  |
+| 3 | Call of Duty: Black Ops 7 | +5.11 | 37 | 10,375 | - | +241% | 100 | - | 0.6852 | ENTRY IGNITION:therealmarzaa |
+| 4 | EA Sports FC 26 | +4.35 | 36 | 10,433 | +112% | +83% | 93 | +1% | 0.4668 | IGNITION:gamerbrother,bahiaqz |
+| 5 | Rocket League | +4.08 | 25 | 13,507 | +144% | +104% | 100 | +6% | 0.3949 | IGNITION:kamet0 |
+| 6 | BOMBANANA! | +3.71 | 38 | 9,806 | +121% | - | 100 | +28% | 0.6034 | ENTRY IGNITION:shroud |
+| 7 | Virtual Casino | +3.32 | 9 | 38,498 | +221% | +98% | 31 | +0% | 0.6496 |  |
+| 8 | Pogostuck: Rage With Your Friends | +3.25 | 90 | 2,688 | - | - | 7 | - | 0.9096 | ENTRY IGNITION:xhalli4x |
+| 9 | The Dark Pictures Anthology: Man of Medan | +3.25 | 57 | 4,977 | - | - | 6 | - | 0.8796 | ENTRY IGNITION:giggand |
+| 10 | Resident Evil | +3.25 | 65 | 4,350 | - | - | 3 | - | 0.9993 | ENTRY IGNITION:krokoboss |
+| 11 | nanos world | +3.25 | 94 | 2,609 | - | - | 42 | - | 0.683 | ENTRY IGNITION:mehditdonc |
+| 12 | Clair Obscur: Expedition 33 | +3.25 | 98 | 2,327 | - | - | 100 | - | 0.6867 | ENTRY IGNITION:fantabobshow |
+| 13 | Deadlock | +2.75 | 30 | 11,826 | +75% | +35% | 100 | +9% | 0.455 | IGNITION:deadlocknightshift |
+| 14 | Pokémon | +2.35 | 60 | 4,953 | -1% | - | 65 | +51% | 0.5381 | ENTRY IGNITION:kkatamina |
+| 15 | DARK SOULS III | +2.25 | 89 | 2,701 | - | - | 63 | - | 0.833 | ENTRY |
 
 ## Ignition alerts
 
@@ -30,31 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Rainbow Six Siege | rainbow6 | 22,272 | 16,185 | 69% | 21 |
-| Wanderburg | lirik | 18,304 | 12,007 | 51% | 23 |
-| World of Tanks | dakillzor | 13,853 | 9,942 | 66% | 30 |
-| 60 Seconds! Reatomized | deepins02 | 27,603 | 9,540 | 100% | 47 |
-| Clash Royale | trymacs | 25,296 | 7,496 | 62% | 38 |
-| EA Sports FC 26 | gamerbrother | 13,233 | 7,199 | 73% | 42 |
-| Waterpark Simulator | wankilstudio | 7,869 | 7,166 | 59% | 39 |
-| Watch Your Plastic Duck | ironmouse | 13,776 | 6,244 | 100% | 61 |
-| Withering Realms | elajjaz | 8,850 | 5,464 | 100% | 70 |
-| Bodycam | krokoboss | 9,122 | 5,204 | 57% | 50 |
+| Call of Duty: Black Ops 7 | therealmarzaa | 11,846 | 7,109 | 69% | 37 |
+| BOMBANANA! | shroud | 11,985 | 5,917 | 60% | 38 |
+| The Dark Pictures Anthology: Man of Medan | giggand | 5,002 | 4,378 | 88% | 57 |
+| Resident Evil | krokoboss | 9,122 | 4,347 | 100% | 65 |
+| World of Tanks | dakillzor | 13,853 | 3,744 | 64% | 52 |
+| Pokémon | kkatamina | 5,462 | 2,665 | 54% | 60 |
+| Mario Kart World | barbarousking | 4,194 | 2,479 | 70% | 73 |
+| Pogostuck: Rage With Your Friends | xhalli4x | 5,302 | 2,445 | 91% | 90 |
+| nanos world | mehditdonc | 5,566 | 1,782 | 68% | 94 |
+| Clair Obscur: Expedition 33 | fantabobshow | 4,473 | 1,598 | 69% | 98 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 3.553 | BOMBANANA! | 62,945 | 17,716 |
-| 3.227 | Grand Theft Auto V | 226,300 | 70,136 |
-| 2.177 | Valheim | 58,754 | 26,994 |
-| 1.017 | Halloween: The Game | 29,744 | 29,235 |
-| 0.576 | Escape from Tarkov | 20,810 | 36,130 |
-| 0.048 | Warframe | 3,080 | 64,554 |
-| 0.04 | Slay the Spire II | 3,759 | 92,961 |
-| 0.036 | Apex Legends | 9,293 | 256,292 |
-| 0.03 | Delta Force | 4,319 | 143,426 |
-| 0.014 | PUBG: BATTLEGROUNDS | 9,517 | 699,519 |
+| 3.428 | Grand Theft Auto V | 240,400 | 70,136 |
+| 1.954 | Valheim | 52,753 | 26,994 |
+| 1.235 | Escape from Tarkov | 44,634 | 36,130 |
+| 0.71 | Halloween: The Game | 20,750 | 29,235 |
+| 0.554 | BOMBANANA! | 9,806 | 17,716 |
+| 0.039 | Dota 2 | 32,170 | 823,285 |
+| 0.03 | Counter-Strike | 37,265 | 1,244,579 |
+| 0.029 | Rust | 3,328 | 115,619 |
+| 0.023 | Delta Force | 3,300 | 143,426 |
+| 0.009 | PUBG: BATTLEGROUNDS | 6,496 | 699,519 |
 
 ---
 
