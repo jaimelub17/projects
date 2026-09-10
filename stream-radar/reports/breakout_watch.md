@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-09-10T04` (UTC). History: 63 snapshots spanning 315h.
-Reference windows: short = `2026-09-09T20`, day = `2026-09-09T04`.
+Generated from snapshot `2026-09-10T11` (UTC). History: 64 snapshots spanning 322h.
+Reference windows: short = `2026-09-10T04`, day = `2026-09-09T11`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | PEAK | +7.25 | 31 | 8,340 | - | +395% | 100 | - | 0.4836 | ENTRY IGNITION:crystalmolly,pattymeza |
-| 2 | Street Fighter 6 | +4.77 | 36 | 6,252 | - | +132% | 95 | - | 0.4886 | ENTRY IGNITION:naru0419045 |
-| 3 | Escape from Tarkov | +4.30 | 5 | 45,421 | +118% | +440% | 100 | +4% | 0.7653 |  |
-| 4 | Pokémon Emerald Version | +3.67 | 29 | 8,824 | +110% | +5% | 38 | -10% | 0.4764 | IGNITION:fuslie,masayoshi |
-| 5 | Street Fighter V | +3.28 | 89 | 1,711 | - | -4% | 3 | - | 0.9959 | ENTRY IGNITION:lowtiergod |
-| 6 | the cabin game | +3.25 | 38 | 6,006 | - | - | 20 | - | 0.702 | ENTRY IGNITION:smii7y |
-| 7 | Kazoe Meshi | +3.25 | 65 | 3,206 | - | - | 1 | - | 1.0 | ENTRY IGNITION:shinjifromjapanxd |
-| 8 | Black Myth: Wukong | +3.24 | 39 | 5,917 | - | - | 60 | - | 0.9596 | ENTRY IGNITION:kaise |
-| 9 | I'm Only Sleeping | +3.24 | 33 | 8,029 | - | +46% | 100 | - | 0.1902 | ENTRY IGNITION:meetenshow |
-| 10 | Spelunky | +2.25 | 80 | 2,107 | - | - | 2 | - | 0.9995 | ENTRY |
-| 11 | Super Mario RPG: Legend of the Seven Stars | +2.25 | 88 | 1,730 | - | - | 5 | - | 0.8734 | ENTRY |
-| 12 | The Forest | +2.25 | 95 | 1,501 | - | - | 31 | - | 0.9307 | ENTRY |
-| 13 | Backseat | +2.25 | 3 | 57,975 | - | - | 8 | - | 0.9965 | ENTRY |
-| 14 | League of Legends: Wild Rift | +2.25 | 90 | 1,613 | - | - | 63 | - | 0.7006 | ENTRY |
-| 15 | Super Mario Bros. | +2.25 | 69 | 3,118 | - | - | 8 | - | 0.991 | ENTRY |
+| 1 | Rust | +7.94 | 3 | 80,218 | +5368% | -1% | 99 | -1% | 0.2861 |  |
+| 2 | How to Fish | +7.26 | 15 | 18,044 | +412% | +626% | 81 | -19% | 0.5578 |  |
+| 3 | Valheim | +6.03 | 11 | 21,356 | +89% | +449% | 99 | +0% | 0.2186 |  |
+| 4 | World of Tanks | +4.57 | 34 | 8,082 | +175% | -17% | 100 | +85% | 0.267 | IGNITION:dakillzor,skill4ltu |
+| 5 | Rainbow Six Siege | +4.26 | 28 | 9,978 | +275% | +36% | 100 | +2% | 0.6934 | IGNITION:rainbow6 |
+| 6 | Warframe | +4.24 | 38 | 6,113 | +238% | - | 100 | +0% | 0.7177 | ENTRY IGNITION:shipbroman |
+| 7 | PUBG: BATTLEGROUNDS | +3.47 | 10 | 24,588 | - | +200% | 100 | - | 0.4519 | ENTRY |
+| 8 | Yu-Gi-Oh! Master Duel | +3.41 | 77 | 2,170 | - | - | 31 | - | 0.8051 | ENTRY IGNITION:joshuaschmidtygo |
+| 9 | A Weird Game About Sausage | +3.25 | 49 | 4,836 | - | - | 3 | - | 0.9952 | ENTRY IGNITION:mynthos |
+| 10 | ARK: Survival Ascended | +3.25 | 57 | 4,287 | - | - | 69 | - | 0.8395 | ENTRY IGNITION:k4sen |
+| 11 | Path of Exile 2 | +2.50 | 21 | 12,407 | +47% | -11% | 100 | +0% | 0.1269 | IGNITION:zizaran,pathofexilebota |
+| 12 | Palworld | +2.49 | 60 | 3,824 | +148% | - | 97 | -3% | 0.3883 | ENTRY |
+| 13 | Wuthering Waves | +2.34 | 56 | 4,479 | +116% | - | 100 | +3% | 0.4664 | ENTRY |
+| 14 | Apex Legends | +2.29 | 9 | 23,578 | +98% | +86% | 98 | +1% | 0.1747 |  |
+| 15 | Batomon Showdown | +2.25 | 95 | 1,704 | - | - | 3 | - | 0.9959 | ENTRY |
 
 ## Ignition alerts
 
@@ -30,28 +30,28 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Black Myth: Wukong | kaise | 5,708 | 5,678 | 96% | 39 |
-| the cabin game | smii7y | 4,216 | 4,216 | 70% | 38 |
-| Kazoe Meshi | shinjifromjapanxd | 5,881 | 3,206 | 100% | 65 |
-| Pokémon | kkatamina | 5,462 | 3,201 | 86% | 56 |
-| World of Tanks | dakillzor | 13,853 | 1,909 | 65% | 72 |
-| Slay the Spire II | strippin | 3,321 | 1,766 | 59% | 70 |
-| Street Fighter V | lowtiergod | 12,902 | 1,704 | 100% | 89 |
+| Rainbow Six Siege | rainbow6 | 22,272 | 6,919 | 69% | 28 |
+| A Weird Game About Sausage | mynthos | 6,006 | 4,813 | 100% | 49 |
+| KOTÁMON: My Sis Found A Super-Rare Card In Her Cereal Box, So I Became A Garbage Man To Find The Entire Collection And Earn $1,000,000 | melharucos | 6,614 | 4,564 | 99% | 55 |
+| Warframe | shipbroman | 4,397 | 4,387 | 72% | 38 |
+| ARK: Survival Ascended | k4sen | 13,201 | 3,599 | 84% | 57 |
+| BOMBANANA! | ren_kisaragi__ | 15,681 | 1,781 | 96% | 92 |
+| Yu-Gi-Oh! Master Duel | joshuaschmidtygo | 4,483 | 1,747 | 81% | 77 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 1.832 | Grand Theft Auto V | 127,956 | 69,852 |
-| 1.265 | Escape from Tarkov | 45,421 | 35,914 |
-| 0.555 | Halloween: The Game | 18,658 | 33,639 |
-| 0.345 | The Blood of Dawnwalker | 16,471 | 47,695 |
-| 0.255 | PEAK | 8,340 | 32,715 |
-| 0.022 | Counter-Strike | 29,609 | 1,330,410 |
-| 0.019 | Dota 2 | 14,155 | 755,627 |
-| 0.019 | Delta Force | 2,769 | 146,923 |
-| 0.014 | Rust | 1,467 | 107,435 |
-| 0.013 | Palworld | 1,541 | 117,856 |
+| 0.747 | Rust | 80,218 | 107,435 |
+| 0.732 | Grand Theft Auto V | 51,112 | 69,852 |
+| 0.348 | Wuthering Waves | 4,479 | 12,878 |
+| 0.346 | Halloween: The Game | 11,627 | 33,639 |
+| 0.321 | Escape from Tarkov | 11,518 | 35,914 |
+| 0.037 | Football Manager 26 | 1,694 | 45,259 |
+| 0.036 | PUBG: BATTLEGROUNDS | 24,588 | 675,465 |
+| 0.032 | Palworld | 3,824 | 117,856 |
+| 0.027 | EA Sports FC 26 | 1,791 | 65,584 |
+| 0.026 | Delta Force | 3,768 | 146,923 |
 
 ---
 
