@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-09-11T04` (UTC). History: 68 snapshots spanning 339h.
-Reference windows: short = `2026-09-10T20`, day = `2026-09-10T04`.
+Generated from snapshot `2026-09-11T11` (UTC). History: 69 snapshots spanning 346h.
+Reference windows: short = `2026-09-11T04`, day = `2026-09-10T11`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Genshin Impact | +4.16 | 59 | 3,681 | - | +96% | 98 | - | 0.6183 | ENTRY IGNITION:zy0xxx |
-| 2 | Bloodborne | +3.25 | 83 | 2,089 | - | - | 35 | - | 0.9268 | ENTRY IGNITION:penta |
-| 3 | FINAL FANTASY VII REVELATION | +3.25 | 39 | 6,046 | - | - | 1 | - | 1.0 | ENTRY IGNITION:maximilian_dood |
-| 4 | Darkest Dungeon | +3.25 | 30 | 8,536 | - | - | 15 | - | 0.9931 | ENTRY IGNITION:moonmoon |
-| 5 | Dragon Quest Heroes: Torneko's Mystery Dungeon Classic HD | +3.25 | 65 | 2,944 | - | - | 17 | - | 0.9287 | ENTRY IGNITION:naru0419045 |
-| 6 | Sunset Summit | +2.25 | 9 | 22,171 | - | - | 3 | - | 0.6057 | ENTRY |
-| 7 | The Choicer Voicer | +2.25 | 96 | 1,538 | - | - | 17 | - | 0.9402 | ENTRY |
-| 8 | Meat Grinder | +2.25 | 4 | 53,544 | - | - | 1 | - | 1.0 | ENTRY |
-| 9 | Shroom and Gloom | +2.25 | 91 | 1,785 | - | - | 22 | - | 0.7798 | ENTRY |
-| 10 | Dragon's Dogma II | +2.25 | 76 | 2,261 | - | - | 27 | - | 0.935 | ENTRY |
-| 11 | DRAGON BALL GEKISHIN SQUADRA | +2.25 | 94 | 1,622 | - | - | 55 | - | 0.2337 | ENTRY |
-| 12 | Cyberpunk 2077 | +2.24 | 88 | 1,851 | - | - | 100 | - | 0.5737 | ENTRY |
-| 13 | Battlefield 6 | +1.89 | 84 | 1,672 | - | +24% | 89 | - | 0.1501 | ENTRY |
-| 14 | Slay the Spire II | +1.70 | 64 | 2,980 | - | -1% | 69 | - | 0.3473 | ENTRY |
-| 15 | Call of Duty: Black Ops 7 | +1.64 | 71 | 2,029 | - | +3% | 94 | - | 0.171 | ENTRY |
+| 1 | WARDOGS | +5.81 | 2 | 91,100 | -38% | +3835% | 99 | +0% | 0.162 |  |
+| 2 | World of Tanks | +5.30 | 32 | 9,048 | +185% | +12% | 100 | +96% | 0.2591 | IGNITION:dakillzor,skill4ltu |
+| 3 | Dragon Quest Heroes: Torneko's Mystery Dungeon Classic HD | +3.48 | 13 | 18,811 | +539% | +6% | 18 | +6% | 0.9887 |  |
+| 4 | Super Mario Maker 2 | +3.46 | 48 | 4,861 | +209% | - | 9 | -31% | 0.9601 | ENTRY IGNITION:hanjoudesu |
+| 5 | AI2U: With You 'Til The End | +3.25 | 92 | 1,662 | - | - | 1 | - | 1.0 | ENTRY IGNITION:zeling |
+| 6 | Ultimate Fishing Simulator | +3.25 | 63 | 3,213 | - | - | 1 | - | 1.0 | ENTRY IGNITION:akarindao |
+| 7 | ROBLOX | +3.15 | 55 | 3,231 | +43% | +178% | 95 | +0% | 0.5215 |  |
+| 8 | The Binding of Isaac: Repentance | +3.15 | 72 | 2,253 | - | +36% | 57 | - | 0.3582 | ENTRY |
+| 9 | Counter-Strike | +3.08 | 3 | 97,321 | +332% | +27% | 96 | +0% | 0.2168 |  |
+| 10 | Pokémon Champions | +2.92 | 53 | 4,165 | +98% | +61% | 64 | -25% | 0.4862 | IGNITION:pokealexvgc |
+| 11 | A Weird Game About Sausage | +2.86 | 46 | 4,950 | - | +2% | 4 | - | 0.9893 | ENTRY IGNITION:mynthos |
+| 12 | Street Fighter 6 | +2.84 | 43 | 5,635 | - | +19% | 98 | - | 0.4477 | ENTRY IGNITION:ren_kisaragi__ |
+| 13 | VALORANT | +2.81 | 4 | 68,128 | +171% | +88% | 100 | +5% | 0.1679 |  |
+| 14 | PUBG: BATTLEGROUNDS | +2.69 | 24 | 9,913 | +367% | -60% | 100 | +0% | 0.2326 | IGNITION:des0ut |
+| 15 | World of Warships | +2.43 | 83 | 2,071 | - | +21% | 56 | - | 0.2675 | ENTRY |
 
 ## Ignition alerts
 
@@ -30,29 +30,28 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Welcome to Elderfield | ironmouse | 13,776 | 9,012 | 76% | 22 |
-| Darkest Dungeon | moonmoon | 13,957 | 8,477 | 99% | 30 |
-| FINAL FANTASY VII REVELATION | maximilian_dood | 9,734 | 6,046 | 100% | 39 |
-| Pokémon | kkatamina | 5,462 | 4,535 | 94% | 50 |
-| Dragon Quest Heroes: Torneko's Mystery Dungeon Classic HD | naru0419045 | 6,288 | 2,734 | 93% | 65 |
-| Genshin Impact | zy0xxx | 3,352 | 2,276 | 62% | 59 |
-| World of Tanks | dakillzor | 13,853 | 2,053 | 65% | 62 |
-| Bloodborne | penta | 7,075 | 1,936 | 93% | 83 |
+| Rainbow Six Siege | rainbow6 | 22,272 | 5,814 | 65% | 29 |
+| A Weird Game About Sausage | mynthos | 6,006 | 4,897 | 99% | 46 |
+| Super Mario Maker 2 | hanjoudesu | 6,250 | 4,667 | 96% | 48 |
+| KOTÁMON: My Sis Found A Super-Rare Card In Her Cereal Box, So I Became A Garbage Man To Find The Entire Collection And Earn $1,000,000 | melharucos | 6,614 | 4,360 | 99% | 51 |
+| Ultimate Fishing Simulator | akarindao | 4,105 | 3,213 | 100% | 63 |
+| Slay the Spire II | robcdee | 4,519 | 2,654 | 68% | 56 |
+| AI2U: With You 'Til The End | zeling | 3,572 | 1,662 | 100% | 92 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 1.548 | Grand Theft Auto V | 104,673 | 67,631 |
-| 0.485 | Halloween: The Game | 13,083 | 26,990 |
-| 0.438 | WARDOGS | 147,670 | 337,157 |
-| 0.257 | The Blood of Dawnwalker | 11,285 | 43,903 |
-| 0.199 | No Man's Sky | 6,544 | 32,906 |
-| 0.018 | Rust | 2,041 | 110,915 |
-| 0.018 | Dota 2 | 14,072 | 791,174 |
-| 0.018 | Counter-Strike | 22,519 | 1,259,987 |
-| 0.014 | Palworld | 1,543 | 111,025 |
-| 0.003 | PUBG: BATTLEGROUNDS | 2,121 | 783,417 |
+| 0.712 | Grand Theft Auto V | 48,143 | 67,631 |
+| 0.343 | Halloween: The Game | 9,266 | 26,990 |
+| 0.305 | No Man's Sky | 10,029 | 32,906 |
+| 0.27 | WARDOGS | 91,100 | 337,157 |
+| 0.266 | Escape from Tarkov | 9,346 | 35,090 |
+| 0.032 | Delta Force | 4,456 | 139,557 |
+| 0.03 | VRChat | 1,570 | 52,864 |
+| 0.03 | EA Sports FC 26 | 2,031 | 68,212 |
+| 0.021 | Warframe | 1,542 | 72,854 |
+| 0.013 | PUBG: BATTLEGROUNDS | 9,913 | 783,417 |
 
 ---
 
