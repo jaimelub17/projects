@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-09-11T11` (UTC). History: 69 snapshots spanning 346h.
-Reference windows: short = `2026-09-11T04`, day = `2026-09-10T11`.
+Generated from snapshot `2026-09-11T16` (UTC). History: 70 snapshots spanning 351h.
+Reference windows: short = `2026-09-11T11`, day = `2026-09-10T16`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | WARDOGS | +5.81 | 2 | 91,100 | -38% | +3835% | 99 | +0% | 0.162 |  |
-| 2 | World of Tanks | +5.30 | 32 | 9,048 | +185% | +12% | 100 | +96% | 0.2591 | IGNITION:dakillzor,skill4ltu |
-| 3 | Dragon Quest Heroes: Torneko's Mystery Dungeon Classic HD | +3.48 | 13 | 18,811 | +539% | +6% | 18 | +6% | 0.9887 |  |
-| 4 | Super Mario Maker 2 | +3.46 | 48 | 4,861 | +209% | - | 9 | -31% | 0.9601 | ENTRY IGNITION:hanjoudesu |
-| 5 | AI2U: With You 'Til The End | +3.25 | 92 | 1,662 | - | - | 1 | - | 1.0 | ENTRY IGNITION:zeling |
-| 6 | Ultimate Fishing Simulator | +3.25 | 63 | 3,213 | - | - | 1 | - | 1.0 | ENTRY IGNITION:akarindao |
-| 7 | ROBLOX | +3.15 | 55 | 3,231 | +43% | +178% | 95 | +0% | 0.5215 |  |
-| 8 | The Binding of Isaac: Repentance | +3.15 | 72 | 2,253 | - | +36% | 57 | - | 0.3582 | ENTRY |
-| 9 | Counter-Strike | +3.08 | 3 | 97,321 | +332% | +27% | 96 | +0% | 0.2168 |  |
-| 10 | Pokémon Champions | +2.92 | 53 | 4,165 | +98% | +61% | 64 | -25% | 0.4862 | IGNITION:pokealexvgc |
-| 11 | A Weird Game About Sausage | +2.86 | 46 | 4,950 | - | +2% | 4 | - | 0.9893 | ENTRY IGNITION:mynthos |
-| 12 | Street Fighter 6 | +2.84 | 43 | 5,635 | - | +19% | 98 | - | 0.4477 | ENTRY IGNITION:ren_kisaragi__ |
-| 13 | VALORANT | +2.81 | 4 | 68,128 | +171% | +88% | 100 | +5% | 0.1679 |  |
-| 14 | PUBG: BATTLEGROUNDS | +2.69 | 24 | 9,913 | +367% | -60% | 100 | +0% | 0.2326 | IGNITION:des0ut |
-| 15 | World of Warships | +2.43 | 83 | 2,071 | - | +21% | 56 | - | 0.2675 | ENTRY |
+| 1 | EA Sports FC 26 | +8.02 | 30 | 13,866 | +583% | +153% | 98 | -1% | 0.4418 | IGNITION:angryginge13,dannyaarons |
+| 2 | Warframe | +6.49 | 51 | 7,157 | +364% | +123% | 99 | -1% | 0.5903 | IGNITION:tosi_chan69 |
+| 3 | Street Fighter 6 | +4.58 | 27 | 15,569 | +176% | +32% | 99 | +1% | 0.2976 | IGNITION:ikoma_dogura,hiiragitsurugi |
+| 4 | Marvel Rivals | +4.26 | 9 | 43,957 | +184% | +292% | 99 | -1% | 0.163 |  |
+| 5 | How to Fish | +4.20 | 47 | 8,103 | - | - | 98 | - | 0.4057 | ENTRY IGNITION:guanweiboy,chowh1 |
+| 6 | VRChat | +4.18 | 75 | 3,951 | +152% | +20% | 90 | +96% | 0.2126 |  |
+| 7 | League of Legends | +3.46 | 2 | 178,699 | +191% | +214% | 98 | -2% | 0.289 |  |
+| 8 | Star Citizen | +3.38 | 78 | 3,802 | +135% | -1% | 99 | +98% | 0.4816 |  |
+| 9 | Big Ambitions | +3.25 | 79 | 3,758 | - | - | 13 | - | 0.9734 | ENTRY IGNITION:stintik |
+| 10 | Backseat | +3.25 | 82 | 3,550 | - | - | 6 | - | 0.9792 | ENTRY IGNITION:blackufa |
+| 11 | Crime Scene Cleaner | +3.25 | 46 | 8,877 | - | - | 10 | - | 0.9958 | ENTRY IGNITION:ironmouse |
+| 12 | Clash Royale | +3.25 | 98 | 2,644 | - | - | 29 | - | 0.5601 | ENTRY IGNITION:bale_gg |
+| 13 | Jinro Metropolis | +3.25 | 80 | 3,673 | - | - | 7 | - | 0.9088 | ENTRY IGNITION:xhalli4x |
+| 14 | Asgard's Fall: Viking Survivors | +3.25 | 37 | 12,303 | - | - | 3 | - | 0.9951 | ENTRY IGNITION:handofblood |
+| 15 | Into the Dead: Our Darkest Days | +3.25 | 48 | 8,371 | - | - | 2 | - | 0.9996 | ENTRY IGNITION:elajjaz |
 
 ## Ignition alerts
 
@@ -30,28 +30,30 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Rainbow Six Siege | rainbow6 | 22,272 | 5,814 | 65% | 29 |
-| A Weird Game About Sausage | mynthos | 6,006 | 4,897 | 99% | 46 |
-| Super Mario Maker 2 | hanjoudesu | 6,250 | 4,667 | 96% | 48 |
-| KOTÁMON: My Sis Found A Super-Rare Card In Her Cereal Box, So I Became A Garbage Man To Find The Entire Collection And Earn $1,000,000 | melharucos | 6,614 | 4,360 | 99% | 51 |
-| Ultimate Fishing Simulator | akarindao | 4,105 | 3,213 | 100% | 63 |
-| Slay the Spire II | robcdee | 4,519 | 2,654 | 68% | 56 |
-| AI2U: With You 'Til The End | zeling | 3,572 | 1,662 | 100% | 92 |
+| Asgard's Fall: Viking Survivors | handofblood | 15,675 | 12,243 | 100% | 37 |
+| Supermarket Chaos | fps_shaka | 40,997 | 12,186 | 100% | 38 |
+| Crime Scene Cleaner | ironmouse | 13,776 | 8,840 | 100% | 46 |
+| Into the Dead: Our Darkest Days | elajjaz | 8,850 | 8,368 | 100% | 48 |
+| Warframe | tosi_chan69 | 4,225 | 4,225 | 59% | 51 |
+| Big Ambitions | stintik | 8,253 | 3,658 | 97% | 79 |
+| Control | missmikkaa | 4,492 | 3,637 | 95% | 77 |
+| Backseat | blackufa | 4,452 | 3,476 | 98% | 82 |
+| Jinro Metropolis | xhalli4x | 5,302 | 3,338 | 91% | 80 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 0.712 | Grand Theft Auto V | 48,143 | 67,631 |
-| 0.343 | Halloween: The Game | 9,266 | 26,990 |
-| 0.305 | No Man's Sky | 10,029 | 32,906 |
-| 0.27 | WARDOGS | 91,100 | 337,157 |
-| 0.266 | Escape from Tarkov | 9,346 | 35,090 |
-| 0.032 | Delta Force | 4,456 | 139,557 |
-| 0.03 | VRChat | 1,570 | 52,864 |
-| 0.03 | EA Sports FC 26 | 2,031 | 68,212 |
-| 0.021 | Warframe | 1,542 | 72,854 |
-| 0.013 | PUBG: BATTLEGROUNDS | 9,913 | 783,417 |
+| 1.465 | Grand Theft Auto V | 99,075 | 67,631 |
+| 0.778 | No Man's Sky | 25,593 | 32,906 |
+| 0.52 | Halloween: The Game | 14,034 | 26,990 |
+| 0.469 | Marvel Rivals | 43,957 | 93,739 |
+| 0.42 | Escape from Tarkov | 14,738 | 35,090 |
+| 0.055 | Apex Legends | 13,661 | 250,616 |
+| 0.046 | Counter-Strike | 57,713 | 1,259,987 |
+| 0.041 | Rainbow Six Siege | 3,475 | 84,166 |
+| 0.032 | Delta Force | 4,487 | 139,557 |
+| 0.026 | PUBG: BATTLEGROUNDS | 20,075 | 783,417 |
 
 ---
 
