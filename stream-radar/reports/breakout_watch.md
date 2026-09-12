@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-09-12T15` (UTC). History: 75 snapshots spanning 374h.
-Reference windows: short = `2026-09-12T07`, day = `2026-09-11T16`.
+Generated from snapshot `2026-09-12T18` (UTC). History: 76 snapshots spanning 377h.
+Reference windows: short = `2026-09-12T12`, day = `2026-09-11T16`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Genshin Impact | +7.25 | 31 | 9,494 | +570% | +141% | 100 | +0% | 0.162 | IGNITION:murderofbirds |
-| 2 | Pokémon Champions | +6.46 | 44 | 7,729 | +424% | +77% | 99 | +36% | 0.4073 | IGNITION:gutitubo |
-| 3 | Street Fighter 6 | +5.86 | 13 | 34,117 | +828% | +119% | 98 | +4% | 0.2104 |  |
-| 4 | War Thunder | +4.30 | 23 | 17,337 | - | - | 98 | - | 0.6343 | ENTRY IGNITION:warthunder_esports,warthunder_esports_ru |
-| 5 | We Were Here Together | +4.25 | 28 | 13,094 | - | - | 6 | - | 0.7502 | ENTRY IGNITION:ironmouse,michimochievee |
-| 6 | World of Warcraft | +4.25 | 9 | 58,235 | +412% | +117% | 99 | +1% | 0.2282 |  |
-| 7 | Overwatch | +3.95 | 15 | 24,319 | +301% | +118% | 98 | +3% | 0.262 |  |
-| 8 | World of Tanks | +3.65 | 21 | 20,033 | +202% | -37% | 99 | +10% | 0.2162 | IGNITION:dakillzor,quickybaby |
-| 9 | VALORANT | +3.59 | 5 | 86,748 | +423% | +52% | 94 | -6% | 0.2344 |  |
-| 10 | Path of Exile 2 | +3.56 | 26 | 12,887 | +86% | +4% | 100 | +3% | 0.2158 | IGNITION:fubgun,pathofexilebota |
-| 11 | Minecraft | +3.54 | 11 | 30,992 | +411% | +28% | 96 | +1% | 0.1131 |  |
-| 12 | Albion Online | +3.48 | 29 | 11,834 | +215% | -8% | 91 | +10% | 0.1495 | IGNITION:zizaran |
-| 13 | Fortnite | +3.32 | 10 | 39,408 | +224% | +119% | 96 | -2% | 0.1113 |  |
-| 14 | Onimusha: Way of the Sword | +3.28 | 24 | 13,826 | +200% | +61% | 96 | -4% | 0.1329 |  |
-| 15 | RimWorld | +3.26 | 79 | 3,793 | - | - | 49 | - | 0.4743 | ENTRY IGNITION:edopeh |
+| 1 | World of Warcraft | +10.52 | 1 | 670,064 | +2806% | +2392% | 100 | +3% | 0.28 |  |
+| 2 | Overwatch | +9.51 | 4 | 208,577 | +1699% | +1773% | 100 | +0% | 0.4278 |  |
+| 3 | Rocket League | +7.81 | 18 | 24,224 | +904% | +386% | 97 | +0% | 0.6124 |  |
+| 4 | Rainbow Six Siege | +6.93 | 14 | 45,915 | +194% | +1221% | 99 | +0% | 0.5021 |  |
+| 5 | Delta Force | +6.74 | 32 | 13,703 | +216% | +205% | 100 | +0% | 0.4246 | IGNITION:recrent,imperialhal__ |
+| 6 | ELDEN RING | +6.28 | 27 | 13,847 | +301% | +199% | 99 | +1% | 0.317 | IGNITION:captain_domo |
+| 7 | Minecraft | +5.27 | 8 | 74,920 | +614% | +210% | 100 | +3% | 0.1812 |  |
+| 8 | Clash Royale | +5.06 | 62 | 5,482 | - | +107% | 49 | - | 0.6257 | ENTRY IGNITION:narek_cr |
+| 9 | Hearthstone | +4.69 | 22 | 23,485 | +295% | +73% | 96 | +4% | 0.6829 | IGNITION:playhearthstone |
+| 10 | MARVEL Contest of Champions | +4.47 | 84 | 3,901 | +25% | - | 30 | +67% | 0.5463 | BREADTH ENTRY IGNITION:pepe,mc0cnoob |
+| 11 | War Thunder | +4.30 | 23 | 23,037 | - | - | 100 | - | 0.6206 | ENTRY IGNITION:warthunder_esports,warthunder_esports_ru |
+| 12 | RV There Yet? | +4.25 | 24 | 21,566 | - | - | 96 | - | 0.8384 | ENTRY IGNITION:sasavot,mande |
+| 13 | Fortnite | +3.88 | 12 | 45,212 | +298% | +152% | 99 | +3% | 0.1038 |  |
+| 14 | Watch Your Plastic Duck | +3.25 | 51 | 7,557 | - | - | 1 | - | 1.0 | ENTRY IGNITION:ironmouse |
+| 15 | Anime Shop Simulator ✨ | +3.25 | 73 | 4,828 | - | - | 53 | - | 0.7214 | ENTRY IGNITION:legendaafk |
 
 ## Ignition alerts
 
@@ -30,31 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| War Thunder | warthunder_esports | 13,211 | 10,997 | 63% | 23 |
-| We Were Here Together | ironmouse | 13,776 | 9,823 | 75% | 28 |
-| Into the Dead: Our Darkest Days | elajjaz | 8,850 | 7,467 | 100% | 47 |
-| Danganronpa: Trigger Happy Havoc | hiiragitsurugi | 17,222 | 6,503 | 99% | 54 |
-| EVE Online | fenriscreations | 6,299 | 5,562 | 93% | 58 |
-| Sitting Ducks | mobilmobil | 6,113 | 4,936 | 99% | 65 |
-| The Pale Mimic | blackufa | 4,452 | 4,192 | 100% | 73 |
-| Jinro Metropolis | xhalli4x | 5,302 | 3,517 | 85% | 74 |
-| Fields of Mistria | shxtou | 4,061 | 3,166 | 79% | 76 |
-| Control | missmikkaa | 4,492 | 3,131 | 84% | 80 |
+| The Last of Us Part II Remastered | dangerlyoha | 21,516 | 21,046 | 97% | 25 |
+| RV There Yet? | sasavot | 18,082 | 18,082 | 84% | 24 |
+| Hearthstone | playhearthstone | 16,038 | 16,038 | 68% | 22 |
+| War Thunder | warthunder_esports | 14,297 | 14,297 | 62% | 23 |
+| Watch Your Plastic Duck | ironmouse | 13,776 | 7,557 | 100% | 51 |
+|  SEKIRO: SHADOWS DIE TWICE | roger9527 | 9,531 | 7,132 | 91% | 49 |
+| EVE Online | fenriscreations | 6,299 | 5,987 | 87% | 55 |
+| Jinro Metropolis | xhalli4x | 5,302 | 4,018 | 97% | 82 |
+| The Elder Scrolls V: Skyrim | vedal987 | 8,267 | 3,996 | 92% | 80 |
+| Ice Cream | aslanshukasha | 5,866 | 3,778 | 100% | 89 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 1.258 | Grand Theft Auto V | 91,373 | 72,629 |
-| 0.909 | Street Fighter 6 | 34,117 | 37,515 |
-| 0.628 | No Man's Sky | 24,849 | 39,588 |
-| 0.445 | The Blood of Dawnwalker | 19,056 | 42,812 |
-| 0.369 | Overwatch | 24,319 | 65,963 |
-| 0.053 | Rust | 6,515 | 123,903 |
-| 0.051 | Project Zomboid | 3,489 | 68,975 |
-| 0.034 | Delta Force | 4,770 | 141,401 |
-| 0.033 | Warframe | 2,328 | 70,806 |
-| 0.01 | PUBG: BATTLEGROUNDS | 7,643 | 767,214 |
+| 3.162 | Overwatch | 208,577 | 65,963 |
+| 1.143 | Grand Theft Auto V | 82,991 | 72,629 |
+| 0.856 | Rocket League | 24,224 | 28,285 |
+| 0.524 | No Man's Sky | 20,737 | 39,588 |
+| 0.507 | Rainbow Six Siege | 45,915 | 90,584 |
+| 0.056 | Dota 2 | 46,068 | 820,747 |
+| 0.045 | Counter-Strike | 59,008 | 1,324,203 |
+| 0.039 | EA Sports FC 26 | 2,764 | 70,893 |
+| 0.038 | Apex Legends | 9,925 | 262,083 |
+| 0.018 | PUBG: BATTLEGROUNDS | 13,987 | 767,214 |
 
 ---
 
