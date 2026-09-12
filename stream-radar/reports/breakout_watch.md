@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-09-12T07` (UTC). History: 73 snapshots spanning 366h.
-Reference windows: short = `2026-09-12T00`, day = `2026-09-11T04`.
+Generated from snapshot `2026-09-12T12` (UTC). History: 74 snapshots spanning 371h.
+Reference windows: short = `2026-09-12T07`, day = `2026-09-11T11`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Dragon Quest Heroes: Torneko's Mystery Dungeon Classic HD | +5.48 | 15 | 14,335 | - | +387% | 29 | - | 0.9807 | ENTRY |
-| 2 | League of Legends | +5.37 | 1 | 256,722 | +304% | +900% | 100 | +4% | 0.3666 |  |
-| 3 | I'm Only Sleeping | +3.81 | 27 | 9,329 | +129% | +74% | 100 | +0% | 0.1454 | IGNITION:meetenshow |
-| 4 | Black Myth: Wukong | +3.27 | 80 | 1,967 | - | - | 43 | - | 0.94 | ENTRY IGNITION:kaise |
-| 5 | Street Fighter 6 | +3.25 | 54 | 3,678 | - | - | 94 | - | 0.2004 | ENTRY IGNITION:haitani0904 |
-| 6 | Mortal Shell II | +3.25 | 71 | 2,342 | - | - | 79 | - | 0.7088 | ENTRY IGNITION:lowtiergod |
-| 7 | Crazy Taxi: World Tour | +3.25 | 31 | 8,267 | - | - | 37 | - | 0.8846 | ENTRY IGNITION:maximilian_dood |
-| 8 | Anime Shop Simulator ✨ | +3.25 | 24 | 10,673 | - | - | 29 | - | 0.946 | ENTRY IGNITION:ironmouse |
-| 9 | World of Tanks | +3.12 | 35 | 6,636 | +2% | +109% | 90 | -10% | 0.3742 | IGNITION:dakillzor |
-| 10 | Apex Legends | +2.36 | 6 | 32,592 | +63% | +192% | 97 | -3% | 0.2184 |  |
-| 11 | Super Mario 64 | +2.25 | 73 | 2,287 | - | - | 32 | - | 0.5514 | ENTRY |
-| 12 | R2 Online: Reign of Revolution | +2.25 | 89 | 1,639 | - | - | 41 | - | 0.2172 | ENTRY |
-| 13 | Summoners War: Sky Arena | +2.25 | 70 | 2,391 | - | - | 13 | - | 0.545 | ENTRY |
-| 14 | PUBG MOBILE | +2.25 | 85 | 1,848 | - | - | 93 | - | 0.2327 | ENTRY |
-| 15 | Mahjong Soul | +2.25 | 11 | 20,439 | - | - | 26 | - | 0.8341 | ENTRY |
+| 1 | Genshin Impact | +15.50 | 3 | 111,485 | +7773% | +5191% | 100 | +0% | 0.3863 |  |
+| 2 | Street Fighter 6 | +7.70 | 10 | 34,290 | +832% | +509% | 100 | +6% | 0.2744 |  |
+| 3 | World of Tanks | +4.95 | 22 | 16,341 | +146% | +81% | 100 | +11% | 0.2095 | IGNITION:dakillzor,quickybaby |
+| 4 | Rainbow Six Siege | +4.79 | 21 | 15,607 | +307% | +74% | 99 | +3% | 0.6759 | IGNITION:rainbow6 |
+| 5 | Mobile Legends: Bang Bang | +4.51 | 57 | 4,105 | +200% | +117% | 95 | +28% | 0.3179 |  |
+| 6 | PUBG: BATTLEGROUNDS | +4.43 | 29 | 11,275 | +500% | +14% | 97 | -3% | 0.2059 | IGNITION:des0ut |
+| 7 | Shroom and Gloom | +3.43 | 61 | 3,881 | +166% | - | 10 | -17% | 0.8323 | ENTRY IGNITION:johncutt |
+| 8 | Path of Exile 2 | +3.33 | 24 | 13,677 | +97% | +12% | 99 | +2% | 0.1447 | IGNITION:pathofexilebota,zizaran |
+| 9 | How to Fish | +3.26 | 69 | 3,298 | +111% | - | 97 | -2% | 0.4942 | ENTRY IGNITION:ssssshaoooo |
+| 10 | Mario Kart World | +3.25 | 25 | 14,298 | - | - | 29 | - | 0.9911 | ENTRY IGNITION:indegnasen0706 |
+| 11 | Danganronpa: Trigger Happy Havoc | +3.25 | 43 | 6,426 | - | - | 7 | - | 0.9952 | ENTRY IGNITION:hiiragitsurugi |
+| 12 | We Were Here Together | +3.25 | 26 | 3,659 | - | - | 1 | - | 1.0 | ENTRY IGNITION:michimochievee |
+| 13 | No, I'm Not A Human | +3.25 | 99 | 1,839 | - | - | 5 | - | 0.994 | ENTRY IGNITION:zeling |
+| 14 | NARAKA: BLADEPOINT | +3.25 | 52 | 4,739 | - | - | 28 | - | 0.9234 | ENTRY IGNITION:shipbroman |
+| 15 | VALORANT | +3.03 | 6 | 77,833 | +369% | +14% | 95 | -5% | 0.18 |  |
 
 ## Ignition alerts
 
@@ -30,25 +30,28 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Anime Shop Simulator ✨ | ironmouse | 13,776 | 10,097 | 95% | 24 |
-| Crazy Taxi: World Tour | maximilian_dood | 9,734 | 7,313 | 88% | 31 |
-| Black Myth: Wukong | kaise | 5,708 | 1,849 | 94% | 80 |
-| Mortal Shell II | lowtiergod | 12,902 | 1,660 | 71% | 71 |
+| Mario Kart World | indegnasen0706 | 23,388 | 14,171 | 99% | 25 |
+| Rainbow Six Siege | rainbow6 | 22,272 | 10,548 | 68% | 21 |
+| Danganronpa: Trigger Happy Havoc | hiiragitsurugi | 17,222 | 6,395 | 100% | 43 |
+| NARAKA: BLADEPOINT | shipbroman | 4,397 | 4,376 | 92% | 52 |
+| We Were Here Together | michimochievee | 5,788 | 3,659 | 100% | 26 |
+| Shroom and Gloom | johncutt | 3,230 | 3,230 | 83% | 61 |
+| No, I'm Not A Human | zeling | 3,572 | 1,828 | 99% | 99 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 0.837 | Grand Theft Auto V | 60,777 | 72,629 |
-| 0.366 | Halloween: The Game | 8,676 | 23,737 |
-| 0.261 | The Blood of Dawnwalker | 11,192 | 42,812 |
-| 0.217 | No Man's Sky | 8,606 | 39,588 |
-| 0.151 | WARDOGS | 55,045 | 365,111 |
-| 0.022 | Rust | 2,752 | 123,903 |
-| 0.018 | Dota 2 | 15,031 | 820,747 |
-| 0.018 | Delta Force | 2,557 | 141,401 |
-| 0.014 | Palworld | 1,633 | 113,920 |
-| 0.002 | PUBG: BATTLEGROUNDS | 1,879 | 767,214 |
+| 1.315 | MECCHA CHAMELEON | 14,664 | 11,153 |
+| 0.914 | Street Fighter 6 | 34,290 | 37,515 |
+| 0.892 | Grand Theft Auto V | 64,771 | 72,629 |
+| 0.287 | Halloween: The Game | 6,823 | 23,737 |
+| 0.27 | No Man's Sky | 10,687 | 39,588 |
+| 0.039 | Rust | 4,891 | 123,903 |
+| 0.038 | Farming Simulator 25 | 1,717 | 44,851 |
+| 0.035 | EA Sports FC 26 | 2,510 | 70,893 |
+| 0.031 | Delta Force | 4,342 | 141,401 |
+| 0.015 | PUBG: BATTLEGROUNDS | 11,275 | 767,214 |
 
 ---
 
