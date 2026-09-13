@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-09-13T04` (UTC). History: 79 snapshots spanning 387h.
-Reference windows: short = `2026-09-12T22`, day = `2026-09-12T07`.
+Generated from snapshot `2026-09-13T11` (UTC). History: 80 snapshots spanning 394h.
+Reference windows: short = `2026-09-13T04`, day = `2026-09-12T12`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Team Fortress 2 | +3.31 | 27 | 9,584 | - | - | 32 | - | 0.9527 | ENTRY IGNITION:jerma985 |
-| 2 | BrokenLore: DON’T LIE | +3.25 | 77 | 2,423 | - | - | 3 | - | 0.9988 | ENTRY IGNITION:gom4rt |
-| 3 | hololive Dreams | +3.25 | 65 | 3,315 | - | - | 2 | - | 0.9997 | ENTRY IGNITION:tokoyamitowa_holo |
-| 4 | Storebound | +3.25 | 26 | 9,767 | - | - | 4 | - | 0.9307 | ENTRY IGNITION:ironmouse |
-| 5 | Super Mario Maker 2 | +3.25 | 32 | 8,405 | - | - | 15 | - | 0.8272 | ENTRY IGNITION:hanjoudesu |
-| 6 | Dragon Ball Z: Dokkan Battle | +3.25 | 46 | 5,669 | - | - | 50 | - | 0.308 | ENTRY IGNITION:johnjotv |
-| 7 | Subnautica 2 | +3.25 | 56 | 4,646 | - | - | 21 | - | 0.9768 | ENTRY IGNITION:henyathegenius |
-| 8 | Destiny 2 | +2.34 | 83 | 1,773 | - | - | 100 | - | 0.154 | ENTRY |
-| 9 | Cyberpunk 2077 | +2.33 | 90 | 1,796 | - | - | 100 | - | 0.7439 | ENTRY |
-| 10 | Zenless Zone Zero | +2.27 | 100 | 1,663 | - | - | 100 | - | 0.2682 | ENTRY |
-| 11 | EA Sports College Football 27 | +2.25 | 68 | 2,364 | - | - | 96 | - | 0.547 | ENTRY |
-| 12 | The Legend of Zelda: Twilight Princess | +2.25 | 98 | 1,725 | - | - | 25 | - | 0.5635 | ENTRY |
-| 13 | DIGIMON STORY: TIME STRANGER | +2.25 | 88 | 1,929 | - | - | 19 | - | 0.9533 | ENTRY |
-| 14 | THE WELL IS NOT EMPTY | +2.25 | 97 | 1,733 | - | - | 2 | - | 0.9994 | ENTRY |
-| 15 | The Forest | +2.25 | 85 | 1,991 | - | - | 41 | - | 0.9543 | ENTRY |
+| 1 | Apex Legends | +7.12 | 8 | 98,064 | +1259% | +432% | 100 | +1% | 0.1788 |  |
+| 2 | Street Fighter 6 | +4.32 | 14 | 30,013 | +930% | -12% | 98 | -2% | 0.2172 |  |
+| 3 | Deep Blue Sushi | +4.25 | 25 | 10,797 | - | - | 3 | - | 0.5175 | ENTRY IGNITION:gom4rt,mynthos |
+| 4 | PUBG: BATTLEGROUNDS | +4.24 | 23 | 11,054 | +327% | -2% | 100 | +5% | 0.1804 | IGNITION:des0ut |
+| 5 | VALORANT | +4.08 | 2 | 170,095 | +376% | +119% | 97 | +0% | 0.4102 |  |
+| 6 | World of Tanks | +4.03 | 19 | 17,855 | +418% | +9% | 100 | +43% | 0.2387 |  |
+| 7 | Counter-Strike | +3.42 | 6 | 100,353 | +352% | +40% | 96 | -1% | 0.1812 |  |
+| 8 | Super Smash Bros. Ultimate | +3.25 | 35 | 8,146 | - | - | 32 | - | 0.7059 | ENTRY IGNITION:etoiles |
+| 9 | NTE: Neverness to Everness | +3.25 | 47 | 5,458 | - | - | 67 | - | 0.3675 | ENTRY IGNITION:lazvell |
+| 10 | Anime Shop Simulator ✨ | +3.25 | 95 | 1,814 | - | - | 18 | - | 0.9283 | ENTRY IGNITION:zeling |
+| 11 | World of Warcraft | +3.23 | 4 | 108,081 | +93% | +369% | 100 | +4% | 0.1908 |  |
+| 12 | Hunt: Showdown 1896 | +3.21 | 53 | 4,530 | +109% | +80% | 100 | +5% | 0.3673 |  |
+| 13 | Path of Exile 2 | +2.97 | 30 | 9,884 | +106% | -28% | 100 | +3% | 0.1245 | IGNITION:pathofexilebota,zizaran |
+| 14 | Valheim | +2.94 | 13 | 35,541 | +201% | +77% | 100 | +1% | 0.2694 |  |
+| 15 | R2 Online: Reign of Revolution | +2.79 | 75 | 2,959 | - | +55% | 70 | - | 0.3941 | ENTRY |
 
 ## Ignition alerts
 
@@ -30,28 +30,25 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Team Fortress 2 | jerma985 | 13,269 | 9,131 | 95% | 27 |
-| Storebound | ironmouse | 13,776 | 9,090 | 93% | 26 |
-| Super Mario Maker 2 | hanjoudesu | 6,953 | 6,953 | 83% | 32 |
-| Subnautica 2 | henyathegenius | 4,538 | 4,538 | 98% | 56 |
-| hololive Dreams | tokoyamitowa_holo | 3,314 | 3,314 | 100% | 65 |
-| Mahjong Soul | kenki521 | 5,692 | 2,655 | 64% | 59 |
-| BrokenLore: DON’T LIE | gom4rt | 4,449 | 2,420 | 100% | 77 |
+| Super Smash Bros. Ultimate | etoiles | 17,184 | 5,750 | 71% | 35 |
+| Deep Blue Sushi | gom4rt | 5,587 | 5,587 | 52% | 25 |
+| Danganronpa: Trigger Happy Havoc | hiiragitsurugi | 17,222 | 3,460 | 99% | 68 |
+| Anime Shop Simulator ✨ | zeling | 3,572 | 1,684 | 93% | 95 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 1.398 | Grand Theft Auto V | 109,126 | 78,051 |
-| 0.618 | Overwatch | 75,754 | 122,602 |
-| 0.364 | Halloween: The Game | 9,200 | 25,288 |
-| 0.283 | WARDOGS | 113,228 | 400,196 |
-| 0.216 | The Blood of Dawnwalker | 10,147 | 46,973 |
-| 0.02 | Dota 2 | 17,245 | 867,424 |
-| 0.016 | Counter-Strike | 22,207 | 1,355,646 |
-| 0.014 | Rust | 1,773 | 129,242 |
-| 0.01 | Palworld | 1,311 | 132,042 |
-| 0.003 | PUBG: BATTLEGROUNDS | 2,588 | 791,618 |
+| 1.302 | Grand Theft Auto V | 101,656 | 78,051 |
+| 0.806 | Street Fighter 6 | 30,013 | 37,220 |
+| 0.378 | Halloween: The Game | 9,549 | 25,288 |
+| 0.364 | Apex Legends | 98,064 | 269,302 |
+| 0.302 | Overwatch | 37,012 | 122,602 |
+| 0.035 | Rainbow Six Siege | 3,811 | 108,042 |
+| 0.035 | EA Sports FC 26 | 2,728 | 77,164 |
+| 0.033 | VRChat | 2,049 | 62,935 |
+| 0.031 | Delta Force | 4,443 | 142,001 |
+| 0.014 | PUBG: BATTLEGROUNDS | 11,054 | 791,618 |
 
 ---
 
