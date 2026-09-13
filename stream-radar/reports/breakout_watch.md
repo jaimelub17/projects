@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-09-13T16` (UTC). History: 81 snapshots spanning 399h.
-Reference windows: short = `2026-09-13T11`, day = `2026-09-12T15`.
+Generated from snapshot `2026-09-13T18` (UTC). History: 82 snapshots spanning 401h.
+Reference windows: short = `2026-09-13T11`, day = `2026-09-12T18`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Rainbow Six Siege | +5.60 | 20 | 19,242 | +405% | +246% | 99 | +1% | 0.4078 |  |
-| 2 | Super Smash Bros. Ultimate | +5.24 | 25 | 17,206 | +111% | - | 62 | +94% | 0.5596 | ENTRY IGNITION:etoiles,vgbootcamp2 |
-| 3 | Overwatch | +4.87 | 5 | 129,412 | +250% | +432% | 98 | -1% | 0.3809 |  |
-| 4 | F1 25 | +4.44 | 39 | 11,718 | +269% | - | 100 | +5% | 0.4541 | ENTRY IGNITION:mrdzinold |
-| 5 | Solasta II | +4.25 | 36 | 12,016 | - | - | 19 | - | 0.329 | ENTRY IGNITION:alphacast,shisheyu |
-| 6 | Hearthstone | +4.05 | 27 | 16,807 | +99% | +57% | 98 | +1% | 0.3756 | IGNITION:silvername,guddummit |
-| 7 | Pokémon Champions | +3.81 | 52 | 8,235 | +286% | +7% | 86 | +37% | 0.3344 | IGNITION:gutitubo |
-| 8 | Diablo IV | +3.60 | 28 | 15,793 | +53% | - | 100 | +0% | 0.2396 | ENTRY IGNITION:jessirocks,rob2628 |
-| 9 | World of Tanks | +3.43 | 11 | 50,888 | +185% | +154% | 100 | +0% | 0.5374 |  |
-| 10 |  SEKIRO: SHADOWS DIE TWICE | +3.25 | 60 | 7,011 | - | - | 53 | - | 0.9271 | ENTRY IGNITION:roger9527 |
-| 11 | Crazy Taxi: World Tour | +3.25 | 82 | 4,377 | - | - | 19 | - | 0.6623 | ENTRY IGNITION:grubby |
-| 12 | Batman: Arkham Knight | +3.25 | 100 | 3,307 | - | - | 18 | - | 0.994 | ENTRY IGNITION:melharucos |
-| 13 | Rivals of Aether II | +3.25 | 88 | 3,839 | - | - | 11 | - | 0.3058 | ENTRY IGNITION:vgbootcamp |
-| 14 | Hero Siege | +3.25 | 84 | 4,107 | - | - | 34 | - | 0.5625 | ENTRY IGNITION:fubgun |
-| 15 | Watch Your Plastic Duck | +3.25 | 61 | 6,997 | - | - | 2 | - | 0.9997 | ENTRY IGNITION:ironmouse |
+| 1 | Super Smash Bros. Ultimate | +7.13 | 31 | 14,919 | +83% | +270% | 69 | +116% | 0.757 | BREADTH IGNITION:etoiles |
+| 2 | Danganronpa: Trigger Happy Havoc | +4.77 | 90 | 4,644 | +33% | - | 11 | +267% | 0.9813 | BREADTH ENTRY IGNITION:hiiragitsurugi |
+| 3 | The Binding of Isaac: Repentance | +4.62 | 78 | 6,047 | +206% | - | 81 | +53% | 0.6813 | ENTRY IGNITION:shisheyu |
+| 4 | Overwatch | +4.44 | 3 | 258,193 | +598% | +24% | 99 | +0% | 0.4851 |  |
+| 5 | ELDEN RING | +4.39 | 36 | 12,616 | +286% | -9% | 100 | +4% | 0.3609 | IGNITION:captain_domo,saruei |
+| 6 | No Man's Sky | +4.29 | 21 | 26,336 | +144% | +27% | 98 | -2% | 0.174 | IGNITION:missmikkaa,oskar1up |
+| 7 | GRAIN ROT | +4.25 | 76 | 6,201 | - | - | 21 | - | 0.6089 | ENTRY IGNITION:tomato,strippin |
+| 8 | Project Zomboid | +3.78 | 48 | 9,745 | +154% | +70% | 95 | -4% | 0.3156 | IGNITION:edopeh |
+| 9 | Pokémon Champions | +3.67 | 83 | 5,192 | +144% | +37% | 90 | +43% | 0.3284 | IGNITION:pokealexvgc |
+| 10 | Hearthstone | +3.58 | 16 | 35,811 | +324% | +52% | 98 | +1% | 0.5389 |  |
+| 11 | Red Dead Redemption II | +3.57 | 71 | 6,137 | +142% | +132% | 98 | +2% | 0.2809 |  |
+| 12 | Rainbow Six Siege | +3.32 | 24 | 21,718 | +470% | -53% | 94 | -4% | 0.5218 | IGNITION:rainbow6 |
+| 13 | Anomaly Company | +3.25 | 92 | 4,544 | - | - | 2 | - | 0.9993 | ENTRY IGNITION:insym |
+| 14 | Forefront | +3.25 | 49 | 10,343 | - | - | 4 | - | 0.998 | ENTRY IGNITION:sasavot |
+| 15 | Super Smash Bros. Melee | +3.25 | 68 | 7,534 | - | - | 29 | - | 0.6943 | ENTRY IGNITION:vgbootcamp |
 
 ## Ignition alerts
 
@@ -30,31 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Super Smash Bros. Ultimate | etoiles | 17,184 | 9,628 | 56% | 25 |
-| War Thunder | warthunder_esports | 14,297 | 9,400 | 62% | 29 |
-| Into the Dead: Our Darkest Days | elajjaz | 8,952 | 8,457 | 99% | 51 |
-| Watch Your Plastic Duck | ironmouse | 13,776 | 6,995 | 100% | 61 |
-|  SEKIRO: SHADOWS DIE TWICE | roger9527 | 9,531 | 6,500 | 93% | 60 |
-| Jinro Metropolis | xhalli4x | 5,302 | 5,143 | 94% | 71 |
-| Danganronpa: Trigger Happy Havoc | hiiragitsurugi | 17,222 | 4,925 | 99% | 78 |
-| EVE Online | fenriscreations | 6,299 | 4,181 | 81% | 75 |
-| Batman: Arkham Knight | melharucos | 6,614 | 3,287 | 99% | 100 |
-| Pogostuck: Rage With Your Friends | sumomo_x | 3,240 | 3,240 | 97% | 98 |
+| The Last of Us Part II Remastered | dangerlyoha | 21,516 | 19,721 | 97% | 26 |
+| Cosmic Fear | lirik | 18,304 | 16,362 | 99% | 29 |
+| A Weird Game About Sausage | antoinedaniel | 12,984 | 12,984 | 92% | 38 |
+| Rainbow Six Siege | rainbow6 | 22,272 | 11,332 | 52% | 24 |
+| Super Smash Bros. Ultimate | etoiles | 17,184 | 11,293 | 76% | 31 |
+| Forefront | sasavot | 18,082 | 10,322 | 100% | 49 |
+| Rocket League | rocketleague | 13,155 | 8,789 | 72% | 33 |
+| War Thunder | warthunder_esports | 14,297 | 7,940 | 59% | 39 |
+| Into the Dead: Our Darkest Days | elajjaz | 8,952 | 7,794 | 99% | 62 |
+| Hollow Knight: Silksong | vedal987 | 8,267 | 7,469 | 88% | 55 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 1.764 | Grand Theft Auto V | 137,720 | 78,051 |
-| 1.056 | Overwatch | 129,412 | 122,602 |
-| 0.716 | Street Fighter 6 | 26,645 | 37,220 |
-| 0.651 | No Man's Sky | 32,660 | 50,146 |
-| 0.421 | Halloween: The Game | 10,658 | 25,288 |
-| 0.056 | DayZ | 3,058 | 54,996 |
-| 0.054 | Apex Legends | 14,645 | 269,302 |
-| 0.053 | Rust | 6,896 | 129,242 |
-| 0.039 | Delta Force | 5,504 | 142,001 |
-| 0.015 | PUBG: BATTLEGROUNDS | 11,625 | 791,618 |
+| 2.106 | Overwatch | 258,193 | 122,602 |
+| 1.595 | Grand Theft Auto V | 124,517 | 78,051 |
+| 0.525 | No Man's Sky | 26,336 | 50,146 |
+| 0.47 | Halloween: The Game | 11,875 | 25,288 |
+| 0.446 | Rocket League | 12,263 | 27,489 |
+| 0.054 | Rust | 7,008 | 129,242 |
+| 0.044 | Counter-Strike | 59,094 | 1,355,646 |
+| 0.041 | EA Sports FC 26 | 3,194 | 77,164 |
+| 0.032 | PUBG: BATTLEGROUNDS | 25,631 | 791,618 |
+| 0.032 | Delta Force | 4,488 | 142,001 |
 
 ---
 
