@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-09-13T22` (UTC). History: 83 snapshots spanning 405h.
-Reference windows: short = `2026-09-13T16`, day = `2026-09-12T22`.
+Generated from snapshot `2026-09-14T04` (UTC). History: 84 snapshots spanning 411h.
+Reference windows: short = `2026-09-13T22`, day = `2026-09-13T04`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Clash Royale | +5.72 | 17 | 32,290 | - | +653% | 48 | - | 0.8965 | ENTRY |
-| 2 | Apex Legends | +5.05 | 10 | 47,882 | +227% | +528% | 97 | -3% | 0.3305 |  |
-| 3 | EA Sports FC 26 | +4.25 | 30 | 12,198 | - | +123% | 98 | - | 0.7584 | ENTRY IGNITION:gamerbrother |
-| 4 | Project Zomboid | +3.63 | 31 | 12,053 | +112% | +66% | 100 | +1% | 0.1776 | IGNITION:foolish |
-| 5 | Little Nightmares II | +3.25 | 34 | 11,173 | - | - | 11 | - | 0.997 | ENTRY IGNITION:emiru |
-| 6 | Hollow Knight: Silksong | +3.25 | 46 | 8,195 | - | - | 86 | - | 0.9151 | ENTRY IGNITION:vedal987 |
-| 7 | Big Ambitions | +3.25 | 24 | 15,702 | - | - | 15 | - | 0.9959 | ENTRY IGNITION:gronkh |
-| 8 | Uncanny Tales: The Watcher | +3.25 | 73 | 4,276 | - | - | 2 | - | 0.9998 | ENTRY IGNITION:iceicell |
-| 9 | Clair Obscur: Expedition 33 | +3.25 | 95 | 2,812 | - | - | 100 | - | 0.6622 | ENTRY IGNITION:fantabobshow |
-| 10 | Yu-Gi-Oh! Master Duel | +3.22 | 83 | 3,605 | - | - | 71 | - | 0.737 | ENTRY IGNITION:dkayed |
-| 11 | Call of Duty: Black Ops 7 | +2.34 | 74 | 3,129 | - | +39% | 97 | - | 0.1128 | ENTRY |
-| 12 | Phasmophobia | +2.30 | 91 | 2,640 | - | - | 95 | - | 0.1231 | ENTRY |
-| 13 | Call of Duty | +2.30 | 86 | 1,547 | - | +76% | 100 | - | 0.3769 | ENTRY |
-| 14 | Warframe | +2.29 | 79 | 3,508 | - | - | 97 | - | 0.319 | ENTRY |
-| 15 | The Auction Game | +2.25 | 11 | 50,049 | - | - | 3 | - | 0.8707 | ENTRY |
+| 1 | ROBLOX | +10.44 | 5 | 68,043 | +2096% | +1861% | 98 | -2% | 0.9098 |  |
+| 2 | Stardew Valley | +3.26 | 70 | 2,225 | - | - | 79 | - | 0.7879 | ENTRY IGNITION:kkatamina |
+| 3 | Shift at Midnight | +3.25 | 60 | 2,987 | - | - | 60 | - | 0.8909 | ENTRY IGNITION:penta |
+| 4 | Pokémon | +3.25 | 31 | 7,251 | - | - | 24 | - | 0.9764 | ENTRY IGNITION:ludwig |
+| 5 | Street Fighter V | +3.25 | 82 | 1,741 | - | - | 2 | - | 0.9845 | ENTRY IGNITION:lowtiergod |
+| 6 | Madden NFL 27 | +2.77 | 54 | 2,820 | - | +54% | 100 | - | 0.277 | ENTRY |
+| 7 | RV There Yet? | +2.32 | 78 | 1,797 | - | - | 59 | - | 0.8331 | ENTRY |
+| 8 | League of Legends: Wild Rift | +2.25 | 76 | 1,774 | - | - | 53 | - | 0.7086 | ENTRY |
+| 9 | R2 Online: Reign of Revolution | +2.25 | 65 | 2,472 | - | - | 21 | - | 0.4684 | ENTRY |
+| 10 | Honkai: Star Rail | +2.25 | 73 | 1,975 | - | - | 62 | - | 0.401 | ENTRY |
+| 11 | Road to Empress II | +2.25 | 69 | 2,218 | - | - | 4 | - | 0.4279 | ENTRY |
+| 12 | Slay the Spire II | +2.24 | 83 | 1,670 | - | - | 61 | - | 0.497 | ENTRY |
+| 13 | Subnautica 2 | +1.78 | 57 | 3,041 | - | -35% | 15 | - | 0.9872 | ENTRY IGNITION:henyathegenius |
+| 14 | NBA 2K27 | +1.69 | 21 | 10,102 | +53% | +3% | 97 | -3% | 0.2182 | IGNITION:joeknowsyt |
+| 15 | Teamfight Tactics | +1.62 | 22 | 12,075 | +41% | +52% | 100 | +0% | 0.154 |  |
 
 ## Ignition alerts
 
@@ -30,31 +30,28 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Big Ambitions | gronkh | 27,718 | 15,637 | 100% | 24 |
-| Little Nightmares II | emiru | 14,104 | 11,140 | 100% | 34 |
-| EA Sports FC 26 | gamerbrother | 13,233 | 9,251 | 76% | 30 |
-| Hollow Knight: Silksong | vedal987 | 8,267 | 7,499 | 92% | 46 |
-| How to Fish | skywhywalker | 13,992 | 6,863 | 91% | 49 |
-| Watch Your Plastic Duck | ironmouse | 13,776 | 6,541 | 100% | 53 |
-| Into the Dead: Our Darkest Days | elajjaz | 8,952 | 5,904 | 99% | 60 |
-| Super Smash Bros. Ultimate | vgbootcamp | 5,297 | 5,297 | 85% | 54 |
-| World of Tanks | dakillzor | 13,853 | 5,272 | 56% | 39 |
-| Uncanny Tales: The Watcher | iceicell | 4,425 | 4,275 | 100% | 73 |
+| Big Ambitions | gronkh | 27,718 | 7,548 | 100% | 29 |
+| Pokémon | ludwig | 7,600 | 7,080 | 98% | 31 |
+| Subnautica 2 | henyathegenius | 4,538 | 3,002 | 99% | 57 |
+| Shift at Midnight | penta | 7,075 | 2,661 | 89% | 60 |
+| Street Fighter 6 | naru0419045 | 6,288 | 1,926 | 61% | 56 |
+| Stardew Valley | kkatamina | 5,462 | 1,753 | 79% | 70 |
+| Street Fighter V | lowtiergod | 12,902 | 1,714 | 98% | 82 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 2.152 | Overwatch | 263,873 | 122,602 |
-| 2.115 | Grand Theft Auto V | 165,076 | 78,051 |
-| 0.693 | Street Fighter 6 | 25,812 | 37,220 |
-| 0.468 | Halloween: The Game | 11,824 | 25,288 |
-| 0.32 | WARDOGS | 128,215 | 400,196 |
-| 0.046 | Warframe | 3,508 | 76,298 |
-| 0.04 | Counter-Strike | 54,534 | 1,355,646 |
-| 0.038 | Rust | 4,872 | 129,242 |
-| 0.035 | Delta Force | 4,967 | 142,001 |
-| 0.012 | PUBG: BATTLEGROUNDS | 9,265 | 791,618 |
+| 1.189 | Grand Theft Auto V | 96,410 | 81,095 |
+| 0.71 | Overwatch | 77,498 | 109,223 |
+| 0.301 | Halloween: The Game | 7,085 | 23,572 |
+| 0.163 | WARDOGS | 70,033 | 428,666 |
+| 0.155 | Dead by Daylight | 11,788 | 76,030 |
+| 0.013 | Delta Force | 1,837 | 136,749 |
+| 0.012 | Counter-Strike | 15,965 | 1,359,955 |
+| 0.01 | Rust | 1,287 | 125,261 |
+| 0.009 | Palworld | 1,215 | 133,412 |
+| 0.002 | PUBG: BATTLEGROUNDS | 1,961 | 794,644 |
 
 ---
 
