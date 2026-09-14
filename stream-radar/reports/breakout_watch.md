@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-09-14T04` (UTC). History: 84 snapshots spanning 411h.
-Reference windows: short = `2026-09-13T22`, day = `2026-09-13T04`.
+Generated from snapshot `2026-09-14T12` (UTC). History: 85 snapshots spanning 419h.
+Reference windows: short = `2026-09-14T04`, day = `2026-09-13T11`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | ROBLOX | +10.44 | 5 | 68,043 | +2096% | +1861% | 98 | -2% | 0.9098 |  |
-| 2 | Stardew Valley | +3.26 | 70 | 2,225 | - | - | 79 | - | 0.7879 | ENTRY IGNITION:kkatamina |
-| 3 | Shift at Midnight | +3.25 | 60 | 2,987 | - | - | 60 | - | 0.8909 | ENTRY IGNITION:penta |
-| 4 | Pokémon | +3.25 | 31 | 7,251 | - | - | 24 | - | 0.9764 | ENTRY IGNITION:ludwig |
-| 5 | Street Fighter V | +3.25 | 82 | 1,741 | - | - | 2 | - | 0.9845 | ENTRY IGNITION:lowtiergod |
-| 6 | Madden NFL 27 | +2.77 | 54 | 2,820 | - | +54% | 100 | - | 0.277 | ENTRY |
-| 7 | RV There Yet? | +2.32 | 78 | 1,797 | - | - | 59 | - | 0.8331 | ENTRY |
-| 8 | League of Legends: Wild Rift | +2.25 | 76 | 1,774 | - | - | 53 | - | 0.7086 | ENTRY |
-| 9 | R2 Online: Reign of Revolution | +2.25 | 65 | 2,472 | - | - | 21 | - | 0.4684 | ENTRY |
-| 10 | Honkai: Star Rail | +2.25 | 73 | 1,975 | - | - | 62 | - | 0.401 | ENTRY |
-| 11 | Road to Empress II | +2.25 | 69 | 2,218 | - | - | 4 | - | 0.4279 | ENTRY |
-| 12 | Slay the Spire II | +2.24 | 83 | 1,670 | - | - | 61 | - | 0.497 | ENTRY |
-| 13 | Subnautica 2 | +1.78 | 57 | 3,041 | - | -35% | 15 | - | 0.9872 | ENTRY IGNITION:henyathegenius |
-| 14 | NBA 2K27 | +1.69 | 21 | 10,102 | +53% | +3% | 97 | -3% | 0.2182 | IGNITION:joeknowsyt |
-| 15 | Teamfight Tactics | +1.62 | 22 | 12,075 | +41% | +52% | 100 | +0% | 0.154 |  |
+| 1 | Pogostuck: Rage With Your Friends | +4.84 | 51 | 5,155 | - | +148% | 16 | - | 0.9222 | ENTRY IGNITION:yuyuta0702 |
+| 2 | Machine Party | +4.25 | 24 | 14,609 | - | - | 12 | - | 0.5082 | ENTRY IGNITION:cr_arisakaaa,cr_vanilla |
+| 3 | Danganronpa: Trigger Happy Havoc | +3.72 | 57 | 4,533 | - | +30% | 6 | - | 0.9934 | ENTRY IGNITION:hiiragitsurugi |
+| 4 | Onimusha: Way of the Sword | +3.71 | 26 | 10,239 | +137% | +56% | 99 | +6% | 0.1994 | IGNITION:naru0419045 |
+| 5 | Path of Exile 2 | +3.43 | 36 | 8,846 | +144% | -11% | 100 | +0% | 0.1637 | IGNITION:pathofexilebota,raxxanterax |
+| 6 | World of Tanks | +3.31 | 34 | 9,361 | +133% | -48% | 96 | +81% | 0.2569 | IGNITION:dakillzor,skill4ltu |
+| 7 | Dota 2 | +3.26 | 5 | 59,862 | +301% | +35% | 96 | -4% | 0.1885 |  |
+| 8 | Watch Your Plastic Duck | +3.25 | 33 | 9,742 | - | - | 1 | - | 1.0 | ENTRY IGNITION:ironmouse |
+| 9 | Super Mario World | +3.25 | 95 | 2,125 | - | - | 13 | - | 0.9548 | ENTRY IGNITION:barbarousking |
+| 10 | Marvel's Wolverine | +3.25 | 21 | 15,431 | - | - | 58 | - | 0.2394 | ENTRY IGNITION:welovegames |
+| 11 | Super Battle Golf | +3.25 | 70 | 3,423 | - | - | 3 | - | 0.8028 | ENTRY IGNITION:akamikarubi |
+| 12 | White Room: Mind’s Prison | +3.25 | 71 | 3,363 | - | - | 1 | - | 1.0 | ENTRY IGNITION:dmitry_lixxx |
+| 13 | Mario Kart World | +3.25 | 22 | 15,238 | - | - | 20 | - | 0.9764 | ENTRY IGNITION:indegnasen0706 |
+| 14 | The Loopler | +3.25 | 75 | 3,096 | - | - | 3 | - | 0.9994 | ENTRY IGNITION:melharucos |
+| 15 | Escape from Tarkov | +2.93 | 18 | 15,711 | +182% | +65% | 98 | -2% | 0.2446 |  |
 
 ## Ignition alerts
 
@@ -30,28 +30,30 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Big Ambitions | gronkh | 27,718 | 7,548 | 100% | 29 |
-| Pokémon | ludwig | 7,600 | 7,080 | 98% | 31 |
-| Subnautica 2 | henyathegenius | 4,538 | 3,002 | 99% | 57 |
-| Shift at Midnight | penta | 7,075 | 2,661 | 89% | 60 |
-| Street Fighter 6 | naru0419045 | 6,288 | 1,926 | 61% | 56 |
-| Stardew Valley | kkatamina | 5,462 | 1,753 | 79% | 70 |
-| Street Fighter V | lowtiergod | 12,902 | 1,714 | 98% | 82 |
+| Mario Kart World | indegnasen0706 | 23,388 | 14,879 | 98% | 22 |
+| Watch Your Plastic Duck | ironmouse | 13,776 | 9,742 | 100% | 33 |
+| Machine Party | cr_arisakaaa | 7,424 | 7,424 | 51% | 24 |
+| Pogostuck: Rage With Your Friends | yuyuta0702 | 11,462 | 4,754 | 92% | 51 |
+| Danganronpa: Trigger Happy Havoc | hiiragitsurugi | 17,222 | 4,503 | 99% | 57 |
+| White Room: Mind’s Prison | dmitry_lixxx | 7,267 | 3,363 | 100% | 71 |
+| The Loopler | melharucos | 6,614 | 3,094 | 100% | 75 |
+| Super Battle Golf | akamikarubi | 5,999 | 2,748 | 80% | 70 |
+| Super Mario World | barbarousking | 4,194 | 2,029 | 95% | 95 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 1.189 | Grand Theft Auto V | 96,410 | 81,095 |
-| 0.71 | Overwatch | 77,498 | 109,223 |
-| 0.301 | Halloween: The Game | 7,085 | 23,572 |
-| 0.163 | WARDOGS | 70,033 | 428,666 |
-| 0.155 | Dead by Daylight | 11,788 | 76,030 |
-| 0.013 | Delta Force | 1,837 | 136,749 |
-| 0.012 | Counter-Strike | 15,965 | 1,359,955 |
-| 0.01 | Rust | 1,287 | 125,261 |
-| 0.009 | Palworld | 1,215 | 133,412 |
-| 0.002 | PUBG: BATTLEGROUNDS | 1,961 | 794,644 |
+| 1.135 | Grand Theft Auto V | 92,073 | 81,095 |
+| 0.34 | Halloween: The Game | 8,026 | 23,572 |
+| 0.28 | Overwatch | 30,578 | 109,223 |
+| 0.2 | No Man's Sky | 11,166 | 55,726 |
+| 0.189 | Onimusha: Way of the Sword | 10,239 | 54,295 |
+| 0.027 | Rust | 3,389 | 125,261 |
+| 0.027 | Counter-Strike | 37,374 | 1,359,955 |
+| 0.024 | EA Sports FC 26 | 1,741 | 73,641 |
+| 0.02 | Delta Force | 2,787 | 136,749 |
+| 0.007 | PUBG: BATTLEGROUNDS | 5,847 | 794,644 |
 
 ---
 
