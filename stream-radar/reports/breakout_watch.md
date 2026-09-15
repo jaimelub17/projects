@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-09-15T16` (UTC). History: 90 snapshots spanning 447h.
-Reference windows: short = `2026-09-15T11`, day = `2026-09-14T19`.
+Generated from snapshot `2026-09-15T21` (UTC). History: 91 snapshots spanning 452h.
+Reference windows: short = `2026-09-15T16`, day = `2026-09-14T19`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Diablo IV | +10.59 | 11 | 67,477 | +1349% | +977% | 100 | +64% | 0.1691 |  |
-| 2 | EA Sports FC 27 | +9.97 | 14 | 60,365 | +3622% | - | 49 | +277% | 0.4303 | ENTRY |
-| 3 | Rocket League | +9.22 | 7 | 96,800 | +4200% | +247% | 100 | +9% | 0.2882 |  |
-| 4 | RuneScape: Dragonwilds | +7.07 | 25 | 18,618 | +774% | - | 99 | -1% | 0.2051 | ENTRY IGNITION:revenant,aztecross |
-| 5 | Escape from Tarkov | +6.43 | 28 | 17,034 | +522% | +2% | 96 | +68% | 0.1313 | IGNITION:dunduk,gopster_ |
-| 6 | Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island | +4.84 | 22 | 21,576 | - | +165% | 5 | - | 0.9814 | ENTRY IGNITION:kato_junichi0817 |
-| 7 | Call of Duty: Warzone | +4.58 | 23 | 17,648 | +198% | +30% | 100 | +0% | 0.2121 | IGNITION:camy,enkeo_ |
-| 8 | ELDEN RING | +4.27 | 42 | 9,643 | +184% | +14% | 99 | +3% | 0.1926 | IGNITION:karmikkoala,mande |
-| 9 | Dimraeth | +4.25 | 62 | 6,812 | - | - | 60 | - | 0.4881 | ENTRY IGNITION:shisheyu,edopeh |
-| 10 | Fall Guys | +4.25 | 60 | 7,152 | - | - | 44 | - | 0.5673 | ENTRY IGNITION:erobb221,yugi |
-| 11 | World of Tanks | +4.10 | 16 | 44,881 | +451% | +74% | 100 | +0% | 0.4995 |  |
-| 12 | Hearthstone | +3.80 | 47 | 10,050 | +11% | +34% | 100 | +30% | 0.2428 | BREADTH IGNITION:jeefhs,guddummit |
-| 13 | Marvel's Wolverine | +3.73 | 2 | 139,213 | +250% | +118% | 100 | +0% | 0.247 |  |
-| 14 | The Blood of Dawnwalker | +3.54 | 27 | 17,692 | +155% | +20% | 99 | -1% | 0.4719 | IGNITION:cohhcarnage,lol_nemesis |
-| 15 | Dead by Daylight | +3.38 | 18 | 26,906 | +218% | +176% | 98 | -2% | 0.1363 |  |
+| 1 | TCG Card Shop Simulator | +5.30 | 37 | 12,471 | +235% | - | 95 | +9% | 0.2718 | ENTRY IGNITION:insym,ray |
+| 2 | EA Sports FC 27 | +4.63 | 3 | 246,116 | +308% | - | 100 | +104% | 0.4018 | ENTRY |
+| 3 | Dumb Ways to Build | +4.25 | 40 | 11,411 | - | - | 21 | - | 0.6947 | ENTRY IGNITION:mastu,hctuan |
+| 4 | Call of Duty: Black Ops 7 | +4.21 | 65 | 5,312 | - | +84% | 100 | - | 0.3744 | ENTRY IGNITION:yugi |
+| 5 | Gamble With Your Friends | +4.17 | 45 | 10,243 | - | - | 25 | - | 0.8682 | ENTRY IGNITION:gotaga,melhssn_ |
+| 6 | Diablo IV | +3.76 | 10 | 52,037 | -23% | +731% | 100 | +0% | 0.218 |  |
+| 7 | Guild Wars 2 | +3.35 | 27 | 16,800 | +37% | - | 98 | -2% | 0.2315 | ENTRY IGNITION:laranity,mukluk |
+| 8 | nanos world | +3.25 | 77 | 4,380 | - | - | 53 | - | 0.6377 | ENTRY IGNITION:mehditdonc |
+| 9 | BrokenLore: DON’T LIE | +3.25 | 84 | 4,008 | - | - | 1 | - | 1.0 | ENTRY IGNITION:baitybait |
+| 10 | Animaly Bar: NO HUMANITY! | +3.25 | 92 | 3,442 | - | - | 13 | - | 0.8974 | ENTRY IGNITION:kingwoolz |
+| 11 | Heroes of the Storm | +3.25 | 55 | 6,635 | - | - | 78 | - | 0.7583 | ENTRY IGNITION:grubby |
+| 12 | Double Dealers | +3.25 | 46 | 9,616 | - | - | 1 | - | 1.0 | ENTRY IGNITION:kamet0 |
+| 13 | Don't Drop The Cake | +3.25 | 30 | 14,953 | - | - | 2 | - | 0.9936 | ENTRY IGNITION:anyme023 |
+| 14 | Black Myth: Wukong | +3.20 | 58 | 6,554 | - | - | 83 | - | 0.931 | ENTRY IGNITION:realzbluewater |
+| 15 | How to Fish | +2.86 | 42 | 10,909 | - | -11% | 97 | - | 0.5275 | ENTRY IGNITION:bonjwa,edopeh |
 
 ## Ignition alerts
 
@@ -30,31 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island | kato_junichi0817 | 69,777 | 21,174 | 98% | 22 |
-| Rainbow Six Siege | rainbow6 | 22,272 | 12,738 | 68% | 24 |
-| TARO IS BACK | indegnasen0706 | 23,388 | 12,250 | 94% | 34 |
-| Teamfight Tactics | k3soju | 14,323 | 12,203 | 53% | 21 |
-| The Loopler | northernlion | 13,338 | 9,619 | 100% | 49 |
-| Watch Your Plastic Duck | ironmouse | 13,776 | 8,327 | 100% | 52 |
-| Project Zomboid | vei | 7,514 | 7,514 | 68% | 39 |
-|  SEKIRO: SHADOWS DIE TWICE | roger9527 | 9,531 | 6,461 | 79% | 54 |
-| Street Fighter 6 | hiiragitsurugi | 17,222 | 4,665 | 66% | 58 |
-| Fall Guys | erobb221 | 4,197 | 4,057 | 57% | 60 |
+| The Last of Us Part II Remastered | dangerlyoha | 21,516 | 14,987 | 97% | 28 |
+| Don't Drop The Cake | anyme023 | 129,628 | 14,857 | 99% | 30 |
+| World of Tanks | dakillzor | 13,853 | 12,377 | 60% | 23 |
+| Double Dealers | kamet0 | 76,238 | 9,616 | 100% | 46 |
+| Gamble With Your Friends | gotaga | 8,893 | 8,893 | 87% | 45 |
+| Dumb Ways to Build | mastu | 239,077 | 7,927 | 69% | 40 |
+| Watch Your Plastic Duck | ironmouse | 13,776 | 6,201 | 100% | 59 |
+| Black Myth: Wukong | realzbluewater | 8,209 | 6,102 | 93% | 58 |
+| How to Fish | bonjwa | 7,172 | 5,755 | 53% | 42 |
+| Heroes of the Storm | grubby | 8,824 | 5,031 | 76% | 55 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 3.544 | Rocket League | 96,800 | 27,315 |
-| 1.613 | Grand Theft Auto V | 113,023 | 70,087 |
-| 0.492 | The Blood of Dawnwalker | 17,692 | 35,967 |
-| 0.431 | Dead by Daylight | 26,906 | 62,358 |
-| 0.327 | Halloween: The Game | 7,251 | 22,151 |
-| 0.064 | Apex Legends | 15,486 | 243,719 |
-| 0.059 | Path of Exile 2 | 4,712 | 79,286 |
-| 0.049 | Delta Force | 6,462 | 130,604 |
-| 0.048 | EA Sports FC 26 | 2,712 | 56,852 |
-| 0.015 | PUBG: BATTLEGROUNDS | 11,095 | 753,580 |
+| 3.464 | Rocket League | 94,622 | 27,315 |
+| 2.874 | Grand Theft Auto V | 201,445 | 70,087 |
+| 0.494 | Rainbow Six Siege | 45,274 | 91,673 |
+| 0.485 | Gamble With Your Friends | 10,243 | 21,108 |
+| 0.341 | The Blood of Dawnwalker | 12,273 | 35,967 |
+| 0.063 | Apex Legends | 15,405 | 243,719 |
+| 0.048 | Counter-Strike | 57,472 | 1,194,411 |
+| 0.033 | Rust | 3,776 | 113,177 |
+| 0.03 | Delta Force | 3,925 | 130,604 |
+| 0.015 | PUBG: BATTLEGROUNDS | 10,945 | 753,580 |
 
 ---
 
