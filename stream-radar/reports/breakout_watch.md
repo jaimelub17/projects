@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-09-15T04` (UTC). History: 88 snapshots spanning 435h.
-Reference windows: short = `2026-09-14T23`, day = `2026-09-14T04`.
+Generated from snapshot `2026-09-15T11` (UTC). History: 89 snapshots spanning 442h.
+Reference windows: short = `2026-09-15T04`, day = `2026-09-14T12`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | 771 | +6.94 | 4 | 56,838 | +1531% | - | 3 | +50% | 0.9981 | ENTRY |
-| 2 | Shift at Midnight | +6.33 | 23 | 13,246 | - | +343% | 50 | - | 0.7078 | ENTRY IGNITION:ironmouse,henyathegenius |
-| 3 | I'm Only Sleeping | +3.42 | 31 | 7,886 | +161% | +40% | 100 | +0% | 0.3066 | IGNITION:jordan_semih |
-| 4 | Waterpark Simulator | +3.25 | 68 | 2,755 | - | - | 42 | - | 0.8044 | ENTRY IGNITION:penta |
-| 5 | Wolverine | +3.25 | 81 | 2,108 | - | - | 22 | - | 0.7585 | ENTRY IGNITION:lowtiergod |
-| 6 | SPRAWL zero | +3.25 | 42 | 5,127 | - | - | 4 | - | 0.9912 | ENTRY IGNITION:vinesauce |
-| 7 | Street Fighter 6 | +2.98 | 46 | 4,693 | +70% | +49% | 95 | +1% | 0.5723 | IGNITION:naru0419045 |
-| 8 | Dark Souls: Remastered | +2.25 | 84 | 2,080 | - | - | 52 | - | 0.826 | ENTRY |
-| 9 | Monstrum | +2.25 | 92 | 1,654 | - | - | 2 | - | 0.9994 | ENTRY |
-| 10 | Super Mario 64 | +2.25 | 83 | 2,065 | - | - | 27 | - | 0.2896 | ENTRY |
-| 11 | EA Sports College Football 27 | +2.25 | 80 | 1,728 | - | - | 97 | - | 0.7344 | ENTRY |
-| 12 | Resident Evil 4 | +2.25 | 86 | 2,031 | - | - | 42 | - | 0.9286 | ENTRY |
-| 13 | TCG Card Shop Simulator | +2.25 | 82 | 2,148 | - | - | 68 | - | 0.7048 | ENTRY |
-| 14 | Warframe | +2.11 | 79 | 1,959 | - | +34% | 96 | - | 0.2593 | ENTRY |
-| 15 | Geometry Dash | +2.10 | 61 | 3,084 | - | - | 82 | - | 0.9024 | ENTRY |
+| 1 | Street Fighter 6 | +7.41 | 12 | 30,040 | +540% | +617% | 99 | +4% | 0.5961 |  |
+| 2 | Apex Legends | +4.42 | 6 | 50,155 | +433% | +126% | 97 | -1% | 0.2774 |  |
+| 3 | Lycans | +4.25 | 30 | 8,551 | - | - | 14 | - | 0.567 | ENTRY IGNITION:ponce,moman |
+| 4 | Rust | +4.24 | 45 | 6,124 | +148% | +81% | 98 | +1% | 0.3516 | IGNITION:oilrats |
+| 5 | Left 4 Dead 2 | +4.18 | 56 | 4,377 | - | - | 22 | - | 0.4866 | ENTRY IGNITION:gocchanmikey,titiseadmin |
+| 6 | Rainbow Six Siege | +4.16 | 25 | 9,714 | +43% | +174% | 100 | +0% | 0.7379 | IGNITION:rainbow6 |
+| 7 | World of Tanks | +3.76 | 32 | 8,149 | +133% | -13% | 100 | +108% | 0.3477 | IGNITION:dakillzor |
+| 8 | Crypto | +3.39 | 42 | 6,491 | +175% | +51% | 94 | +15% | 0.3415 |  |
+| 9 | Kingdom Hearts II Final Mix | +3.25 | 26 | 9,674 | - | - | 3 | - | 0.9993 | ENTRY IGNITION:ironmouse |
+| 10 | Mimic Party | +3.25 | 59 | 3,768 | - | - | 4 | - | 0.9981 | ENTRY IGNITION:yuuechka |
+| 11 | Portal | +3.25 | 35 | 7,529 | - | - | 2 | - | 0.9991 | ENTRY IGNITION:yuyuta0702 |
+| 12 | Dragon Quest Heroes: Torneko's Mystery Dungeon Classic HD | +3.25 | 75 | 2,548 | - | - | 21 | - | 0.9246 | ENTRY IGNITION:minoru04160 |
+| 13 | I'm Only Sleeping | +2.93 | 29 | 8,182 | +4% | +34% | 100 | +0% | 0.211 | IGNITION:erobb221,strippin |
+| 14 | Dota 2 | +2.90 | 3 | 57,491 | +317% | -4% | 100 | +2% | 0.1925 |  |
+| 15 | Delta Force | +2.74 | 54 | 4,623 | +91% | +66% | 100 | +3% | 0.2477 |  |
 
 ## Ignition alerts
 
@@ -30,28 +30,29 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Shift at Midnight | ironmouse | 13,776 | 9,375 | 71% | 23 |
-| SPRAWL zero | vinesauce | 10,423 | 5,082 | 99% | 42 |
-| Street Fighter 6 | naru0419045 | 6,288 | 2,686 | 57% | 46 |
-| Waterpark Simulator | penta | 7,075 | 2,216 | 80% | 68 |
-| Genshin Impact | zy0xxx | 10,507 | 2,198 | 58% | 55 |
-| Wolverine | lowtiergod | 12,902 | 1,599 | 76% | 81 |
-| Pokémon | kkatamina | 5,462 | 1,335 | 82% | 88 |
+| Kingdom Hearts II Final Mix | ironmouse | 13,776 | 9,667 | 100% | 26 |
+| Portal | yuyuta0702 | 11,462 | 7,522 | 100% | 35 |
+| Rainbow Six Siege | rainbow6 | 22,272 | 7,168 | 74% | 25 |
+| Lycans | ponce | 4,848 | 4,848 | 57% | 30 |
+| Mimic Party | yuuechka | 3,761 | 3,761 | 100% | 59 |
+| Mario Kart World | hanjoudesu | 6,953 | 3,367 | 97% | 63 |
+| Dragon Quest Heroes: Torneko's Mystery Dungeon Classic HD | minoru04160 | 3,220 | 2,356 | 92% | 75 |
+| Yu-Gi-Oh! Master Duel | joshuaschmidtygo | 4,483 | 1,542 | 80% | 91 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 1.334 | Grand Theft Auto V | 93,488 | 70,087 |
-| 0.512 | Halloween: The Game | 11,346 | 22,151 |
-| 0.259 | WARDOGS | 90,991 | 351,246 |
-| 0.2 | No Man's Sky | 8,316 | 41,562 |
-| 0.177 | Dead by Daylight | 11,038 | 62,358 |
-| 0.019 | Delta Force | 2,422 | 130,604 |
-| 0.018 | Counter-Strike | 20,912 | 1,194,411 |
-| 0.017 | Dota 2 | 13,792 | 809,608 |
-| 0.015 | Palworld | 1,432 | 98,471 |
-| 0.003 | PUBG: BATTLEGROUNDS | 2,519 | 753,580 |
+| 0.862 | Street Fighter 6 | 30,040 | 34,855 |
+| 0.636 | Grand Theft Auto V | 44,581 | 70,087 |
+| 0.297 | Halloween: The Game | 6,579 | 22,151 |
+| 0.206 | Apex Legends | 50,155 | 243,719 |
+| 0.204 | Onimusha: Way of the Sword | 8,769 | 43,025 |
+| 0.042 | Valheim | 10,284 | 242,460 |
+| 0.039 | VRChat | 2,098 | 53,449 |
+| 0.035 | Delta Force | 4,623 | 130,604 |
+| 0.021 | EA Sports FC 26 | 1,170 | 56,852 |
+| 0.007 | PUBG: BATTLEGROUNDS | 5,235 | 753,580 |
 
 ---
 
