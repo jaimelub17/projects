@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-09-17T07` (UTC). History: 98 snapshots spanning 486h.
-Reference windows: short = `2026-09-17T00`, day = `2026-09-16T07`.
+Generated from snapshot `2026-09-17T13` (UTC). History: 99 snapshots spanning 492h.
+Reference windows: short = `2026-09-17T07`, day = `2026-09-16T13`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Street Fighter 6 | +5.51 | 29 | 8,851 | +93% | +200% | 89 | -11% | 0.7434 | IGNITION:stylishnoob4,haitani0904 |
-| 2 | MapleStory | +3.45 | 65 | 2,504 | - | +93% | 52 | - | 0.5643 | ENTRY |
-| 3 | Graveyard Keeper II | +3.25 | 53 | 3,700 | - | - | 7 | - | 0.9168 | ENTRY IGNITION:maxim |
-| 4 | Bloodborne | +3.25 | 64 | 2,542 | - | - | 23 | - | 0.6802 | ENTRY IGNITION:penta |
-| 5 | Project Zomboid | +3.02 | 46 | 4,767 | +13% | +119% | 100 | +2% | 0.5202 | IGNITION:mynthos |
-| 6 | Star Citizen | +2.63 | 80 | 1,888 | - | +41% | 58 | - | 0.2585 | ENTRY |
-| 7 | Marvel Rivals | +2.49 | 6 | 25,777 | +75% | +163% | 97 | -3% | 0.2755 |  |
-| 8 | I'm Only Sleeping | +2.48 | 26 | 9,240 | +98% | +6% | 99 | -1% | 0.0827 | IGNITION:jordan_semih |
-| 9 | Mario Kart World | +2.25 | 15 | 16,578 | - | - | 12 | - | 0.8768 | ENTRY |
-| 10 | Animaly Bar: NO HUMANITY! | +2.25 | 89 | 1,594 | - | - | 3 | - | 0.9931 | ENTRY |
-| 11 | Super Mario Sunshine | +2.25 | 92 | 1,548 | - | - | 5 | - | 0.9774 | ENTRY |
-| 12 | Lies of P | +2.25 | 73 | 2,099 | - | - | 23 | - | 0.6741 | ENTRY |
-| 13 | Mouthwashing | +2.25 | 83 | 1,670 | - | - | 1 | - | 1.0 | ENTRY |
-| 14 | Fire Emblem: Fortune's Weave | +2.25 | 33 | 7,116 | - | - | 100 | - | 0.1904 | ENTRY |
-| 15 | Trails in the Sky 2nd Chapter | +2.25 | 93 | 1,504 | - | - | 41 | - | 0.7148 | ENTRY |
+| 1 | Fire Emblem: Fortune's Weave | +10.47 | 26 | 15,219 | +114% | +658% | 99 | -1% | 0.2197 | IGNITION:minoru04160,ponce |
+| 2 | Where Winds Meet | +6.85 | 33 | 11,080 | +472% | - | 84 | +50% | 0.2709 | ENTRY IGNITION:kr1stw,kspksp |
+| 3 | PUBG: BATTLEGROUNDS | +5.69 | 21 | 17,740 | +257% | +92% | 99 | +1% | 0.3672 | IGNITION:recrent,karsalol |
+| 4 | EA Sports FC 27 | +5.01 | 3 | 101,459 | +351% | +39% | 97 | +137% | 0.3517 |  |
+| 5 | ELDEN RING | +4.02 | 43 | 7,013 | +84% | +123% | 100 | +0% | 0.2943 | IGNITION:mande |
+| 6 | Counter-Strike | +3.88 | 4 | 87,290 | +401% | +67% | 98 | +2% | 0.2088 |  |
+| 7 | Mobile Legends: Bang Bang | +3.56 | 46 | 7,190 | - | +147% | 99 | - | 0.436 | ENTRY |
+| 8 | Shiren the Wanderer: The Tower of Fortune and the Dice of Fate | +3.43 | 97 | 2,127 | +33% | - | 3 | +50% | 0.9958 | BREADTH ENTRY IGNITION:naru0419045 |
+| 9 | Grand Theft Auto V | +3.25 | 2 | 90,486 | +378% | -3% | 100 | +6% | 0.3051 |  |
+| 10 | Baldur's Gate 3 | +3.25 | 59 | 5,074 | - | - | 87 | - | 0.7166 | ENTRY IGNITION:gmworkshop |
+| 11 | Lumi Master | +3.25 | 60 | 5,055 | - | - | 2 | - | 0.9432 | ENTRY IGNITION:sam1268 |
+| 12 | Woodo | +3.25 | 53 | 5,688 | - | - | 22 | - | 0.5206 | ENTRY IGNITION:mynthos |
+| 13 | Apex Legends | +3.07 | 10 | 40,287 | +341% | +19% | 95 | -5% | 0.3803 |  |
+| 14 | Escape from Tarkov | +3.03 | 23 | 17,228 | +127% | -30% | 100 | +2% | 0.2406 | IGNITION:nickmercs,glorious_e |
+| 15 | Path of Exile 2 | +2.84 | 57 | 5,118 | +96% | +23% | 99 | -1% | 0.1987 | IGNITION:787prada |
 
 ## Ignition alerts
 
@@ -30,26 +30,26 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Street Fighter 6 | stylishnoob4 | 19,234 | 6,580 | 74% | 29 |
-| Graveyard Keeper II | maxim | 4,406 | 3,392 | 92% | 53 |
-| Project Zomboid | mynthos | 6,006 | 2,480 | 52% | 46 |
-| Bloodborne | penta | 7,075 | 1,729 | 68% | 64 |
-| Shiren the Wanderer: The Tower of Fortune and the Dice of Fate | naru0419045 | 6,288 | 1,594 | 100% | 88 |
+| Rainbow Six Siege | rainbow6 | 22,272 | 9,525 | 78% | 30 |
+| Lumi Master | sam1268 | 10,784 | 4,768 | 94% | 60 |
+| Baldur's Gate 3 | gmworkshop | 3,636 | 3,636 | 72% | 59 |
+| Woodo | mynthos | 6,006 | 2,961 | 52% | 53 |
+| Shiren the Wanderer: The Tower of Fortune and the Dice of Fate | naru0419045 | 6,288 | 2,118 | 100% | 97 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 0.281 | Grand Theft Auto V | 18,914 | 67,350 |
-| 0.263 | Diablo IV | 12,189 | 46,343 |
-| 0.251 | Street Fighter 6 | 8,851 | 35,323 |
-| 0.25 | Marvel Rivals | 25,777 | 102,948 |
-| 0.243 | Rocket League | 6,395 | 26,297 |
-| 0.026 | EA Sports FC 26 | 1,366 | 53,171 |
-| 0.021 | Dota 2 | 16,468 | 785,015 |
-| 0.018 | Delta Force | 2,243 | 122,982 |
-| 0.014 | Counter-Strike | 17,418 | 1,282,791 |
-| 0.007 | PUBG: BATTLEGROUNDS | 4,970 | 754,003 |
+| 1.344 | Grand Theft Auto V | 90,486 | 67,350 |
+| 0.53 | Escape from Tarkov | 17,228 | 32,536 |
+| 0.439 | Arena Breakout: Infinite | 18,119 | 41,245 |
+| 0.427 | Rocket League | 11,228 | 26,297 |
+| 0.375 | Diablo IV | 17,377 | 46,343 |
+| 0.041 | Monster Hunter Wilds | 1,901 | 46,106 |
+| 0.039 | Project Zomboid | 2,278 | 58,522 |
+| 0.038 | Delta Force | 4,723 | 122,982 |
+| 0.031 | Rust | 3,223 | 102,508 |
+| 0.024 | PUBG: BATTLEGROUNDS | 17,740 | 754,003 |
 
 ---
 
