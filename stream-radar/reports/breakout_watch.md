@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-09-18T07` (UTC). History: 103 snapshots spanning 510h.
-Reference windows: short = `2026-09-18T00`, day = `2026-09-17T07`.
+Generated from snapshot `2026-09-18T12` (UTC). History: 104 snapshots spanning 515h.
+Reference windows: short = `2026-09-18T07`, day = `2026-09-17T13`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | ROBLOX | +6.78 | 18 | 12,069 | +268% | +727% | 100 | +2% | 0.8508 |  |
-| 2 | Genshin Impact | +3.55 | 45 | 4,393 | +6% | +167% | 99 | -1% | 0.7482 | IGNITION:zy0xxx |
-| 3 | Street Fighter 6 | +3.30 | 30 | 7,851 | +255% | -11% | 93 | -7% | 0.8826 | IGNITION:stylishnoob4 |
-| 4 | The Plant Shop | +3.25 | 57 | 3,085 | - | - | 3 | - | 0.7906 | ENTRY IGNITION:sumomo_x |
-| 5 | Worming from Home | +3.25 | 63 | 2,639 | - | - | 3 | - | 0.9867 | ENTRY IGNITION:mynthos |
-| 6 | Backpack Battles | +3.25 | 70 | 2,199 | - | - | 2 | - | 0.9986 | ENTRY IGNITION:shinjifromjapanxd |
-| 7 | God of War | +3.25 | 74 | 2,121 | - | - | 16 | - | 0.9896 | ENTRY IGNITION:39daph |
-| 8 | The Legend of Zelda: Ocarina of Time | +2.60 | 48 | 4,174 | - | +60% | 42 | - | 0.4598 | ENTRY |
-| 9 | I'm Only Sleeping | +2.43 | 19 | 11,811 | +158% | +28% | 100 | +0% | 0.3004 |  |
-| 10 | Once Human | +2.42 | 44 | 4,423 | +140% | +36% | 99 | -1% | 0.2627 |  |
-| 11 | Super Mario Maker 2 | +2.25 | 84 | 1,696 | - | - | 14 | - | 0.8597 | ENTRY |
-| 12 | ELDEN RING NIGHTREIGN | +2.25 | 88 | 1,606 | - | - | 62 | - | 0.505 | ENTRY |
-| 13 | Total War: WARHAMMER III | +2.24 | 91 | 1,513 | - | - | 7 | - | 0.8652 | ENTRY |
-| 14 | World of Tanks | +2.21 | 43 | 4,903 | -1% | +21% | 98 | +61% | 0.3592 | IGNITION:dakillzor |
-| 15 | LEGO Batman: Legacy of the Dark Knight | +1.25 | 79 | 1,941 | - | -1% | 33 | - | 0.1618 | ENTRY |
+| 1 | Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island | +9.98 | 94 | 2,122 | +2889% | - | 13 | +160% | 0.9496 | ENTRY IGNITION:naru0419045 |
+| 2 | World of Tanks | +4.20 | 32 | 10,500 | +114% | +33% | 100 | +2% | 0.284 | IGNITION:skill4ltu,dakillzor |
+| 3 | Apex Legends | +4.06 | 10 | 47,139 | +602% | +17% | 98 | -1% | 0.3211 |  |
+| 4 | Rainbow Six Siege | +3.80 | 33 | 9,829 | +394% | -19% | 98 | -2% | 0.7113 | IGNITION:rainbow6 |
+| 5 | World of Warships | +3.79 | 70 | 3,425 | +172% | - | 48 | +100% | 0.153 | ENTRY |
+| 6 | I'm Only Sleeping | +3.71 | 23 | 12,542 | +6% | +85% | 100 | +0% | 0.2807 | IGNITION:lucilas1,xthesolutiontv |
+| 7 | Counter-Strike | +3.50 | 3 | 106,093 | +400% | +22% | 99 | +3% | 0.3798 |  |
+| 8 | RuneScape: Dragonwilds | +3.30 | 64 | 3,855 | - | +115% | 100 | - | 0.3388 | ENTRY |
+| 9 | Cat Mail Co. | +3.25 | 29 | 11,259 | - | - | 5 | - | 0.9975 | ENTRY IGNITION:ironmouse |
+| 10 | Danganronpa: Trigger Happy Havoc | +3.25 | 60 | 4,839 | - | - | 12 | - | 0.9789 | ENTRY IGNITION:hiiragitsurugi |
+| 11 | Welcome to Elderfield | +3.25 | 87 | 2,512 | - | - | 20 | - | 0.8929 | ENTRY IGNITION:barbarousking |
+| 12 | Dragon Quest Heroes: Torneko's Mystery Dungeon Classic HD | +3.25 | 67 | 3,632 | - | - | 25 | - | 0.8698 | ENTRY IGNITION:akamikarubi |
+| 13 | Sovereign Tower | +3.25 | 61 | 4,670 | - | - | 2 | - | 0.9985 | ENTRY IGNITION:mistermv |
+| 14 | VALORANT | +3.18 | 4 | 90,600 | +268% | +69% | 100 | +0% | 0.1823 |  |
+| 15 | Escape from Tarkov | +3.04 | 25 | 11,757 | - | -32% | 100 | - | 0.177 | ENTRY IGNITION:dunduk,glorious_e |
 
 ## Ignition alerts
 
@@ -30,29 +30,29 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Street Fighter 6 | stylishnoob4 | 19,234 | 6,929 | 88% | 30 |
-| Marvel's Wolverine | supertf | 14,663 | 5,515 | 53% | 21 |
-| Genshin Impact | zy0xxx | 10,507 | 3,287 | 75% | 45 |
-| Mario Kart World | hanjoudesu | 6,953 | 3,184 | 96% | 56 |
-| Worming from Home | mynthos | 6,006 | 2,604 | 99% | 63 |
-| The Plant Shop | sumomo_x | 3,240 | 2,439 | 79% | 57 |
-| Backpack Battles | shinjifromjapanxd | 6,318 | 2,196 | 100% | 70 |
-| God of War | 39daph | 3,806 | 2,099 | 99% | 74 |
+| Cat Mail Co. | ironmouse | 13,776 | 11,231 | 100% | 29 |
+| Rainbow Six Siege | rainbow6 | 22,272 | 6,991 | 71% | 33 |
+| The Legend of Zelda: Ocarina of Time | iamnostal_gia | 4,935 | 4,935 | 88% | 47 |
+| Danganronpa: Trigger Happy Havoc | hiiragitsurugi | 17,222 | 4,737 | 98% | 60 |
+| Sovereign Tower | mistermv | 8,371 | 4,663 | 100% | 61 |
+| Dragon Quest Heroes: Torneko's Mystery Dungeon Classic HD | akamikarubi | 5,999 | 3,159 | 87% | 67 |
+| Welcome to Elderfield | barbarousking | 4,194 | 2,243 | 89% | 87 |
+| Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island | naru0419045 | 6,288 | 2,015 | 95% | 94 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 0.56 | Grand Theft Auto V | 37,538 | 67,026 |
-| 0.221 | Street Fighter 6 | 7,851 | 35,482 |
-| 0.207 | Rocket League | 5,780 | 27,982 |
-| 0.189 | Once Human | 4,423 | 23,434 |
-| 0.184 | Diablo IV | 8,795 | 47,760 |
-| 0.025 | Rainbow Six Siege | 1,991 | 81,263 |
-| 0.021 | Delta Force | 2,541 | 123,424 |
-| 0.017 | Counter-Strike | 21,233 | 1,262,392 |
-| 0.015 | Slay the Spire II | 1,346 | 89,988 |
-| 0.003 | PUBG: BATTLEGROUNDS | 2,321 | 753,819 |
+| 1.25 | Grand Theft Auto V | 83,811 | 67,026 |
+| 0.825 | Phasmophobia | 9,902 | 12,002 |
+| 0.314 | Rocket League | 8,777 | 27,982 |
+| 0.301 | Arena Breakout: Infinite | 12,164 | 40,474 |
+| 0.227 | Diablo IV | 10,861 | 47,760 |
+| 0.053 | Rust | 6,406 | 121,982 |
+| 0.053 | Battlefield 6 | 2,092 | 39,596 |
+| 0.044 | Football Manager 26 | 1,859 | 42,091 |
+| 0.04 | Delta Force | 4,922 | 123,424 |
+| 0.008 | PUBG: BATTLEGROUNDS | 6,172 | 753,819 |
 
 ---
 
