@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-09-19T17` (UTC). History: 110 snapshots spanning 544h.
-Reference windows: short = `2026-09-19T12`, day = `2026-09-18T17`.
+Generated from snapshot `2026-09-19T20` (UTC). History: 111 snapshots spanning 547h.
+Reference windows: short = `2026-09-19T12`, day = `2026-09-18T20`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | RuneScape: Dragonwilds | +10.52 | 15 | 52,749 | +1255% | +1338% | 95 | -5% | 0.1738 |  |
-| 2 | Active Matter | +7.03 | 16 | 48,902 | +2009% | +67% | 100 | +23% | 0.2033 |  |
-| 3 | Pokémon Champions | +6.88 | 32 | 13,357 | +194% | +154% | 100 | +8% | 0.4164 | IGNITION:pokemon,pokealexvgc |
-| 4 | ELDEN RING | +6.32 | 36 | 11,091 | +154% | +171% | 99 | -1% | 0.2288 | IGNITION:takayaspecial,karmikkoala |
-| 5 | The Legend of Zelda: Ocarina of Time | +5.61 | 73 | 4,772 | +159% | - | 100 | +163% | 0.7986 | BREADTH ENTRY IGNITION:barbarousking |
-| 6 | Rainbow Six Siege | +5.37 | 18 | 37,663 | +186% | +503% | 100 | +0% | 0.4466 |  |
-| 7 | Rocket League | +4.29 | 7 | 108,249 | +819% | -18% | 100 | +8% | 0.3265 |  |
-| 8 | War Thunder | +4.25 | 84 | 4,017 | - | - | 100 | - | 0.5188 | ENTRY IGNITION:warthunder_esports,warthunder_esports_ru |
-| 9 | ROBLOX | +3.55 | 45 | 4,883 | +221% | +52% | 100 | +0% | 0.147 |  |
-| 10 | TEKKEN 8 | +3.46 | 58 | 6,636 | +37% | - | 100 | +47% | 0.7934 | BREADTH ENTRY IGNITION:forsen |
-| 11 | ARC Raiders | +3.42 | 53 | 6,164 | +110% | +32% | 100 | +0% | 0.3494 | IGNITION:symfuhny |
-| 12 | osu! | +3.25 | 91 | 3,839 | - | - | 100 | - | 0.7307 | ENTRY IGNITION:mrekk |
-| 13 | Animaly Bar: NO HUMANITY! | +3.25 | 89 | 4,074 | - | - | 4 | - | 0.7901 | ENTRY IGNITION:morphe_ya |
-| 14 | Touhou Koumakyou: New Classic - The Embodiment of Scarlet Devil | +3.25 | 33 | 12,963 | - | - | 7 | - | 0.9865 | ENTRY IGNITION:batora324 |
-| 15 | Sunken Realms | +3.25 | 50 | 7,742 | - | - | 3 | - | 0.9932 | ENTRY IGNITION:elajjaz |
+| 1 | RuneScape: Dragonwilds | +8.44 | 15 | 40,730 | +946% | +548% | 100 | +0% | 0.2866 |  |
+| 2 | ELDEN RING | +8.31 | 21 | 28,528 | +553% | +293% | 100 | +0% | 0.3324 | IGNITION:captain_domo,bondarenk01 |
+| 3 | Active Matter | +7.43 | 18 | 35,901 | +1448% | +180% | 97 | +20% | 0.2911 |  |
+| 4 | The Legend of Zelda: Ocarina of Time | +5.84 | 54 | 6,884 | +274% | - | 100 | +163% | 0.4524 | ENTRY IGNITION:barbarousking |
+| 5 | Rainbow Six Siege | +4.98 | 10 | 60,768 | +362% | +241% | 100 | +0% | 0.53 |  |
+| 6 | Clash Royale | +4.83 | 58 | 6,756 | - | +89% | 70 | - | 0.5638 | ENTRY IGNITION:thegrefg |
+| 7 | Guild Wars 2 | +4.59 | 83 | 4,997 | +113% | +4% | 92 | +88% | 0.275 | IGNITION:mightyteapot,laranity |
+| 8 | Rocket League | +4.53 | 6 | 116,206 | +887% | -17% | 100 | +8% | 0.3903 |  |
+| 9 | Pokémon Champions | +3.95 | 42 | 9,441 | +108% | - | 78 | -16% | 0.5363 | ENTRY IGNITION:pokemon,pokealexvgc |
+| 10 | nanos world | +3.54 | 64 | 6,463 | - | +32% | 54 | - | 0.5443 | ENTRY IGNITION:mehditdonc |
+| 11 | VRChat | +3.44 | 68 | 5,755 | +178% | +17% | 100 | +54% | 0.229 |  |
+| 12 | Grand Theft Auto: Vice City | +3.29 | 69 | 5,536 | -16% | +22% | 17 | +240% | 0.9845 | IGNITION:agent00 |
+| 13 | Valheim | +3.27 | 22 | 20,599 | +96% | -2% | 100 | +0% | 0.311 | IGNITION:quin69,shisheyu |
+| 14 | Touhou Koumakyou: New Classic - The Embodiment of Scarlet Devil | +3.25 | 44 | 8,871 | - | - | 2 | - | 0.9965 | ENTRY IGNITION:batora324 |
+| 15 | Spiritus Sancti | +3.25 | 65 | 6,117 | - | - | 6 | - | 0.7772 | ENTRY IGNITION:baitybait |
 
 ## Ignition alerts
 
@@ -30,31 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Touhou Koumakyou: New Classic - The Embodiment of Scarlet Devil | batora324 | 21,701 | 12,788 | 99% | 33 |
-| Sunken Realms | elajjaz | 11,003 | 7,689 | 99% | 50 |
-| TEKKEN 8 | forsen | 7,680 | 5,265 | 79% | 58 |
-| Overgeared Hero | sam1268 | 10,784 | 5,018 | 100% | 71 |
-| Star Wars: Jedi Knight - Jedi Academy | missmikkaa | 5,407 | 4,973 | 100% | 72 |
-| Dragon Quest Heroes: Torneko's Mystery Dungeon Classic HD | assarisyoko1 | 5,471 | 4,268 | 93% | 74 |
-| Grand Theft Auto: Vice City | agent00 | 12,795 | 3,997 | 96% | 85 |
-| The Legend of Zelda: Ocarina of Time | barbarousking | 4,194 | 3,811 | 80% | 73 |
-| Jinro Metropolis | xhalli4x | 5,302 | 3,716 | 95% | 94 |
-| SILENT HILL: townfall | h0llylp | 3,546 | 3,546 | 58% | 59 |
+| Watch Your Plastic Duck | ironmouse | 19,982 | 9,221 | 100% | 43 |
+| Touhou Koumakyou: New Classic - The Embodiment of Scarlet Devil | batora324 | 21,701 | 8,840 | 100% | 44 |
+| Fright Train | elajjaz | 11,003 | 6,547 | 100% | 60 |
+| Outer Wilds | ludwig | 7,600 | 6,223 | 95% | 59 |
+| Tomodachi Life: Living the Dream | edison | 9,802 | 5,656 | 93% | 66 |
+| Farming Incremental But With Guns | locklear | 6,891 | 5,527 | 100% | 71 |
+| Grand Theft Auto: Vice City | agent00 | 12,795 | 5,450 | 98% | 69 |
+| Pokémon Champions | pokemon | 69,321 | 5,063 | 54% | 42 |
+| Spiritus Sancti | baitybait | 6,872 | 4,754 | 78% | 65 |
+| The Elder Scrolls V: Skyrim | vedal987 | 8,267 | 4,747 | 93% | 77 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 3.742 | Rocket League | 108,249 | 28,926 |
-| 1.098 | Grand Theft Auto V | 77,650 | 70,724 |
-| 0.485 | Phasmophobia | 7,007 | 14,450 |
-| 0.43 | Rainbow Six Siege | 37,663 | 87,525 |
-| 0.311 | Arena Breakout: Infinite | 12,571 | 40,448 |
-| 0.05 | Rust | 6,802 | 135,427 |
-| 0.047 | Valheim | 10,651 | 225,321 |
-| 0.045 | Apex Legends | 12,247 | 272,155 |
-| 0.044 | War Thunder | 4,017 | 91,410 |
-| 0.019 | PUBG: BATTLEGROUNDS | 14,955 | 783,474 |
+| 4.017 | Rocket League | 116,206 | 28,926 |
+| 1.875 | Grand Theft Auto V | 132,573 | 70,724 |
+| 0.694 | Rainbow Six Siege | 60,768 | 87,525 |
+| 0.691 | ELDEN RING | 28,528 | 41,292 |
+| 0.511 | Phasmophobia | 7,387 | 14,450 |
+| 0.052 | Rust | 7,064 | 135,427 |
+| 0.049 | Warframe | 3,300 | 67,788 |
+| 0.039 | Apex Legends | 10,490 | 272,155 |
+| 0.03 | Counter-Strike | 39,669 | 1,330,975 |
+| 0.008 | PUBG: BATTLEGROUNDS | 6,183 | 783,474 |
 
 ---
 
