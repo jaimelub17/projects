@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-09-19T07` (UTC). History: 108 snapshots spanning 534h.
-Reference windows: short = `2026-09-19T00`, day = `2026-09-18T07`.
+Generated from snapshot `2026-09-19T12` (UTC). History: 109 snapshots spanning 539h.
+Reference windows: short = `2026-09-19T07`, day = `2026-09-18T12`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Onimusha: Way of the Sword | +8.03 | 13 | 21,373 | +693% | +663% | 100 | +4% | 0.9187 |  |
-| 2 | Street Fighter 6 | +3.94 | 28 | 10,612 | - | +35% | 99 | - | 0.7013 | ENTRY IGNITION:stylishnoob4,haitani0904 |
-| 3 | Project Zomboid | +3.76 | 46 | 4,879 | +16% | +178% | 97 | -3% | 0.4808 | IGNITION:mynthos |
-| 4 | MARVEL TŌKON: Fighting Souls | +3.25 | 37 | 6,142 | - | - | 20 | - | 0.9798 | ENTRY IGNITION:maximilian_dood |
-| 5 | Dragon Quest Heroes: Torneko's Mystery Dungeon Classic HD | +3.25 | 72 | 2,648 | - | - | 27 | - | 0.8259 | ENTRY IGNITION:sumomo_x |
-| 6 | Bloodborne | +3.25 | 71 | 2,671 | - | - | 28 | - | 0.7522 | ENTRY IGNITION:penta |
-| 7 | Street Fighter V | +3.25 | 97 | 1,605 | - | - | 2 | - | 0.9956 | ENTRY IGNITION:lowtiergod |
-| 8 | THE FINALS | +2.28 | 96 | 1,578 | - | - | 98 | - | 0.3669 | ENTRY |
-| 9 | Monster Hunter Wilds | +2.28 | 91 | 1,691 | - | - | 98 | - | 0.1431 | ENTRY |
-| 10 | FINAL FANTASY VII | +2.25 | 98 | 1,532 | - | - | 14 | - | 0.9073 | ENTRY |
-| 11 | Active Matter | +2.25 | 76 | 2,463 | - | - | 73 | - | 0.3207 | ENTRY |
-| 12 | Eternal Return | +2.25 | 79 | 2,240 | - | - | 33 | - | 0.6616 | ENTRY |
-| 13 | Where Winds Meet | +2.25 | 68 | 2,874 | - | - | 58 | - | 0.3838 | ENTRY |
-| 14 | Super Mario 64 | +2.25 | 55 | 4,021 | - | - | 21 | - | 0.7123 | ENTRY |
-| 15 | TEKKEN 8 | +2.25 | 54 | 4,051 | - | - | 84 | - | 0.4145 | ENTRY |
+| 1 | Dragon Quest Heroes: Torneko's Mystery Dungeon Classic HD | +6.43 | 43 | 7,398 | +179% | +104% | 36 | +33% | 0.5119 | IGNITION:assarisyoko1,akamikarubi |
+| 2 | World of Tanks | +5.26 | 21 | 15,563 | +185% | +48% | 100 | +25% | 0.3859 | IGNITION:skill4ltu,dakillzor |
+| 3 | Rainbow Six Siege | +5.08 | 24 | 13,147 | +442% | +34% | 100 | +0% | 0.7579 | IGNITION:rainbow6 |
+| 4 | PUBG: BATTLEGROUNDS | +4.39 | 30 | 9,973 | +215% | +62% | 100 | +0% | 0.0881 | IGNITION:karsalol |
+| 5 | League of Legends | +4.34 | 2 | 144,687 | +513% | +73% | 100 | +0% | 0.4715 |  |
+| 6 | Onimusha: Way of the Sword | +3.84 | 19 | 17,394 | -19% | +559% | 100 | +0% | 0.8336 |  |
+| 7 | Rocket League | +3.83 | 26 | 11,775 | +89% | +34% | 93 | -4% | 0.2589 | IGNITION:mawkzy_,rosdri_twitch |
+| 8 | Escape from Tarkov | +3.51 | 22 | 14,847 | +194% | +26% | 100 | +0% | 0.434 | IGNITION:cr_arisakaaa |
+| 9 | Counter-Strike | +3.48 | 5 | 98,593 | +507% | -7% | 99 | +0% | 0.2771 |  |
+| 10 | Arena Breakout: Infinite | +3.44 | 23 | 14,888 | +200% | +22% | 100 | +0% | 0.192 | IGNITION:kr1stw |
+| 11 | How to Fish | +3.32 | 78 | 2,946 | - | - | 51 | - | 0.9274 | ENTRY IGNITION:akarindao |
+| 12 | Gakuen iDOLM@STER | +3.25 | 38 | 8,569 | - | - | 2 | - | 0.9998 | ENTRY IGNITION:yuyuta0702 |
+| 13 | SILENT HILL: townfall | +3.25 | 42 | 7,467 | - | - | 1 | - | 1.0 | ENTRY IGNITION:cohhcarnage |
+| 14 | Lies of P | +3.25 | 80 | 2,847 | - | - | 41 | - | 0.9224 | ENTRY IGNITION:blackufa |
+| 15 | Yu-Gi-Oh! Master Duel | +2.85 | 82 | 2,756 | - | +46% | 41 | - | 0.4369 | ENTRY |
 
 ## Ignition alerts
 
@@ -30,28 +30,28 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Street Fighter 6 | stylishnoob4 | 19,234 | 7,442 | 70% | 28 |
-| Grand Theft Auto: Vice City | agent00 | 12,795 | 7,106 | 99% | 33 |
-| MARVEL TŌKON: Fighting Souls | maximilian_dood | 9,734 | 6,018 | 98% | 37 |
-| Marvel's Wolverine | supertf | 14,663 | 5,023 | 53% | 29 |
-| Dragon Quest Heroes: Torneko's Mystery Dungeon Classic HD | sumomo_x | 3,240 | 2,187 | 83% | 72 |
-| Bloodborne | penta | 7,075 | 2,009 | 75% | 71 |
-| Street Fighter V | lowtiergod | 12,902 | 1,598 | 100% | 97 |
+| Rainbow Six Siege | rainbow6 | 22,272 | 9,964 | 76% | 24 |
+| Gakuen iDOLM@STER | yuyuta0702 | 11,462 | 8,567 | 100% | 38 |
+| SILENT HILL: townfall | cohhcarnage | 15,088 | 7,467 | 100% | 42 |
+| Grand Theft Auto: Vice City | agent00 | 12,795 | 6,562 | 100% | 49 |
+| Dragon Quest Heroes: Torneko's Mystery Dungeon Classic HD | assarisyoko1 | 5,471 | 3,787 | 51% | 43 |
+| How to Fish | akarindao | 4,105 | 2,732 | 93% | 78 |
+| Lies of P | blackufa | 4,452 | 2,626 | 92% | 80 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 0.982 | Grand Theft Auto V | 69,462 | 70,724 |
-| 0.673 | Onimusha: Way of the Sword | 21,373 | 31,770 |
-| 0.294 | Street Fighter 6 | 10,612 | 36,041 |
-| 0.252 | Phasmophobia | 3,638 | 14,450 |
-| 0.215 | Rocket League | 6,223 | 28,926 |
-| 0.033 | Monster Hunter Wilds | 1,691 | 50,534 |
-| 0.028 | Rainbow Six Siege | 2,426 | 87,525 |
-| 0.026 | Delta Force | 3,413 | 131,156 |
-| 0.012 | Counter-Strike | 16,243 | 1,330,975 |
-| 0.004 | PUBG: BATTLEGROUNDS | 3,166 | 783,474 |
+| 1.116 | Grand Theft Auto V | 78,941 | 70,724 |
+| 0.896 | Wuthering Waves | 11,254 | 12,565 |
+| 0.547 | Onimusha: Way of the Sword | 17,394 | 31,770 |
+| 0.407 | Rocket League | 11,775 | 28,926 |
+| 0.368 | Arena Breakout: Infinite | 14,888 | 40,448 |
+| 0.046 | Path of Exile 2 | 2,728 | 58,943 |
+| 0.037 | VRChat | 2,070 | 55,381 |
+| 0.037 | Delta Force | 4,889 | 131,156 |
+| 0.032 | Monster Hunter Wilds | 1,642 | 50,534 |
+| 0.013 | PUBG: BATTLEGROUNDS | 9,973 | 783,474 |
 
 ---
 
