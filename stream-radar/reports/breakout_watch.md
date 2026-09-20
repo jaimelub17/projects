@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-09-20T04` (UTC). History: 113 snapshots spanning 555h.
-Reference windows: short = `2026-09-19T20`, day = `2026-09-19T07`.
+Generated from snapshot `2026-09-20T11` (UTC). History: 114 snapshots spanning 562h.
+Reference windows: short = `2026-09-20T04`, day = `2026-09-19T12`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | VRChat | +3.46 | 37 | 6,744 | +17% | +237% | 99 | -1% | 0.2671 |  |
-| 2 | Graveyard Keeper II | +3.25 | 56 | 4,104 | - | - | 10 | - | 0.9868 | ENTRY IGNITION:shinjifromjapanxd |
-| 3 | TCG Card Shop Simulator | +3.25 | 83 | 2,381 | - | - | 62 | - | 0.6711 | ENTRY IGNITION:39daph |
-| 4 | Pokémon Gold Version | +3.25 | 74 | 2,874 | - | - | 1 | - | 1.0 | ENTRY IGNITION:loganpaulwastaken |
-| 5 | Control | +3.25 | 57 | 4,069 | - | - | 42 | - | 0.8739 | ENTRY IGNITION:moistcr1tikal |
-| 6 | Meat Grinder | +3.25 | 52 | 4,241 | - | - | 1 | - | 1.0 | ENTRY IGNITION:henyathegenius |
-| 7 | Super Smash Bros. Ultimate | +3.25 | 97 | 1,908 | - | - | 85 | - | 0.3684 | ENTRY IGNITION:vgbootcamp |
-| 8 | Bloodborne | +3.02 | 66 | 3,178 | - | +19% | 34 | - | 0.8962 | ENTRY IGNITION:penta |
-| 9 | Destiny 2 | +2.25 | 99 | 1,649 | - | - | 100 | - | 0.1443 | ENTRY |
-| 10 | Dawson Oaks Trailer Park | +2.25 | 4 | 50,669 | - | - | 31 | - | 0.8806 | ENTRY |
-| 11 | Photomaly | +2.25 | 73 | 3,045 | - | - | 6 | - | 0.9928 | ENTRY |
-| 12 | FINAL FANTASY XIII | +2.25 | 84 | 2,295 | - | - | 7 | - | 0.9547 | ENTRY |
-| 13 | The Forest | +2.25 | 79 | 2,401 | - | - | 29 | - | 0.683 | ENTRY |
-| 14 | EA Sports College Football 27 | +2.25 | 76 | 2,420 | - | - | 98 | - | 0.7595 | ENTRY |
-| 15 | Hollow Knight: Silksong | +2.25 | 92 | 2,022 | - | - | 59 | - | 0.6672 | ENTRY |
+| 1 | Apex Legends | +5.02 | 8 | 64,343 | +755% | +78% | 98 | -1% | 0.5362 |  |
+| 2 | Hearthstone | +4.23 | 23 | 12,367 | +196% | +76% | 92 | +51% | 0.2253 |  |
+| 3 | Onimusha: Way of the Sword | +3.81 | 20 | 14,170 | +637% | -19% | 100 | +1% | 0.7109 |  |
+| 4 | Big Walk | +3.65 | 66 | 3,953 | - | +62% | 29 | - | 0.9284 | ENTRY IGNITION:akarindao |
+| 5 | Clive Barker's Hellraiser: Revival | +3.33 | 60 | 4,464 | +99% | +111% | 21 | -5% | 0.4162 |  |
+| 6 | Mario Kart World | +3.25 | 90 | 2,308 | - | - | 19 | - | 0.9159 | ENTRY IGNITION:hanjoudesu |
+| 7 | Honkai: Star Rail | +3.25 | 25 | 11,225 | - | - | 100 | - | 0.2609 | ENTRY IGNITION:zy0xxx |
+| 8 | Danganronpa: Trigger Happy Havoc | +3.25 | 72 | 3,370 | - | - | 12 | - | 0.9751 | ENTRY IGNITION:hiiragitsurugi |
+| 9 | DRAGON QUEST VII Reimagined | +3.25 | 33 | 8,218 | - | - | 6 | - | 0.995 | ENTRY IGNITION:yaritaiji |
+| 10 | Z1: Battle Royale | +3.25 | 47 | 5,656 | - | - | 66 | - | 0.7306 | ENTRY IGNITION:chowh1 |
+| 11 | Splatoon 3 | +3.25 | 41 | 6,555 | - | - | 41 | - | 0.9619 | ENTRY IGNITION:cr_vanilla |
+| 12 | VALORANT | +3.04 | 3 | 101,135 | +326% | +5% | 99 | +3% | 0.1775 |  |
+| 13 | World of Tanks | +3.01 | 27 | 9,420 | +203% | -39% | 100 | +43% | 0.4069 | IGNITION:dakillzor |
+| 14 | Escape from Tarkov | +2.91 | 16 | 17,979 | +242% | +21% | 98 | +2% | 0.2888 |  |
+| 15 | Dota 2 | +2.78 | 6 | 75,856 | +339% | -16% | 97 | -3% | 0.1928 |  |
 
 ## Ignition alerts
 
@@ -30,29 +30,27 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Meat Grinder | henyathegenius | 4,538 | 4,241 | 100% | 52 |
-| Graveyard Keeper II | shinjifromjapanxd | 6,318 | 4,050 | 99% | 56 |
-| Control | moistcr1tikal | 6,506 | 3,556 | 87% | 57 |
-| Pokémon Gold Version | loganpaulwastaken | 4,644 | 2,874 | 100% | 74 |
-| Bloodborne | penta | 7,075 | 2,848 | 90% | 66 |
-| DayZ | smoke | 3,570 | 2,587 | 69% | 62 |
-| TCG Card Shop Simulator | 39daph | 3,806 | 1,598 | 67% | 83 |
-| Path of Exile 2 | xthefarmerx | 49,753 | 1,480 | 59% | 78 |
+| DRAGON QUEST VII Reimagined | yaritaiji | 13,970 | 8,177 | 100% | 33 |
+| Splatoon 3 | cr_vanilla | 6,305 | 6,305 | 96% | 41 |
+| Z1: Battle Royale | chowh1 | 6,559 | 4,132 | 73% | 47 |
+| Big Walk | akarindao | 4,105 | 3,670 | 93% | 66 |
+| Danganronpa: Trigger Happy Havoc | hiiragitsurugi | 17,222 | 3,286 | 98% | 72 |
+| Mario Kart World | hanjoudesu | 6,953 | 2,114 | 92% | 90 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 0.685 | Grand Theft Auto V | 50,257 | 73,342 |
-| 0.28 | Rocket League | 7,968 | 28,420 |
-| 0.199 | Phasmophobia | 3,349 | 16,848 |
-| 0.189 | ARC Raiders | 5,857 | 31,022 |
-| 0.148 | Overwatch | 12,534 | 84,687 |
-| 0.028 | Apex Legends | 7,523 | 270,820 |
-| 0.026 | Delta Force | 3,341 | 128,790 |
-| 0.02 | Dota 2 | 17,269 | 860,350 |
-| 0.01 | Counter-Strike | 13,580 | 1,317,931 |
-| 0.004 | PUBG: BATTLEGROUNDS | 3,051 | 775,517 |
+| 0.828 | Grand Theft Auto V | 60,694 | 73,342 |
+| 0.408 | Onimusha: Way of the Sword | 14,170 | 34,765 |
+| 0.357 | Rocket League | 10,136 | 28,420 |
+| 0.238 | Apex Legends | 64,343 | 270,820 |
+| 0.196 | Phasmophobia | 3,299 | 16,848 |
+| 0.036 | Delta Force | 4,669 | 128,790 |
+| 0.032 | Counter-Strike | 41,697 | 1,317,931 |
+| 0.021 | Valheim | 5,595 | 265,272 |
+| 0.02 | Rainbow Six Siege | 1,984 | 101,729 |
+| 0.01 | PUBG: BATTLEGROUNDS | 7,548 | 775,517 |
 
 ---
 
