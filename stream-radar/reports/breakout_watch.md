@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-09-20T16` (UTC). History: 115 snapshots spanning 567h.
+Generated from snapshot `2026-09-20T18` (UTC). History: 116 snapshots spanning 569h.
 Reference windows: short = `2026-09-20T11`, day = `2026-09-19T17`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Pokémon Champions | +5.91 | 33 | 12,158 | +458% | -9% | 94 | +54% | 0.5181 | IGNITION:pokemon,pokealexvgc |
-| 2 | Rocket League | +5.14 | 4 | 119,258 | +1077% | +10% | 100 | +0% | 0.3769 |  |
-| 3 | Active Matter | +5.05 | 24 | 18,400 | +666% | -62% | 100 | +20% | 0.3317 | IGNITION:recrent,dunduk |
-| 4 | Jinro Metropolis | +4.92 | 60 | 6,687 | - | +71% | 12 | - | 0.671 | ENTRY IGNITION:xhalli4x |
-| 5 | Onimusha: Way of the Sword | +4.36 | 26 | 16,985 | +20% | +286% | 100 | +0% | 0.6987 | IGNITION:indegnasen0706 |
-| 6 | We Were Here Forever | +4.25 | 30 | 15,462 | - | - | 8 | - | 0.772 | ENTRY IGNITION:ironmouse,michimochievee |
-| 7 | Valheim | +4.14 | 19 | 22,848 | +308% | +115% | 100 | +1% | 0.1499 |  |
-| 8 | World of Tanks | +3.87 | 17 | 42,572 | +352% | +85% | 100 | +0% | 0.6015 |  |
-| 9 | Yu-Gi-Oh! Master Duel | +3.85 | 82 | 4,568 | +108% | - | 69 | +116% | 0.4827 | BREADTH ENTRY |
-| 10 | Fortnite | +3.57 | 10 | 66,509 | +332% | +74% | 96 | -3% | 0.3816 |  |
-| 11 | Street Fighter 6 | +3.39 | 51 | 7,701 | +68% | +100% | 100 | +0% | 0.1745 |  |
-| 12 | Gakuen iDOLM@STER | +3.25 | 55 | 7,288 | - | - | 4 | - | 0.9669 | ENTRY IGNITION:yuyuta0702 |
-| 13 | Cult of the Lamb | +3.25 | 69 | 5,653 | - | - | 39 | - | 0.913 | ENTRY IGNITION:sam1268 |
-| 14 | AI Pixel Battle | +3.25 | 94 | 3,486 | - | - | 2 | - | 0.9997 | ENTRY IGNITION:akamikarubi |
-| 15 | Dawson Oaks Trailer Park | +3.25 | 68 | 5,753 | - | - | 6 | - | 0.8543 | ENTRY IGNITION:kr1stw |
+| 1 | Rocket League | +8.94 | 2 | 412,045 | +3965% | +281% | 100 | +0% | 0.2259 |  |
+| 2 | Valheim | +6.62 | 15 | 50,269 | +798% | +372% | 98 | -1% | 0.2478 |  |
+| 3 | Virtual Casino | +5.96 | 25 | 16,518 | +112% | +65% | 33 | +154% | 0.1448 | BREADTH IGNITION:slimenkpac |
+| 4 | Pokémon Champions | +4.97 | 40 | 10,723 | +392% | -20% | 83 | +36% | 0.3423 | IGNITION:pokemon,pokealexvgc |
+| 5 | Rainbow Six Siege | +4.82 | 24 | 20,215 | +919% | -46% | 97 | -1% | 0.5043 | IGNITION:rainbow6 |
+| 6 | Jinro Metropolis | +4.35 | 62 | 6,907 | - | +77% | 6 | - | 0.7471 | ENTRY IGNITION:xhalli4x |
+| 7 | Total War: WARHAMMER III | +4.27 | 94 | 3,689 | +34% | - | 42 | +147% | 0.3391 | BREADTH ENTRY IGNITION:tangent |
+| 8 | PUBG: BATTLEGROUNDS | +3.76 | 19 | 29,413 | +290% | +97% | 98 | +1% | 0.1882 |  |
+| 9 | Counter-Strike | +3.74 | 3 | 198,242 | +375% | +74% | 100 | +0% | 0.1954 |  |
+| 10 | EA Sports FC 27 | +3.54 | 5 | 139,529 | +269% | +100% | 98 | +3% | 0.3304 |  |
+| 11 | Call of Duty: Warzone | +3.42 | 26 | 13,062 | +108% | +63% | 99 | +1% | 0.0743 | IGNITION:enkeo_ |
+| 12 | VRChat | +3.37 | 92 | 3,875 | +69% | - | 100 | +100% | 0.1641 | BREADTH ENTRY |
+| 13 | Fortnite | +3.30 | 9 | 59,951 | +290% | +57% | 96 | -3% | 0.1103 |  |
+| 14 | War Thunder | +3.26 | 90 | 3,926 | - | -2% | 100 | - | 0.2848 | ENTRY IGNITION:warthunder_esports,warthunder_esports_ru |
+| 15 | Hello Neighbor | +3.25 | 34 | 13,456 | - | - | 9 | - | 0.9981 | ENTRY IGNITION:t2x2 |
 
 ## Ignition alerts
 
@@ -30,31 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| We Were Here Forever | ironmouse | 19,982 | 11,937 | 77% | 30 |
-| Onimusha: Way of the Sword | indegnasen0706 | 23,388 | 11,868 | 70% | 26 |
-| The Lord of the Rings: Gollum | elajjaz | 11,003 | 9,752 | 92% | 36 |
-| Gakuen iDOLM@STER | yuyuta0702 | 11,462 | 7,047 | 97% | 55 |
-| Anime Shop Simulator ✨ | trymacs | 25,296 | 6,900 | 78% | 41 |
-| Pokémon Champions | pokemon | 69,321 | 6,299 | 52% | 33 |
-| Danganronpa: Trigger Happy Havoc | hiiragitsurugi | 17,222 | 5,978 | 98% | 63 |
-| Cult of the Lamb | sam1268 | 10,784 | 5,161 | 91% | 69 |
-| Dawson Oaks Trailer Park | kr1stw | 4,915 | 4,915 | 85% | 68 |
-| DONUT PANIC | blackufa | 4,700 | 4,700 | 100% | 81 |
+| BLACKWOOD | lirik | 18,304 | 15,660 | 99% | 28 |
+| Hello Neighbor | t2x2 | 16,777 | 13,430 | 100% | 34 |
+| Waterpark Simulator | antoinedaniel | 12,984 | 11,008 | 90% | 38 |
+| Rainbow Six Siege | rainbow6 | 22,272 | 10,195 | 50% | 24 |
+| The Lord of the Rings: Gollum | elajjaz | 11,003 | 8,977 | 91% | 43 |
+| Hollow Knight: Silksong | vedal987 | 8,267 | 6,490 | 85% | 51 |
+| Age of Empires IV | gotaga | 8,893 | 6,184 | 89% | 58 |
+| Jinro Metropolis | xhalli4x | 5,302 | 5,160 | 75% | 62 |
+| Meat Grinder: First Cut | insym | 4,893 | 4,535 | 100% | 84 |
+| The Legend of Zelda: Ocarina of Time | barbarousking | 4,194 | 3,662 | 62% | 74 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 4.196 | Rocket League | 119,258 | 28,420 |
-| 1.077 | Grand Theft Auto V | 78,993 | 73,342 |
-| 0.489 | Onimusha: Way of the Sword | 16,985 | 34,765 |
-| 0.257 | Phasmophobia | 4,336 | 16,848 |
-| 0.237 | Arena Breakout: Infinite | 10,278 | 43,333 |
-| 0.059 | VRChat | 3,474 | 58,981 |
-| 0.058 | Rust | 7,925 | 136,570 |
-| 0.032 | War Thunder | 3,072 | 95,372 |
-| 0.027 | Delta Force | 3,533 | 128,790 |
-| 0.019 | PUBG: BATTLEGROUNDS | 14,405 | 775,517 |
+| 14.498 | Rocket League | 412,045 | 28,420 |
+| 1.413 | Grand Theft Auto V | 103,606 | 73,342 |
+| 0.494 | Among Us | 6,396 | 12,940 |
+| 0.456 | Phasmophobia | 7,690 | 16,848 |
+| 0.286 | Arena Breakout: Infinite | 12,387 | 43,333 |
+| 0.062 | Rust | 8,500 | 136,570 |
+| 0.05 | Baldur's Gate 3 | 3,362 | 67,308 |
+| 0.044 | Apex Legends | 11,948 | 270,820 |
+| 0.041 | War Thunder | 3,926 | 95,372 |
+| 0.038 | PUBG: BATTLEGROUNDS | 29,413 | 775,517 |
 
 ---
 
