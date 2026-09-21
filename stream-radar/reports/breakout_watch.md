@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-09-20T22` (UTC). History: 117 snapshots spanning 573h.
-Reference windows: short = `2026-09-20T16`, day = `2026-09-19T20`.
+Generated from snapshot `2026-09-21T04` (UTC). History: 118 snapshots spanning 579h.
+Reference windows: short = `2026-09-20T22`, day = `2026-09-20T04`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Fortnite | +5.90 | 1 | 369,436 | +455% | +706% | 99 | +3% | 0.3327 |  |
-| 2 | Project Zomboid | +4.15 | 46 | 8,204 | +45% | +97% | 100 | +0% | 0.3381 | IGNITION:edopeh |
-| 3 | Clash Royale | +3.46 | 38 | 9,801 | - | +45% | 53 | - | 0.5948 | ENTRY IGNITION:trymacs |
-| 4 | Baldur's Gate 3 | +3.36 | 80 | 3,923 | - | - | 92 | - | 0.586 | ENTRY IGNITION:shisheyu |
-| 5 | Ready or Not | +3.25 | 87 | 3,604 | - | - | 81 | - | 0.9495 | ENTRY IGNITION:facada |
-| 6 | A Weird Game About Sausage | +3.25 | 28 | 12,813 | - | - | 5 | - | 0.976 | ENTRY IGNITION:anyme023 |
-| 7 | Pokémon Gold Version | +3.25 | 49 | 7,891 | - | - | 3 | - | 0.9957 | ENTRY IGNITION:loganpaulwastaken |
-| 8 | Control | +3.25 | 96 | 3,260 | - | - | 65 | - | 0.8239 | ENTRY IGNITION:stormfall33 |
-| 9 | Resident Evil 2 | +3.25 | 71 | 4,757 | - | - | 55 | - | 0.8867 | ENTRY IGNITION:dariomocciatwitch |
-| 10 | Backseat | +3.25 | 75 | 4,621 | - | - | 3 | - | 0.9829 | ENTRY IGNITION:coachlim |
-| 11 | SILENT HILL 2 | +3.25 | 65 | 5,070 | - | - | 35 | - | 0.5276 | ENTRY IGNITION:bawkbasoup |
-| 12 | MORDHAU | +3.25 | 23 | 17,035 | - | - | 2 | - | 0.9995 | ENTRY IGNITION:washingmachinemmm |
-| 13 | Where Winds Meet | +3.25 | 81 | 4,019 | - | - | 87 | - | 0.535 | ENTRY IGNITION:anniefuchsia |
-| 14 | Rehaunted | +3.25 | 36 | 11,322 | - | - | 10 | - | 0.9809 | ENTRY IGNITION:lirik |
-| 15 | Path of Exile 2 | +3.23 | 59 | 5,319 | -1% | +15% | 100 | +0% | 0.2948 | IGNITION:xthefarmerx,darthmicrotransaction |
+| 1 | Street Fighter 6 | +6.67 | 18 | 15,140 | +345% | +371% | 98 | +2% | 0.7007 |  |
+| 2 | Meat Grinder | +5.03 | 26 | 11,172 | - | +163% | 2 | - | 0.9994 | ENTRY IGNITION:ironmouse |
+| 3 | Super Smash Bros. Ultimate | +3.75 | 73 | 2,715 | - | +42% | 78 | - | 0.4232 | ENTRY IGNITION:vgbootcamp |
+| 4 | Once Human | +3.47 | 45 | 4,826 | +100% | +147% | 98 | -2% | 0.5164 |  |
+| 5 | PERSONA3 RELOAD | +3.25 | 31 | 8,539 | - | - | 24 | - | 0.9475 | ENTRY IGNITION:k4sen |
+| 6 | The Binding of Isaac | +3.25 | 85 | 2,154 | - | - | 5 | - | 0.9949 | ENTRY IGNITION:pge4 |
+| 7 | Alan Wake II | +3.25 | 94 | 1,938 | - | - | 23 | - | 0.6708 | ENTRY IGNITION:strippin |
+| 8 | Death Stranding: Director's Cut | +3.25 | 57 | 4,364 | - | - | 5 | - | 0.9986 | ENTRY IGNITION:sensei_martian |
+| 9 | Detroit: Become Human | +3.25 | 87 | 2,073 | - | - | 15 | - | 0.9754 | ENTRY IGNITION:arky |
+| 10 | BioShock Remastered | +3.25 | 52 | 5,347 | - | - | 5 | - | 0.9987 | ENTRY IGNITION:gingy |
+| 11 | DRAGON QUEST VII Reimagined | +3.25 | 29 | 8,931 | - | - | 11 | - | 0.9979 | ENTRY IGNITION:yaritaiji |
+| 12 | Total War: WARHAMMER III | +2.28 | 93 | 1,984 | - | - | 14 | - | 0.6195 | ENTRY |
+| 13 | FINAL FANTASY VII | +2.25 | 88 | 2,065 | - | - | 19 | - | 0.8678 | ENTRY |
+| 14 | MapleStory | +2.25 | 90 | 2,009 | - | - | 41 | - | 0.6058 | ENTRY |
+| 15 | The Legend of Zelda: Ocarina of Time 3D | +2.25 | 76 | 2,649 | - | - | 7 | - | 0.9834 | ENTRY |
 
 ## Ignition alerts
 
@@ -30,31 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| MORDHAU | washingmachinemmm | 17,027 | 17,027 | 100% | 23 |
-| A Weird Game About Sausage | anyme023 | 129,628 | 12,505 | 98% | 28 |
-| Rehaunted | lirik | 18,304 | 11,106 | 98% | 36 |
-| Pokémon Gold Version | loganpaulwastaken | 7,857 | 7,857 | 100% | 49 |
-| Clash Royale | trymacs | 25,296 | 5,830 | 59% | 38 |
-| World of Tanks | dakillzor | 14,679 | 5,726 | 62% | 41 |
-| Backseat | coachlim | 8,201 | 4,542 | 98% | 75 |
-| Active Matter | wankilstudio | 7,869 | 4,225 | 51% | 47 |
-| Resident Evil 2 | dariomocciatwitch | 4,218 | 4,218 | 89% | 71 |
-| Pokémon Champions | pokemon | 69,321 | 3,602 | 73% | 68 |
+| Meat Grinder | ironmouse | 19,982 | 11,165 | 100% | 26 |
+| DRAGON QUEST VII Reimagined | yaritaiji | 13,970 | 8,912 | 100% | 29 |
+| PERSONA3 RELOAD | k4sen | 13,201 | 8,091 | 95% | 31 |
+| BioShock Remastered | gingy | 7,682 | 5,340 | 100% | 52 |
+| Death Stranding: Director's Cut | sensei_martian | 4,358 | 4,358 | 100% | 57 |
+| The Binding of Isaac | pge4 | 3,936 | 2,143 | 99% | 85 |
+| Detroit: Become Human | arky | 3,644 | 2,022 | 98% | 87 |
+| World of Tanks | dakillzor | 14,679 | 1,878 | 67% | 72 |
+| Bloodborne | penta | 7,075 | 1,836 | 83% | 83 |
+| Baldur's Gate 3 | pobelter | 4,625 | 1,377 | 57% | 77 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 3.271 | Rocket League | 92,959 | 28,420 |
-| 2.221 | Grand Theft Auto V | 162,913 | 73,342 |
-| 0.492 | Phasmophobia | 8,289 | 16,848 |
-| 0.284 | Arena Breakout: Infinite | 12,299 | 43,333 |
-| 0.252 | Ready or Not | 3,604 | 14,276 |
-| 0.037 | Rust | 4,997 | 136,570 |
-| 0.029 | Apex Legends | 7,727 | 270,820 |
-| 0.027 | Delta Force | 3,440 | 128,790 |
-| 0.027 | Counter-Strike | 35,140 | 1,317,931 |
-| 0.009 | PUBG: BATTLEGROUNDS | 6,773 | 775,517 |
+| 0.911 | Grand Theft Auto V | 70,326 | 77,174 |
+| 0.443 | Street Fighter 6 | 15,140 | 34,198 |
+| 0.225 | Rocket League | 6,908 | 30,687 |
+| 0.207 | Dead by Daylight | 14,621 | 70,663 |
+| 0.197 | Phasmophobia | 3,551 | 18,012 |
+| 0.024 | Project Zomboid | 1,812 | 74,658 |
+| 0.018 | Delta Force | 2,264 | 128,569 |
+| 0.014 | Dota 2 | 12,764 | 899,957 |
+| 0.011 | Counter-Strike | 14,697 | 1,364,115 |
+| 0.002 | PUBG: BATTLEGROUNDS | 1,642 | 782,467 |
 
 ---
 
