@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-09-21T12` (UTC). History: 119 snapshots spanning 587h.
-Reference windows: short = `2026-09-21T04`, day = `2026-09-20T11`.
+Generated from snapshot `2026-09-21T19` (UTC). History: 120 snapshots spanning 594h.
+Reference windows: short = `2026-09-21T12`, day = `2026-09-20T18`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Mario Kart World | +7.79 | 11 | 44,525 | - | +1829% | 24 | - | 0.9504 | ENTRY |
-| 2 | Rainbow Six Siege | +7.34 | 22 | 14,210 | +184% | +616% | 99 | +1% | 0.6949 | IGNITION:rainbow6 |
-| 3 | Overwatch | +5.86 | 6 | 49,274 | +514% | +399% | 99 | +0% | 0.4876 |  |
-| 4 | PUBG: BATTLEGROUNDS | +5.74 | 27 | 11,952 | +628% | +58% | 100 | +0% | 0.3561 | IGNITION:mellstroy |
-| 5 | World of Tanks | +4.70 | 40 | 9,058 | +225% | -4% | 100 | +82% | 0.2257 | IGNITION:dakillzor,skill4ltu |
-| 6 | Dota 2 | +4.67 | 2 | 106,396 | +734% | +40% | 95 | -5% | 0.2174 |  |
-| 7 | We Were Here Forever | +4.25 | 23 | 14,937 | - | - | 8 | - | 0.7915 | ENTRY IGNITION:ironmouse,michimochievee |
-| 8 | Crypto | +3.98 | 67 | 4,009 | +134% | +91% | 97 | +23% | 0.1165 |  |
-| 9 | Apex Legends | +3.88 | 3 | 70,084 | +499% | +9% | 98 | +0% | 0.2699 |  |
-| 10 | Fire Emblem: Fortune's Weave | +3.74 | 35 | 9,784 | +62% | +63% | 100 | +0% | 0.3139 | IGNITION:blusewilly_retry,minoru04160 |
-| 11 | Teamfight Tactics | +3.71 | 19 | 17,191 | +357% | +50% | 98 | +5% | 0.0901 |  |
-| 12 | Onimusha: Way of the Sword | +3.35 | 24 | 13,219 | +258% | -7% | 100 | +3% | 0.703 | IGNITION:indegnasen0706 |
-| 13 | Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island | +3.25 | 85 | 2,334 | - | - | 16 | - | 0.8963 | ENTRY IGNITION:naru0419045 |
-| 14 | LOCKDOWN Protocol | +3.25 | 42 | 7,539 | - | - | 16 | - | 0.4258 | ENTRY IGNITION:gocchanmikey |
-| 15 | Machine Party | +3.25 | 59 | 4,771 | - | - | 14 | - | 0.9608 | ENTRY IGNITION:yuzumi_neon |
+| 1 | SILENT HILL: townfall | +5.13 | 27 | 19,147 | +19% | - | 39 | +179% | 0.3471 | BREADTH ENTRY IGNITION:distortion2,welovegames |
+| 2 | Mimic Party | +4.25 | 35 | 13,889 | - | - | 40 | - | 0.5224 | ENTRY IGNITION:maximebiaggi,djilsi |
+| 3 | Phasmophobia | +4.11 | 39 | 10,394 | +245% | +35% | 94 | -6% | 0.6752 | IGNITION:insym |
+| 4 | Z1: Battle Royale | +3.85 | 59 | 6,822 | +236% | - | 99 | +57% | 0.2743 | ENTRY |
+| 5 | World of Tanks | +3.75 | 22 | 24,602 | +172% | -14% | 99 | -1% | 0.2089 | IGNITION:quickybaby,dakillzor |
+| 6 | DayZ | +3.55 | 62 | 6,093 | +231% | +37% | 100 | +1% | 0.149 |  |
+| 7 | Grand Theft Auto V | +3.45 | 2 | 126,324 | +344% | +22% | 100 | +5% | 0.1559 |  |
+| 8 | Dead by Daylight | +3.33 | 21 | 15,558 | +89% | +2% | 98 | +1% | 0.1163 | IGNITION:realzbluewater,spookyloopz |
+| 9 | Batomon Showdown | +3.25 | 33 | 15,136 | - | - | 17 | - | 0.9744 | ENTRY IGNITION:northernlion |
+| 10 | Super Mario Maker 2 | +3.25 | 42 | 9,229 | - | - | 19 | - | 0.9429 | ENTRY IGNITION:batora324 |
+| 11 | Heroes of the Storm | +3.25 | 76 | 5,438 | - | - | 55 | - | 0.655 | ENTRY IGNITION:grubby |
+| 12 | Normal Golf Game | +3.25 | 75 | 5,492 | - | - | 11 | - | 0.5424 | ENTRY IGNITION:tomato |
+| 13 | Happy Wheels | +3.25 | 86 | 4,421 | - | - | 35 | - | 0.7813 | ENTRY IGNITION:zentreya |
+| 14 | Escape the Backrooms | +3.25 | 80 | 4,613 | - | - | 59 | - | 0.6026 | ENTRY IGNITION:hennie2001 |
+| 15 | The Plant Shop | +3.25 | 48 | 8,408 | - | - | 16 | - | 0.8465 | ENTRY IGNITION:knekro |
 
 ## Ignition alerts
 
@@ -30,31 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| We Were Here Forever | ironmouse | 19,982 | 11,822 | 79% | 23 |
-| Rainbow Six Siege | rainbow6 | 22,272 | 9,874 | 69% | 22 |
-| Onimusha: Way of the Sword | indegnasen0706 | 23,388 | 9,293 | 70% | 24 |
-| PERSONA3 RELOAD | k4sen | 13,201 | 9,050 | 96% | 38 |
-| Gakuen iDOLM@STER | yuyuta0702 | 11,462 | 6,565 | 100% | 48 |
-| Machine Party | yuzumi_neon | 4,584 | 4,584 | 96% | 59 |
-| RV There Yet? | dmitry_lixxx | 7,267 | 3,352 | 95% | 72 |
-| Rust | oilrats | 3,545 | 3,100 | 52% | 51 |
-| The Legend of Zelda: Ocarina of Time | barbarousking | 4,194 | 2,304 | 81% | 81 |
-| Mahjong Soul | mimiluckying | 6,380 | 2,208 | 78% | 80 |
+| Batomon Showdown | northernlion | 14,748 | 14,748 | 97% | 33 |
+| PUBG: BATTLEGROUNDS | sasavot | 18,082 | 10,746 | 55% | 24 |
+| Super Mario Maker 2 | batora324 | 21,701 | 8,702 | 94% | 42 |
+| Watch Your Plastic Duck | ironmouse | 19,982 | 8,646 | 100% | 46 |
+| Fears to Fathom: Woodbury Getaway | mastu | 239,077 | 8,032 | 100% | 51 |
+| Mimic Party | maximebiaggi | 7,256 | 7,256 | 52% | 35 |
+| The Plant Shop | knekro | 9,508 | 7,117 | 85% | 48 |
+| Phasmophobia | insym | 7,018 | 7,018 | 68% | 39 |
+| Destiny 2 | aztecross | 6,728 | 6,728 | 63% | 41 |
+| MECCHA CHAMELEON | xthesolutiontv | 6,480 | 4,624 | 70% | 61 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 0.553 | Overwatch | 49,274 | 89,048 |
-| 0.389 | Onimusha: Way of the Sword | 13,219 | 33,997 |
-| 0.369 | Grand Theft Auto V | 28,480 | 77,174 |
-| 0.253 | Apex Legends | 70,084 | 277,408 |
-| 0.251 | Arena Breakout: Infinite | 11,552 | 46,060 |
-| 0.034 | Delta Force | 4,340 | 128,569 |
-| 0.033 | Counter-Strike | 45,638 | 1,364,115 |
-| 0.032 | Valheim | 9,150 | 287,246 |
-| 0.032 | DayZ | 1,842 | 57,450 |
-| 0.015 | PUBG: BATTLEGROUNDS | 11,952 | 782,467 |
+| 1.637 | Grand Theft Auto V | 126,324 | 77,174 |
+| 1.166 | Rocket League | 35,794 | 30,687 |
+| 0.66 | MECCHA CHAMELEON | 6,642 | 10,059 |
+| 0.577 | Phasmophobia | 10,394 | 18,012 |
+| 0.277 | Arena Breakout: Infinite | 12,755 | 46,060 |
+| 0.064 | Rust | 8,101 | 127,472 |
+| 0.058 | Counter-Strike | 79,162 | 1,364,115 |
+| 0.054 | Project Zomboid | 4,020 | 74,658 |
+| 0.038 | Delta Force | 4,910 | 128,569 |
+| 0.025 | PUBG: BATTLEGROUNDS | 19,470 | 782,467 |
 
 ---
 
