@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-09-21T19` (UTC). History: 120 snapshots spanning 594h.
-Reference windows: short = `2026-09-21T12`, day = `2026-09-20T18`.
+Generated from snapshot `2026-09-21T23` (UTC). History: 121 snapshots spanning 598h.
+Reference windows: short = `2026-09-21T19`, day = `2026-09-20T22`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | SILENT HILL: townfall | +5.13 | 27 | 19,147 | +19% | - | 39 | +179% | 0.3471 | BREADTH ENTRY IGNITION:distortion2,welovegames |
-| 2 | Mimic Party | +4.25 | 35 | 13,889 | - | - | 40 | - | 0.5224 | ENTRY IGNITION:maximebiaggi,djilsi |
-| 3 | Phasmophobia | +4.11 | 39 | 10,394 | +245% | +35% | 94 | -6% | 0.6752 | IGNITION:insym |
-| 4 | Z1: Battle Royale | +3.85 | 59 | 6,822 | +236% | - | 99 | +57% | 0.2743 | ENTRY |
-| 5 | World of Tanks | +3.75 | 22 | 24,602 | +172% | -14% | 99 | -1% | 0.2089 | IGNITION:quickybaby,dakillzor |
-| 6 | DayZ | +3.55 | 62 | 6,093 | +231% | +37% | 100 | +1% | 0.149 |  |
-| 7 | Grand Theft Auto V | +3.45 | 2 | 126,324 | +344% | +22% | 100 | +5% | 0.1559 |  |
-| 8 | Dead by Daylight | +3.33 | 21 | 15,558 | +89% | +2% | 98 | +1% | 0.1163 | IGNITION:realzbluewater,spookyloopz |
-| 9 | Batomon Showdown | +3.25 | 33 | 15,136 | - | - | 17 | - | 0.9744 | ENTRY IGNITION:northernlion |
-| 10 | Super Mario Maker 2 | +3.25 | 42 | 9,229 | - | - | 19 | - | 0.9429 | ENTRY IGNITION:batora324 |
-| 11 | Heroes of the Storm | +3.25 | 76 | 5,438 | - | - | 55 | - | 0.655 | ENTRY IGNITION:grubby |
-| 12 | Normal Golf Game | +3.25 | 75 | 5,492 | - | - | 11 | - | 0.5424 | ENTRY IGNITION:tomato |
-| 13 | Happy Wheels | +3.25 | 86 | 4,421 | - | - | 35 | - | 0.7813 | ENTRY IGNITION:zentreya |
-| 14 | Escape the Backrooms | +3.25 | 80 | 4,613 | - | - | 59 | - | 0.6026 | ENTRY IGNITION:hennie2001 |
-| 15 | The Plant Shop | +3.25 | 48 | 8,408 | - | - | 16 | - | 0.8465 | ENTRY IGNITION:knekro |
+| 1 | R.E.P.O. | +4.26 | 30 | 10,757 | - | - | 100 | - | 0.4882 | ENTRY IGNITION:giggand,coachlim |
+| 2 | Mechabellum | +3.25 | 100 | 2,366 | - | - | 9 | - | 0.9417 | ENTRY IGNITION:grubby |
+| 3 | I'm Only Sleeping | +3.25 | 76 | 3,239 | - | - | 98 | - | 0.0864 | ENTRY IGNITION:meetenshow |
+| 4 | Abiotic Factor | +3.25 | 88 | 2,903 | - | - | 28 | - | 0.9283 | ENTRY IGNITION:limealicious |
+| 5 | Rust | +3.16 | 42 | 7,788 | -4% | +56% | 98 | +3% | 0.3584 | IGNITION:kenki521,crystalmolly |
+| 6 | Super Mario Maker 2 | +2.64 | 34 | 10,066 | +9% | - | 22 | +16% | 0.9565 | BREADTH ENTRY IGNITION:batora324 |
+| 7 | NBA 2K27 | +2.47 | 29 | 10,186 | +91% | +61% | 100 | +6% | 0.1276 |  |
+| 8 | Warframe | +2.26 | 87 | 2,624 | - | - | 100 | - | 0.1593 | ENTRY |
+| 9 | RuneScape: Dragonwilds | +2.26 | 80 | 2,378 | - | -4% | 100 | - | 0.1089 | ENTRY |
+| 10 | Split Fiction | +2.25 | 82 | 3,068 | - | - | 23 | - | 0.9658 | ENTRY |
+| 11 | Star Citizen | +2.25 | 97 | 2,545 | - | - | 91 | - | 0.3678 | ENTRY |
+| 12 | Dumb Ways to Build | +2.25 | 81 | 3,072 | - | - | 23 | - | 0.6149 | ENTRY |
+| 13 | Shockface | +2.25 | 90 | 2,815 | - | - | 2 | - | 0.9993 | ENTRY |
+| 14 | Fire Emblem: Fortune's Weave | +2.05 | 40 | 8,169 | +12% | -7% | 100 | +1% | 0.3044 | IGNITION:admiralbahroo,itmejp |
+| 15 | SILENT HILL: townfall | +1.95 | 28 | 12,966 | -32% | - | 75 | +92% | 0.4359 | ENTRY IGNITION:distortion2 |
 
 ## Ignition alerts
 
@@ -30,31 +30,28 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Batomon Showdown | northernlion | 14,748 | 14,748 | 97% | 33 |
-| PUBG: BATTLEGROUNDS | sasavot | 18,082 | 10,746 | 55% | 24 |
-| Super Mario Maker 2 | batora324 | 21,701 | 8,702 | 94% | 42 |
-| Watch Your Plastic Duck | ironmouse | 19,982 | 8,646 | 100% | 46 |
-| Fears to Fathom: Woodbury Getaway | mastu | 239,077 | 8,032 | 100% | 51 |
-| Mimic Party | maximebiaggi | 7,256 | 7,256 | 52% | 35 |
-| The Plant Shop | knekro | 9,508 | 7,117 | 85% | 48 |
-| Phasmophobia | insym | 7,018 | 7,018 | 68% | 39 |
-| Destiny 2 | aztecross | 6,728 | 6,728 | 63% | 41 |
-| MECCHA CHAMELEON | xthesolutiontv | 6,480 | 4,624 | 70% | 61 |
+| Grand Theft Auto IV | illojuan | 37,098 | 17,571 | 98% | 23 |
+| Super Mario Maker 2 | batora324 | 21,701 | 9,628 | 96% | 34 |
+| Watch Your Plastic Duck | ironmouse | 19,982 | 8,352 | 100% | 41 |
+| Abiotic Factor | limealicious | 5,036 | 2,695 | 93% | 88 |
+| Resident Evil 2 | dariomocciatwitch | 4,218 | 2,290 | 82% | 92 |
+| Mechabellum | grubby | 8,824 | 2,228 | 94% | 100 |
+| Control | stormfall33 | 3,820 | 2,216 | 69% | 79 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 1.637 | Grand Theft Auto V | 126,324 | 77,174 |
-| 1.166 | Rocket League | 35,794 | 30,687 |
-| 0.66 | MECCHA CHAMELEON | 6,642 | 10,059 |
-| 0.577 | Phasmophobia | 10,394 | 18,012 |
-| 0.277 | Arena Breakout: Infinite | 12,755 | 46,060 |
-| 0.064 | Rust | 8,101 | 127,472 |
-| 0.058 | Counter-Strike | 79,162 | 1,364,115 |
-| 0.054 | Project Zomboid | 4,020 | 74,658 |
-| 0.038 | Delta Force | 4,910 | 128,569 |
-| 0.025 | PUBG: BATTLEGROUNDS | 19,470 | 782,467 |
+| 2.509 | Grand Theft Auto V | 193,667 | 77,174 |
+| 0.594 | Rocket League | 18,243 | 30,687 |
+| 0.305 | R.E.P.O. | 10,757 | 35,273 |
+| 0.291 | Phasmophobia | 5,245 | 18,012 |
+| 0.207 | Arena Breakout: Infinite | 9,529 | 46,060 |
+| 0.042 | Path of Exile 2 | 2,766 | 65,895 |
+| 0.037 | Warframe | 2,624 | 70,483 |
+| 0.03 | Counter-Strike | 40,809 | 1,364,115 |
+| 0.018 | Delta Force | 2,253 | 128,569 |
+| 0.008 | PUBG: BATTLEGROUNDS | 6,050 | 782,467 |
 
 ---
 
