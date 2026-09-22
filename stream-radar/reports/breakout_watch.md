@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-09-21T23` (UTC). History: 121 snapshots spanning 598h.
-Reference windows: short = `2026-09-21T19`, day = `2026-09-20T22`.
+Generated from snapshot `2026-09-22T04` (UTC). History: 122 snapshots spanning 603h.
+Reference windows: short = `2026-09-21T23`, day = `2026-09-21T04`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | R.E.P.O. | +4.26 | 30 | 10,757 | - | - | 100 | - | 0.4882 | ENTRY IGNITION:giggand,coachlim |
-| 2 | Mechabellum | +3.25 | 100 | 2,366 | - | - | 9 | - | 0.9417 | ENTRY IGNITION:grubby |
-| 3 | I'm Only Sleeping | +3.25 | 76 | 3,239 | - | - | 98 | - | 0.0864 | ENTRY IGNITION:meetenshow |
-| 4 | Abiotic Factor | +3.25 | 88 | 2,903 | - | - | 28 | - | 0.9283 | ENTRY IGNITION:limealicious |
-| 5 | Rust | +3.16 | 42 | 7,788 | -4% | +56% | 98 | +3% | 0.3584 | IGNITION:kenki521,crystalmolly |
-| 6 | Super Mario Maker 2 | +2.64 | 34 | 10,066 | +9% | - | 22 | +16% | 0.9565 | BREADTH ENTRY IGNITION:batora324 |
-| 7 | NBA 2K27 | +2.47 | 29 | 10,186 | +91% | +61% | 100 | +6% | 0.1276 |  |
-| 8 | Warframe | +2.26 | 87 | 2,624 | - | - | 100 | - | 0.1593 | ENTRY |
-| 9 | RuneScape: Dragonwilds | +2.26 | 80 | 2,378 | - | -4% | 100 | - | 0.1089 | ENTRY |
-| 10 | Split Fiction | +2.25 | 82 | 3,068 | - | - | 23 | - | 0.9658 | ENTRY |
-| 11 | Star Citizen | +2.25 | 97 | 2,545 | - | - | 91 | - | 0.3678 | ENTRY |
-| 12 | Dumb Ways to Build | +2.25 | 81 | 3,072 | - | - | 23 | - | 0.6149 | ENTRY |
-| 13 | Shockface | +2.25 | 90 | 2,815 | - | - | 2 | - | 0.9993 | ENTRY |
-| 14 | Fire Emblem: Fortune's Weave | +2.05 | 40 | 8,169 | +12% | -7% | 100 | +1% | 0.3044 | IGNITION:admiralbahroo,itmejp |
-| 15 | SILENT HILL: townfall | +1.95 | 28 | 12,966 | -32% | - | 75 | +92% | 0.4359 | ENTRY IGNITION:distortion2 |
+| 1 | The Legend of Zelda: Ocarina of Time | +4.10 | 53 | 4,394 | - | +87% | 77 | - | 0.2601 | ENTRY IGNITION:gamesdonequick |
+| 2 | Rust | +3.71 | 33 | 6,766 | -13% | +105% | 100 | +2% | 0.4496 | IGNITION:kenki521,oilrats |
+| 3 | IGTAP: An Incremental Game That's Also a Platformer | +3.25 | 74 | 2,963 | - | - | 6 | - | 0.9922 | ENTRY IGNITION:shinjifromjapanxd |
+| 4 | Grand Theft Auto: Vice City - The Definitive Edition | +3.25 | 72 | 3,168 | - | - | 6 | - | 0.9981 | ENTRY IGNITION:henyathegenius |
+| 5 | Street Fighter V | +3.25 | 100 | 1,617 | - | - | 2 | - | 0.9994 | ENTRY IGNITION:lowtiergod |
+| 6 | Moo Who? | +3.25 | 94 | 1,857 | - | - | 4 | - | 0.7458 | ENTRY IGNITION:bahiaqz |
+| 7 | Monopoly Plus | +3.25 | 83 | 2,484 | - | - | 2 | - | 0.9481 | ENTRY IGNITION:penta |
+| 8 | Slay the Spire II | +3.21 | 79 | 2,752 | - | - | 75 | - | 0.5334 | ENTRY IGNITION:paroniie |
+| 9 | DayZ | +3.17 | 64 | 3,456 | - | - | 98 | - | 0.6968 | ENTRY IGNITION:smoke |
+| 10 | Delta Force | +3.15 | 52 | 4,432 | +97% | +96% | 100 | +0% | 0.4328 |  |
+| 11 | Onimusha: Way of the Sword | +2.64 | 45 | 5,069 | +60% | +37% | 96 | -4% | 0.7428 | IGNITION:vinesauce |
+| 12 | FINAL FANTASY XIV ONLINE | +2.48 | 42 | 4,885 | - | +48% | 100 | - | 0.1175 | ENTRY |
+| 13 | ELDEN RING | +2.40 | 31 | 6,892 | +54% | +86% | 100 | +6% | 0.4362 |  |
+| 14 | BioShock Remastered | +2.32 | 60 | 3,972 | - | -26% | 9 | - | 0.9899 | ENTRY IGNITION:gingy |
+| 15 | Treasure Hunter G | +2.25 | 89 | 2,164 | - | - | 2 | - | 0.9977 | ENTRY |
 
 ## Ignition alerts
 
@@ -30,28 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Grand Theft Auto IV | illojuan | 37,098 | 17,571 | 98% | 23 |
-| Super Mario Maker 2 | batora324 | 21,701 | 9,628 | 96% | 34 |
-| Watch Your Plastic Duck | ironmouse | 19,982 | 8,352 | 100% | 41 |
-| Abiotic Factor | limealicious | 5,036 | 2,695 | 93% | 88 |
-| Resident Evil 2 | dariomocciatwitch | 4,218 | 2,290 | 82% | 92 |
-| Mechabellum | grubby | 8,824 | 2,228 | 94% | 100 |
-| Control | stormfall33 | 3,820 | 2,216 | 69% | 79 |
+| DRAGON QUEST VII Reimagined | yaritaiji | 13,970 | 5,828 | 100% | 40 |
+| BioShock Remastered | gingy | 7,682 | 3,932 | 99% | 60 |
+| Onimusha: Way of the Sword | vinesauce | 10,423 | 3,765 | 74% | 45 |
+| Grand Theft Auto: Vice City - The Definitive Edition | henyathegenius | 4,538 | 3,162 | 100% | 72 |
+| IGTAP: An Incremental Game That's Also a Platformer | shinjifromjapanxd | 6,318 | 2,940 | 99% | 74 |
+| DayZ | smoke | 3,570 | 2,408 | 70% | 64 |
+| Monopoly Plus | penta | 7,075 | 2,355 | 95% | 83 |
+| World of Tanks | dakillzor | 14,679 | 1,659 | 52% | 71 |
+| Street Fighter V | lowtiergod | 12,902 | 1,616 | 100% | 100 |
+| Slay the Spire II | paroniie | 3,276 | 1,468 | 53% | 79 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 2.509 | Grand Theft Auto V | 193,667 | 77,174 |
-| 0.594 | Rocket League | 18,243 | 30,687 |
-| 0.305 | R.E.P.O. | 10,757 | 35,273 |
-| 0.291 | Phasmophobia | 5,245 | 18,012 |
-| 0.207 | Arena Breakout: Infinite | 9,529 | 46,060 |
-| 0.042 | Path of Exile 2 | 2,766 | 65,895 |
-| 0.037 | Warframe | 2,624 | 70,483 |
-| 0.03 | Counter-Strike | 40,809 | 1,364,115 |
-| 0.018 | Delta Force | 2,253 | 128,569 |
-| 0.008 | PUBG: BATTLEGROUNDS | 6,050 | 782,467 |
+| 1.523 | Grand Theft Auto V | 104,011 | 68,284 |
+| 1.501 | 7 Days to Die | 46,679 | 31,107 |
+| 0.369 | Rocket League | 10,501 | 28,437 |
+| 0.261 | Phasmophobia | 3,881 | 14,871 |
+| 0.247 | Overwatch | 18,144 | 73,367 |
+| 0.027 | Warframe | 1,734 | 63,881 |
+| 0.026 | Monster Hunter Wilds | 1,474 | 57,452 |
+| 0.01 | Counter-Strike | 12,142 | 1,218,401 |
+| 0.008 | Dota 2 | 6,414 | 794,330 |
+| 0.003 | PUBG: BATTLEGROUNDS | 2,296 | 754,595 |
 
 ---
 
