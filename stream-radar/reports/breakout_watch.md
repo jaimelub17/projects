@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-09-22T04` (UTC). History: 122 snapshots spanning 603h.
-Reference windows: short = `2026-09-21T23`, day = `2026-09-21T04`.
+Generated from snapshot `2026-09-22T11` (UTC). History: 123 snapshots spanning 610h.
+Reference windows: short = `2026-09-22T04`, day = `2026-09-21T12`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | The Legend of Zelda: Ocarina of Time | +4.10 | 53 | 4,394 | - | +87% | 77 | - | 0.2601 | ENTRY IGNITION:gamesdonequick |
-| 2 | Rust | +3.71 | 33 | 6,766 | -13% | +105% | 100 | +2% | 0.4496 | IGNITION:kenki521,oilrats |
-| 3 | IGTAP: An Incremental Game That's Also a Platformer | +3.25 | 74 | 2,963 | - | - | 6 | - | 0.9922 | ENTRY IGNITION:shinjifromjapanxd |
-| 4 | Grand Theft Auto: Vice City - The Definitive Edition | +3.25 | 72 | 3,168 | - | - | 6 | - | 0.9981 | ENTRY IGNITION:henyathegenius |
-| 5 | Street Fighter V | +3.25 | 100 | 1,617 | - | - | 2 | - | 0.9994 | ENTRY IGNITION:lowtiergod |
-| 6 | Moo Who? | +3.25 | 94 | 1,857 | - | - | 4 | - | 0.7458 | ENTRY IGNITION:bahiaqz |
-| 7 | Monopoly Plus | +3.25 | 83 | 2,484 | - | - | 2 | - | 0.9481 | ENTRY IGNITION:penta |
-| 8 | Slay the Spire II | +3.21 | 79 | 2,752 | - | - | 75 | - | 0.5334 | ENTRY IGNITION:paroniie |
-| 9 | DayZ | +3.17 | 64 | 3,456 | - | - | 98 | - | 0.6968 | ENTRY IGNITION:smoke |
-| 10 | Delta Force | +3.15 | 52 | 4,432 | +97% | +96% | 100 | +0% | 0.4328 |  |
-| 11 | Onimusha: Way of the Sword | +2.64 | 45 | 5,069 | +60% | +37% | 96 | -4% | 0.7428 | IGNITION:vinesauce |
-| 12 | FINAL FANTASY XIV ONLINE | +2.48 | 42 | 4,885 | - | +48% | 100 | - | 0.1175 | ENTRY |
-| 13 | ELDEN RING | +2.40 | 31 | 6,892 | +54% | +86% | 100 | +6% | 0.4362 |  |
-| 14 | BioShock Remastered | +2.32 | 60 | 3,972 | - | -26% | 9 | - | 0.9899 | ENTRY IGNITION:gingy |
-| 15 | Treasure Hunter G | +2.25 | 89 | 2,164 | - | - | 2 | - | 0.9977 | ENTRY |
+| 1 | Dota 2 | +5.24 | 2 | 91,769 | +1331% | -14% | 100 | +6% | 0.2563 |  |
+| 2 | SILENT HILL: townfall | +4.15 | 11 | 36,707 | +113% | +128% | 99 | -1% | 0.1468 |  |
+| 3 | PUBG: BATTLEGROUNDS | +3.67 | 27 | 9,774 | +326% | -18% | 99 | +0% | 0.4975 | IGNITION:mellstroy |
+| 4 | Rust | +3.62 | 31 | 8,752 | +29% | +46% | 99 | -1% | 0.2572 | IGNITION:kenki521,oilrats |
+| 5 | World of Tanks | +3.46 | 38 | 7,473 | +134% | -17% | 95 | +83% | 0.3529 | IGNITION:dakillzor |
+| 6 | Rocket League | +3.38 | 30 | 8,793 | -16% | +89% | 99 | +2% | 0.3496 | IGNITION:rosdri_twitch,nemurf |
+| 7 | Subnautica 2 | +3.25 | 24 | 11,565 | - | - | 9 | - | 0.9281 | ENTRY IGNITION:ironmouse |
+| 8 | Lycans | +3.25 | 48 | 5,229 | - | - | 14 | - | 0.3345 | ENTRY IGNITION:moman |
+| 9 | Dumb Ways to Build | +3.25 | 44 | 5,590 | - | - | 10 | - | 0.3254 | ENTRY IGNITION:mimiluckying |
+| 10 | Yu-Gi-Oh! Master Duel | +3.17 | 91 | 1,981 | - | - | 23 | - | 0.7961 | ENTRY IGNITION:joshuaschmidtygo |
+| 11 | R2 Online: Reign of Revolution | +3.06 | 63 | 3,405 | +24% | +10% | 61 | +154% | 0.3548 | BREADTH |
+| 12 | Heroes of Might and Magic III: The Restoration of Erathia | +3.04 | 73 | 2,852 | - | +52% | 26 | - | 0.3534 | ENTRY |
+| 13 | Hearthstone | +2.95 | 25 | 10,572 | +155% | +11% | 93 | +41% | 0.2045 |  |
+| 14 | PERSONA3 RELOAD | +2.78 | 28 | 9,879 | - | +5% | 16 | - | 0.9649 | ENTRY IGNITION:k4sen |
+| 15 | Diablo IV | +2.43 | 39 | 6,763 | +19% | -3% | 100 | +0% | 0.2209 | IGNITION:wudijo,rob2628 |
 
 ## Ignition alerts
 
@@ -30,31 +30,26 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| DRAGON QUEST VII Reimagined | yaritaiji | 13,970 | 5,828 | 100% | 40 |
-| BioShock Remastered | gingy | 7,682 | 3,932 | 99% | 60 |
-| Onimusha: Way of the Sword | vinesauce | 10,423 | 3,765 | 74% | 45 |
-| Grand Theft Auto: Vice City - The Definitive Edition | henyathegenius | 4,538 | 3,162 | 100% | 72 |
-| IGTAP: An Incremental Game That's Also a Platformer | shinjifromjapanxd | 6,318 | 2,940 | 99% | 74 |
-| DayZ | smoke | 3,570 | 2,408 | 70% | 64 |
-| Monopoly Plus | penta | 7,075 | 2,355 | 95% | 83 |
-| World of Tanks | dakillzor | 14,679 | 1,659 | 52% | 71 |
-| Street Fighter V | lowtiergod | 12,902 | 1,616 | 100% | 100 |
-| Slay the Spire II | paroniie | 3,276 | 1,468 | 53% | 79 |
+| Subnautica 2 | ironmouse | 19,982 | 10,733 | 93% | 24 |
+| PERSONA3 RELOAD | k4sen | 13,201 | 9,532 | 96% | 28 |
+| Rainbow Six Siege | rainbow6 | 22,272 | 6,394 | 76% | 33 |
+| Mario Kart World | hanjoudesu | 6,953 | 2,520 | 96% | 76 |
+| Yu-Gi-Oh! Master Duel | joshuaschmidtygo | 4,483 | 1,577 | 80% | 91 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 1.523 | Grand Theft Auto V | 104,011 | 68,284 |
-| 1.501 | 7 Days to Die | 46,679 | 31,107 |
-| 0.369 | Rocket League | 10,501 | 28,437 |
-| 0.261 | Phasmophobia | 3,881 | 14,871 |
-| 0.247 | Overwatch | 18,144 | 73,367 |
-| 0.027 | Warframe | 1,734 | 63,881 |
-| 0.026 | Monster Hunter Wilds | 1,474 | 57,452 |
-| 0.01 | Counter-Strike | 12,142 | 1,218,401 |
-| 0.008 | Dota 2 | 6,414 | 794,330 |
-| 0.003 | PUBG: BATTLEGROUNDS | 2,296 | 754,595 |
+| 1.753 | 7 Days to Die | 54,537 | 31,107 |
+| 0.667 | Overwatch | 48,957 | 73,367 |
+| 0.47 | Grand Theft Auto V | 32,103 | 68,284 |
+| 0.309 | Rocket League | 8,793 | 28,437 |
+| 0.264 | Escape from Tarkov | 8,510 | 32,206 |
+| 0.034 | Valheim | 7,510 | 222,742 |
+| 0.029 | Counter-Strike | 35,132 | 1,218,401 |
+| 0.027 | Delta Force | 3,251 | 120,884 |
+| 0.017 | Slay the Spire II | 1,622 | 94,284 |
+| 0.013 | PUBG: BATTLEGROUNDS | 9,774 | 754,595 |
 
 ---
 
