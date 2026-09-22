@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-09-22T11` (UTC). History: 123 snapshots spanning 610h.
-Reference windows: short = `2026-09-22T04`, day = `2026-09-21T12`.
+Generated from snapshot `2026-09-22T16` (UTC). History: 124 snapshots spanning 615h.
+Reference windows: short = `2026-09-22T11`, day = `2026-09-21T19`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Dota 2 | +5.24 | 2 | 91,769 | +1331% | -14% | 100 | +6% | 0.2563 |  |
-| 2 | SILENT HILL: townfall | +4.15 | 11 | 36,707 | +113% | +128% | 99 | -1% | 0.1468 |  |
-| 3 | PUBG: BATTLEGROUNDS | +3.67 | 27 | 9,774 | +326% | -18% | 99 | +0% | 0.4975 | IGNITION:mellstroy |
-| 4 | Rust | +3.62 | 31 | 8,752 | +29% | +46% | 99 | -1% | 0.2572 | IGNITION:kenki521,oilrats |
-| 5 | World of Tanks | +3.46 | 38 | 7,473 | +134% | -17% | 95 | +83% | 0.3529 | IGNITION:dakillzor |
-| 6 | Rocket League | +3.38 | 30 | 8,793 | -16% | +89% | 99 | +2% | 0.3496 | IGNITION:rosdri_twitch,nemurf |
-| 7 | Subnautica 2 | +3.25 | 24 | 11,565 | - | - | 9 | - | 0.9281 | ENTRY IGNITION:ironmouse |
-| 8 | Lycans | +3.25 | 48 | 5,229 | - | - | 14 | - | 0.3345 | ENTRY IGNITION:moman |
-| 9 | Dumb Ways to Build | +3.25 | 44 | 5,590 | - | - | 10 | - | 0.3254 | ENTRY IGNITION:mimiluckying |
-| 10 | Yu-Gi-Oh! Master Duel | +3.17 | 91 | 1,981 | - | - | 23 | - | 0.7961 | ENTRY IGNITION:joshuaschmidtygo |
-| 11 | R2 Online: Reign of Revolution | +3.06 | 63 | 3,405 | +24% | +10% | 61 | +154% | 0.3548 | BREADTH |
-| 12 | Heroes of Might and Magic III: The Restoration of Erathia | +3.04 | 73 | 2,852 | - | +52% | 26 | - | 0.3534 | ENTRY |
-| 13 | Hearthstone | +2.95 | 25 | 10,572 | +155% | +11% | 93 | +41% | 0.2045 |  |
-| 14 | PERSONA3 RELOAD | +2.78 | 28 | 9,879 | - | +5% | 16 | - | 0.9649 | ENTRY IGNITION:k4sen |
-| 15 | Diablo IV | +2.43 | 39 | 6,763 | +19% | -3% | 100 | +0% | 0.2209 | IGNITION:wudijo,rob2628 |
+| 1 | Marbles on Stream | +6.74 | 47 | 8,187 | +381% | +83% | 98 | +42% | 0.6468 | IGNITION:buja |
+| 2 | SILENT HILL: townfall | +5.96 | 2 | 121,185 | +230% | +533% | 100 | +1% | 0.0879 |  |
+| 3 | Normal Golf Game | +5.13 | 29 | 14,092 | - | +157% | 9 | - | 0.8889 | ENTRY IGNITION:northernlion |
+| 4 | Heroes of Might and Magic III: The Restoration of Erathia | +4.43 | 50 | 7,596 | +166% | +49% | 48 | +85% | 0.4094 |  |
+| 5 | NBA 2K27 | +4.40 | 35 | 11,213 | +114% | +110% | 99 | -1% | 0.4151 | IGNITION:flight23white |
+| 6 | Halloween: The Game | +4.40 | 62 | 5,844 | +103% | +56% | 100 | +35% | 0.3761 | IGNITION:tru3ta1ent |
+| 7 | CONTROL Resonant | +4.25 | 26 | 16,357 | - | - | 99 | - | 0.1996 | ENTRY IGNITION:streamdatabase,strippin |
+| 8 | Graveyard Keeper II | +4.25 | 38 | 11,392 | - | - | 100 | - | 0.2679 | ENTRY IGNITION:dansgaming,edopeh |
+| 9 | Stardew Valley | +4.16 | 67 | 5,688 | - | - | 92 | - | 0.3411 | ENTRY IGNITION:littlebigwhale,sundae |
+| 10 | World of Tanks | +4.15 | 18 | 41,504 | +455% | +69% | 98 | +3% | 0.546 |  |
+| 11 | Escape from Tarkov | +3.88 | 24 | 20,121 | +136% | +11% | 97 | -1% | 0.3546 | IGNITION:nickmercs,dunduk |
+| 12 | Teamfight Tactics | +3.76 | 21 | 24,280 | +54% | +62% | 96 | -1% | 0.2528 | IGNITION:mistermv,kiyoon |
+| 13 | Danganronpa: Trigger Happy Havoc | +3.25 | 56 | 7,110 | - | - | 8 | - | 0.9975 | ENTRY IGNITION:hiiragitsurugi |
+| 14 | Mortal Shell II | +3.25 | 44 | 8,767 | - | - | 92 | - | 0.8607 | ENTRY IGNITION:skywhywalker |
+| 15 | Mechabellum | +3.25 | 85 | 4,103 | - | - | 13 | - | 0.8711 | ENTRY IGNITION:bonjwa |
 
 ## Ignition alerts
 
@@ -30,26 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Subnautica 2 | ironmouse | 19,982 | 10,733 | 93% | 24 |
-| PERSONA3 RELOAD | k4sen | 13,201 | 9,532 | 96% | 28 |
-| Rainbow Six Siege | rainbow6 | 22,272 | 6,394 | 76% | 33 |
-| Mario Kart World | hanjoudesu | 6,953 | 2,520 | 96% | 76 |
-| Yu-Gi-Oh! Master Duel | joshuaschmidtygo | 4,483 | 1,577 | 80% | 91 |
+| Normal Golf Game | northernlion | 14,748 | 12,527 | 89% | 29 |
+| Rainbow Six Siege | rainbow6 | 22,272 | 10,590 | 62% | 25 |
+| PUBG: BATTLEGROUNDS | recrent | 11,381 | 7,908 | 57% | 27 |
+| Mortal Shell II | skywhywalker | 13,992 | 7,546 | 86% | 44 |
+| Danganronpa: Trigger Happy Havoc | hiiragitsurugi | 17,222 | 7,092 | 100% | 56 |
+| Marbles on Stream | buja | 5,295 | 5,295 | 65% | 47 |
+| Destiny 2 | aztecross | 6,728 | 4,998 | 57% | 43 |
+| Cult of the Lamb | sam1268 | 10,784 | 4,778 | 95% | 74 |
+| Mechabellum | bonjwa | 12,174 | 3,574 | 87% | 85 |
+| Clash Royale | narek_cr | 3,886 | 3,270 | 77% | 84 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 1.753 | 7 Days to Die | 54,537 | 31,107 |
-| 0.667 | Overwatch | 48,957 | 73,367 |
-| 0.47 | Grand Theft Auto V | 32,103 | 68,284 |
-| 0.309 | Rocket League | 8,793 | 28,437 |
-| 0.264 | Escape from Tarkov | 8,510 | 32,206 |
-| 0.034 | Valheim | 7,510 | 222,742 |
-| 0.029 | Counter-Strike | 35,132 | 1,218,401 |
-| 0.027 | Delta Force | 3,251 | 120,884 |
-| 0.017 | Slay the Spire II | 1,622 | 94,284 |
-| 0.013 | PUBG: BATTLEGROUNDS | 9,774 | 754,595 |
+| 1.39 | 7 Days to Die | 43,230 | 31,107 |
+| 1.159 | Grand Theft Auto V | 79,171 | 68,284 |
+| 0.757 | Rocket League | 21,515 | 28,437 |
+| 0.677 | Overwatch | 49,654 | 73,367 |
+| 0.625 | Escape from Tarkov | 20,121 | 32,206 |
+| 0.077 | Stardew Valley | 5,688 | 74,297 |
+| 0.048 | Counter-Strike | 58,611 | 1,218,401 |
+| 0.031 | Delta Force | 3,705 | 120,884 |
+| 0.025 | Aniimo | 3,636 | 143,600 |
+| 0.019 | PUBG: BATTLEGROUNDS | 13,965 | 754,595 |
 
 ---
 
