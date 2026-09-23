@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-09-22T21` (UTC). History: 125 snapshots spanning 620h.
-Reference windows: short = `2026-09-22T16`, day = `2026-09-21T19`.
+Generated from snapshot `2026-09-23T00` (UTC). History: 126 snapshots spanning 623h.
+Reference windows: short = `2026-09-22T16`, day = `2026-09-21T23`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Hearthstone | +5.03 | 25 | 22,095 | +84% | +157% | 96 | +0% | 0.3701 | IGNITION:playhearthstone,xqn_thesad |
-| 2 | Super Mario Party Jamboree | +4.25 | 35 | 11,584 | - | - | 8 | - | 0.7964 | ENTRY IGNITION:mastu,hctuan |
-| 3 | R.E.P.O. | +4.12 | 32 | 11,818 | - | - | 95 | - | 0.2764 | ENTRY IGNITION:laynalazar,ray |
-| 4 | Marvel Rivals | +3.89 | 23 | 19,191 | +86% | +52% | 100 | +2% | 0.2065 | IGNITION:xop0,jay3 |
-| 5 | SILENT HILL: townfall | +3.59 | 3 | 124,282 | +3% | +549% | 100 | +0% | 0.1172 |  |
-| 6 | Graveyard Keeper II | +3.55 | 28 | 17,027 | +49% | - | 100 | +0% | 0.2086 | ENTRY IGNITION:shisheyu,shylily |
-| 7 | Red Dead Redemption II | +3.32 | 49 | 6,404 | - | +84% | 99 | - | 0.1877 | ENTRY |
-| 8 | Dune: Awakening | +3.28 | 19 | 32,075 | +263% | - | 96 | -3% | 0.595 | ENTRY |
-| 9 | nanos world | +3.25 | 71 | 4,924 | - | - | 48 | - | 0.516 | ENTRY IGNITION:mehditdonc |
-| 10 | Microsoft Flight Simulator 2024 | +3.25 | 83 | 3,855 | - | - | 71 | - | 0.6389 | ENTRY IGNITION:penta |
-| 11 | theHunter: Call of the Wild | +3.25 | 72 | 4,781 | - | - | 57 | - | 0.9506 | ENTRY IGNITION:laink |
-| 12 | Dressmaker | +3.25 | 64 | 5,669 | - | - | 83 | - | 0.6142 | ENTRY IGNITION:lilsimsie |
-| 13 | Fran Bow | +3.25 | 76 | 4,306 | - | - | 1 | - | 1.0 | ENTRY IGNITION:frametamer666 |
-| 14 | CONTROL Resonant | +3.14 | 26 | 20,148 | +23% | - | 97 | -2% | 0.1663 | ENTRY IGNITION:stormfall33,strippin |
-| 15 | How to Fish | +3.11 | 21 | 28,529 | - | - | 100 | - | 0.9381 | ENTRY IGNITION:illojuan |
+| 1 | Grand Theft Auto: Vice City - The Definitive Edition | +3.25 | 79 | 3,179 | - | - | 7 | - | 0.9959 | ENTRY IGNITION:henyathegenius |
+| 2 | Find The Needle | +3.25 | 28 | 11,748 | - | - | 11 | - | 0.8985 | ENTRY IGNITION:rivers_gg |
+| 3 | Tainted Grail: The Fall of Avalon | +3.25 | 96 | 2,520 | - | - | 3 | - | 0.9968 | ENTRY IGNITION:penta |
+| 4 | Watch Your Plastic Duck | +3.04 | 39 | 7,899 | - | -5% | 4 | - | 0.9982 | ENTRY IGNITION:ironmouse |
+| 5 | Madden NFL 27 | +3.01 | 51 | 3,883 | - | +64% | 100 | - | 0.1836 | ENTRY |
+| 6 | CONTROL Resonant | +2.66 | 24 | 15,635 | -4% | - | 99 | +0% | 0.2177 | ENTRY IGNITION:stormfall33,strippin |
+| 7 | Street Fighter 6 | +2.25 | 71 | 3,687 | - | - | 95 | - | 0.1611 | ENTRY |
+| 8 | iRacing | +2.25 | 97 | 2,362 | - | - | 100 | - | 0.1876 | ENTRY |
+| 9 | EA Sports College Football 27 | +2.25 | 77 | 1,998 | - | - | 87 | - | 0.5881 | ENTRY |
+| 10 | The Legend of Zelda: Ocarina of Time | +2.25 | 75 | 3,552 | - | - | 99 | - | 0.4445 | ENTRY |
+| 11 | TCG Card Shop Simulator | +2.25 | 90 | 2,694 | - | - | 82 | - | 0.2684 | ENTRY |
+| 12 | TEKKEN 8 | +2.25 | 100 | 2,129 | - | - | 94 | - | 0.1841 | ENTRY |
+| 13 | MECCHA CHAMELEON | +2.25 | 60 | 4,464 | - | - | 72 | - | 0.3775 | ENTRY |
+| 14 | MLB The Show 26 | +2.25 | 94 | 2,599 | - | - | 97 | - | 0.2501 | ENTRY |
+| 15 | Once Human | +2.21 | 58 | 3,507 | +19% | +89% | 95 | -5% | 0.2629 |  |
 
 ## Ignition alerts
 
@@ -30,31 +30,27 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| How to Fish | illojuan | 37,098 | 26,764 | 94% | 21 |
-| World of Tanks | dakillzor | 14,679 | 10,214 | 62% | 30 |
-| Super Mario Party Jamboree | mastu | 239,077 | 9,226 | 80% | 35 |
-| Watch Your Plastic Duck | ironmouse | 19,982 | 6,776 | 100% | 54 |
-| Mechabellum | bonjwa | 12,174 | 4,784 | 94% | 70 |
-| theHunter: Call of the Wild | laink | 5,269 | 4,545 | 95% | 72 |
-| Fran Bow | frametamer666 | 5,630 | 4,306 | 100% | 76 |
-| Dressmaker | lilsimsie | 3,482 | 3,482 | 61% | 64 |
-| Heroes of the Storm | grubby | 8,824 | 3,164 | 62% | 67 |
-| Onimusha: Way of the Sword | kspksp | 9,269 | 3,077 | 50% | 57 |
+| Find The Needle | rivers_gg | 10,555 | 10,555 | 90% | 28 |
+| Watch Your Plastic Duck | ironmouse | 19,982 | 7,885 | 100% | 39 |
+| World of Tanks | dakillzor | 14,679 | 3,665 | 71% | 54 |
+| Rust | kenki521 | 5,692 | 3,555 | 56% | 43 |
+| Grand Theft Auto: Vice City - The Definitive Edition | henyathegenius | 4,538 | 3,166 | 100% | 79 |
+| Tainted Grail: The Fall of Avalon | penta | 7,075 | 2,512 | 100% | 96 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 2.889 | Grand Theft Auto V | 197,283 | 68,284 |
-| 1.367 | Rocket League | 38,872 | 28,437 |
-| 0.897 | How to Fish | 28,529 | 31,801 |
-| 0.536 | Escape from Tarkov | 17,249 | 32,206 |
-| 0.522 | Rainbow Six Siege | 45,847 | 87,872 |
-| 0.041 | Warframe | 2,641 | 63,881 |
-| 0.035 | Slay the Spire II | 3,290 | 94,284 |
-| 0.033 | Counter-Strike | 40,762 | 1,218,401 |
-| 0.024 | Delta Force | 2,885 | 120,884 |
-| 0.009 | PUBG: BATTLEGROUNDS | 6,515 | 754,595 |
+| 2.705 | Grand Theft Auto V | 184,702 | 68,284 |
+| 0.582 | Rocket League | 17,298 | 29,729 |
+| 0.248 | Escape from Tarkov | 7,977 | 32,206 |
+| 0.222 | Overwatch | 16,274 | 73,367 |
+| 0.205 | Dead by Daylight | 12,294 | 59,969 |
+| 0.036 | Warframe | 2,290 | 63,881 |
+| 0.029 | Counter-Strike | 35,214 | 1,218,401 |
+| 0.026 | Dota 2 | 20,529 | 794,330 |
+| 0.017 | Aniimo | 2,480 | 143,600 |
+| 0.003 | PUBG: BATTLEGROUNDS | 2,108 | 754,595 |
 
 ---
 
