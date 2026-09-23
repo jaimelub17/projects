@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-09-23T18` (UTC). History: 129 snapshots spanning 641h.
-Reference windows: short = `2026-09-23T13`, day = `2026-09-22T16`.
+Generated from snapshot `2026-09-23T22` (UTC). History: 130 snapshots spanning 645h.
+Reference windows: short = `2026-09-23T18`, day = `2026-09-22T21`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Z1: Battle Royale | +9.95 | 25 | 23,767 | +654% | +370% | 98 | +36% | 0.5927 | IGNITION:gotaga,itachi |
-| 2 | AION 2 | +7.07 | 44 | 10,411 | +329% | +193% | 89 | +56% | 0.1762 |  |
-| 3 | ARC Raiders | +6.37 | 31 | 14,355 | +268% | +129% | 100 | +0% | 0.2444 | IGNITION:aztecross,symfuhny |
-| 4 | The Blood of Dawnwalker | +6.30 | 36 | 12,255 | +218% | +137% | 100 | +0% | 0.4179 | IGNITION:cohhcarnage,littlebigwhale |
-| 5 | Mir Tankov | +6.26 | 16 | 35,565 | +1476% | - | 100 | +0% | 0.218 | ENTRY |
-| 6 | Aniimo | +5.93 | 21 | 18,444 | +36% | +407% | 100 | +0% | 0.4606 | IGNITION:mastu |
-| 7 | Clash Royale | +5.87 | 35 | 13,332 | - | +215% | 47 | - | 0.8091 | ENTRY IGNITION:trymacs |
-| 8 | Delta Force | +5.72 | 49 | 8,540 | +257% | +130% | 100 | +0% | 0.1297 | IGNITION:nicewigg |
-| 9 | ROBLOX | +5.63 | 50 | 6,394 | +297% | +119% | 100 | +3% | 0.4388 | IGNITION:aslanshukasha |
-| 10 | Graveyard Keeper II | +4.36 | 27 | 17,209 | +117% | +51% | 98 | -2% | 0.1589 | IGNITION:shisheyu,dansgaming |
-| 11 | Onimusha: Way of the Sword | +4.31 | 54 | 7,356 | +223% | +50% | 100 | +0% | 0.4157 | IGNITION:kspksp |
-| 12 | Mimic Party | +4.25 | 43 | 10,407 | - | - | 26 | - | 0.4748 | ENTRY IGNITION:marco_scm,letshugotv |
-| 13 | EA Sports FC 27 | +3.29 | 3 | 144,910 | +271% | +63% | 99 | +0% | 0.2415 |  |
-| 14 | Grand Theft Auto: San Andreas | +3.25 | 69 | 5,755 | - | - | 72 | - | 0.8342 | ENTRY IGNITION:edison |
-| 15 | Chained Together | +3.25 | 83 | 4,555 | - | - | 15 | - | 0.7366 | ENTRY IGNITION:sleduck |
+| 1 | Street Fighter 6 | +4.31 | 38 | 9,092 | +119% | - | 97 | +0% | 0.4188 | ENTRY IGNITION:sandiskoptimus,maximilian_dood |
+| 2 | Warframe | +4.23 | 16 | 24,070 | -47% | +811% | 100 | +0% | 0.234 |  |
+| 3 | Assetto Corsa | +3.26 | 37 | 9,626 | - | - | 36 | - | 0.9874 | ENTRY IGNITION:anyme023 |
+| 4 | Kerbal Space Program | +3.25 | 65 | 5,210 | - | - | 4 | - | 0.9194 | ENTRY IGNITION:dougdoug |
+| 5 | Pokémon Trading Card Game | +3.25 | 100 | 2,649 | - | - | 45 | - | 0.2858 | ENTRY IGNITION:pokemon |
+| 6 | Well Dweller | +3.25 | 86 | 3,276 | - | - | 55 | - | 0.6007 | ENTRY IGNITION:ray |
+| 7 | World of Warships | +3.25 | 84 | 3,415 | - | - | 33 | - | 0.7403 | ENTRY IGNITION:worldofwarships |
+| 8 | Fields of Mistria | +3.25 | 99 | 2,648 | - | - | 36 | - | 0.6016 | ENTRY IGNITION:lilsimsie |
+| 9 | League of Legends: Wild Rift | +3.25 | 71 | 4,599 | - | - | 56 | - | 0.806 | ENTRY IGNITION:tealzlol |
+| 10 | Call of Duty: Black Ops 7 | +3.25 | 56 | 5,249 | - | - | 100 | - | 0.5816 | ENTRY IGNITION:thegrefg |
+| 11 | Backrooms Cleanup Crew | +3.25 | 78 | 3,928 | - | - | 2 | - | 0.7716 | ENTRY IGNITION:limealicious |
+| 12 | The Plant Shop | +3.25 | 96 | 2,813 | - | - | 15 | - | 0.5983 | ENTRY IGNITION:kiliratv |
+| 13 | Teamfight Tactics | +2.88 | 21 | 18,579 | -23% | +86% | 97 | -2% | 0.5596 | IGNITION:k3soju,wasianiverson |
+| 14 | NBA 2K27 | +2.74 | 29 | 10,781 | +141% | +47% | 100 | +5% | 0.1465 |  |
+| 15 | Delta Force | +2.45 | 57 | 5,926 | -31% | +105% | 94 | -6% | 0.4252 | IGNITION:imperialhal__ |
 
 ## Ignition alerts
 
@@ -30,31 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Z1: Battle Royale | gotaga | 14,087 | 14,087 | 59% | 25 |
-| Clash Royale | trymacs | 25,296 | 10,787 | 81% | 35 |
-| Watch Your Plastic Duck | ironmouse | 19,982 | 7,473 | 100% | 57 |
-| Half Sword | vei | 8,802 | 5,713 | 100% | 71 |
-| Happy Wheels | hutchmf | 30,579 | 5,530 | 99% | 72 |
-| Grand Theft Auto: San Andreas | edison | 9,802 | 4,801 | 83% | 69 |
-| Jinro Metropolis | xhalli4x | 5,302 | 4,369 | 94% | 81 |
-| Apocalypter | tomato | 3,812 | 3,360 | 79% | 86 |
-| Chained Together | sleduck | 6,120 | 3,355 | 74% | 83 |
-| Heroes of the Storm | grubby | 8,824 | 3,261 | 64% | 76 |
+| Teamfight Tactics | k3soju | 14,323 | 10,396 | 56% | 21 |
+| Assetto Corsa | anyme023 | 129,628 | 9,505 | 99% | 37 |
+| Watch Your Plastic Duck | ironmouse | 19,982 | 6,781 | 100% | 51 |
+| Kerbal Space Program | dougdoug | 6,682 | 4,790 | 92% | 65 |
+| Heroes of Might and Magic III: The Restoration of Erathia | voodoosh | 4,639 | 4,171 | 67% | 55 |
+| League of Legends: Wild Rift | tealzlol | 3,707 | 3,707 | 81% | 71 |
+| Heroes of the Storm | grubby | 8,824 | 3,501 | 82% | 75 |
+| Call of Duty: Black Ops 7 | thegrefg | 3,809 | 3,053 | 58% | 56 |
+| Backrooms Cleanup Crew | limealicious | 5,036 | 3,031 | 77% | 78 |
+| World of Warships | worldofwarships | 13,050 | 2,528 | 74% | 84 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 2.157 | Grand Theft Auto V | 141,147 | 65,423 |
-| 0.841 | Rocket League | 24,523 | 29,168 |
-| 0.737 | Warframe | 45,339 | 61,510 |
-| 0.546 | ARC Raiders | 14,355 | 26,287 |
-| 0.539 | Escape from Tarkov | 17,252 | 32,012 |
-| 0.071 | Delta Force | 8,540 | 120,942 |
-| 0.07 | Path of Exile 2 | 3,588 | 51,441 |
-| 0.067 | Baldur's Gate 3 | 3,748 | 55,983 |
-| 0.047 | Rust | 4,807 | 103,118 |
-| 0.01 | PUBG: BATTLEGROUNDS | 7,787 | 747,912 |
+| 2.459 | Grand Theft Auto V | 160,898 | 65,423 |
+| 0.87 | Rocket League | 25,377 | 29,168 |
+| 0.67 | Assetto Corsa | 9,626 | 14,373 |
+| 0.391 | Warframe | 24,070 | 61,510 |
+| 0.314 | Escape from Tarkov | 10,063 | 32,012 |
+| 0.049 | Delta Force | 5,926 | 120,942 |
+| 0.041 | Apex Legends | 10,653 | 262,884 |
+| 0.038 | Counter-Strike | 46,987 | 1,236,411 |
+| 0.03 | Rust | 3,099 | 103,118 |
+| 0.012 | PUBG: BATTLEGROUNDS | 9,126 | 747,912 |
 
 ---
 
