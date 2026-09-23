@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-09-23T00` (UTC). History: 126 snapshots spanning 623h.
-Reference windows: short = `2026-09-22T16`, day = `2026-09-21T23`.
+Generated from snapshot `2026-09-23T07` (UTC). History: 127 snapshots spanning 630h.
+Reference windows: short = `2026-09-23T00`, day = `2026-09-22T04`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Grand Theft Auto: Vice City - The Definitive Edition | +3.25 | 79 | 3,179 | - | - | 7 | - | 0.9959 | ENTRY IGNITION:henyathegenius |
-| 2 | Find The Needle | +3.25 | 28 | 11,748 | - | - | 11 | - | 0.8985 | ENTRY IGNITION:rivers_gg |
-| 3 | Tainted Grail: The Fall of Avalon | +3.25 | 96 | 2,520 | - | - | 3 | - | 0.9968 | ENTRY IGNITION:penta |
-| 4 | Watch Your Plastic Duck | +3.04 | 39 | 7,899 | - | -5% | 4 | - | 0.9982 | ENTRY IGNITION:ironmouse |
-| 5 | Madden NFL 27 | +3.01 | 51 | 3,883 | - | +64% | 100 | - | 0.1836 | ENTRY |
-| 6 | CONTROL Resonant | +2.66 | 24 | 15,635 | -4% | - | 99 | +0% | 0.2177 | ENTRY IGNITION:stormfall33,strippin |
-| 7 | Street Fighter 6 | +2.25 | 71 | 3,687 | - | - | 95 | - | 0.1611 | ENTRY |
-| 8 | iRacing | +2.25 | 97 | 2,362 | - | - | 100 | - | 0.1876 | ENTRY |
-| 9 | EA Sports College Football 27 | +2.25 | 77 | 1,998 | - | - | 87 | - | 0.5881 | ENTRY |
-| 10 | The Legend of Zelda: Ocarina of Time | +2.25 | 75 | 3,552 | - | - | 99 | - | 0.4445 | ENTRY |
-| 11 | TCG Card Shop Simulator | +2.25 | 90 | 2,694 | - | - | 82 | - | 0.2684 | ENTRY |
-| 12 | TEKKEN 8 | +2.25 | 100 | 2,129 | - | - | 94 | - | 0.1841 | ENTRY |
-| 13 | MECCHA CHAMELEON | +2.25 | 60 | 4,464 | - | - | 72 | - | 0.3775 | ENTRY |
-| 14 | MLB The Show 26 | +2.25 | 94 | 2,599 | - | - | 97 | - | 0.2501 | ENTRY |
-| 15 | Once Human | +2.21 | 58 | 3,507 | +19% | +89% | 95 | -5% | 0.2629 |  |
+| 1 | Dota 2 | +5.92 | 2 | 65,795 | +220% | +926% | 100 | +5% | 0.2349 |  |
+| 2 | Genshin Impact | +5.57 | 18 | 10,865 | +61% | +347% | 99 | +50% | 0.3548 |  |
+| 3 | I'm Only Sleeping | +5.32 | 25 | 9,569 | +217% | +63% | 100 | +0% | 0.2089 | IGNITION:enzzai,itmejp |
+| 4 | Aniimo | +4.30 | 13 | 13,458 | +443% | +52% | 100 | +5% | 0.1473 |  |
+| 5 | Street Fighter 6 | +3.98 | 22 | 10,901 | +196% | - | 100 | +5% | 0.6429 | ENTRY IGNITION:stylishnoob4 |
+| 6 | Graveyard Keeper II | +3.37 | 16 | 14,857 | +256% | - | 100 | +5% | 0.2061 | ENTRY |
+| 7 | BioShock 2 Remastered | +3.25 | 52 | 3,431 | - | - | 1 | - | 1.0 | ENTRY IGNITION:gingy |
+| 8 | Delta Force | +3.07 | 40 | 4,828 | - | +9% | 100 | - | 0.4954 | ENTRY IGNITION:aceu |
+| 9 | Apex Legends | +2.67 | 8 | 23,171 | +91% | +142% | 99 | -1% | 0.342 |  |
+| 10 | R2 Online: Reign of Revolution | +2.50 | 60 | 2,948 | +0% | +8% | 35 | +84% | 0.3881 | BREADTH |
+| 11 | Super Mario RPG | +2.25 | 59 | 3,002 | - | - | 2 | - | 0.985 | ENTRY |
+| 12 | Clair Obscur: Expedition 33 | +2.25 | 82 | 1,818 | - | - | 42 | - | 0.33 | ENTRY |
+| 13 | Well Dweller | +2.25 | 90 | 1,524 | - | - | 18 | - | 0.8504 | ENTRY |
+| 14 | Dressmaker | +2.25 | 69 | 2,522 | - | - | 26 | - | 0.5174 | ENTRY |
+| 15 | Total War: WARHAMMER III | +2.23 | 83 | 1,806 | - | - | 15 | - | 0.7841 | ENTRY |
 
 ## Ignition alerts
 
@@ -30,27 +30,25 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Find The Needle | rivers_gg | 10,555 | 10,555 | 90% | 28 |
-| Watch Your Plastic Duck | ironmouse | 19,982 | 7,885 | 100% | 39 |
-| World of Tanks | dakillzor | 14,679 | 3,665 | 71% | 54 |
-| Rust | kenki521 | 5,692 | 3,555 | 56% | 43 |
-| Grand Theft Auto: Vice City - The Definitive Edition | henyathegenius | 4,538 | 3,166 | 100% | 79 |
-| Tainted Grail: The Fall of Avalon | penta | 7,075 | 2,512 | 100% | 96 |
+| Street Fighter 6 | stylishnoob4 | 19,234 | 7,008 | 64% | 22 |
+| Marvel's Wolverine | supertf | 14,663 | 4,060 | 71% | 38 |
+| BioShock 2 Remastered | gingy | 7,682 | 3,431 | 100% | 52 |
+| Star Wars Zero Company | mimiluckying | 6,380 | 1,165 | 87% | 97 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 2.705 | Grand Theft Auto V | 184,702 | 68,284 |
-| 0.582 | Rocket League | 17,298 | 29,729 |
-| 0.248 | Escape from Tarkov | 7,977 | 32,206 |
-| 0.222 | Overwatch | 16,274 | 73,367 |
-| 0.205 | Dead by Daylight | 12,294 | 59,969 |
-| 0.036 | Warframe | 2,290 | 63,881 |
-| 0.029 | Counter-Strike | 35,214 | 1,218,401 |
-| 0.026 | Dota 2 | 20,529 | 794,330 |
-| 0.017 | Aniimo | 2,480 | 143,600 |
-| 0.003 | PUBG: BATTLEGROUNDS | 2,108 | 754,595 |
+| 0.615 | Grand Theft Auto V | 40,262 | 65,423 |
+| 0.355 | Rocket League | 10,365 | 29,168 |
+| 0.323 | Street Fighter 6 | 10,901 | 33,760 |
+| 0.278 | Escape from Tarkov | 8,914 | 32,012 |
+| 0.153 | Overwatch | 10,711 | 69,982 |
+| 0.022 | Rust | 2,252 | 103,118 |
+| 0.022 | Monster Hunter Wilds | 1,240 | 56,374 |
+| 0.02 | Counter-Strike | 24,951 | 1,236,411 |
+| 0.016 | Slay the Spire II | 1,500 | 95,274 |
+| 0.003 | PUBG: BATTLEGROUNDS | 2,527 | 747,912 |
 
 ---
 
