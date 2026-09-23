@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-09-23T07` (UTC). History: 127 snapshots spanning 630h.
-Reference windows: short = `2026-09-23T00`, day = `2026-09-22T04`.
+Generated from snapshot `2026-09-23T13` (UTC). History: 128 snapshots spanning 636h.
+Reference windows: short = `2026-09-23T07`, day = `2026-09-22T11`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Dota 2 | +5.92 | 2 | 65,795 | +220% | +926% | 100 | +5% | 0.2349 |  |
-| 2 | Genshin Impact | +5.57 | 18 | 10,865 | +61% | +347% | 99 | +50% | 0.3548 |  |
-| 3 | I'm Only Sleeping | +5.32 | 25 | 9,569 | +217% | +63% | 100 | +0% | 0.2089 | IGNITION:enzzai,itmejp |
-| 4 | Aniimo | +4.30 | 13 | 13,458 | +443% | +52% | 100 | +5% | 0.1473 |  |
-| 5 | Street Fighter 6 | +3.98 | 22 | 10,901 | +196% | - | 100 | +5% | 0.6429 | ENTRY IGNITION:stylishnoob4 |
-| 6 | Graveyard Keeper II | +3.37 | 16 | 14,857 | +256% | - | 100 | +5% | 0.2061 | ENTRY |
-| 7 | BioShock 2 Remastered | +3.25 | 52 | 3,431 | - | - | 1 | - | 1.0 | ENTRY IGNITION:gingy |
-| 8 | Delta Force | +3.07 | 40 | 4,828 | - | +9% | 100 | - | 0.4954 | ENTRY IGNITION:aceu |
-| 9 | Apex Legends | +2.67 | 8 | 23,171 | +91% | +142% | 99 | -1% | 0.342 |  |
-| 10 | R2 Online: Reign of Revolution | +2.50 | 60 | 2,948 | +0% | +8% | 35 | +84% | 0.3881 | BREADTH |
-| 11 | Super Mario RPG | +2.25 | 59 | 3,002 | - | - | 2 | - | 0.985 | ENTRY |
-| 12 | Clair Obscur: Expedition 33 | +2.25 | 82 | 1,818 | - | - | 42 | - | 0.33 | ENTRY |
-| 13 | Well Dweller | +2.25 | 90 | 1,524 | - | - | 18 | - | 0.8504 | ENTRY |
-| 14 | Dressmaker | +2.25 | 69 | 2,522 | - | - | 26 | - | 0.5174 | ENTRY |
-| 15 | Total War: WARHAMMER III | +2.23 | 83 | 1,806 | - | - | 15 | - | 0.7841 | ENTRY |
+| 1 | Rainbow Six Siege | +5.81 | 24 | 14,414 | +630% | +71% | 99 | -1% | 0.7512 | IGNITION:rainbow6 |
+| 2 | Dressmaker | +5.59 | 32 | 10,871 | +331% | - | 48 | +85% | 0.9549 | ENTRY IGNITION:ironmouse |
+| 3 | Warframe | +5.16 | 15 | 25,154 | +815% | - | 100 | +0% | 0.7953 | ENTRY |
+| 4 | World of Tanks | +4.97 | 33 | 10,776 | +184% | +44% | 99 | +21% | 0.1977 | IGNITION:dakillzor,quickybaby |
+| 5 | Genshin Impact | +4.89 | 20 | 14,589 | +34% | +534% | 100 | +1% | 0.1821 |  |
+| 6 | Mario Kart World | +4.77 | 60 | 5,304 | - | +102% | 24 | - | 0.8411 | ENTRY IGNITION:hanjoudesu |
+| 7 | Escape from Tarkov | +4.44 | 21 | 17,022 | +91% | +100% | 100 | +0% | 0.2426 | IGNITION:nickmercs,glorious_e |
+| 8 | Scam Line | +4.25 | 49 | 6,745 | - | - | 4 | - | 0.7798 | ENTRY IGNITION:antoinedaniel,littlebigwhale |
+| 9 | Fortnite | +4.22 | 10 | 43,658 | +269% | +258% | 98 | +0% | 0.335 |  |
+| 10 | Call of Duty: Warzone | +3.56 | 27 | 12,844 | +115% | +86% | 100 | +0% | 0.2365 | IGNITION:camy |
+| 11 | Rocket League | +3.33 | 26 | 14,530 | +40% | +65% | 99 | -1% | 0.2624 | IGNITION:mawkzy_,kaydop |
+| 12 | Black Desert | +3.33 | 31 | 10,753 | +176% | +102% | 100 | +0% | 0.1372 |  |
+| 13 | CONTROL Resonant | +3.25 | 30 | 12,124 | +28% | - | 100 | +0% | 0.3468 | ENTRY IGNITION:kr1stw,streamdatabase |
+| 14 | Mortal Shell II | +3.25 | 50 | 6,705 | - | - | 45 | - | 0.9371 | ENTRY IGNITION:skywhywalker |
+| 15 | GeoGuessr | +3.25 | 44 | 7,308 | - | - | 33 | - | 0.7583 | ENTRY IGNITION:domingo |
 
 ## Ignition alerts
 
@@ -30,25 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Street Fighter 6 | stylishnoob4 | 19,234 | 7,008 | 64% | 22 |
-| Marvel's Wolverine | supertf | 14,663 | 4,060 | 71% | 38 |
-| BioShock 2 Remastered | gingy | 7,682 | 3,431 | 100% | 52 |
-| Star Wars Zero Company | mimiluckying | 6,380 | 1,165 | 87% | 97 |
+| Rainbow Six Siege | rainbow6 | 22,272 | 10,828 | 75% | 24 |
+| Dressmaker | ironmouse | 19,982 | 10,381 | 95% | 32 |
+| SiN: Reloaded | cohhcarnage | 15,088 | 7,990 | 100% | 41 |
+| Mortal Shell II | skywhywalker | 13,992 | 6,283 | 94% | 50 |
+| GeoGuessr | domingo | 274,199 | 5,542 | 76% | 44 |
+| Scam Line | antoinedaniel | 15,073 | 5,260 | 78% | 49 |
+| Expedition: Into Darkness | mobilmobil | 6,113 | 5,202 | 99% | 61 |
+| Mario Kart World | hanjoudesu | 6,953 | 4,461 | 84% | 60 |
+| BOMBANANA! | akarindao | 4,105 | 3,721 | 91% | 74 |
+| Halloween: The Game | tru3ta1ent | 3,273 | 1,805 | 60% | 84 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 0.615 | Grand Theft Auto V | 40,262 | 65,423 |
-| 0.355 | Rocket League | 10,365 | 29,168 |
-| 0.323 | Street Fighter 6 | 10,901 | 33,760 |
-| 0.278 | Escape from Tarkov | 8,914 | 32,012 |
-| 0.153 | Overwatch | 10,711 | 69,982 |
-| 0.022 | Rust | 2,252 | 103,118 |
-| 0.022 | Monster Hunter Wilds | 1,240 | 56,374 |
-| 0.02 | Counter-Strike | 24,951 | 1,236,411 |
-| 0.016 | Slay the Spire II | 1,500 | 95,274 |
-| 0.003 | PUBG: BATTLEGROUNDS | 2,527 | 747,912 |
+| 0.91 | Grand Theft Auto V | 59,566 | 65,423 |
+| 0.532 | Escape from Tarkov | 17,022 | 32,012 |
+| 0.498 | Rocket League | 14,530 | 29,168 |
+| 0.409 | Warframe | 25,154 | 61,510 |
+| 0.33 | Dead by Daylight | 20,317 | 61,530 |
+| 0.051 | Counter-Strike | 62,692 | 1,236,411 |
+| 0.048 | VRChat | 2,592 | 53,828 |
+| 0.038 | Valheim | 8,121 | 213,162 |
+| 0.02 | Delta Force | 2,391 | 120,942 |
+| 0.009 | PUBG: BATTLEGROUNDS | 6,657 | 747,912 |
 
 ---
 
