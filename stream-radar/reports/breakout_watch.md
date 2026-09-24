@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-09-24T11` (UTC). History: 132 snapshots spanning 658h.
-Reference windows: short = `2026-09-24T04`, day = `2026-09-23T13`.
+Generated from snapshot `2026-09-24T17` (UTC). History: 133 snapshots spanning 664h.
+Reference windows: short = `2026-09-24T11`, day = `2026-09-23T18`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | PUBG: BATTLEGROUNDS | +5.87 | 19 | 13,323 | +690% | +100% | 98 | +2% | 0.2816 |  |
-| 2 | VALORANT | +5.67 | 1 | 228,619 | +733% | +259% | 100 | +4% | 0.2277 |  |
-| 3 | Street Fighter 6 | +5.03 | 34 | 7,583 | +95% | +65% | 100 | +1% | 0.3616 | IGNITION:haitani0904,ikoma_dogura |
-| 4 | Dota 2 | +3.79 | 3 | 88,973 | +614% | -9% | 98 | +1% | 0.2921 |  |
-| 5 | ARK: Survival Ascended | +3.41 | 54 | 4,417 | - | +64% | 82 | - | 0.4865 | ENTRY |
-| 6 | World of Tanks | +3.39 | 35 | 7,184 | +131% | -33% | 94 | +129% | 0.4016 | IGNITION:dakillzor |
-| 7 | Furyball: Rogue Revenge | +3.25 | 61 | 3,529 | - | - | 1 | - | 1.0 | ENTRY IGNITION:mynthos |
-| 8 | Dynasty Warriors 3: Complete Edition Remastered | +3.25 | 71 | 2,917 | - | - | 5 | - | 0.9976 | ENTRY IGNITION:blusewilly_retry |
-| 9 | Star Citizen | +3.25 | 50 | 5,410 | - | - | 52 | - | 0.7749 | ENTRY IGNITION:mda009 |
-| 10 | Crushed in Time | +3.25 | 88 | 2,037 | - | - | 1 | - | 1.0 | ENTRY IGNITION:ponce |
-| 11 | Z1: Battle Royale | +3.17 | 49 | 4,994 | +48% | +58% | 66 | -20% | 0.5224 | IGNITION:chowh1 |
-| 12 | How to Fish | +3.16 | 70 | 2,980 | - | - | 18 | - | 0.9721 | ENTRY IGNITION:akamikarubi |
-| 13 | Delta Force | +2.78 | 52 | 4,477 | +38% | +87% | 100 | +1% | 0.4494 |  |
-| 14 | Project Zomboid | +2.52 | 58 | 3,878 | +130% | - | 100 | +9% | 0.5621 | ENTRY |
-| 15 | Rust | +2.38 | 60 | 3,651 | +104% | -42% | 98 | +1% | 0.4245 | IGNITION:oilrats,crystalmolly |
+| 1 | PAYDAY 3 | +7.81 | 47 | 9,503 | +498% | - | 89 | +424% | 0.4234 | ENTRY IGNITION:streamdatabase |
+| 2 | CONTROL Resonant | +6.13 | 11 | 54,167 | +499% | +352% | 100 | +0% | 0.1419 |  |
+| 3 | BOMBANANA! | +5.55 | 61 | 6,393 | +153% | - | 51 | +410% | 0.32 | BREADTH ENTRY |
+| 4 | Total War: WARHAMMER III | +5.53 | 46 | 7,654 | +145% | - | 96 | +433% | 0.3538 | BREADTH ENTRY |
+| 5 | Grand Theft Auto: San Andreas | +5.52 | 15 | 40,870 | - | +610% | 63 | - | 0.9398 | ENTRY |
+| 6 | Rust | +5.37 | 40 | 10,327 | +183% | +115% | 98 | +0% | 0.1751 | IGNITION:oilrats |
+| 7 | Valheim | +4.23 | 21 | 20,119 | +241% | -18% | 100 | +2% | 0.2929 | IGNITION:quin69,edopeh |
+| 8 | Call of Duty: Warzone | +3.81 | 25 | 14,737 | +114% | +19% | 96 | -4% | 0.2283 | IGNITION:camy,enkeo_ |
+| 9 | World of Tanks | +3.39 | 17 | 34,168 | +376% | +10% | 100 | +6% | 0.4653 |  |
+| 10 | Geometry Dash | +3.25 | 88 | 4,067 | - | - | 90 | - | 0.7765 | ENTRY IGNITION:aslanshukasha |
+| 11 | Rhythm Heaven Groove | +3.25 | 65 | 5,890 | - | - | 2 | - | 0.9998 | ENTRY IGNITION:vei |
+| 12 | The Legend of Zelda: Ocarina of Time | +3.25 | 83 | 4,326 | - | - | 65 | - | 0.846 | ENTRY IGNITION:barbarousking |
+| 13 | A Weird Game About Sausage | +3.25 | 22 | 21,723 | - | - | 4 | - | 0.9991 | ENTRY IGNITION:papaplatte |
+| 14 | God of War | +3.25 | 79 | 4,512 | - | - | 40 | - | 0.8495 | ENTRY IGNITION:ptbrdias |
+| 15 | World of Warships | +3.25 | 52 | 7,855 | - | - | 54 | - | 0.8111 | ENTRY IGNITION:worldofwarships |
 
 ## Ignition alerts
 
@@ -30,30 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Star Citizen | mda009 | 4,192 | 4,192 | 77% | 50 |
-| Furyball: Rogue Revenge | mynthos | 6,006 | 3,529 | 100% | 61 |
-| Dressmaker | michimochievee | 5,788 | 2,968 | 77% | 59 |
-| Dynasty Warriors 3: Complete Edition Remastered | blusewilly_retry | 3,983 | 2,910 | 100% | 71 |
-| How to Fish | akamikarubi | 5,999 | 2,897 | 97% | 70 |
-| Z1: Battle Royale | chowh1 | 6,559 | 2,609 | 52% | 49 |
-| Mario Kart World | hanjoudesu | 6,953 | 2,097 | 78% | 73 |
-| Crushed in Time | ponce | 4,848 | 2,037 | 100% | 88 |
-| Halloween: The Game | tru3ta1ent | 3,273 | 1,393 | 54% | 75 |
+| A Weird Game About Sausage | papaplatte | 32,454 | 21,703 | 100% | 22 |
+| Alchemy Factory | trymacs | 25,296 | 12,132 | 85% | 32 |
+| World of Warships | worldofwarships | 13,050 | 6,371 | 81% | 52 |
+| Watch Your Plastic Duck | ironmouse | 19,982 | 5,974 | 100% | 64 |
+| Rhythm Heaven Groove | vei | 8,802 | 5,889 | 100% | 65 |
+| Delta Force | hutchmf | 30,579 | 4,941 | 52% | 43 |
+| The Blood of Dawnwalker | cohhcarnage | 15,088 | 4,559 | 51% | 48 |
+| Jinro Metropolis | xhalli4x | 5,302 | 4,080 | 90% | 78 |
+| God of War | ptbrdias | 3,833 | 3,833 | 85% | 79 |
+| The Legend of Zelda: Ocarina of Time | barbarousking | 4,194 | 3,660 | 85% | 83 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 0.667 | Grand Theft Auto V | 42,420 | 63,620 |
-| 0.298 | Escape from Tarkov | 9,113 | 30,598 |
-| 0.233 | Street Fighter 6 | 7,583 | 32,568 |
-| 0.214 | Rocket League | 7,258 | 33,981 |
-| 0.159 | Rainbow Six Siege | 12,764 | 80,197 |
-| 0.037 | Rust | 3,651 | 98,597 |
-| 0.031 | VRChat | 1,608 | 52,477 |
-| 0.03 | Valheim | 5,894 | 199,097 |
-| 0.028 | Counter-Strike | 40,868 | 1,452,036 |
-| 0.018 | PUBG: BATTLEGROUNDS | 13,323 | 731,479 |
+| 1.729 | Grand Theft Auto V | 109,970 | 63,620 |
+| 0.547 | Rocket League | 18,596 | 33,981 |
+| 0.488 | Escape from Tarkov | 14,942 | 30,598 |
+| 0.28 | Total War: WARHAMMER III | 7,654 | 27,340 |
+| 0.276 | Overwatch | 18,613 | 67,532 |
+| 0.077 | Project Zomboid | 4,090 | 53,015 |
+| 0.076 | Aniimo | 11,053 | 145,080 |
+| 0.06 | Counter-Strike | 87,340 | 1,452,036 |
+| 0.054 | Stardew Valley | 3,699 | 68,614 |
+| 0.008 | PUBG: BATTLEGROUNDS | 6,017 | 731,479 |
 
 ---
 
