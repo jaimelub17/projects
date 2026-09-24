@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-09-23T22` (UTC). History: 130 snapshots spanning 645h.
-Reference windows: short = `2026-09-23T18`, day = `2026-09-22T21`.
+Generated from snapshot `2026-09-24T04` (UTC). History: 131 snapshots spanning 651h.
+Reference windows: short = `2026-09-23T22`, day = `2026-09-23T07`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Street Fighter 6 | +4.31 | 38 | 9,092 | +119% | - | 97 | +0% | 0.4188 | ENTRY IGNITION:sandiskoptimus,maximilian_dood |
-| 2 | Warframe | +4.23 | 16 | 24,070 | -47% | +811% | 100 | +0% | 0.234 |  |
-| 3 | Assetto Corsa | +3.26 | 37 | 9,626 | - | - | 36 | - | 0.9874 | ENTRY IGNITION:anyme023 |
-| 4 | Kerbal Space Program | +3.25 | 65 | 5,210 | - | - | 4 | - | 0.9194 | ENTRY IGNITION:dougdoug |
-| 5 | Pokémon Trading Card Game | +3.25 | 100 | 2,649 | - | - | 45 | - | 0.2858 | ENTRY IGNITION:pokemon |
-| 6 | Well Dweller | +3.25 | 86 | 3,276 | - | - | 55 | - | 0.6007 | ENTRY IGNITION:ray |
-| 7 | World of Warships | +3.25 | 84 | 3,415 | - | - | 33 | - | 0.7403 | ENTRY IGNITION:worldofwarships |
-| 8 | Fields of Mistria | +3.25 | 99 | 2,648 | - | - | 36 | - | 0.6016 | ENTRY IGNITION:lilsimsie |
-| 9 | League of Legends: Wild Rift | +3.25 | 71 | 4,599 | - | - | 56 | - | 0.806 | ENTRY IGNITION:tealzlol |
-| 10 | Call of Duty: Black Ops 7 | +3.25 | 56 | 5,249 | - | - | 100 | - | 0.5816 | ENTRY IGNITION:thegrefg |
-| 11 | Backrooms Cleanup Crew | +3.25 | 78 | 3,928 | - | - | 2 | - | 0.7716 | ENTRY IGNITION:limealicious |
-| 12 | The Plant Shop | +3.25 | 96 | 2,813 | - | - | 15 | - | 0.5983 | ENTRY IGNITION:kiliratv |
-| 13 | Teamfight Tactics | +2.88 | 21 | 18,579 | -23% | +86% | 97 | -2% | 0.5596 | IGNITION:k3soju,wasianiverson |
-| 14 | NBA 2K27 | +2.74 | 29 | 10,781 | +141% | +47% | 100 | +5% | 0.1465 |  |
-| 15 | Delta Force | +2.45 | 57 | 5,926 | -31% | +105% | 94 | -6% | 0.4252 | IGNITION:imperialhal__ |
+| 1 | Valheim | +5.17 | 5 | 40,083 | +184% | +554% | 100 | +5% | 0.8199 |  |
+| 2 | Marvel's Wolverine | +4.63 | 30 | 11,017 | +286% | +92% | 97 | -3% | 0.6337 | IGNITION:supertf |
+| 3 | Warframe | +3.88 | 24 | 11,993 | -50% | +336% | 98 | -2% | 0.202 | IGNITION:brozime,pupsker |
+| 4 | I'm Only Sleeping | +3.46 | 33 | 7,441 | +172% | -22% | 100 | +2% | 0.209 | IGNITION:enzzai,meetenshow |
+| 5 | Core Keeper | +3.25 | 31 | 10,224 | - | - | 19 | - | 0.9683 | ENTRY IGNITION:ironmouse |
+| 6 | Castlevania: Symphony of the Night | +3.25 | 39 | 5,846 | - | - | 4 | - | 0.9901 | ENTRY IGNITION:vinesauce |
+| 7 | REMATCH | +3.25 | 75 | 2,609 | - | - | 64 | - | 0.4335 | ENTRY IGNITION:streamdatabase |
+| 8 | Machine Party | +3.25 | 77 | 2,334 | - | - | 17 | - | 0.9627 | ENTRY IGNITION:rayasianboy |
+| 9 | Terraria | +3.22 | 32 | 8,934 | - | - | 63 | - | 0.8734 | ENTRY IGNITION:rdcgaming |
+| 10 | PEAK | +3.21 | 45 | 5,046 | - | - | 97 | - | 0.3078 | ENTRY IGNITION:pattymeza |
+| 11 | Virtual Casino | +2.71 | 11 | 20,183 | +14% | +152% | 40 | +8% | 0.1283 |  |
+| 12 | Super Mario Maker 2 | +2.35 | 87 | 1,830 | - | +25% | 15 | - | 0.7432 | ENTRY |
+| 13 | Boktai: The Sun Is in Your Hand | +2.25 | 98 | 1,627 | - | - | 2 | - | 0.9932 | ENTRY |
+| 14 | Big Walk | +2.25 | 78 | 2,253 | - | - | 52 | - | 0.7563 | ENTRY |
+| 15 | RESIDENT EVIL: requiem | +2.25 | 81 | 2,176 | - | - | 78 | - | 0.5997 | ENTRY |
 
 ## Ignition alerts
 
@@ -30,31 +30,26 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Teamfight Tactics | k3soju | 14,323 | 10,396 | 56% | 21 |
-| Assetto Corsa | anyme023 | 129,628 | 9,505 | 99% | 37 |
-| Watch Your Plastic Duck | ironmouse | 19,982 | 6,781 | 100% | 51 |
-| Kerbal Space Program | dougdoug | 6,682 | 4,790 | 92% | 65 |
-| Heroes of Might and Magic III: The Restoration of Erathia | voodoosh | 4,639 | 4,171 | 67% | 55 |
-| League of Legends: Wild Rift | tealzlol | 3,707 | 3,707 | 81% | 71 |
-| Heroes of the Storm | grubby | 8,824 | 3,501 | 82% | 75 |
-| Call of Duty: Black Ops 7 | thegrefg | 3,809 | 3,053 | 58% | 56 |
-| Backrooms Cleanup Crew | limealicious | 5,036 | 3,031 | 77% | 78 |
-| World of Warships | worldofwarships | 13,050 | 2,528 | 74% | 84 |
+| Core Keeper | ironmouse | 19,982 | 9,900 | 97% | 31 |
+| Terraria | rdcgaming | 11,931 | 7,803 | 87% | 32 |
+| Marvel's Wolverine | supertf | 14,663 | 6,982 | 63% | 30 |
+| Castlevania: Symphony of the Night | vinesauce | 10,423 | 5,788 | 99% | 39 |
+| Machine Party | rayasianboy | 6,600 | 2,247 | 96% | 77 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 2.459 | Grand Theft Auto V | 160,898 | 65,423 |
-| 0.87 | Rocket League | 25,377 | 29,168 |
-| 0.67 | Assetto Corsa | 9,626 | 14,373 |
-| 0.391 | Warframe | 24,070 | 61,510 |
-| 0.314 | Escape from Tarkov | 10,063 | 32,012 |
-| 0.049 | Delta Force | 5,926 | 120,942 |
-| 0.041 | Apex Legends | 10,653 | 262,884 |
-| 0.038 | Counter-Strike | 46,987 | 1,236,411 |
-| 0.03 | Rust | 3,099 | 103,118 |
-| 0.012 | PUBG: BATTLEGROUNDS | 9,126 | 747,912 |
+| 1.191 | Grand Theft Auto V | 75,803 | 63,620 |
+| 0.302 | Rocket League | 10,254 | 33,981 |
+| 0.209 | Terraria | 8,934 | 42,706 |
+| 0.202 | PEAK | 5,046 | 24,924 |
+| 0.201 | Valheim | 40,083 | 199,097 |
+| 0.02 | HELLDIVERS 2 | 1,427 | 70,123 |
+| 0.018 | Rust | 1,786 | 98,597 |
+| 0.015 | Dota 2 | 12,460 | 805,725 |
+| 0.009 | Counter-Strike | 13,288 | 1,452,036 |
+| 0.002 | PUBG: BATTLEGROUNDS | 1,687 | 731,479 |
 
 ---
 
