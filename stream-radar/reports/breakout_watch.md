@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-09-24T17` (UTC). History: 133 snapshots spanning 664h.
-Reference windows: short = `2026-09-24T11`, day = `2026-09-23T18`.
+Generated from snapshot `2026-09-24T21` (UTC). History: 134 snapshots spanning 668h.
+Reference windows: short = `2026-09-24T17`, day = `2026-09-23T22`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | PAYDAY 3 | +7.81 | 47 | 9,503 | +498% | - | 89 | +424% | 0.4234 | ENTRY IGNITION:streamdatabase |
-| 2 | CONTROL Resonant | +6.13 | 11 | 54,167 | +499% | +352% | 100 | +0% | 0.1419 |  |
-| 3 | BOMBANANA! | +5.55 | 61 | 6,393 | +153% | - | 51 | +410% | 0.32 | BREADTH ENTRY |
-| 4 | Total War: WARHAMMER III | +5.53 | 46 | 7,654 | +145% | - | 96 | +433% | 0.3538 | BREADTH ENTRY |
-| 5 | Grand Theft Auto: San Andreas | +5.52 | 15 | 40,870 | - | +610% | 63 | - | 0.9398 | ENTRY |
-| 6 | Rust | +5.37 | 40 | 10,327 | +183% | +115% | 98 | +0% | 0.1751 | IGNITION:oilrats |
-| 7 | Valheim | +4.23 | 21 | 20,119 | +241% | -18% | 100 | +2% | 0.2929 | IGNITION:quin69,edopeh |
-| 8 | Call of Duty: Warzone | +3.81 | 25 | 14,737 | +114% | +19% | 96 | -4% | 0.2283 | IGNITION:camy,enkeo_ |
-| 9 | World of Tanks | +3.39 | 17 | 34,168 | +376% | +10% | 100 | +6% | 0.4653 |  |
-| 10 | Geometry Dash | +3.25 | 88 | 4,067 | - | - | 90 | - | 0.7765 | ENTRY IGNITION:aslanshukasha |
-| 11 | Rhythm Heaven Groove | +3.25 | 65 | 5,890 | - | - | 2 | - | 0.9998 | ENTRY IGNITION:vei |
-| 12 | The Legend of Zelda: Ocarina of Time | +3.25 | 83 | 4,326 | - | - | 65 | - | 0.846 | ENTRY IGNITION:barbarousking |
-| 13 | A Weird Game About Sausage | +3.25 | 22 | 21,723 | - | - | 4 | - | 0.9991 | ENTRY IGNITION:papaplatte |
-| 14 | God of War | +3.25 | 79 | 4,512 | - | - | 40 | - | 0.8495 | ENTRY IGNITION:ptbrdias |
-| 15 | World of Warships | +3.25 | 52 | 7,855 | - | - | 54 | - | 0.8111 | ENTRY IGNITION:worldofwarships |
+| 1 | Rust | +10.00 | 7 | 67,376 | +552% | +2074% | 98 | +0% | 0.0746 |  |
+| 2 | Rainbow Six Siege | +6.55 | 15 | 49,987 | +686% | +434% | 100 | +2% | 0.6011 |  |
+| 3 | Clash Royale | +5.30 | 55 | 8,330 | +134% | +179% | 48 | +7% | 0.4391 | IGNITION:narek_cr |
+| 4 | Delta Force | +5.21 | 29 | 16,111 | +71% | +172% | 100 | +0% | 0.3814 | IGNITION:summit1g,imperialhal__ |
+| 5 | Among Us | +4.97 | 86 | 3,487 | +459% | - | 64 | +68% | 0.2876 | ENTRY |
+| 6 | Hearthstone | +3.62 | 26 | 16,843 | +21% | +91% | 95 | -2% | 0.4362 | IGNITION:playhearthstone,xqn_thesad |
+| 7 | ROBLOX | +3.32 | 61 | 4,360 | +127% | +54% | 99 | +9% | 0.3025 | IGNITION:fugu_fps |
+| 8 | SHINOBI: Art of Vengeance | +3.25 | 83 | 4,125 | - | - | 7 | - | 0.8335 | ENTRY IGNITION:shisheyu |
+| 9 | Oar'some Adventures | +3.25 | 88 | 3,627 | - | - | 2 | - | 0.8999 | ENTRY IGNITION:smii7y |
+| 10 | Resident Evil 2 | +3.25 | 87 | 3,676 | - | - | 52 | - | 0.9091 | ENTRY IGNITION:dariomocciatwitch |
+| 11 | Super Battle Golf | +3.25 | 39 | 11,117 | - | - | 13 | - | 0.8348 | ENTRY IGNITION:northernlion |
+| 12 | Sort Them Ducks | +3.25 | 89 | 3,534 | - | - | 10 | - | 0.951 | ENTRY IGNITION:lollolacustre |
+| 13 | Find The Needle | +3.25 | 50 | 9,306 | - | - | 25 | - | 0.6846 | ENTRY IGNITION:locklear |
+| 14 | The Walking Dead | +3.25 | 73 | 5,648 | - | - | 26 | - | 0.8288 | ENTRY IGNITION:vedal987 |
+| 15 | RuneScape: Dragonwilds | +3.23 | 82 | 3,993 | - | - | 95 | - | 0.6411 | ENTRY IGNITION:aztecross |
 
 ## Ignition alerts
 
@@ -30,31 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| A Weird Game About Sausage | papaplatte | 32,454 | 21,703 | 100% | 22 |
-| Alchemy Factory | trymacs | 25,296 | 12,132 | 85% | 32 |
-| World of Warships | worldofwarships | 13,050 | 6,371 | 81% | 52 |
-| Watch Your Plastic Duck | ironmouse | 19,982 | 5,974 | 100% | 64 |
-| Rhythm Heaven Groove | vei | 8,802 | 5,889 | 100% | 65 |
-| Delta Force | hutchmf | 30,579 | 4,941 | 52% | 43 |
-| The Blood of Dawnwalker | cohhcarnage | 15,088 | 4,559 | 51% | 48 |
-| Jinro Metropolis | xhalli4x | 5,302 | 4,080 | 90% | 78 |
-| God of War | ptbrdias | 3,833 | 3,833 | 85% | 79 |
-| The Legend of Zelda: Ocarina of Time | barbarousking | 4,194 | 3,660 | 85% | 83 |
+| Assetto Corsa | anyme023 | 129,628 | 14,494 | 99% | 34 |
+| Teamfight Tactics | k3soju | 14,323 | 10,991 | 51% | 22 |
+| Super Battle Golf | northernlion | 14,748 | 9,281 | 83% | 39 |
+| World of Tanks | dakillzor | 14,679 | 9,238 | 64% | 35 |
+| Alchemy Factory | trymacs | 25,296 | 8,726 | 82% | 41 |
+| Watch Your Plastic Duck | ironmouse | 19,982 | 7,577 | 100% | 57 |
+| Find The Needle | locklear | 6,891 | 6,371 | 68% | 50 |
+| The Walking Dead | vedal987 | 8,267 | 4,681 | 83% | 73 |
+| Heroes of Might and Magic III: The Restoration of Erathia | voodoosh | 4,639 | 4,596 | 51% | 51 |
+| SHINOBI: Art of Vengeance | shisheyu | 4,961 | 3,438 | 83% | 83 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 1.729 | Grand Theft Auto V | 109,970 | 63,620 |
-| 0.547 | Rocket League | 18,596 | 33,981 |
-| 0.488 | Escape from Tarkov | 14,942 | 30,598 |
-| 0.28 | Total War: WARHAMMER III | 7,654 | 27,340 |
-| 0.276 | Overwatch | 18,613 | 67,532 |
-| 0.077 | Project Zomboid | 4,090 | 53,015 |
-| 0.076 | Aniimo | 11,053 | 145,080 |
-| 0.06 | Counter-Strike | 87,340 | 1,452,036 |
-| 0.054 | Stardew Valley | 3,699 | 68,614 |
-| 0.008 | PUBG: BATTLEGROUNDS | 6,017 | 731,479 |
+| 2.852 | Grand Theft Auto V | 181,450 | 63,620 |
+| 1.041 | Assetto Corsa | 14,660 | 14,085 |
+| 0.727 | Rocket League | 24,706 | 33,981 |
+| 0.683 | Rust | 67,376 | 98,597 |
+| 0.623 | Rainbow Six Siege | 49,987 | 80,197 |
+| 0.048 | Stardew Valley | 3,280 | 68,614 |
+| 0.048 | Apex Legends | 12,146 | 254,139 |
+| 0.043 | Aniimo | 6,300 | 145,080 |
+| 0.041 | Counter-Strike | 59,984 | 1,452,036 |
+| 0.012 | PUBG: BATTLEGROUNDS | 8,531 | 731,479 |
 
 ---
 
