@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-09-24T21` (UTC). History: 134 snapshots spanning 668h.
+Generated from snapshot `2026-09-25T00` (UTC). History: 135 snapshots spanning 671h.
 Reference windows: short = `2026-09-24T17`, day = `2026-09-23T22`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Rust | +10.00 | 7 | 67,376 | +552% | +2074% | 98 | +0% | 0.0746 |  |
-| 2 | Rainbow Six Siege | +6.55 | 15 | 49,987 | +686% | +434% | 100 | +2% | 0.6011 |  |
-| 3 | Clash Royale | +5.30 | 55 | 8,330 | +134% | +179% | 48 | +7% | 0.4391 | IGNITION:narek_cr |
-| 4 | Delta Force | +5.21 | 29 | 16,111 | +71% | +172% | 100 | +0% | 0.3814 | IGNITION:summit1g,imperialhal__ |
-| 5 | Among Us | +4.97 | 86 | 3,487 | +459% | - | 64 | +68% | 0.2876 | ENTRY |
-| 6 | Hearthstone | +3.62 | 26 | 16,843 | +21% | +91% | 95 | -2% | 0.4362 | IGNITION:playhearthstone,xqn_thesad |
-| 7 | ROBLOX | +3.32 | 61 | 4,360 | +127% | +54% | 99 | +9% | 0.3025 | IGNITION:fugu_fps |
-| 8 | SHINOBI: Art of Vengeance | +3.25 | 83 | 4,125 | - | - | 7 | - | 0.8335 | ENTRY IGNITION:shisheyu |
-| 9 | Oar'some Adventures | +3.25 | 88 | 3,627 | - | - | 2 | - | 0.8999 | ENTRY IGNITION:smii7y |
-| 10 | Resident Evil 2 | +3.25 | 87 | 3,676 | - | - | 52 | - | 0.9091 | ENTRY IGNITION:dariomocciatwitch |
-| 11 | Super Battle Golf | +3.25 | 39 | 11,117 | - | - | 13 | - | 0.8348 | ENTRY IGNITION:northernlion |
-| 12 | Sort Them Ducks | +3.25 | 89 | 3,534 | - | - | 10 | - | 0.951 | ENTRY IGNITION:lollolacustre |
-| 13 | Find The Needle | +3.25 | 50 | 9,306 | - | - | 25 | - | 0.6846 | ENTRY IGNITION:locklear |
-| 14 | The Walking Dead | +3.25 | 73 | 5,648 | - | - | 26 | - | 0.8288 | ENTRY IGNITION:vedal987 |
-| 15 | RuneScape: Dragonwilds | +3.23 | 82 | 3,993 | - | - | 95 | - | 0.6411 | ENTRY IGNITION:aztecross |
+| 1 | Rust | +10.92 | 5 | 87,669 | +749% | +2729% | 100 | +2% | 0.3019 |  |
+| 2 | I'm Only Sleeping | +6.48 | 38 | 7,695 | +71% | +181% | 100 | +0% | 0.3557 | IGNITION:whylollycry,meetenshow |
+| 3 | Path of Exile | +4.25 | 49 | 6,126 | - | - | 52 | - | 0.6639 | ENTRY IGNITION:ben_,787prada |
+| 4 | Find The Needle | +3.25 | 67 | 4,317 | - | - | 20 | - | 0.88 | ENTRY IGNITION:locklear |
+| 5 | Resident Evil 2 | +3.25 | 99 | 2,291 | - | - | 88 | - | 0.6744 | ENTRY IGNITION:dariomocciatwitch |
+| 6 | Bully: Scholarship Edition | +3.25 | 80 | 3,248 | - | - | 14 | - | 0.9855 | ENTRY IGNITION:henyathegenius |
+| 7 | Warframe | +3.22 | 22 | 19,832 | +95% | -18% | 99 | +3% | 0.5303 | IGNITION:yourluckyclover,pupsker |
+| 8 | Call of Duty: Black Ops 7 | +3.02 | 44 | 5,450 | - | +4% | 100 | - | 0.4864 | ENTRY IGNITION:thegrefg |
+| 9 | Madden NFL 27 | +2.75 | 47 | 5,082 | +42% | +96% | 95 | -3% | 0.3528 |  |
+| 10 | Halloween: The Game | +2.71 | 54 | 4,541 | - | +34% | 98 | - | 0.1495 | ENTRY |
+| 11 | League of Legends: Wild Rift | +2.61 | 70 | 4,126 | - | -10% | 71 | - | 0.7627 | ENTRY IGNITION:tealzlol |
+| 12 | Once Human | +2.58 | 74 | 3,141 | - | +43% | 100 | - | 0.22 | ENTRY |
+| 13 | Destiny 2 | +2.29 | 100 | 1,744 | - | - | 99 | - | 0.1416 | ENTRY |
+| 14 | The Elder Scrolls Online | +2.25 | 98 | 2,327 | - | - | 100 | - | 0.6085 | ENTRY |
+| 15 | GRAIN ROT | +2.25 | 82 | 3,073 | - | - | 21 | - | 0.508 | ENTRY |
 
 ## Ignition alerts
 
@@ -30,31 +30,29 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Assetto Corsa | anyme023 | 129,628 | 14,494 | 99% | 34 |
-| Teamfight Tactics | k3soju | 14,323 | 10,991 | 51% | 22 |
-| Super Battle Golf | northernlion | 14,748 | 9,281 | 83% | 39 |
-| World of Tanks | dakillzor | 14,679 | 9,238 | 64% | 35 |
-| Alchemy Factory | trymacs | 25,296 | 8,726 | 82% | 41 |
-| Watch Your Plastic Duck | ironmouse | 19,982 | 7,577 | 100% | 57 |
-| Find The Needle | locklear | 6,891 | 6,371 | 68% | 50 |
-| The Walking Dead | vedal987 | 8,267 | 4,681 | 83% | 73 |
-| Heroes of Might and Magic III: The Restoration of Erathia | voodoosh | 4,639 | 4,596 | 51% | 51 |
-| SHINOBI: Art of Vengeance | shisheyu | 4,961 | 3,438 | 83% | 83 |
+| Warframe | yourluckyclover | 10,517 | 10,517 | 53% | 22 |
+| Path of Exile | ben_ | 4,067 | 4,067 | 66% | 49 |
+| Find The Needle | locklear | 6,891 | 3,799 | 88% | 67 |
+| Heroes of Might and Magic III: The Restoration of Erathia | voodoosh | 4,639 | 3,649 | 68% | 55 |
+| World of Tanks | dakillzor | 14,679 | 3,636 | 75% | 60 |
+| Bully: Scholarship Edition | henyathegenius | 4,538 | 3,201 | 99% | 80 |
+| League of Legends: Wild Rift | tealzlol | 3,707 | 3,147 | 76% | 70 |
+| Resident Evil 2 | dariomocciatwitch | 4,218 | 1,545 | 67% | 99 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 2.852 | Grand Theft Auto V | 181,450 | 63,620 |
-| 1.041 | Assetto Corsa | 14,660 | 14,085 |
-| 0.727 | Rocket League | 24,706 | 33,981 |
-| 0.683 | Rust | 67,376 | 98,597 |
-| 0.623 | Rainbow Six Siege | 49,987 | 80,197 |
-| 0.048 | Stardew Valley | 3,280 | 68,614 |
-| 0.048 | Apex Legends | 12,146 | 254,139 |
-| 0.043 | Aniimo | 6,300 | 145,080 |
-| 0.041 | Counter-Strike | 59,984 | 1,452,036 |
-| 0.012 | PUBG: BATTLEGROUNDS | 8,531 | 731,479 |
+| 2.154 | Grand Theft Auto V | 137,043 | 63,620 |
+| 0.889 | Rust | 87,669 | 98,597 |
+| 0.439 | Rocket League | 14,911 | 33,981 |
+| 0.257 | Resident Evil 4 | 3,596 | 13,992 |
+| 0.213 | Escape from Tarkov | 6,527 | 30,598 |
+| 0.041 | Aniimo | 5,936 | 145,080 |
+| 0.028 | Dota 2 | 22,755 | 805,725 |
+| 0.028 | Delta Force | 3,159 | 114,606 |
+| 0.016 | Counter-Strike | 23,038 | 1,452,036 |
+| 0.006 | PUBG: BATTLEGROUNDS | 4,465 | 731,479 |
 
 ---
 
