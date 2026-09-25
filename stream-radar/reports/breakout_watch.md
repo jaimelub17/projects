@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-09-25T18` (UTC). History: 138 snapshots spanning 689h.
-Reference windows: short = `2026-09-25T13`, day = `2026-09-24T17`.
+Generated from snapshot `2026-09-25T23` (UTC). History: 139 snapshots spanning 694h.
+Reference windows: short = `2026-09-25T18`, day = `2026-09-25T00`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Delta Force | +5.31 | 27 | 20,240 | +148% | +115% | 100 | +3% | 0.3192 | IGNITION:hutchmf,summit1g |
-| 2 | PUBG: BATTLEGROUNDS | +5.19 | 29 | 17,549 | +75% | +192% | 99 | +0% | 0.2797 | IGNITION:pubg_battlegrounds,pokamolodoy |
-| 3 | Chained Together | +4.25 | 58 | 8,613 | - | - | 29 | - | 0.3158 | ENTRY IGNITION:guzu,anniefuchsia |
-| 4 | MARVEL Contest of Champions | +4.25 | 36 | 13,369 | - | - | 32 | - | 0.563 | ENTRY IGNITION:pepe,mc0cnoob |
-| 5 | Dune: Awakening | +4.25 | 55 | 8,327 | +113% | - | 99 | -1% | 0.29 | ENTRY IGNITION:aztecross,littlebigwhale |
-| 6 | Rainbow Six Siege | +4.19 | 31 | 15,223 | +23% | +139% | 97 | +0% | 0.598 | IGNITION:rainbow6,mingo |
-| 7 | Project Zomboid | +4.13 | 64 | 6,933 | +151% | +70% | 97 | -1% | 0.3808 | IGNITION:edopeh |
-| 8 | Minecraft | +4.08 | 8 | 71,679 | +291% | +164% | 99 | +2% | 0.3947 |  |
-| 9 | Total War: WARHAMMER III | +4.01 | 47 | 10,285 | +67% | +34% | 97 | +9% | 0.2896 | IGNITION:alphacast,mauriceweber |
-| 10 | NBA 2K27 | +3.51 | 38 | 11,014 | +84% | +99% | 97 | -1% | 0.3817 | IGNITION:flight23white |
-| 11 | Rust | +3.31 | 11 | 61,728 | +13% | +498% | 100 | +2% | 0.1092 |  |
-| 12 | Escape from Tarkov | +3.25 | 23 | 22,022 | +40% | +47% | 97 | -2% | 0.2106 | IGNITION:cr_arisakaaa,lvndmark |
-| 13 | TCG Card Shop Simulator | +3.25 | 97 | 3,956 | - | - | 45 | - | 0.8976 | ENTRY IGNITION:insym |
-| 14 | Super Mario Odyssey | +3.25 | 62 | 8,278 | - | - | 48 | - | 0.2778 | ENTRY IGNITION:dougdoug |
-| 15 | RV There Yet? | +3.25 | 24 | 22,880 | - | - | 100 | - | 0.9502 | ENTRY IGNITION:dangerlyoha |
+| 1 | Z1: Battle Royale | +6.53 | 33 | 12,381 | +188% | +187% | 100 | +0% | 0.3108 | IGNITION:itachi,imperialhal__ |
+| 2 | Delta Force | +5.89 | 23 | 18,661 | -8% | +491% | 100 | +0% | 0.3999 | IGNITION:twitchrivals,gingy |
+| 3 | Graveyard Keeper II | +5.42 | 18 | 22,112 | +96% | +540% | 100 | +2% | 0.831 |  |
+| 4 | Find The Needle | +3.79 | 56 | 7,415 | - | +72% | 30 | - | 0.7784 | ENTRY IGNITION:locklear |
+| 5 | Rainbow Six Siege | +3.63 | 25 | 16,107 | +6% | +188% | 98 | +1% | 0.6782 | IGNITION:rainbow6,fettr6s |
+| 6 | Street Fighter 6 | +3.45 | 84 | 3,768 | - | +56% | 100 | - | 0.3312 | ENTRY IGNITION:spygea |
+| 7 | The Legend of Zelda: Ocarina of Time | +3.44 | 67 | 6,134 | - | +155% | 85 | - | 0.3745 | ENTRY |
+| 8 | Heroes of Might and Magic III: The Restoration of Erathia | +3.41 | 51 | 8,079 | - | +50% | 27 | - | 0.5314 | ENTRY IGNITION:voodoosh |
+| 9 | Until Dawn | +3.25 | 39 | 10,604 | - | - | 12 | - | 0.9981 | ENTRY IGNITION:zarbex |
+| 10 | Pokémon Champions | +3.25 | 45 | 9,464 | - | - | 100 | - | 0.2097 | ENTRY IGNITION:dougdoug |
+| 11 | Dressmaker | +3.25 | 62 | 6,675 | - | - | 97 | - | 0.2673 | ENTRY IGNITION:lilsimsie |
+| 12 | Fears to Fathom: Ironbark Lookout | +3.25 | 71 | 5,247 | - | - | 4 | - | 0.9952 | ENTRY IGNITION:realzbluewater |
+| 13 | BOMBANANA! | +3.25 | 93 | 3,432 | - | - | 48 | - | 0.6087 | ENTRY IGNITION:zoomaa |
+| 14 | Black Russia | +3.25 | 44 | 9,602 | - | - | 14 | - | 0.7649 | ENTRY IGNITION:bisteconee |
+| 15 | nanos world | +3.05 | 78 | 4,550 | - | +29% | 50 | - | 0.5738 | ENTRY IGNITION:mehditdonc |
 
 ## Ignition alerts
 
@@ -30,31 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| RV There Yet? | dangerlyoha | 27,172 | 21,741 | 95% | 24 |
-| Batomon Showdown | northernlion | 14,748 | 12,191 | 98% | 37 |
-| Rainbow Six Siege | rainbow6 | 22,272 | 9,103 | 60% | 31 |
-| Watch Your Plastic Duck | ironmouse | 19,982 | 8,766 | 100% | 57 |
-| Hello Neighbor | mastu | 239,077 | 8,032 | 99% | 63 |
-| MARVEL Contest of Champions | pepe | 10,744 | 7,527 | 56% | 36 |
-| REMATCH | itachi | 38,034 | 5,840 | 63% | 46 |
-| Woman Simulator | mazellovvv | 4,957 | 4,957 | 53% | 52 |
-| Where Winds Meet | xop0 | 4,232 | 3,890 | 79% | 77 |
-| TCG Card Shop Simulator | insym | 7,018 | 3,551 | 90% | 97 |
+| Rainbow Six Siege | rainbow6 | 22,272 | 10,924 | 68% | 25 |
+| Until Dawn | zarbex | 28,526 | 10,584 | 100% | 39 |
+| Teamfight Tactics | k3soju | 14,323 | 9,316 | 50% | 21 |
+| Watch Your Plastic Duck | ironmouse | 19,982 | 7,491 | 100% | 54 |
+| Black Russia | bisteconee | 18,101 | 7,345 | 76% | 44 |
+| World of Tanks | dakillzor | 14,679 | 6,164 | 55% | 37 |
+| Find The Needle | locklear | 6,891 | 5,772 | 78% | 56 |
+| Fears to Fathom: Ironbark Lookout | realzbluewater | 8,209 | 5,222 | 100% | 71 |
+| MARVEL Contest of Champions | pepe | 10,744 | 4,726 | 57% | 49 |
+| Heroes of Might and Magic III: The Restoration of Erathia | voodoosh | 4,639 | 4,293 | 53% | 51 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 3.209 | EA Sports FC 27 | 157,713 | 49,145 |
-| 1.374 | Grand Theft Auto V | 89,759 | 65,331 |
-| 1.174 | CONTROL Resonant | 40,334 | 34,345 |
-| 0.555 | Rust | 61,728 | 111,127 |
-| 0.47 | Rocket League | 17,650 | 37,530 |
-| 0.086 | VRChat | 4,622 | 53,712 |
-| 0.081 | Warframe | 7,734 | 95,028 |
-| 0.072 | Aniimo | 9,885 | 136,589 |
-| 0.061 | Counter-Strike | 84,753 | 1,384,929 |
-| 0.025 | PUBG: BATTLEGROUNDS | 17,549 | 688,421 |
+| 3.183 | Grand Theft Auto V | 207,937 | 65,331 |
+| 1.672 | EA Sports FC 27 | 82,150 | 49,145 |
+| 0.568 | CONTROL Resonant | 19,491 | 34,345 |
+| 0.518 | Rust | 57,603 | 111,127 |
+| 0.417 | Graveyard Keeper II | 22,112 | 52,979 |
+| 0.046 | Apex Legends | 10,997 | 239,394 |
+| 0.043 | Counter-Strike | 59,143 | 1,384,929 |
+| 0.034 | Total War: WARHAMMER III | 3,059 | 89,476 |
+| 0.034 | Dota 2 | 28,360 | 829,356 |
+| 0.011 | PUBG: BATTLEGROUNDS | 7,330 | 688,421 |
 
 ---
 
