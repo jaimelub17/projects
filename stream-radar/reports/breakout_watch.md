@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-09-25T07` (UTC). History: 136 snapshots spanning 678h.
-Reference windows: short = `2026-09-25T00`, day = `2026-09-24T04`.
+Generated from snapshot `2026-09-25T13` (UTC). History: 137 snapshots spanning 684h.
+Reference windows: short = `2026-09-25T07`, day = `2026-09-24T11`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Project Zomboid | +8.12 | 27 | 8,590 | +207% | +409% | 96 | -4% | 0.3225 | IGNITION:mynthos,smoke |
-| 2 | Rust | +5.04 | 4 | 41,398 | -53% | +2218% | 98 | -2% | 0.1152 |  |
-| 3 | Street Fighter 6 | +4.66 | 32 | 7,488 | +211% | +92% | 89 | -10% | 0.7166 | IGNITION:supertf |
-| 4 | Dota 2 | +4.25 | 2 | 57,189 | +151% | +359% | 95 | -2% | 0.4075 |  |
-| 5 | I'm Only Sleeping | +3.97 | 21 | 12,507 | +63% | +68% | 100 | +0% | 0.2028 | IGNITION:whylollycry,meetenshow |
-| 6 | Derby Stallion 2 | +3.25 | 84 | 1,904 | - | - | 4 | - | 0.8109 | ENTRY IGNITION:sumomo_x |
-| 7 | DRAGON QUEST VII Reimagined | +3.25 | 28 | 8,437 | - | - | 3 | - | 0.9979 | ENTRY IGNITION:yaritaiji |
-| 8 | Mechabellum | +3.25 | 57 | 3,271 | - | - | 8 | - | 0.8985 | ENTRY IGNITION:maxim |
-| 9 | Star Wars Zero Company | +3.25 | 89 | 1,725 | - | - | 24 | - | 0.8528 | ENTRY IGNITION:mimiluckying |
-| 10 | Total War: WARHAMMER III | +3.21 | 51 | 3,943 | +6% | +118% | 59 | -40% | 0.261 |  |
-| 11 | World of Tanks | +3.13 | 43 | 4,837 | -1% | +55% | 80 | +11% | 0.392 | IGNITION:dakillzor |
-| 12 | Big Walk | +2.71 | 70 | 2,468 | - | +10% | 40 | - | 0.2804 | ENTRY IGNITION:streamdatabase |
-| 13 | Core Keeper | +2.68 | 24 | 11,629 | - | +14% | 14 | - | 0.9061 | ENTRY IGNITION:ironmouse |
-| 14 | Dune: Awakening | +2.25 | 63 | 2,943 | - | - | 100 | - | 0.282 | ENTRY |
-| 15 | Minecraft Dungeons | +2.25 | 87 | 1,604 | - | - | 8 | - | 0.9115 | ENTRY |
+| 1 | World of Tanks | +5.78 | 24 | 14,781 | +206% | +106% | 100 | +25% | 0.2368 | IGNITION:worldoftanks,skill4ltu |
+| 2 | Rust | +5.31 | 10 | 54,405 | +31% | +1390% | 98 | +0% | 0.3463 |  |
+| 3 | Total War: WARHAMMER III | +4.49 | 53 | 6,145 | +56% | +97% | 89 | +51% | 0.1346 |  |
+| 4 | Furyball: Rogue Revenge | +4.40 | 49 | 6,410 | - | +82% | 3 | - | 0.7936 | ENTRY IGNITION:mistermv |
+| 5 | Minecraft | +4.32 | 16 | 18,346 | +245% | +279% | 97 | -2% | 0.294 |  |
+| 6 | Shape of Dreams | +4.25 | 86 | 3,297 | - | - | 22 | - | 0.7113 | ENTRY IGNITION:hennie2001,qttsix |
+| 7 | The Elder Scrolls Online | +4.24 | 60 | 5,060 | +119% | - | 35 | +84% | 0.9176 | ENTRY IGNITION:nordenheim |
+| 8 | Fire Emblem: Fortune's Weave | +4.22 | 63 | 4,744 | +123% | +108% | 100 | +9% | 0.4406 | IGNITION:minoru04160 |
+| 9 | Path of Exile 2 | +3.98 | 72 | 4,389 | +192% | +75% | 100 | +6% | 0.1825 | IGNITION:pathofexilebota |
+| 10 | PUBG: BATTLEGROUNDS | +3.88 | 35 | 10,053 | +307% | -25% | 99 | +1% | 0.3205 | IGNITION:recrent,des0ut |
+| 11 | Street Fighter 6 | +3.86 | 21 | 15,862 | +112% | +109% | 96 | +8% | 0.7416 | IGNITION:fps_shaka |
+| 12 | Fortnite | +3.56 | 9 | 47,646 | +360% | +52% | 99 | -1% | 0.2288 |  |
+| 13 | Escape from Tarkov | +3.50 | 20 | 15,704 | +302% | +72% | 99 | -1% | 0.3571 |  |
+| 14 | Big Walk | +3.35 | 73 | 4,268 | +73% | - | 56 | +40% | 0.4295 | ENTRY IGNITION:ren_kisaragi__ |
+| 15 | DRAGON QUEST VII Reimagined | +3.34 | 39 | 8,654 | +3% | - | 6 | +100% | 0.9984 | BREADTH ENTRY IGNITION:yaritaiji |
 
 ## Ignition alerts
 
@@ -30,28 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Core Keeper | ironmouse | 19,982 | 10,537 | 91% | 24 |
-| DRAGON QUEST VII Reimagined | yaritaiji | 13,970 | 8,419 | 100% | 28 |
-| Street Fighter 6 | supertf | 14,663 | 5,366 | 72% | 32 |
-| Find The Needle | shinjifromjapanxd | 6,318 | 3,882 | 78% | 42 |
-| Mechabellum | maxim | 4,406 | 2,939 | 90% | 57 |
-| Derby Stallion 2 | sumomo_x | 3,240 | 1,544 | 81% | 84 |
-| Star Wars Zero Company | mimiluckying | 6,380 | 1,471 | 85% | 89 |
+| Street Fighter 6 | fps_shaka | 42,385 | 11,763 | 74% | 21 |
+| DRAGON QUEST VII Reimagined | yaritaiji | 13,970 | 8,640 | 100% | 39 |
+| Rainbow Six Siege | rainbow6 | 22,272 | 7,609 | 61% | 29 |
+| Furyball: Rogue Revenge | mistermv | 8,371 | 5,087 | 79% | 49 |
+| The Elder Scrolls Online | nordenheim | 4,643 | 4,643 | 92% | 60 |
+| Riruri Tachibana: Reincarnated | zrush | 5,666 | 4,137 | 100% | 75 |
+| Where Winds Meet | mobilmobil | 6,113 | 3,872 | 83% | 71 |
+| Machine Party | tokoyamitowa_holo | 3,781 | 3,781 | 74% | 62 |
+| Galumb | godjj | 3,650 | 3,650 | 75% | 65 |
+| Dressmaker | akamikarubi | 5,999 | 3,257 | 80% | 85 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 0.486 | CONTROL Resonant | 16,679 | 34,345 |
-| 0.409 | Grand Theft Auto V | 26,741 | 65,331 |
-| 0.373 | Rust | 41,398 | 111,127 |
-| 0.328 | EA Sports FC 27 | 16,143 | 49,145 |
-| 0.223 | Street Fighter 6 | 7,488 | 33,567 |
-| 0.029 | Valheim | 5,598 | 195,154 |
-| 0.024 | Delta Force | 2,973 | 124,551 |
-| 0.015 | Slay the Spire II | 1,405 | 90,745 |
-| 0.014 | Counter-Strike | 19,002 | 1,384,929 |
-| 0.004 | PUBG: BATTLEGROUNDS | 2,471 | 688,421 |
+| 0.803 | EA Sports FC 27 | 39,460 | 49,145 |
+| 0.771 | Grand Theft Auto V | 50,396 | 65,331 |
+| 0.644 | CONTROL Resonant | 22,110 | 34,345 |
+| 0.49 | Rust | 54,405 | 111,127 |
+| 0.473 | Street Fighter 6 | 15,862 | 33,567 |
+| 0.058 | DayZ | 2,618 | 45,165 |
+| 0.052 | Project Zomboid | 2,763 | 53,369 |
+| 0.04 | Counter-Strike | 55,124 | 1,384,929 |
+| 0.034 | Valheim | 6,551 | 195,154 |
+| 0.015 | PUBG: BATTLEGROUNDS | 10,053 | 688,421 |
 
 ---
 
