@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-09-25T13` (UTC). History: 137 snapshots spanning 684h.
-Reference windows: short = `2026-09-25T07`, day = `2026-09-24T11`.
+Generated from snapshot `2026-09-25T18` (UTC). History: 138 snapshots spanning 689h.
+Reference windows: short = `2026-09-25T13`, day = `2026-09-24T17`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | World of Tanks | +5.78 | 24 | 14,781 | +206% | +106% | 100 | +25% | 0.2368 | IGNITION:worldoftanks,skill4ltu |
-| 2 | Rust | +5.31 | 10 | 54,405 | +31% | +1390% | 98 | +0% | 0.3463 |  |
-| 3 | Total War: WARHAMMER III | +4.49 | 53 | 6,145 | +56% | +97% | 89 | +51% | 0.1346 |  |
-| 4 | Furyball: Rogue Revenge | +4.40 | 49 | 6,410 | - | +82% | 3 | - | 0.7936 | ENTRY IGNITION:mistermv |
-| 5 | Minecraft | +4.32 | 16 | 18,346 | +245% | +279% | 97 | -2% | 0.294 |  |
-| 6 | Shape of Dreams | +4.25 | 86 | 3,297 | - | - | 22 | - | 0.7113 | ENTRY IGNITION:hennie2001,qttsix |
-| 7 | The Elder Scrolls Online | +4.24 | 60 | 5,060 | +119% | - | 35 | +84% | 0.9176 | ENTRY IGNITION:nordenheim |
-| 8 | Fire Emblem: Fortune's Weave | +4.22 | 63 | 4,744 | +123% | +108% | 100 | +9% | 0.4406 | IGNITION:minoru04160 |
-| 9 | Path of Exile 2 | +3.98 | 72 | 4,389 | +192% | +75% | 100 | +6% | 0.1825 | IGNITION:pathofexilebota |
-| 10 | PUBG: BATTLEGROUNDS | +3.88 | 35 | 10,053 | +307% | -25% | 99 | +1% | 0.3205 | IGNITION:recrent,des0ut |
-| 11 | Street Fighter 6 | +3.86 | 21 | 15,862 | +112% | +109% | 96 | +8% | 0.7416 | IGNITION:fps_shaka |
-| 12 | Fortnite | +3.56 | 9 | 47,646 | +360% | +52% | 99 | -1% | 0.2288 |  |
-| 13 | Escape from Tarkov | +3.50 | 20 | 15,704 | +302% | +72% | 99 | -1% | 0.3571 |  |
-| 14 | Big Walk | +3.35 | 73 | 4,268 | +73% | - | 56 | +40% | 0.4295 | ENTRY IGNITION:ren_kisaragi__ |
-| 15 | DRAGON QUEST VII Reimagined | +3.34 | 39 | 8,654 | +3% | - | 6 | +100% | 0.9984 | BREADTH ENTRY IGNITION:yaritaiji |
+| 1 | Delta Force | +5.31 | 27 | 20,240 | +148% | +115% | 100 | +3% | 0.3192 | IGNITION:hutchmf,summit1g |
+| 2 | PUBG: BATTLEGROUNDS | +5.19 | 29 | 17,549 | +75% | +192% | 99 | +0% | 0.2797 | IGNITION:pubg_battlegrounds,pokamolodoy |
+| 3 | Chained Together | +4.25 | 58 | 8,613 | - | - | 29 | - | 0.3158 | ENTRY IGNITION:guzu,anniefuchsia |
+| 4 | MARVEL Contest of Champions | +4.25 | 36 | 13,369 | - | - | 32 | - | 0.563 | ENTRY IGNITION:pepe,mc0cnoob |
+| 5 | Dune: Awakening | +4.25 | 55 | 8,327 | +113% | - | 99 | -1% | 0.29 | ENTRY IGNITION:aztecross,littlebigwhale |
+| 6 | Rainbow Six Siege | +4.19 | 31 | 15,223 | +23% | +139% | 97 | +0% | 0.598 | IGNITION:rainbow6,mingo |
+| 7 | Project Zomboid | +4.13 | 64 | 6,933 | +151% | +70% | 97 | -1% | 0.3808 | IGNITION:edopeh |
+| 8 | Minecraft | +4.08 | 8 | 71,679 | +291% | +164% | 99 | +2% | 0.3947 |  |
+| 9 | Total War: WARHAMMER III | +4.01 | 47 | 10,285 | +67% | +34% | 97 | +9% | 0.2896 | IGNITION:alphacast,mauriceweber |
+| 10 | NBA 2K27 | +3.51 | 38 | 11,014 | +84% | +99% | 97 | -1% | 0.3817 | IGNITION:flight23white |
+| 11 | Rust | +3.31 | 11 | 61,728 | +13% | +498% | 100 | +2% | 0.1092 |  |
+| 12 | Escape from Tarkov | +3.25 | 23 | 22,022 | +40% | +47% | 97 | -2% | 0.2106 | IGNITION:cr_arisakaaa,lvndmark |
+| 13 | TCG Card Shop Simulator | +3.25 | 97 | 3,956 | - | - | 45 | - | 0.8976 | ENTRY IGNITION:insym |
+| 14 | Super Mario Odyssey | +3.25 | 62 | 8,278 | - | - | 48 | - | 0.2778 | ENTRY IGNITION:dougdoug |
+| 15 | RV There Yet? | +3.25 | 24 | 22,880 | - | - | 100 | - | 0.9502 | ENTRY IGNITION:dangerlyoha |
 
 ## Ignition alerts
 
@@ -30,31 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Street Fighter 6 | fps_shaka | 42,385 | 11,763 | 74% | 21 |
-| DRAGON QUEST VII Reimagined | yaritaiji | 13,970 | 8,640 | 100% | 39 |
-| Rainbow Six Siege | rainbow6 | 22,272 | 7,609 | 61% | 29 |
-| Furyball: Rogue Revenge | mistermv | 8,371 | 5,087 | 79% | 49 |
-| The Elder Scrolls Online | nordenheim | 4,643 | 4,643 | 92% | 60 |
-| Riruri Tachibana: Reincarnated | zrush | 5,666 | 4,137 | 100% | 75 |
-| Where Winds Meet | mobilmobil | 6,113 | 3,872 | 83% | 71 |
-| Machine Party | tokoyamitowa_holo | 3,781 | 3,781 | 74% | 62 |
-| Galumb | godjj | 3,650 | 3,650 | 75% | 65 |
-| Dressmaker | akamikarubi | 5,999 | 3,257 | 80% | 85 |
+| RV There Yet? | dangerlyoha | 27,172 | 21,741 | 95% | 24 |
+| Batomon Showdown | northernlion | 14,748 | 12,191 | 98% | 37 |
+| Rainbow Six Siege | rainbow6 | 22,272 | 9,103 | 60% | 31 |
+| Watch Your Plastic Duck | ironmouse | 19,982 | 8,766 | 100% | 57 |
+| Hello Neighbor | mastu | 239,077 | 8,032 | 99% | 63 |
+| MARVEL Contest of Champions | pepe | 10,744 | 7,527 | 56% | 36 |
+| REMATCH | itachi | 38,034 | 5,840 | 63% | 46 |
+| Woman Simulator | mazellovvv | 4,957 | 4,957 | 53% | 52 |
+| Where Winds Meet | xop0 | 4,232 | 3,890 | 79% | 77 |
+| TCG Card Shop Simulator | insym | 7,018 | 3,551 | 90% | 97 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 0.803 | EA Sports FC 27 | 39,460 | 49,145 |
-| 0.771 | Grand Theft Auto V | 50,396 | 65,331 |
-| 0.644 | CONTROL Resonant | 22,110 | 34,345 |
-| 0.49 | Rust | 54,405 | 111,127 |
-| 0.473 | Street Fighter 6 | 15,862 | 33,567 |
-| 0.058 | DayZ | 2,618 | 45,165 |
-| 0.052 | Project Zomboid | 2,763 | 53,369 |
-| 0.04 | Counter-Strike | 55,124 | 1,384,929 |
-| 0.034 | Valheim | 6,551 | 195,154 |
-| 0.015 | PUBG: BATTLEGROUNDS | 10,053 | 688,421 |
+| 3.209 | EA Sports FC 27 | 157,713 | 49,145 |
+| 1.374 | Grand Theft Auto V | 89,759 | 65,331 |
+| 1.174 | CONTROL Resonant | 40,334 | 34,345 |
+| 0.555 | Rust | 61,728 | 111,127 |
+| 0.47 | Rocket League | 17,650 | 37,530 |
+| 0.086 | VRChat | 4,622 | 53,712 |
+| 0.081 | Warframe | 7,734 | 95,028 |
+| 0.072 | Aniimo | 9,885 | 136,589 |
+| 0.061 | Counter-Strike | 84,753 | 1,384,929 |
+| 0.025 | PUBG: BATTLEGROUNDS | 17,549 | 688,421 |
 
 ---
 
