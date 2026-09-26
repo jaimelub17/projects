@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-09-25T23` (UTC). History: 139 snapshots spanning 694h.
-Reference windows: short = `2026-09-25T18`, day = `2026-09-25T00`.
+Generated from snapshot `2026-09-26T04` (UTC). History: 140 snapshots spanning 699h.
+Reference windows: short = `2026-09-25T23`, day = `2026-09-25T07`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Z1: Battle Royale | +6.53 | 33 | 12,381 | +188% | +187% | 100 | +0% | 0.3108 | IGNITION:itachi,imperialhal__ |
-| 2 | Delta Force | +5.89 | 23 | 18,661 | -8% | +491% | 100 | +0% | 0.3999 | IGNITION:twitchrivals,gingy |
-| 3 | Graveyard Keeper II | +5.42 | 18 | 22,112 | +96% | +540% | 100 | +2% | 0.831 |  |
-| 4 | Find The Needle | +3.79 | 56 | 7,415 | - | +72% | 30 | - | 0.7784 | ENTRY IGNITION:locklear |
-| 5 | Rainbow Six Siege | +3.63 | 25 | 16,107 | +6% | +188% | 98 | +1% | 0.6782 | IGNITION:rainbow6,fettr6s |
-| 6 | Street Fighter 6 | +3.45 | 84 | 3,768 | - | +56% | 100 | - | 0.3312 | ENTRY IGNITION:spygea |
-| 7 | The Legend of Zelda: Ocarina of Time | +3.44 | 67 | 6,134 | - | +155% | 85 | - | 0.3745 | ENTRY |
-| 8 | Heroes of Might and Magic III: The Restoration of Erathia | +3.41 | 51 | 8,079 | - | +50% | 27 | - | 0.5314 | ENTRY IGNITION:voodoosh |
-| 9 | Until Dawn | +3.25 | 39 | 10,604 | - | - | 12 | - | 0.9981 | ENTRY IGNITION:zarbex |
-| 10 | Pokémon Champions | +3.25 | 45 | 9,464 | - | - | 100 | - | 0.2097 | ENTRY IGNITION:dougdoug |
-| 11 | Dressmaker | +3.25 | 62 | 6,675 | - | - | 97 | - | 0.2673 | ENTRY IGNITION:lilsimsie |
-| 12 | Fears to Fathom: Ironbark Lookout | +3.25 | 71 | 5,247 | - | - | 4 | - | 0.9952 | ENTRY IGNITION:realzbluewater |
-| 13 | BOMBANANA! | +3.25 | 93 | 3,432 | - | - | 48 | - | 0.6087 | ENTRY IGNITION:zoomaa |
-| 14 | Black Russia | +3.25 | 44 | 9,602 | - | - | 14 | - | 0.7649 | ENTRY IGNITION:bisteconee |
-| 15 | nanos world | +3.05 | 78 | 4,550 | - | +29% | 50 | - | 0.5738 | ENTRY IGNITION:mehditdonc |
+| 1 | Valheim | +4.89 | 3 | 55,188 | +77% | +886% | 100 | +4% | 0.5822 |  |
+| 2 | I'm Only Sleeping | +3.74 | 29 | 11,805 | +192% | -6% | 99 | -1% | 0.1925 | IGNITION:whylollycry,tisischubech |
+| 3 | Mystery Egg Shop Simulator | +3.25 | 37 | 7,195 | - | - | 2 | - | 0.6563 | ENTRY IGNITION:rivers_gg |
+| 4 | Bully: Scholarship Edition | +3.25 | 69 | 3,459 | - | - | 9 | - | 0.9754 | ENTRY IGNITION:henyathegenius |
+| 5 | League of Legends: Wild Rift | +3.25 | 94 | 1,941 | - | - | 69 | - | 0.6914 | ENTRY IGNITION:tealzlol |
+| 6 | Madden NFL 27 | +3.23 | 38 | 6,459 | +30% | +197% | 100 | +0% | 0.3614 |  |
+| 7 | Fire Emblem: Fortune's Weave | +3.20 | 45 | 5,559 | -5% | +161% | 100 | +0% | 0.2716 | IGNITION:boxbox |
+| 8 | Halloween: The Game | +2.93 | 54 | 4,264 | +17% | +177% | 100 | +6% | 0.1372 |  |
+| 9 | PAYDAY 3 | +2.81 | 60 | 4,312 | - | +87% | 47 | - | 0.4007 | ENTRY |
+| 10 | Graveyard Keeper II | +2.70 | 28 | 13,293 | -40% | +335% | 100 | +0% | 0.7796 | IGNITION:gronkh |
+| 11 | Once Human | +2.65 | 75 | 2,403 | - | +67% | 100 | - | 0.3446 | ENTRY |
+| 12 | NBA 2K27 | +2.56 | 21 | 12,808 | +26% | +91% | 100 | +2% | 0.1416 | IGNITION:joeknowsyt |
+| 13 | FINAL FANTASY XIV ONLINE | +2.52 | 49 | 4,003 | +61% | +80% | 100 | +5% | 0.063 |  |
+| 14 | Overwatch | +2.51 | 10 | 21,591 | +86% | +113% | 99 | +5% | 0.3115 |  |
+| 15 | Battlefield 6 | +2.30 | 100 | 1,572 | - | - | 100 | - | 0.2405 | ENTRY |
 
 ## Ignition alerts
 
@@ -30,31 +30,26 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Rainbow Six Siege | rainbow6 | 22,272 | 10,924 | 68% | 25 |
-| Until Dawn | zarbex | 28,526 | 10,584 | 100% | 39 |
-| Teamfight Tactics | k3soju | 14,323 | 9,316 | 50% | 21 |
-| Watch Your Plastic Duck | ironmouse | 19,982 | 7,491 | 100% | 54 |
-| Black Russia | bisteconee | 18,101 | 7,345 | 76% | 44 |
-| World of Tanks | dakillzor | 14,679 | 6,164 | 55% | 37 |
-| Find The Needle | locklear | 6,891 | 5,772 | 78% | 56 |
-| Fears to Fathom: Ironbark Lookout | realzbluewater | 8,209 | 5,222 | 100% | 71 |
-| MARVEL Contest of Champions | pepe | 10,744 | 4,726 | 57% | 49 |
-| Heroes of Might and Magic III: The Restoration of Erathia | voodoosh | 4,639 | 4,293 | 53% | 51 |
+| Graveyard Keeper II | gronkh | 27,718 | 10,363 | 78% | 28 |
+| Mystery Egg Shop Simulator | rivers_gg | 10,555 | 4,722 | 66% | 37 |
+| World of Tanks | dakillzor | 14,679 | 3,393 | 59% | 46 |
+| Bully: Scholarship Edition | henyathegenius | 4,538 | 3,374 | 98% | 69 |
+| League of Legends: Wild Rift | tealzlol | 3,707 | 1,342 | 69% | 94 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 3.183 | Grand Theft Auto V | 207,937 | 65,331 |
-| 1.672 | EA Sports FC 27 | 82,150 | 49,145 |
-| 0.568 | CONTROL Resonant | 19,491 | 34,345 |
-| 0.518 | Rust | 57,603 | 111,127 |
-| 0.417 | Graveyard Keeper II | 22,112 | 52,979 |
-| 0.046 | Apex Legends | 10,997 | 239,394 |
-| 0.043 | Counter-Strike | 59,143 | 1,384,929 |
-| 0.034 | Total War: WARHAMMER III | 3,059 | 89,476 |
-| 0.034 | Dota 2 | 28,360 | 829,356 |
-| 0.011 | PUBG: BATTLEGROUNDS | 7,330 | 688,421 |
+| 1.43 | Grand Theft Auto V | 93,327 | 65,262 |
+| 0.64 | CONTROL Resonant | 22,280 | 34,811 |
+| 0.398 | Rust | 49,630 | 124,585 |
+| 0.299 | Overwatch | 21,591 | 72,167 |
+| 0.269 | Valheim | 55,188 | 204,895 |
+| 0.024 | HELLDIVERS 2 | 1,472 | 61,074 |
+| 0.02 | Slay the Spire II | 1,857 | 93,313 |
+| 0.017 | Dota 2 | 14,665 | 842,846 |
+| 0.01 | Counter-Strike | 12,601 | 1,308,112 |
+| 0.006 | PUBG: BATTLEGROUNDS | 4,193 | 652,161 |
 
 ---
 
