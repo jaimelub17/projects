@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-09-26T04` (UTC). History: 140 snapshots spanning 699h.
-Reference windows: short = `2026-09-25T23`, day = `2026-09-25T07`.
+Generated from snapshot `2026-09-26T11` (UTC). History: 141 snapshots spanning 706h.
+Reference windows: short = `2026-09-26T04`, day = `2026-09-25T13`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Valheim | +4.89 | 3 | 55,188 | +77% | +886% | 100 | +4% | 0.5822 |  |
-| 2 | I'm Only Sleeping | +3.74 | 29 | 11,805 | +192% | -6% | 99 | -1% | 0.1925 | IGNITION:whylollycry,tisischubech |
-| 3 | Mystery Egg Shop Simulator | +3.25 | 37 | 7,195 | - | - | 2 | - | 0.6563 | ENTRY IGNITION:rivers_gg |
-| 4 | Bully: Scholarship Edition | +3.25 | 69 | 3,459 | - | - | 9 | - | 0.9754 | ENTRY IGNITION:henyathegenius |
-| 5 | League of Legends: Wild Rift | +3.25 | 94 | 1,941 | - | - | 69 | - | 0.6914 | ENTRY IGNITION:tealzlol |
-| 6 | Madden NFL 27 | +3.23 | 38 | 6,459 | +30% | +197% | 100 | +0% | 0.3614 |  |
-| 7 | Fire Emblem: Fortune's Weave | +3.20 | 45 | 5,559 | -5% | +161% | 100 | +0% | 0.2716 | IGNITION:boxbox |
-| 8 | Halloween: The Game | +2.93 | 54 | 4,264 | +17% | +177% | 100 | +6% | 0.1372 |  |
-| 9 | PAYDAY 3 | +2.81 | 60 | 4,312 | - | +87% | 47 | - | 0.4007 | ENTRY |
-| 10 | Graveyard Keeper II | +2.70 | 28 | 13,293 | -40% | +335% | 100 | +0% | 0.7796 | IGNITION:gronkh |
-| 11 | Once Human | +2.65 | 75 | 2,403 | - | +67% | 100 | - | 0.3446 | ENTRY |
-| 12 | NBA 2K27 | +2.56 | 21 | 12,808 | +26% | +91% | 100 | +2% | 0.1416 | IGNITION:joeknowsyt |
-| 13 | FINAL FANTASY XIV ONLINE | +2.52 | 49 | 4,003 | +61% | +80% | 100 | +5% | 0.063 |  |
-| 14 | Overwatch | +2.51 | 10 | 21,591 | +86% | +113% | 99 | +5% | 0.3115 |  |
-| 15 | Battlefield 6 | +2.30 | 100 | 1,572 | - | - | 100 | - | 0.2405 | ENTRY |
+| 1 | VALORANT | +5.47 | 1 | 172,152 | +631% | +247% | 98 | +3% | 0.1848 |  |
+| 2 | Where Winds Meet | +4.72 | 32 | 10,099 | - | +116% | 57 | - | 0.8026 | ENTRY IGNITION:stylishnoob4 |
+| 3 | Pokémon Champions | +4.25 | 21 | 14,804 | - | - | 64 | - | 0.4175 | ENTRY IGNITION:knekro,pokemon |
+| 4 | Pokémon GO | +4.25 | 94 | 2,212 | - | - | 30 | - | 0.486 | ENTRY IGNITION:pokemongo,j0beats |
+| 5 | Rainbow Six Siege | +3.65 | 29 | 10,460 | +317% | -16% | 97 | -2% | 0.7376 | IGNITION:rainbow6 |
+| 6 | Dota 2 | +3.64 | 3 | 102,460 | +599% | -16% | 97 | -3% | 0.2667 |  |
+| 7 | Apex Legends | +3.53 | 5 | 60,032 | +281% | +73% | 100 | +3% | 0.2386 |  |
+| 8 | World of Tanks | +3.29 | 17 | 17,708 | +208% | +20% | 99 | +48% | 0.3009 |  |
+| 9 | Mario Kart World | +3.25 | 84 | 2,825 | - | - | 13 | - | 0.9897 | ENTRY IGNITION:hanjoudesu |
+| 10 | RuneScape: Dragonwilds | +3.23 | 62 | 3,984 | - | - | 98 | - | 0.2422 | ENTRY IGNITION:zizaran |
+| 11 | Crypto | +3.17 | 44 | 6,258 | +92% | +56% | 99 | +9% | 0.3487 |  |
+| 12 | Genshin Impact | +3.07 | 46 | 5,297 | +100% | +14% | 98 | +4% | 0.6281 | IGNITION:zy0xxx |
+| 13 | Arena Breakout: Infinite | +2.92 | 41 | 7,213 | +162% | +33% | 100 | +0% | 0.1528 |  |
+| 14 | PUBG: BATTLEGROUNDS | +2.84 | 37 | 7,748 | +85% | -23% | 98 | -1% | 0.1839 | IGNITION:pubg_battlegrounds,kant0211 |
+| 15 | Counter-Strike | +2.68 | 7 | 49,356 | +292% | -10% | 97 | +4% | 0.3278 |  |
 
 ## Ignition alerts
 
@@ -30,26 +30,26 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Graveyard Keeper II | gronkh | 27,718 | 10,363 | 78% | 28 |
-| Mystery Egg Shop Simulator | rivers_gg | 10,555 | 4,722 | 66% | 37 |
-| World of Tanks | dakillzor | 14,679 | 3,393 | 59% | 46 |
-| Bully: Scholarship Edition | henyathegenius | 4,538 | 3,374 | 98% | 69 |
-| League of Legends: Wild Rift | tealzlol | 3,707 | 1,342 | 69% | 94 |
+| Where Winds Meet | stylishnoob4 | 27,977 | 8,105 | 80% | 32 |
+| Rainbow Six Siege | rainbow6 | 22,272 | 7,715 | 74% | 29 |
+| Graveyard Keeper II | mynthos | 6,006 | 5,723 | 63% | 35 |
+| Genshin Impact | zy0xxx | 10,507 | 3,327 | 63% | 46 |
+| Mario Kart World | hanjoudesu | 6,953 | 2,796 | 99% | 84 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 1.43 | Grand Theft Auto V | 93,327 | 65,262 |
-| 0.64 | CONTROL Resonant | 22,280 | 34,811 |
-| 0.398 | Rust | 49,630 | 124,585 |
-| 0.299 | Overwatch | 21,591 | 72,167 |
-| 0.269 | Valheim | 55,188 | 204,895 |
-| 0.024 | HELLDIVERS 2 | 1,472 | 61,074 |
-| 0.02 | Slay the Spire II | 1,857 | 93,313 |
-| 0.017 | Dota 2 | 14,665 | 842,846 |
-| 0.01 | Counter-Strike | 12,601 | 1,308,112 |
-| 0.006 | PUBG: BATTLEGROUNDS | 4,193 | 652,161 |
+| 0.704 | Grand Theft Auto V | 45,936 | 65,262 |
+| 0.375 | CONTROL Resonant | 13,068 | 34,811 |
+| 0.355 | Rust | 44,177 | 124,585 |
+| 0.259 | EA Sports FC 27 | 23,731 | 91,542 |
+| 0.259 | Apex Legends | 60,032 | 231,481 |
+| 0.044 | Total War: WARHAMMER III | 3,914 | 88,466 |
+| 0.043 | Deadlock | 3,222 | 74,281 |
+| 0.038 | Counter-Strike | 49,356 | 1,308,112 |
+| 0.036 | Warframe | 3,077 | 84,979 |
+| 0.012 | PUBG: BATTLEGROUNDS | 7,748 | 652,161 |
 
 ---
 
