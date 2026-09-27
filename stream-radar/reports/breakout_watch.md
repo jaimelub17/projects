@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-09-26T21` (UTC). History: 143 snapshots spanning 716h.
+Generated from snapshot `2026-09-27T00` (UTC). History: 144 snapshots spanning 719h.
 Reference windows: short = `2026-09-26T16`, day = `2026-09-25T23`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | The Plant Shop | +6.79 | 20 | 25,610 | - | +1110% | 8 | - | 0.9909 | ENTRY |
-| 2 | Total War: WARHAMMER III | +6.37 | 45 | 9,871 | +76% | +223% | 98 | -2% | 0.3204 | IGNITION:alphacast,edopeh |
-| 3 | Active Matter | +5.28 | 33 | 14,139 | -36% | +351% | 99 | +6% | 0.2594 | IGNITION:lvndmark,aztecross |
-| 4 | Delta Force | +4.92 | 15 | 32,927 | +644% | +76% | 100 | +3% | 0.2066 |  |
-| 5 | Arkheron | +4.25 | 30 | 15,589 | - | - | 32 | - | 0.3323 | ENTRY IGNITION:mistermv,grubby |
-| 6 | Pokémon | +4.25 | 50 | 8,119 | - | - | 79 | - | 0.3493 | ENTRY IGNITION:atrioc,kkatamina |
-| 7 | Cyberpunk 2077 | +3.27 | 66 | 5,977 | - | - | 99 | - | 0.8387 | ENTRY IGNITION:antoinedaniel |
-| 8 | Stranded With You | +3.25 | 99 | 3,784 | - | - | 1 | - | 1.0 | ENTRY IGNITION:shylily |
-| 9 | Call of Duty: Black Ops | +3.25 | 76 | 5,154 | - | - | 61 | - | 0.9026 | ENTRY IGNITION:wartek |
-| 10 | Gravebound | +3.25 | 96 | 3,936 | - | - | 2 | - | 0.999 | ENTRY IGNITION:xop0 |
-| 11 | Fortune Mill | +3.25 | 65 | 6,151 | - | - | 3 | - | 0.9993 | ENTRY IGNITION:locklear |
-| 12 | The Elder Scrolls V: Skyrim | +3.25 | 78 | 5,073 | - | - | 100 | - | 0.8809 | ENTRY IGNITION:vedal987 |
-| 13 | POOL LOOP | +3.25 | 60 | 6,749 | - | - | 1 | - | 1.0 | ENTRY IGNITION:elajjaz |
-| 14 | theHunter: Call of the Wild | +3.25 | 91 | 4,286 | - | - | 55 | - | 0.9536 | ENTRY IGNITION:laink |
-| 15 | ELDEN RING | +3.22 | 46 | 8,202 | +91% | +118% | 93 | -6% | 0.3771 |  |
+| 1 | BOMBANANA! | +7.15 | 12 | 36,962 | - | +977% | 50 | - | 0.8901 | ENTRY |
+| 2 | ROBLOX | +4.88 | 32 | 8,467 | +131% | +170% | 96 | -4% | 0.7053 | IGNITION:manuuxo |
+| 3 | Destiny 2 | +3.66 | 52 | 5,976 | +71% | +113% | 100 | +3% | 0.1662 |  |
+| 4 | I'm Only Sleeping | +3.65 | 41 | 9,165 | -1% | +127% | 100 | +4% | 0.3317 | IGNITION:blooprint |
+| 5 | Call of Duty: Black Ops 7 | +3.37 | 43 | 7,975 | - | +26% | 99 | - | 0.4667 | ENTRY IGNITION:thegrefg |
+| 6 | Geometry Dash | +3.31 | 54 | 6,415 | - | - | 100 | - | 0.7927 | ENTRY IGNITION:doggie |
+| 7 | Pokémon Trading Card Game | +3.25 | 85 | 3,389 | - | - | 52 | - | 0.1945 | ENTRY IGNITION:pokemontcg |
+| 8 | Marvel's Wolverine | +3.25 | 74 | 3,739 | - | - | 92 | - | 0.5509 | ENTRY IGNITION:agraelus |
+| 9 | The Choicer Voicer | +3.25 | 83 | 3,568 | - | - | 12 | - | 0.977 | ENTRY IGNITION:vargskelethor |
+| 10 | Black Myth: Wukong | +3.25 | 50 | 6,841 | - | - | 77 | - | 0.9711 | ENTRY IGNITION:realzbluewater |
+| 11 | Onimusha: Way of the Sword | +3.25 | 26 | 13,931 | - | - | 100 | - | 0.8339 | ENTRY IGNITION:emiru |
+| 12 | RV There Yet? | +3.25 | 51 | 6,794 | - | - | 100 | - | 0.7755 | ENTRY IGNITION:giggand |
+| 13 | Dragon's Dogma II | +3.25 | 90 | 3,155 | - | - | 33 | - | 0.9271 | ENTRY IGNITION:revenant |
+| 14 | ELDEN RING | +3.24 | 44 | 8,041 | +87% | +114% | 93 | -6% | 0.3104 |  |
+| 15 | Watch Your Plastic Duck | +2.71 | 45 | 8,771 | - | +17% | 2 | - | 0.9999 | ENTRY IGNITION:ironmouse |
 
 ## Ignition alerts
 
@@ -30,31 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Watch Your Plastic Duck | ironmouse | 19,982 | 8,911 | 100% | 49 |
-| POOL LOOP | elajjaz | 11,003 | 6,749 | 100% | 60 |
-| DRAGON QUEST VII Reimagined | yaritaiji | 13,970 | 6,309 | 99% | 63 |
-| Fortune Mill | locklear | 6,891 | 6,147 | 100% | 65 |
-| Z1: Battle Royale | itachi | 38,034 | 5,415 | 51% | 40 |
-| Cyberpunk 2077 | antoinedaniel | 15,073 | 5,013 | 84% | 66 |
-| Call of Duty: Black Ops | wartek | 4,652 | 4,652 | 90% | 76 |
-| The Elder Scrolls V: Skyrim | vedal987 | 8,267 | 4,469 | 88% | 78 |
-| theHunter: Call of the Wild | laink | 5,269 | 4,087 | 95% | 91 |
-| Gravebound | xop0 | 4,232 | 3,932 | 100% | 96 |
+| Onimusha: Way of the Sword | emiru | 14,104 | 11,617 | 83% | 26 |
+| Watch Your Plastic Duck | ironmouse | 19,982 | 8,770 | 100% | 45 |
+| Black Myth: Wukong | realzbluewater | 8,209 | 6,643 | 97% | 50 |
+| ROBLOX | manuuxo | 5,972 | 5,972 | 71% | 32 |
+| RV There Yet? | giggand | 5,269 | 5,269 | 78% | 51 |
+| Geometry Dash | doggie | 5,085 | 5,085 | 79% | 54 |
+| Rainbow Six Siege | itsspoit | 6,184 | 4,370 | 62% | 37 |
+| The Choicer Voicer | vargskelethor | 3,879 | 3,486 | 98% | 83 |
+| Active Matter | squeex | 10,291 | 3,382 | 59% | 62 |
+| Dragon's Dogma II | revenant | 5,614 | 2,925 | 93% | 90 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 1.851 | Grand Theft Auto V | 120,803 | 65,262 |
-| 0.734 | EA Sports FC 27 | 67,155 | 91,542 |
-| 0.499 | CONTROL Resonant | 17,357 | 34,811 |
-| 0.47 | Rocket League | 15,052 | 32,027 |
-| 0.401 | Rust | 49,935 | 124,585 |
-| 0.06 | Warframe | 5,061 | 84,979 |
-| 0.06 | Aniimo | 8,609 | 143,345 |
-| 0.055 | Counter-Strike | 72,192 | 1,308,112 |
-| 0.036 | Apex Legends | 8,245 | 231,481 |
-| 0.013 | PUBG: BATTLEGROUNDS | 8,716 | 652,161 |
+| 1.942 | Grand Theft Auto V | 126,725 | 65,262 |
+| 0.413 | Rust | 51,451 | 124,585 |
+| 0.388 | EA Sports FC 27 | 35,478 | 91,542 |
+| 0.348 | Rocket League | 11,159 | 32,027 |
+| 0.31 | Black Myth: Wukong | 6,841 | 22,102 |
+| 0.032 | Total War: WARHAMMER III | 2,816 | 88,466 |
+| 0.032 | Delta Force | 3,723 | 117,353 |
+| 0.032 | Counter-Strike | 41,609 | 1,308,112 |
+| 0.021 | Dota 2 | 17,880 | 842,846 |
+| 0.013 | PUBG: BATTLEGROUNDS | 8,282 | 652,161 |
 
 ---
 
