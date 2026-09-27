@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-09-27T13` (UTC). History: 146 snapshots spanning 732h.
-Reference windows: short = `2026-09-27T08`, day = `2026-09-26T11`.
+Generated from snapshot `2026-09-27T18` (UTC). History: 147 snapshots spanning 737h.
+Reference windows: short = `2026-09-27T13`, day = `2026-09-26T16`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Fortnite | +7.18 | 3 | 120,366 | +1142% | +451% | 98 | +4% | 0.275 |  |
-| 2 | Escape from Tarkov | +7.07 | 21 | 21,417 | +184% | +383% | 98 | +7% | 0.2466 | IGNITION:cr_arisakaaa,glorious_e |
-| 3 | Total War: WARHAMMER III | +5.67 | 53 | 6,157 | +190% | +57% | 98 | +109% | 0.6443 | IGNITION:alphacast |
-| 4 | ARK: Survival Ascended | +5.17 | 42 | 7,170 | - | +245% | 99 | - | 0.3456 | ENTRY |
-| 5 | PEAK | +4.65 | 44 | 7,018 | +317% | - | 90 | -2% | 0.3928 | ENTRY IGNITION:solo |
-| 6 | Pokémon Champions | +4.40 | 16 | 28,493 | +303% | +92% | 81 | +47% | 0.489 |  |
-| 7 | Woman Simulator | +4.22 | 38 | 7,834 | - | +78% | 31 | - | 0.5568 | ENTRY IGNITION:stintik |
-| 8 | CONTROL Resonant | +4.07 | 17 | 26,927 | +335% | +106% | 98 | +8% | 0.3352 |  |
-| 9 | Pokémon GO | +4.03 | 98 | 2,921 | +73% | +32% | 34 | +62% | 0.5751 | IGNITION:pokemongo,j0beats |
-| 10 | Rocket League | +3.89 | 33 | 9,237 | +83% | +41% | 99 | +0% | 0.2309 | IGNITION:mawkzy_,nemurf |
-| 11 | AION 2 | +3.75 | 55 | 4,758 | - | +90% | 56 | - | 0.2791 | ENTRY |
-| 12 | Aniimo | +3.72 | 23 | 15,234 | +141% | +93% | 95 | -2% | 0.3969 | IGNITION:metashi12 |
-| 13 | SILENT HILL: townfall | +3.63 | 26 | 16,085 | +91% | +40% | 98 | +10% | 0.1764 | IGNITION:sleduck,alinarinrin |
-| 14 | Diablo IV | +3.54 | 48 | 6,305 | +83% | +18% | 98 | +2% | 0.2899 | IGNITION:rob2628,wudijo |
-| 15 | Dressmaker | +3.39 | 58 | 5,714 | - | - | 75 | - | 0.7427 | ENTRY IGNITION:michimochievee |
+| 1 | Terraria | +9.44 | 40 | 11,274 | +3646% | +45% | 99 | +15% | 0.9382 | IGNITION:forsen |
+| 2 | Rainbow Six Siege | +5.98 | 22 | 24,571 | +485% | +44% | 97 | -3% | 0.3717 | IGNITION:rainbow6,mingo |
+| 3 | ROBLOX | +5.13 | 39 | 7,828 | +264% | +114% | 99 | +5% | 0.3696 | IGNITION:aslanshukasha |
+| 4 | FINAL FANTASY XIV ONLINE | +4.80 | 57 | 6,999 | +95% | +146% | 96 | +0% | 0.2926 | IGNITION:phunkroyal |
+| 5 | Trackmania | +4.47 | 67 | 6,830 | +125% | - | 75 | +108% | 0.434 | ENTRY IGNITION:wirtual |
+| 6 | PUBG: BATTLEGROUNDS | +4.45 | 27 | 19,396 | +195% | +30% | 98 | -2% | 0.2377 | IGNITION:pubg_battlegrounds,pokamolodoy |
+| 7 | Happy Wheels | +4.25 | 28 | 20,437 | - | - | 5 | - | 0.7877 | ENTRY IGNITION:lirik,giggand |
+| 8 | Garfield: Escape from Monday | +4.15 | 52 | 8,393 | +133% | - | 8 | +60% | 0.9901 | ENTRY IGNITION:elajjaz |
+| 9 | Delta Force | +4.06 | 41 | 10,042 | +153% | +127% | 96 | -4% | 0.1366 |  |
+| 10 | Valheim | +3.99 | 19 | 24,750 | +227% | +149% | 98 | -1% | 0.2996 |  |
+| 11 | ARC Raiders | +3.81 | 53 | 6,915 | +117% | +56% | 98 | +0% | 0.3644 | IGNITION:symfuhny |
+| 12 | Rocket League | +3.58 | 29 | 15,566 | +69% | +28% | 100 | +1% | 0.5565 | IGNITION:rocketleague,alphakep |
+| 13 | Total War: WARHAMMER III | +3.41 | 45 | 9,503 | +54% | +70% | 100 | +2% | 0.5122 | IGNITION:alphacast |
+| 14 | AION 2 | +3.40 | 63 | 7,138 | +50% | +99% | 71 | +27% | 0.2205 |  |
+| 15 | F1 25 | +3.25 | 36 | 12,398 | - | - | 95 | - | 0.3934 | ENTRY IGNITION:mrdzinold |
 
 ## Ignition alerts
 
@@ -30,31 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Others | indegnasen0706 | 23,388 | 21,117 | 100% | 22 |
-| Alchemy Factory | trymacs | 25,296 | 8,456 | 84% | 34 |
-| Gakuen iDOLM@STER | yuyuta0702 | 11,462 | 6,020 | 100% | 56 |
-| Shape of Dreams | mobilmobil | 6,113 | 5,418 | 84% | 51 |
-| Megabonk | alderiate | 4,674 | 4,674 | 97% | 67 |
-| Sid Meier's Civilization VII | melharucos | 6,614 | 4,537 | 99% | 70 |
-| Woman Simulator | stintik | 8,846 | 4,362 | 56% | 38 |
-| Dressmaker | michimochievee | 5,788 | 4,244 | 74% | 58 |
-| Total War: WARHAMMER III | alphacast | 5,760 | 3,967 | 64% | 53 |
-| The Expansion | blackufa | 4,700 | 3,705 | 100% | 85 |
+| Happy Wheels | lirik | 18,304 | 16,099 | 79% | 28 |
+| Deified | zerator | 65,739 | 12,077 | 100% | 37 |
+| Terraria | forsen | 10,577 | 10,577 | 94% | 40 |
+| Rocket League | rocketleague | 93,093 | 8,662 | 56% | 29 |
+| Garfield: Escape from Monday | elajjaz | 11,003 | 8,310 | 99% | 52 |
+| PEAK | kopsteep | 7,602 | 7,602 | 83% | 46 |
+| Romancing SaGa 3 | indegnasen0706 | 23,388 | 5,729 | 100% | 74 |
+| Hollow Knight: Silksong | vedal987 | 8,267 | 5,706 | 82% | 65 |
+| Total War: WARHAMMER III | alphacast | 5,760 | 4,867 | 51% | 45 |
+| Pilgrim | tomato | 4,432 | 4,432 | 82% | 77 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 0.902 | Grand Theft Auto V | 62,669 | 69,441 |
-| 0.659 | CONTROL Resonant | 26,927 | 40,842 |
-| 0.517 | EA Sports FC 27 | 46,838 | 90,519 |
-| 0.39 | Rust | 50,152 | 128,677 |
-| 0.287 | Apex Legends | 71,132 | 248,204 |
-| 0.037 | Warframe | 3,334 | 90,758 |
-| 0.031 | Valheim | 7,567 | 242,949 |
-| 0.03 | Delta Force | 3,972 | 131,902 |
-| 0.01 | PUBG: BATTLEGROUNDS | 6,582 | 690,935 |
-| 0.006 | Terraria | 301 | 51,957 |
+| 8.334 | Among Us | 101,242 | 12,148 |
+| 1.303 | Grand Theft Auto V | 90,450 | 69,441 |
+| 1.152 | EA Sports FC 27 | 104,237 | 90,519 |
+| 0.49 | CONTROL Resonant | 20,023 | 40,842 |
+| 0.453 | Rocket League | 15,566 | 34,334 |
+| 0.068 | Counter-Strike | 91,500 | 1,354,009 |
+| 0.055 | Warframe | 5,018 | 90,758 |
+| 0.053 | Aniimo | 8,010 | 152,259 |
+| 0.041 | Slay the Spire II | 4,054 | 98,034 |
+| 0.028 | PUBG: BATTLEGROUNDS | 19,396 | 690,935 |
 
 ---
 
