@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-09-28T13` (UTC). History: 150 snapshots spanning 756h.
-Reference windows: short = `2026-09-28T05`, day = `2026-09-27T13`.
+Generated from snapshot `2026-09-28T20` (UTC). History: 151 snapshots spanning 763h.
+Reference windows: short = `2026-09-28T13`, day = `2026-09-27T18`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | PUBG: BATTLEGROUNDS | +7.65 | 27 | 14,507 | +751% | +120% | 100 | +0% | 0.3748 | IGNITION:recrent,des0ut |
-| 2 | Overwatch | +7.37 | 3 | 75,401 | +809% | +615% | 99 | +1% | 0.4065 |  |
-| 3 | Street Fighter 6 | +6.45 | 14 | 29,499 | +492% | +370% | 96 | -3% | 0.7678 |  |
-| 4 | Graveyard Keeper II | +5.01 | 46 | 7,143 | +235% | +46% | 96 | +39% | 0.4574 | IGNITION:barbarousking |
-| 5 | Delta Force | +4.75 | 33 | 10,628 | +196% | +168% | 95 | -5% | 0.1601 |  |
-| 6 | Z1: Battle Royale | +4.29 | 59 | 5,652 | +170% | +45% | 95 | +56% | 0.3084 |  |
-| 7 | The Headliners | +4.25 | 38 | 9,822 | - | - | 4 | - | 0.6155 | ENTRY IGNITION:hiiragitsurugi,akarindao |
-| 8 | Orbitals | +4.25 | 23 | 15,754 | - | - | 7 | - | 0.7592 | ENTRY IGNITION:ironmouse,cdawg |
-| 9 | World of Tanks | +4.20 | 36 | 10,445 | +318% | -54% | 100 | +67% | 0.3135 | IGNITION:dakillzor,mouzakrobat |
-| 10 | Terraria | +4.14 | 74 | 5,529 | - | +1737% | 61 | - | 0.9727 | ENTRY IGNITION:forsen |
-| 11 | Crypto | +4.11 | 62 | 5,257 | +177% | +63% | 100 | +16% | 0.2011 |  |
-| 12 | Call of Duty: Warzone | +3.77 | 22 | 14,258 | +69% | +47% | 98 | +0% | 0.2401 | IGNITION:camy,enkeo_ |
-| 13 | RuneScape: Dragonwilds | +3.31 | 93 | 3,246 | - | - | 98 | - | 0.3968 | ENTRY IGNITION:aztecross |
-| 14 | Albion Online | +3.27 | 49 | 6,949 | +204% | +24% | 100 | +28% | 0.2157 |  |
-| 15 | No Man's Sky | +3.27 | 73 | 4,399 | - | - | 79 | - | 0.9198 | ENTRY IGNITION:melharucos |
+| 1 | Rainbow Six Siege | +6.31 | 10 | 52,081 | +1156% | +112% | 97 | -1% | 0.5466 |  |
+| 2 | Woman Simulator | +5.34 | 34 | 15,930 | +296% | - | 49 | +75% | 0.7591 | ENTRY IGNITION:deepins02 |
+| 3 | Escape from Tarkov | +5.18 | 30 | 15,986 | +15% | +241% | 100 | +0% | 0.27 | IGNITION:lvndmark,cr_vanilla |
+| 4 | Dressmaker | +4.67 | 60 | 7,729 | - | +94% | 100 | - | 0.4116 | ENTRY IGNITION:lilsimsie |
+| 5 | Rocket League | +4.27 | 20 | 24,693 | +458% | +59% | 96 | +2% | 0.5539 |  |
+| 6 | Streamer Life Simulator 2 | +4.25 | 25 | 20,124 | - | - | 7 | - | 0.5367 | ENTRY IGNITION:sasavot,skywhywalker |
+| 7 | The Witcher 3: Wild Hunt Remastered | +4.00 | 52 | 8,841 | +70% | - | 17 | +13% | 0.4489 | ENTRY IGNITION:revenant,mauriceweber |
+| 8 | EA Sports FC 27 | +3.93 | 3 | 181,971 | +389% | +75% | 99 | +0% | 0.3746 |  |
+| 9 | Grand Theft Auto V | +3.87 | 2 | 154,995 | +405% | +71% | 99 | +0% | 0.1014 |  |
+| 10 | AION 2 | +3.32 | 54 | 8,209 | +117% | +15% | 60 | +30% | 0.3365 | IGNITION:fubgun |
+| 11 | SILENT HILL: townfall | +3.26 | 21 | 18,325 | +76% | +5% | 98 | -2% | 0.1417 | IGNITION:laynalazar,stormfall33 |
+| 12 | Skate 3 | +3.25 | 49 | 10,033 | - | - | 2 | - | 0.9688 | ENTRY IGNITION:youngmulti |
+| 13 | Call of Duty: Modern Warfare 2 | +3.25 | 32 | 16,466 | - | - | 5 | - | 0.9989 | ENTRY IGNITION:joe_bartolozzi |
+| 14 | Heroes of the Storm | +3.25 | 29 | 17,951 | - | - | 97 | - | 0.5288 | ENTRY IGNITION:grubby |
+| 15 | Hello Neighbor | +3.25 | 57 | 8,221 | - | - | 5 | - | 0.9983 | ENTRY IGNITION:mastu |
 
 ## Ignition alerts
 
@@ -30,31 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Unseasonable Flowering | indegnasen0706 | 23,388 | 15,222 | 100% | 26 |
-| Orbitals | ironmouse | 19,982 | 11,960 | 76% | 23 |
-| CONTROL Resonant | cohhcarnage | 15,088 | 7,976 | 57% | 28 |
-| DRAGON QUEST VII Reimagined | yaritaiji | 13,970 | 7,494 | 100% | 45 |
-| The Headliners | hiiragitsurugi | 17,222 | 6,045 | 62% | 38 |
-| Heavy Rain | yuyuta0702 | 11,462 | 5,919 | 99% | 57 |
-| Terraria | forsen | 10,577 | 5,378 | 97% | 74 |
-| Shape of Dreams | mobilmobil | 6,113 | 5,034 | 98% | 66 |
-| I Know a Guy | stintik | 8,846 | 4,635 | 100% | 72 |
-| No Man's Sky | melharucos | 6,614 | 4,046 | 92% | 73 |
+| Call of Duty: Modern Warfare 2 | joe_bartolozzi | 22,331 | 16,448 | 100% | 32 |
+| MOLDRISE | dangerlyoha | 27,172 | 15,091 | 99% | 33 |
+| Big Walk | fps_shaka | 42,385 | 14,928 | 90% | 31 |
+| Woman Simulator | deepins02 | 29,584 | 12,093 | 76% | 34 |
+| Curve Fever Pro | northernlion | 14,748 | 11,520 | 100% | 43 |
+| Streamer Life Simulator 2 | sasavot | 19,087 | 10,801 | 54% | 25 |
+| Skate 3 | youngmulti | 16,337 | 9,720 | 97% | 49 |
+| Heroes of the Storm | grubby | 9,492 | 9,492 | 53% | 29 |
+| Watch Your Plastic Duck | ironmouse | 19,982 | 8,902 | 99% | 51 |
+| Hello Neighbor | mastu | 239,077 | 8,207 | 100% | 57 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 0.92 | Street Fighter 6 | 29,499 | 32,076 |
-| 0.888 | Overwatch | 75,401 | 84,896 |
-| 0.428 | Grand Theft Auto V | 30,678 | 71,758 |
-| 0.388 | EA Sports FC 27 | 37,205 | 95,985 |
-| 0.328 | CONTROL Resonant | 14,034 | 42,799 |
-| 0.041 | Dota 2 | 37,305 | 905,795 |
-| 0.04 | Valheim | 10,421 | 258,876 |
-| 0.04 | Rainbow Six Siege | 4,146 | 103,271 |
-| 0.033 | Warframe | 2,978 | 91,228 |
-| 0.02 | PUBG: BATTLEGROUNDS | 14,507 | 712,009 |
+| 2.16 | Grand Theft Auto V | 154,995 | 71,758 |
+| 1.896 | EA Sports FC 27 | 181,971 | 95,985 |
+| 0.705 | Rocket League | 24,693 | 35,038 |
+| 0.504 | Rainbow Six Siege | 52,081 | 103,271 |
+| 0.383 | CONTROL Resonant | 16,386 | 42,799 |
+| 0.046 | Warframe | 4,211 | 91,228 |
+| 0.046 | Counter-Strike | 62,551 | 1,346,533 |
+| 0.037 | Aniimo | 5,891 | 158,928 |
+| 0.03 | Delta Force | 4,147 | 140,538 |
+| 0.008 | PUBG: BATTLEGROUNDS | 5,931 | 712,009 |
 
 ---
 
