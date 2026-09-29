@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-09-29T01` (UTC). History: 152 snapshots spanning 768h.
-Reference windows: short = `2026-09-28T20`, day = `2026-09-27T23`.
+Generated from snapshot `2026-09-29T08` (UTC). History: 153 snapshots spanning 775h.
+Reference windows: short = `2026-09-29T01`, day = `2026-09-28T05`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | I'm Only Sleeping | +4.27 | 38 | 8,565 | +37% | +71% | 100 | +1% | 0.1816 | IGNITION:enzzai,honeypuu |
-| 2 | Sven Co-op | +4.25 | 24 | 16,076 | - | - | 5 | - | 0.4884 | ENTRY IGNITION:jerma985,vinesauce |
-| 3 | Mario Golf: Super Rush | +3.25 | 88 | 2,834 | - | - | 1 | - | 1.0 | ENTRY IGNITION:barbarousking |
-| 4 | Super Mario Maker 2 | +3.25 | 43 | 7,360 | - | - | 27 | - | 0.9088 | ENTRY IGNITION:batora324 |
-| 5 | Mystery Egg Shop Simulator | +3.25 | 33 | 9,520 | - | - | 2 | - | 0.9998 | ENTRY IGNITION:rivers_gg |
-| 6 | Control | +3.25 | 73 | 3,688 | - | - | 58 | - | 0.8783 | ENTRY IGNITION:henyathegenius |
-| 7 | Minecraft | +3.18 | 3 | 61,092 | +79% | +364% | 100 | +5% | 0.2519 |  |
-| 8 | Halloween: The Game | +2.99 | 64 | 3,452 | - | +32% | 96 | - | 0.1964 | ENTRY |
-| 9 | NBA 2K27 | +2.36 | 27 | 9,448 | +38% | +37% | 97 | -2% | 0.1302 | IGNITION:joeknowsyt |
-| 10 | FINAL FANTASY XIV ONLINE | +2.34 | 58 | 3,701 | - | +11% | 99 | - | 0.197 | ENTRY |
-| 11 | Wuthering Waves | +2.31 | 90 | 2,736 | - | - | 93 | - | 0.3483 | ENTRY |
-| 12 | Resident Evil 3: Nemesis | +2.25 | 75 | 3,491 | - | - | 65 | - | 0.6755 | ENTRY |
-| 13 | Watch_Dogs | +2.25 | 86 | 2,902 | - | - | 13 | - | 0.9928 | ENTRY |
-| 14 | ACE COMBAT 8: WINGS OF THEVE | +2.25 | 9 | 43,687 | - | - | 100 | - | 0.8475 | ENTRY |
-| 15 | Active Matter | +2.25 | 83 | 2,927 | - | - | 99 | - | 0.5258 | ENTRY |
+| 1 | World of Tanks | +6.63 | 38 | 5,875 | +100% | +135% | 100 | +49% | 0.2926 | IGNITION:skill4ltu,dakillzor |
+| 2 | Apex Legends | +5.40 | 2 | 58,297 | +326% | +544% | 94 | -1% | 0.3896 |  |
+| 3 | Escape from Tarkov | +3.61 | 25 | 9,439 | - | +62% | 100 | - | 0.4367 | ENTRY IGNITION:bobito217 |
+| 4 | Eternal Return | +3.25 | 78 | 2,011 | - | - | 22 | - | 0.641 | ENTRY IGNITION:mimiluckying |
+| 5 | Core Keeper | +3.25 | 23 | 11,454 | - | - | 13 | - | 0.9237 | ENTRY IGNITION:ironmouse |
+| 6 | Minecraft Dungeons II | +3.25 | 22 | 10,799 | - | - | 97 | - | 0.411 | ENTRY IGNITION:melharucos |
+| 7 | PUBG: BATTLEGROUNDS | +2.80 | 48 | 3,732 | +29% | +119% | 98 | -2% | 0.2468 |  |
+| 8 | The Witcher 3: Wild Hunt Remastered | +2.76 | 54 | 3,393 | +37% | - | 18 | +80% | 0.2906 | BREADTH ENTRY |
+| 9 | Project Zomboid | +2.66 | 53 | 3,465 | +29% | +55% | 97 | -2% | 0.3792 | IGNITION:onutrem |
+| 10 | Hearthstone | +2.33 | 33 | 7,263 | +25% | +39% | 72 | -1% | 0.1824 | IGNITION:jeefhs |
+| 11 | Graveyard Keeper II | +2.25 | 52 | 3,094 | +42% | +45% | 98 | -2% | 0.2411 |  |
+| 12 | PERSONA3 RELOAD | +2.25 | 77 | 2,013 | - | - | 20 | - | 0.6811 | ENTRY |
+| 13 | R2 Online: Reign of Revolution | +2.25 | 83 | 1,842 | - | - | 30 | - | 0.2492 | ENTRY |
+| 14 | DARK SOULS II: Scholar of the First Sin | +2.25 | 61 | 2,675 | - | - | 21 | - | 0.6908 | ENTRY |
+| 15 | Transport Fever 3 | +2.25 | 75 | 2,109 | - | - | 17 | - | 0.4723 | ENTRY |
 
 ## Ignition alerts
 
@@ -30,29 +30,24 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Mystery Egg Shop Simulator | rivers_gg | 10,555 | 9,518 | 100% | 33 |
-| Watch Your Plastic Duck | ironmouse | 19,982 | 8,909 | 100% | 37 |
-| Super Mario Maker 2 | batora324 | 21,701 | 6,689 | 91% | 43 |
-| Control | henyathegenius | 4,538 | 3,239 | 88% | 73 |
-| Find The Needle | roier | 5,863 | 3,159 | 85% | 71 |
-| Mario Golf: Super Rush | barbarousking | 4,194 | 2,834 | 100% | 88 |
-| The Witcher 3: Wild Hunt Remastered | revenant | 5,614 | 2,276 | 92% | 98 |
-| Fire Emblem: Fortune's Weave | admiralbahroo | 4,272 | 2,047 | 56% | 68 |
+| Core Keeper | ironmouse | 19,982 | 10,580 | 92% | 23 |
+| CONTROL Resonant | maximilian_dood | 9,734 | 5,116 | 62% | 29 |
+| Eternal Return | mimiluckying | 6,380 | 1,289 | 64% | 78 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 2.182 | Grand Theft Auto V | 135,965 | 62,309 |
-| 0.447 | Rust | 46,341 | 103,584 |
-| 0.364 | Zenless Zone Zero | 2,677 | 7,355 |
-| 0.279 | Phasmophobia | 3,464 | 12,410 |
-| 0.262 | CONTROL Resonant | 7,972 | 30,467 |
-| 0.05 | Counter-Strike | 60,687 | 1,207,783 |
-| 0.044 | Aniimo | 5,890 | 132,393 |
-| 0.022 | Dota 2 | 17,712 | 809,364 |
-| 0.021 | Delta Force | 2,855 | 135,801 |
-| 0.004 | PUBG: BATTLEGROUNDS | 2,888 | 693,850 |
+| 0.448 | Grand Theft Auto V | 27,884 | 62,309 |
+| 0.355 | Rust | 36,796 | 103,584 |
+| 0.269 | CONTROL Resonant | 8,200 | 30,467 |
+| 0.257 | Apex Legends | 58,297 | 227,192 |
+| 0.198 | EA Sports FC 27 | 17,258 | 87,071 |
+| 0.026 | Counter-Strike | 30,989 | 1,207,783 |
+| 0.023 | Warframe | 1,831 | 80,856 |
+| 0.022 | Delta Force | 2,931 | 135,801 |
+| 0.016 | Slay the Spire II | 1,461 | 89,639 |
+| 0.005 | PUBG: BATTLEGROUNDS | 3,732 | 693,850 |
 
 ---
 
