@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-09-30T16` (UTC). History: 158 snapshots spanning 807h.
-Reference windows: short = `2026-09-30T08`, day = `2026-09-29T16`.
+Generated from snapshot `2026-09-30T22` (UTC). History: 159 snapshots spanning 813h.
+Reference windows: short = `2026-09-30T16`, day = `2026-09-29T22`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | AION 2 | +14.74 | 2 | 145,915 | +8315% | +1205% | 100 | +178% | 0.0928 |  |
-| 2 | Rocket League | +5.92 | 34 | 9,674 | +367% | +23% | 100 | +5% | 0.2483 | IGNITION:mawkzy_,alphakep |
-| 3 | Rainbow Six Siege | +5.66 | 24 | 18,156 | +597% | -12% | 98 | -1% | 0.588 | IGNITION:rainbow6,mingo |
-| 4 | Hearthstone | +5.48 | 26 | 18,808 | +116% | +114% | 95 | +19% | 0.2887 | IGNITION:playhearthstone,jeefhs |
-| 5 | The Legend of Zelda: Ocarina of Time | +5.24 | 70 | 5,683 | +122% | - | 66 | +154% | 0.8209 | BREADTH ENTRY IGNITION:barbarousking |
-| 6 | Fire Emblem: Fortune's Weave | +5.18 | 60 | 6,234 | +305% | +5% | 99 | +3% | 0.2849 | IGNITION:minoru04160,admiralbahroo |
-| 7 | DayZ | +4.81 | 51 | 7,159 | +337% | +78% | 96 | +3% | 0.3105 |  |
-| 8 | Mortal Shell II | +4.36 | 95 | 3,813 | - | +607% | 56 | - | 0.8681 | ENTRY IGNITION:kspksp |
-| 9 | Dressmaker | +4.31 | 66 | 5,856 | +282% | - | 100 | +82% | 0.1202 | ENTRY |
-| 10 | Grand Theft Auto V | +4.25 | 3 | 119,425 | +518% | +66% | 99 | +4% | 0.3666 |  |
-| 11 | Heroes of Might and Magic III: The Restoration of Erathia | +3.94 | 69 | 5,783 | +209% | - | 43 | +87% | 0.4211 | ENTRY |
-| 12 | Genshin Impact | +3.79 | 43 | 7,392 | +282% | +32% | 98 | +1% | 0.2546 |  |
-| 13 | Minecraft | +3.71 | 13 | 26,638 | +477% | +1% | 100 | +5% | 0.1151 |  |
-| 14 | Mobile Legends: Bang Bang | +3.58 | 97 | 3,706 | +122% | - | 96 | +17% | 0.3983 | ENTRY IGNITION:smetanduck |
-| 15 | Diablo IV | +3.58 | 79 | 4,823 | - | +10% | 98 | - | 0.2206 | ENTRY IGNITION:wudijo,jessirocks |
+| 1 | AION 2 | +5.92 | 3 | 151,820 | +4% | +2099% | 100 | +0% | 0.1023 |  |
+| 2 | Rainbow Six Siege | +4.93 | 13 | 37,729 | +108% | +641% | 98 | +0% | 0.8419 |  |
+| 3 | Rocket League | +4.75 | 27 | 16,137 | +67% | +154% | 98 | -2% | 0.3812 | IGNITION:itsjstn,kaydop |
+| 4 | Treasure Hunters: Raid Together | +4.25 | 22 | 22,042 | - | - | 2 | - | 0.7593 | ENTRY IGNITION:squeezie,locklear |
+| 5 | Fears to Fathom - Scratch Creek | +4.25 | 67 | 5,463 | - | - | 8 | - | 0.5349 | ENTRY IGNITION:maximebiaggi,djilsi |
+| 6 | SILENT HILL: townfall | +3.63 | 24 | 16,422 | +123% | +3% | 98 | -2% | 0.1732 | IGNITION:dariomocciatwitch,gom4rt |
+| 7 | Z1: Battle Royale | +3.37 | 38 | 9,452 | +103% | +30% | 99 | +16% | 0.4511 | IGNITION:itachi |
+| 8 | Alchemy Factory | +3.25 | 48 | 7,658 | - | - | 16 | - | 0.9299 | ENTRY IGNITION:trymacs |
+| 9 | Dark Souls: Remastered | +3.25 | 86 | 3,700 | - | - | 87 | - | 0.8451 | ENTRY IGNITION:deme |
+| 10 | PowerWash Simulator 2 | +3.25 | 99 | 3,026 | - | - | 23 | - | 0.9071 | ENTRY IGNITION:florence |
+| 11 | VHOLUME | +3.25 | 50 | 7,432 | - | - | 4 | - | 0.9974 | ENTRY IGNITION:sasavot |
+| 12 | nanos world | +2.73 | 78 | 4,241 | - | -3% | 56 | - | 0.6204 | ENTRY IGNITION:mehditdonc |
+| 13 | Watch Your Plastic Duck | +2.61 | 45 | 7,920 | - | +3% | 3 | - | 0.9992 | ENTRY IGNITION:ironmouse |
+| 14 | Call of Duty: Warzone | +2.33 | 21 | 19,189 | +16% | +19% | 91 | -8% | 0.0975 | IGNITION:deusamir,swagg |
+| 15 | Hunt: Showdown 1896 | +2.27 | 88 | 3,242 | - | - | 100 | - | 0.1721 | ENTRY |
 
 ## Ignition alerts
 
@@ -30,31 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Rainbow Six Siege | rainbow6 | 22,272 | 10,676 | 59% | 24 |
-| Terraria | forsen | 10,577 | 10,103 | 95% | 37 |
-| Dicevaders | northernlion | 14,748 | 6,803 | 93% | 53 |
-| Happy Wheels | kr1stw | 7,031 | 4,836 | 99% | 81 |
-| The Legend of Zelda: Ocarina of Time | barbarousking | 4,665 | 4,665 | 82% | 70 |
-| Among Us | gssspotted | 4,366 | 4,366 | 99% | 88 |
-| The Plant Shop | rostikfacekid | 3,433 | 3,433 | 90% | 94 |
-| Mortal Shell II | kspksp | 9,269 | 3,310 | 87% | 95 |
-| RuneScape: Dragonwilds | aztecross | 6,728 | 2,503 | 64% | 92 |
-| ROBLOX | aslanshukasha | 5,866 | 2,275 | 56% | 67 |
+| Treasure Hunters: Raid Together | squeezie | 23,929 | 16,737 | 76% | 22 |
+| Watch Your Plastic Duck | ironmouse | 19,982 | 7,914 | 100% | 45 |
+| VHOLUME | sasavot | 19,087 | 7,413 | 100% | 50 |
+| Alchemy Factory | trymacs | 25,296 | 7,121 | 93% | 48 |
+| Escape from Tarkov | nickmercs | 9,341 | 6,316 | 56% | 33 |
+| Dark Souls: Remastered | deme | 3,778 | 3,127 | 85% | 86 |
+| Fears to Fathom - Scratch Creek | maximebiaggi | 7,256 | 2,922 | 53% | 67 |
+| PowerWash Simulator 2 | florence | 4,725 | 2,745 | 91% | 99 |
+| nanos world | mehditdonc | 5,566 | 2,631 | 62% | 78 |
+| Graveyard Keeper II | shisheyu | 4,961 | 2,411 | 55% | 73 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 1.938 | Grand Theft Auto V | 119,425 | 61,637 |
-| 0.985 | Wuthering Waves | 11,335 | 11,502 |
-| 0.729 | EA Sports FC 27 | 63,414 | 86,994 |
-| 0.637 | Minecraft Dungeons II | 20,745 | 32,556 |
-| 0.397 | Apex Legends | 88,331 | 222,622 |
-| 0.062 | The Witcher 3: Wild Hunt | 7,516 | 120,975 |
-| 0.055 | Counter-Strike | 66,353 | 1,200,212 |
-| 0.048 | Valheim | 8,859 | 183,376 |
-| 0.039 | Delta Force | 5,149 | 131,080 |
-| 0.009 | PUBG: BATTLEGROUNDS | 5,896 | 673,001 |
+| 3.088 | Grand Theft Auto V | 190,362 | 61,637 |
+| 0.734 | Minecraft Dungeons II | 23,897 | 32,556 |
+| 0.721 | EA Sports FC 27 | 62,752 | 86,994 |
+| 0.523 | Deadlock | 40,647 | 77,744 |
+| 0.516 | Rocket League | 16,137 | 31,286 |
+| 0.044 | Dota 2 | 35,710 | 804,029 |
+| 0.042 | The Witcher 3: Wild Hunt | 5,091 | 120,975 |
+| 0.028 | Counter-Strike | 34,037 | 1,200,212 |
+| 0.024 | Delta Force | 3,178 | 131,080 |
+| 0.009 | PUBG: BATTLEGROUNDS | 6,112 | 673,001 |
 
 ---
 
