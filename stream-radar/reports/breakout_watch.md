@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-09-30T01` (UTC). History: 156 snapshots spanning 792h.
-Reference windows: short = `2026-09-29T16`, day = `2026-09-29T01`.
+Generated from snapshot `2026-09-30T08` (UTC). History: 157 snapshots spanning 799h.
+Reference windows: short = `2026-09-30T01`, day = `2026-09-29T08`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Wuthering Waves | +4.45 | 36 | 9,784 | - | +258% | 57 | - | 0.2769 | ENTRY |
-| 2 | Deadlock | +4.13 | 10 | 34,576 | +82% | +409% | 100 | +1% | 0.2829 |  |
-| 3 | Onimusha: Way of the Sword | +4.12 | 30 | 12,966 | +233% | - | 98 | -2% | 0.7775 | ENTRY IGNITION:emiru |
-| 4 | The Witcher 3: Wild Hunt | +3.42 | 7 | 41,353 | +128% | - | 99 | +4% | 0.8199 | ENTRY |
-| 5 | Pummel Party | +3.25 | 89 | 3,016 | - | - | 8 | - | 0.9002 | ENTRY IGNITION:facada |
-| 6 | Heroes of Might and Magic III: The Restoration of Erathia | +3.25 | 70 | 4,244 | - | - | 11 | - | 0.8014 | ENTRY IGNITION:voodoosh |
-| 7 | The Legend of Zelda: Ocarina of Time | +3.25 | 44 | 7,745 | - | - | 99 | - | 0.4139 | ENTRY IGNITION:barbarousking |
-| 8 | Million to One | +3.25 | 43 | 7,864 | - | - | 16 | - | 0.7867 | ENTRY IGNITION:pointcrow |
-| 9 | Needle In A Haystack | +3.25 | 84 | 3,291 | - | - | 13 | - | 0.9888 | ENTRY IGNITION:therealmarzaa |
-| 10 | Honkai: Star Rail | +3.25 | 75 | 3,964 | - | - | 100 | - | 0.5494 | ENTRY IGNITION:zy0xxx |
-| 11 | Red Dead Redemption II | +2.87 | 67 | 3,646 | - | +68% | 98 | - | 0.2315 | ENTRY |
-| 12 | Arena Breakout: Infinite | +2.66 | 51 | 6,306 | -7% | +117% | 96 | -4% | 0.4209 | IGNITION:lvndmark |
-| 13 | CONTROL Resonant | +2.63 | 29 | 12,237 | +74% | +53% | 98 | -2% | 0.527 | IGNITION:alanzoka |
-| 14 | The Witcher 3: Wild Hunt Remastered | +2.54 | 27 | 13,364 | -84% | +439% | 99 | +0% | 0.1911 |  |
-| 15 | Tibia | +2.38 | 23 | 14,507 | +43% | +62% | 99 | +3% | 0.3241 | IGNITION:rubini |
+| 1 | The Witcher 3: Wild Hunt Remastered | +5.22 | 13 | 18,389 | +38% | +442% | 98 | -1% | 0.1555 |  |
+| 2 | Dicevaders | +3.82 | 83 | 1,824 | - | +34% | 6 | - | 0.585 | ENTRY |
+| 3 | Tempest Rising | +3.25 | 59 | 3,092 | - | - | 1 | - | 1.0 | ENTRY IGNITION:maxim |
+| 4 | I Need to Fix My Dream Car (But I Work at a Junkyard) | +3.25 | 53 | 3,515 | - | - | 1 | - | 1.0 | ENTRY IGNITION:mynthos |
+| 5 | Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island | +3.25 | 88 | 1,687 | - | - | 7 | - | 0.8785 | ENTRY IGNITION:naru0419045 |
+| 6 | The Sims 4 | +3.23 | 81 | 1,848 | - | - | 45 | - | 0.8485 | ENTRY IGNITION:honeypuu |
+| 7 | Eternal Return | +2.99 | 72 | 2,220 | - | +10% | 27 | - | 0.541 | ENTRY IGNITION:mimiluckying |
+| 8 | How to Fish | +2.48 | 98 | 1,548 | - | - | 48 | - | 0.4864 | ENTRY |
+| 9 | Hearthstone | +2.46 | 28 | 8,726 | +53% | +20% | 80 | +11% | 0.2662 | IGNITION:xqn_thesad |
+| 10 | Apex Legends | +2.43 | 3 | 36,273 | +331% | -38% | 98 | +0% | 0.3308 |  |
+| 11 | Hunt: Showdown 1896 | +2.40 | 67 | 2,297 | - | +24% | 96 | - | 0.2542 | ENTRY |
+| 12 | Wuthering Waves | +2.37 | 21 | 12,197 | +25% | - | 97 | +70% | 0.1498 | BREADTH ENTRY |
+| 13 | Persona 5 Royal | +2.25 | 93 | 1,637 | - | - | 29 | - | 0.5706 | ENTRY |
+| 14 | NTE: Neverness to Everness | +2.25 | 57 | 3,130 | - | - | 100 | - | 0.1645 | ENTRY |
+| 15 | Darkest Dungeon | +2.25 | 74 | 2,199 | - | - | 5 | - | 0.99 | ENTRY |
 
 ## Ignition alerts
 
@@ -30,31 +30,28 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Valheim | moonmoon | 14,354 | 11,498 | 65% | 21 |
-| Onimusha: Way of the Sword | emiru | 14,104 | 10,081 | 78% | 30 |
-| CONTROL Resonant | alanzoka | 16,698 | 6,449 | 53% | 29 |
-| Million to One | pointcrow | 6,187 | 6,187 | 79% | 43 |
-| Nivalis Nights | vinesauce | 10,423 | 4,951 | 60% | 39 |
-| Heroes of Might and Magic III: The Restoration of Erathia | voodoosh | 4,708 | 3,401 | 80% | 70 |
-| Needle In A Haystack | therealmarzaa | 11,846 | 3,254 | 99% | 84 |
-| Pummel Party | facada | 8,463 | 2,715 | 90% | 89 |
-| World of Tanks | dakillzor | 14,679 | 2,684 | 63% | 69 |
-| Honkai: Star Rail | zy0xxx | 10,507 | 2,178 | 55% | 75 |
+| Core Keeper | indegnasen0706 | 23,388 | 9,527 | 100% | 24 |
+| I Need to Fix My Dream Car (But I Work at a Junkyard) | mynthos | 6,006 | 3,515 | 100% | 53 |
+| Tempest Rising | maxim | 4,406 | 3,092 | 100% | 59 |
+| Street Fighter 6 | shinjifromjapanxd | 6,318 | 1,973 | 62% | 58 |
+| The Sims 4 | honeypuu | 3,147 | 1,568 | 85% | 81 |
+| Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island | naru0419045 | 6,288 | 1,482 | 88% | 88 |
+| Eternal Return | mimiluckying | 6,380 | 1,201 | 54% | 72 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 2.799 | Grand Theft Auto V | 172,535 | 61,637 |
-| 0.851 | Wuthering Waves | 9,784 | 11,502 |
-| 0.522 | Minecraft Dungeons II | 17,009 | 32,556 |
-| 0.475 | CONTROL Resonant | 12,237 | 25,742 |
-| 0.445 | Deadlock | 34,576 | 77,744 |
-| 0.034 | Slay the Spire II | 3,083 | 89,897 |
-| 0.032 | Dota 2 | 25,679 | 804,029 |
-| 0.02 | Counter-Strike | 23,611 | 1,200,212 |
-| 0.019 | Delta Force | 2,459 | 131,080 |
-| 0.008 | PUBG: BATTLEGROUNDS | 5,551 | 673,001 |
+| 1.06 | Wuthering Waves | 12,197 | 11,502 |
+| 0.392 | Minecraft Dungeons II | 12,757 | 32,556 |
+| 0.314 | Grand Theft Auto V | 19,331 | 61,637 |
+| 0.313 | Rust | 29,161 | 93,089 |
+| 0.216 | Deadlock | 16,784 | 77,744 |
+| 0.03 | Warframe | 2,231 | 75,471 |
+| 0.024 | Valheim | 4,405 | 183,376 |
+| 0.021 | Counter-Strike | 24,982 | 1,200,212 |
+| 0.02 | Delta Force | 2,668 | 131,080 |
+| 0.005 | PUBG: BATTLEGROUNDS | 3,401 | 673,001 |
 
 ---
 
