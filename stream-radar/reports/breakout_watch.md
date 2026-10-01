@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-09-30T22` (UTC). History: 159 snapshots spanning 813h.
-Reference windows: short = `2026-09-30T16`, day = `2026-09-29T22`.
+Generated from snapshot `2026-10-01T01` (UTC). History: 144 snapshots spanning 716h.
+Reference windows: short = `2026-09-30T16`, day = `2026-09-30T01`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | AION 2 | +5.92 | 3 | 151,820 | +4% | +2099% | 100 | +0% | 0.1023 |  |
-| 2 | Rainbow Six Siege | +4.93 | 13 | 37,729 | +108% | +641% | 98 | +0% | 0.8419 |  |
-| 3 | Rocket League | +4.75 | 27 | 16,137 | +67% | +154% | 98 | -2% | 0.3812 | IGNITION:itsjstn,kaydop |
-| 4 | Treasure Hunters: Raid Together | +4.25 | 22 | 22,042 | - | - | 2 | - | 0.7593 | ENTRY IGNITION:squeezie,locklear |
-| 5 | Fears to Fathom - Scratch Creek | +4.25 | 67 | 5,463 | - | - | 8 | - | 0.5349 | ENTRY IGNITION:maximebiaggi,djilsi |
-| 6 | SILENT HILL: townfall | +3.63 | 24 | 16,422 | +123% | +3% | 98 | -2% | 0.1732 | IGNITION:dariomocciatwitch,gom4rt |
-| 7 | Z1: Battle Royale | +3.37 | 38 | 9,452 | +103% | +30% | 99 | +16% | 0.4511 | IGNITION:itachi |
-| 8 | Alchemy Factory | +3.25 | 48 | 7,658 | - | - | 16 | - | 0.9299 | ENTRY IGNITION:trymacs |
-| 9 | Dark Souls: Remastered | +3.25 | 86 | 3,700 | - | - | 87 | - | 0.8451 | ENTRY IGNITION:deme |
-| 10 | PowerWash Simulator 2 | +3.25 | 99 | 3,026 | - | - | 23 | - | 0.9071 | ENTRY IGNITION:florence |
-| 11 | VHOLUME | +3.25 | 50 | 7,432 | - | - | 4 | - | 0.9974 | ENTRY IGNITION:sasavot |
-| 12 | nanos world | +2.73 | 78 | 4,241 | - | -3% | 56 | - | 0.6204 | ENTRY IGNITION:mehditdonc |
-| 13 | Watch Your Plastic Duck | +2.61 | 45 | 7,920 | - | +3% | 3 | - | 0.9992 | ENTRY IGNITION:ironmouse |
-| 14 | Call of Duty: Warzone | +2.33 | 21 | 19,189 | +16% | +19% | 91 | -8% | 0.0975 | IGNITION:deusamir,swagg |
-| 15 | Hunt: Showdown 1896 | +2.27 | 88 | 3,242 | - | - | 100 | - | 0.1721 | ENTRY |
+| 1 | AION 2 | +5.60 | 3 | 121,885 | -16% | +2258% | 100 | +0% | 0.3059 |  |
+| 2 | Street Fighter 6 | +4.84 | 42 | 7,339 | +78% | +133% | 100 | +5% | 0.1819 | IGNITION:loltyler1 |
+| 3 | Geometry Dash | +3.25 | 49 | 5,790 | - | - | 100 | - | 0.7121 | ENTRY IGNITION:doggie |
+| 4 | Resident Evil 2 | +3.25 | 57 | 5,278 | - | - | 100 | - | 0.767 | ENTRY IGNITION:distortion2 |
+| 5 | Dark Souls: Remastered | +3.25 | 45 | 6,435 | - | - | 68 | - | 0.4853 | ENTRY IGNITION:deme |
+| 6 | RetroSpace | +3.25 | 63 | 4,585 | - | - | 1 | - | 1.0 | ENTRY IGNITION:vinesauce |
+| 7 | League of Legends: Wild Rift | +3.25 | 98 | 2,567 | - | - | 76 | - | 0.5524 | ENTRY IGNITION:tealzlol |
+| 8 | Machine Party | +3.25 | 52 | 5,643 | - | - | 8 | - | 0.9316 | ENTRY IGNITION:facada |
+| 9 | Call of Duty | +2.66 | 84 | 1,525 | - | +104% | 100 | - | 0.1889 | ENTRY |
+| 10 | Teamfight Tactics | +2.65 | 29 | 12,332 | -1% | +38% | 97 | +1% | 0.2583 | IGNITION:boxbox,wasianiverson |
+| 11 | MLB The Show 26 | +2.45 | 80 | 3,599 | - | +39% | 96 | - | 0.3632 | ENTRY |
+| 12 | Madden NFL 27 | +2.33 | 47 | 4,415 | - | +27% | 84 | - | 0.2091 | ENTRY |
+| 13 | PEAK | +2.25 | 77 | 3,532 | - | - | 98 | - | 0.4391 | ENTRY |
+| 14 | Hunt: Showdown 1896 | +2.25 | 94 | 2,357 | - | - | 100 | - | 0.2096 | ENTRY |
+| 15 | Super Smash Bros. Melee | +2.25 | 87 | 3,123 | - | - | 53 | - | 0.5402 | ENTRY |
 
 ## Ignition alerts
 
@@ -30,31 +30,27 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Treasure Hunters: Raid Together | squeezie | 23,929 | 16,737 | 76% | 22 |
-| Watch Your Plastic Duck | ironmouse | 19,982 | 7,914 | 100% | 45 |
-| VHOLUME | sasavot | 19,087 | 7,413 | 100% | 50 |
-| Alchemy Factory | trymacs | 25,296 | 7,121 | 93% | 48 |
-| Escape from Tarkov | nickmercs | 9,341 | 6,316 | 56% | 33 |
-| Dark Souls: Remastered | deme | 3,778 | 3,127 | 85% | 86 |
-| Fears to Fathom - Scratch Creek | maximebiaggi | 7,256 | 2,922 | 53% | 67 |
-| PowerWash Simulator 2 | florence | 4,725 | 2,745 | 91% | 99 |
-| nanos world | mehditdonc | 5,566 | 2,631 | 62% | 78 |
-| Graveyard Keeper II | shisheyu | 4,961 | 2,411 | 55% | 73 |
+| Machine Party | facada | 6,854 | 5,257 | 93% | 52 |
+| RetroSpace | vinesauce | 10,423 | 4,585 | 100% | 63 |
+| Geometry Dash | doggie | 5,085 | 4,123 | 71% | 49 |
+| Resident Evil 2 | distortion2 | 6,645 | 4,048 | 77% | 57 |
+| World of Tanks | dakillzor | 14,679 | 2,394 | 55% | 66 |
+| League of Legends: Wild Rift | tealzlol | 3,707 | 1,418 | 55% | 98 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 3.088 | Grand Theft Auto V | 190,362 | 61,637 |
-| 0.734 | Minecraft Dungeons II | 23,897 | 32,556 |
-| 0.721 | EA Sports FC 27 | 62,752 | 86,994 |
-| 0.523 | Deadlock | 40,647 | 77,744 |
-| 0.516 | Rocket League | 16,137 | 31,286 |
-| 0.044 | Dota 2 | 35,710 | 804,029 |
-| 0.042 | The Witcher 3: Wild Hunt | 5,091 | 120,975 |
-| 0.028 | Counter-Strike | 34,037 | 1,200,212 |
-| 0.024 | Delta Force | 3,178 | 131,080 |
-| 0.009 | PUBG: BATTLEGROUNDS | 6,112 | 673,001 |
+| 2.421 | Grand Theft Auto V | 149,204 | 61,637 |
+| 0.547 | Wuthering Waves | 6,286 | 11,502 |
+| 0.489 | Minecraft Dungeons II | 15,927 | 32,556 |
+| 0.388 | Rust | 36,097 | 93,089 |
+| 0.346 | Deadlock | 26,861 | 77,744 |
+| 0.034 | Delta Force | 4,481 | 131,080 |
+| 0.023 | The Witcher 3: Wild Hunt | 2,759 | 120,975 |
+| 0.02 | Dota 2 | 16,280 | 804,029 |
+| 0.019 | Counter-Strike | 22,862 | 1,200,212 |
+| 0.006 | PUBG: BATTLEGROUNDS | 4,248 | 673,001 |
 
 ---
 
