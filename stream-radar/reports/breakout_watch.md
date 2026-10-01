@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-10-01T17` (UTC). History: 146 snapshots spanning 732h.
-Reference windows: short = `2026-10-01T08`, day = `2026-09-30T16`.
+Generated from snapshot `2026-10-01T22` (UTC). History: 147 snapshots spanning 737h.
+Reference windows: short = `2026-10-01T17`, day = `2026-09-30T22`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Last Epoch | +9.75 | 18 | 36,507 | +1621% | - | 100 | +809% | 0.1402 | ENTRY |
-| 2 | Clash Royale | +6.04 | 65 | 5,969 | +270% | - | 36 | +57% | 0.5098 | ENTRY IGNITION:narek_cr,bale_gg |
-| 3 | Albion Online | +5.87 | 53 | 8,174 | +234% | +41% | 95 | +56% | 0.1554 | IGNITION:sieglinde,w0n23 |
-| 4 | World of Warships | +5.16 | 55 | 7,921 | - | +126% | 52 | - | 0.7854 | ENTRY IGNITION:worldofwarships |
-| 5 | Fortnite | +4.96 | 3 | 92,519 | +523% | +134% | 99 | +6% | 0.1139 |  |
-| 6 | World of Tanks | +4.87 | 16 | 46,383 | +622% | +107% | 100 | +2% | 0.4523 |  |
-| 7 | Delta Force | +4.87 | 46 | 9,032 | +415% | +75% | 100 | +2% | 0.2189 |  |
-| 8 | Heroes of Might and Magic III: The Restoration of Erathia | +4.64 | 64 | 5,996 | +224% | +4% | 44 | +100% | 0.5842 | IGNITION:heroes_hub |
-| 9 | Heroes of the Storm | +4.34 | 38 | 11,512 | +168% | +14% | 99 | +115% | 0.2099 | IGNITION:crisheroes |
-| 10 | Woman Simulator | +4.25 | 30 | 16,949 | - | - | 27 | - | 0.7889 | ENTRY IGNITION:t2x2,jinnytty |
-| 11 | osu! | +4.25 | 23 | 26,701 | - | - | 100 | - | 0.8587 | ENTRY IGNITION:ohnepixel,mrekk |
-| 12 | End of Abyss | +4.25 | 56 | 7,836 | - | - | 37 | - | 0.428 | ENTRY IGNITION:barbarousking,h0llylp |
-| 13 | Deadlock | +4.17 | 22 | 25,421 | +151% | +5% | 100 | +5% | 0.2833 | IGNITION:recrent,jamside |
-| 14 | Genshin Impact | +3.87 | 42 | 8,270 | +293% | +12% | 97 | -1% | 0.3268 | IGNITION:zy0xxx |
-| 15 | CONTROL Resonant | +3.78 | 50 | 8,179 | +130% | +59% | 95 | -1% | 0.4675 | IGNITION:cohhcarnage |
+| 1 | Street Fighter 6 | +9.23 | 18 | 31,666 | +564% | +1080% | 96 | +2% | 0.3572 |  |
+| 2 | Warframe | +5.65 | 20 | 27,159 | - | +620% | 98 | - | 0.9174 | ENTRY |
+| 3 | Heroes of Might and Magic III: The Restoration of Erathia | +4.38 | 49 | 7,742 | +29% | +154% | 33 | -25% | 0.604 | IGNITION:voodoosh |
+| 4 | Rocket League | +3.92 | 28 | 16,194 | +159% | +0% | 100 | +2% | 0.2599 | IGNITION:kaydop,paache_ |
+| 5 | Valheim | +3.77 | 30 | 14,018 | +77% | +45% | 99 | +4% | 0.1546 | IGNITION:phunkroyal,distortion2 |
+| 6 | Rainbow Six Siege | +3.67 | 12 | 41,999 | +496% | +11% | 97 | -2% | 0.6157 |  |
+| 7 | Overwatch | +3.60 | 16 | 33,799 | +123% | +316% | 100 | +2% | 0.2325 |  |
+| 8 | Warhammer 40,000: Space Marine II | +3.45 | 41 | 10,231 | +38% | - | 100 | +0% | 0.3894 | ENTRY IGNITION:bonjwa,firsttourguardsman |
+| 9 | Red Dead Redemption II | +3.37 | 52 | 6,637 | - | +41% | 100 | - | 0.1838 | ENTRY IGNITION:niklaswilson |
+| 10 | Happy's Humble Burger Farm | +3.25 | 79 | 3,998 | - | - | 1 | - | 1.0 | ENTRY IGNITION:dansgaming |
+| 11 | POOL LOOP | +3.25 | 99 | 2,695 | - | - | 4 | - | 0.9855 | ENTRY IGNITION:avoidingthepuddle |
+| 12 | Big Walk | +3.25 | 53 | 6,882 | - | - | 53 | - | 0.6206 | ENTRY IGNITION:dariomocciatwitch |
+| 13 | the cabin game | +3.25 | 71 | 4,870 | - | - | 17 | - | 0.6811 | ENTRY IGNITION:zentreya |
+| 14 | SurrounDead | +3.25 | 72 | 4,809 | - | - | 6 | - | 0.9952 | ENTRY IGNITION:locklear |
+| 15 | nanos world | +3.16 | 66 | 5,635 | - | +33% | 49 | - | 0.6385 | ENTRY IGNITION:mehditdonc |
 
 ## Ignition alerts
 
@@ -30,31 +30,30 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| osu! | ohnepixel | 54,312 | 22,929 | 86% | 23 |
-| Woman Simulator | t2x2 | 16,777 | 13,371 | 79% | 30 |
-| Terraria | forsen | 10,577 | 8,317 | 94% | 49 |
-| World of Warships | worldofwarships | 13,050 | 6,221 | 79% | 55 |
-| Japanese Ramen Simulator | hanjoudesu | 6,953 | 4,899 | 100% | 80 |
-| SILENT HILL 2 | vei | 8,802 | 4,852 | 90% | 73 |
-| Ready or Not | kr1stw | 7,031 | 4,300 | 89% | 81 |
-| Jinro Metropolis | xhalli4x | 5,302 | 3,868 | 96% | 100 |
-| Heroes of Might and Magic III: The Restoration of Erathia | heroes_hub | 3,503 | 3,503 | 58% | 64 |
-| Mortal Shell II | kspksp | 9,269 | 3,110 | 76% | 93 |
+| World of Tanks | dakillzor | 14,679 | 6,475 | 62% | 42 |
+| SurrounDead | locklear | 6,891 | 4,786 | 100% | 72 |
+| Heroes of the Storm | grubby | 9,492 | 4,724 | 52% | 45 |
+| Heroes of Might and Magic III: The Restoration of Erathia | voodoosh | 4,708 | 4,676 | 60% | 49 |
+| Big Walk | dariomocciatwitch | 4,271 | 4,271 | 62% | 53 |
+| Happy's Humble Burger Farm | dansgaming | 5,181 | 3,998 | 100% | 79 |
+| nanos world | mehditdonc | 4,029 | 3,598 | 64% | 66 |
+| the cabin game | zentreya | 3,851 | 3,317 | 68% | 71 |
+| POOL LOOP | avoidingthepuddle | 3,313 | 2,656 | 99% | 99 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 7.105 | Among Us | 67,386 | 9,484 |
-| 1.422 | Grand Theft Auto V | 87,465 | 61,504 |
-| 0.906 | EA Sports FC 27 | 78,926 | 87,100 |
-| 0.588 | Minecraft Dungeons II | 16,632 | 28,290 |
-| 0.511 | Dead by Daylight | 24,132 | 47,205 |
-| 0.063 | Aniimo | 6,792 | 108,641 |
-| 0.045 | Valheim | 7,909 | 176,428 |
-| 0.044 | The Witcher 3: Wild Hunt | 4,825 | 108,993 |
-| 0.041 | Slay the Spire II | 3,679 | 89,514 |
-| 0.011 | PUBG: BATTLEGROUNDS | 7,257 | 651,268 |
+| 6.314 | Among Us | 59,882 | 9,484 |
+| 2.948 | Grand Theft Auto V | 181,312 | 61,504 |
+| 0.998 | Street Fighter 6 | 31,666 | 31,741 |
+| 0.683 | Warhammer 40,000: Space Marine II | 10,231 | 14,982 |
+| 0.542 | Rainbow Six Siege | 41,999 | 77,560 |
+| 0.052 | Dota 2 | 42,329 | 809,533 |
+| 0.039 | Aniimo | 4,214 | 108,641 |
+| 0.024 | Counter-Strike | 31,789 | 1,316,372 |
+| 0.023 | Delta Force | 3,012 | 129,732 |
+| 0.009 | PUBG: BATTLEGROUNDS | 5,703 | 651,268 |
 
 ---
 
