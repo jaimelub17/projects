@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-10-02T19` (UTC). History: 150 snapshots spanning 758h.
-Reference windows: short = `2026-10-02T12`, day = `2026-10-01T17`.
+Generated from snapshot `2026-10-02T23` (UTC). History: 151 snapshots spanning 762h.
+Reference windows: short = `2026-10-02T19`, day = `2026-10-01T22`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Rainbow Six Siege | +7.34 | 30 | 16,227 | +510% | +130% | 96 | -2% | 0.6194 | IGNITION:rainbow6,mingo |
-| 2 | Heroes of the Storm | +6.70 | 28 | 18,816 | +343% | +63% | 98 | +75% | 0.4309 | IGNITION:zerator,grubby |
-| 3 | NBA 2K27 | +5.74 | 43 | 10,528 | +128% | +230% | 99 | -1% | 0.3853 | IGNITION:flight23white |
-| 4 | Rocket League | +5.12 | 37 | 14,177 | +278% | +127% | 93 | -7% | 0.3607 | IGNITION:paache_ |
-| 5 | End of Abyss | +5.11 | 23 | 22,042 | - | +181% | 52 | - | 0.9787 | ENTRY IGNITION:gronkh |
-| 6 | Valheim | +4.75 | 25 | 16,680 | +124% | +111% | 100 | +1% | 0.188 | IGNITION:barbarousking,alphacast |
-| 7 | MARVEL Contest of Champions | +4.25 | 38 | 15,532 | - | - | 29 | - | 0.5422 | ENTRY IGNITION:pepe,mc0cnoob |
-| 8 | Crusader Kings III | +4.24 | 91 | 4,591 | - | - | 26 | - | 0.4341 | ENTRY IGNITION:mauriceweber,pietsmiet |
-| 9 | Minecraft | +4.20 | 9 | 55,282 | +418% | +149% | 95 | -3% | 0.1114 |  |
-| 10 | Delta Force | +4.14 | 27 | 18,488 | +144% | +105% | 96 | -4% | 0.2157 | IGNITION:gotaga |
-| 11 | Project Zomboid | +3.63 | 55 | 7,265 | +83% | +58% | 97 | +1% | 0.3299 | IGNITION:edopeh |
-| 12 | EA Sports FC 27 | +3.50 | 5 | 111,782 | +350% | +42% | 93 | -4% | 0.0977 |  |
-| 13 | PUBG: BATTLEGROUNDS | +3.45 | 29 | 15,478 | +62% | +113% | 94 | -6% | 0.3173 | IGNITION:pubg_battlegrounds |
-| 14 | Geometry Dash | +3.25 | 87 | 4,803 | - | - | 97 | - | 0.5759 | ENTRY IGNITION:aslanshukasha |
-| 15 | Dirty Business | +3.25 | 45 | 11,601 | - | - | 7 | - | 0.8506 | ENTRY IGNITION:trymacs |
+| 1 | Z1: Battle Royale | +5.58 | 41 | 9,600 | +31% | +194% | 100 | +5% | 0.3041 | IGNITION:zoomaa |
+| 2 | Teamfight Tactics | +4.17 | 22 | 21,475 | +94% | +54% | 95 | +0% | 0.3973 | IGNITION:k3soju,setsuko |
+| 3 | ACE COMBAT 8: WINGS OF THEVE | +3.78 | 53 | 6,210 | +8% | +137% | 98 | +4% | 0.239 | IGNITION:alphacast |
+| 4 | Call of Duty: Black Ops 7 | +3.75 | 74 | 3,266 | - | +40% | 99 | - | 0.225 | ENTRY IGNITION:imow |
+| 5 | Valheim | +3.28 | 21 | 21,643 | +30% | +54% | 99 | -1% | 0.4252 | IGNITION:moonmoon,shylily |
+| 6 | The Elder Scrolls V: Skyrim - Special Edition | +3.25 | 88 | 3,551 | - | - | 100 | - | 0.7215 | ENTRY IGNITION:avoidingthepuddle |
+| 7 | Nivalis Nights | +3.25 | 24 | 17,014 | - | - | 45 | - | 0.9537 | ENTRY IGNITION:gronkh |
+| 8 | Amanda the Adventurer | +3.25 | 80 | 4,063 | - | - | 2 | - | 0.9892 | ENTRY IGNITION:dansgaming |
+| 9 | Alchemy Factory | +3.25 | 49 | 8,133 | - | - | 11 | - | 0.8767 | ENTRY IGNITION:trymacs |
+| 10 | The Unworthy | +3.25 | 31 | 13,938 | - | - | 4 | - | 0.9958 | ENTRY IGNITION:unboxholics |
+| 11 | STAR WARS: Galactic Racer | +3.25 | 75 | 4,381 | - | - | 5 | - | 0.7261 | ENTRY IGNITION:stormfall33 |
+| 12 | Microsoft Flight Simulator 2024 | +3.25 | 68 | 5,143 | - | - | 50 | - | 0.9265 | ENTRY IGNITION:vargskelethor |
+| 13 | VRChat | +3.07 | 48 | 7,742 | +62% | +99% | 99 | +1% | 0.2135 |  |
+| 14 | Rocket League | +2.79 | 23 | 17,620 | +24% | +9% | 99 | +6% | 0.3616 | IGNITION:alanzoka,kaydop |
+| 15 | Marvel Rivals | +2.45 | 19 | 23,564 | +47% | +170% | 96 | -2% | 0.3395 |  |
 
 ## Ignition alerts
 
@@ -30,31 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| End of Abyss | gronkh | 23,164 | 21,572 | 98% | 23 |
-| Rainbow Six Siege | rainbow6 | 22,272 | 10,051 | 62% | 30 |
-| Dirty Business | trymacs | 25,296 | 9,868 | 85% | 45 |
-| MARVEL Contest of Champions | pepe | 10,744 | 8,421 | 54% | 38 |
-| Road to Empress I | antoinedaniel | 15,073 | 7,879 | 99% | 54 |
-| Watch Your Plastic Duck | ironmouse | 19,982 | 6,625 | 97% | 62 |
-| Find The Needle | insym | 7,018 | 4,594 | 89% | 85 |
-| SILENT HILL 2 | vei | 8,802 | 4,557 | 87% | 82 |
-| Jinro Metropolis | xhalli4x | 5,302 | 4,195 | 91% | 92 |
-| Reel Tiny | xop0 | 4,232 | 3,840 | 100% | 90 |
+| Nivalis Nights | gronkh | 23,164 | 16,227 | 95% | 24 |
+| The Unworthy | unboxholics | 13,880 | 13,880 | 100% | 31 |
+| Alchemy Factory | trymacs | 25,296 | 7,130 | 88% | 49 |
+| Watch Your Plastic Duck | ironmouse | 19,982 | 6,289 | 97% | 56 |
+| MARVEL Contest of Champions | pepe | 10,744 | 5,291 | 55% | 40 |
+| Heroes of Might and Magic III: The Restoration of Erathia | voodoosh | 5,278 | 5,278 | 75% | 51 |
+| Microsoft Flight Simulator 2024 | vargskelethor | 4,765 | 4,765 | 93% | 68 |
+| Heroes of the Storm | grubby | 9,492 | 4,664 | 58% | 50 |
+| SurrounDead | locklear | 6,891 | 4,123 | 99% | 78 |
+| Amanda the Adventurer | dansgaming | 5,342 | 4,019 | 99% | 80 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 1.787 | Grand Theft Auto V | 111,565 | 62,438 |
-| 1.287 | EA Sports FC 27 | 111,782 | 86,844 |
-| 0.725 | Minecraft Dungeons II | 15,686 | 21,640 |
-| 0.582 | Overwatch | 42,720 | 73,403 |
-| 0.462 | Rocket League | 14,177 | 30,690 |
-| 0.092 | Counter-Strike | 108,700 | 1,177,785 |
-| 0.091 | VRChat | 4,774 | 52,346 |
-| 0.072 | Warframe | 5,104 | 71,340 |
-| 0.052 | Aniimo | 5,400 | 104,096 |
-| 0.025 | PUBG: BATTLEGROUNDS | 15,478 | 614,945 |
+| 3.254 | Grand Theft Auto V | 203,191 | 62,438 |
+| 0.874 | EA Sports FC 27 | 75,920 | 86,844 |
+| 0.633 | Minecraft Dungeons II | 13,707 | 21,640 |
+| 0.574 | Rocket League | 17,620 | 30,690 |
+| 0.54 | AION 2 | 79,827 | 147,878 |
+| 0.038 | Aniimo | 3,937 | 104,096 |
+| 0.035 | Dota 2 | 28,678 | 811,390 |
+| 0.028 | Delta Force | 3,479 | 124,367 |
+| 0.025 | Counter-Strike | 29,346 | 1,177,785 |
+| 0.014 | PUBG: BATTLEGROUNDS | 8,684 | 614,945 |
 
 ---
 
