@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-10-03T19` (UTC). History: 155 snapshots spanning 782h.
-Reference windows: short = `2026-10-03T11`, day = `2026-10-02T19`.
+Generated from snapshot `2026-10-03T23` (UTC). History: 156 snapshots spanning 786h.
+Reference windows: short = `2026-10-03T16`, day = `2026-10-02T23`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Old School RuneScape | +9.49 | 16 | 47,276 | +1363% | +658% | 100 | +4% | 0.8089 |  |
-| 2 | Rocket League | +7.09 | 14 | 42,871 | +1090% | +202% | 99 | +2% | 0.4793 |  |
-| 3 | ROBLOX | +6.60 | 27 | 12,724 | +614% | +160% | 91 | -9% | 0.4602 | IGNITION:realzbluewater |
-| 4 | Z1: Battle Royale | +5.48 | 54 | 8,705 | +312% | +19% | 100 | +23% | 0.3735 | IGNITION:itachi,littlebigwhale |
-| 5 | Minecraft | +4.65 | 5 | 103,819 | +571% | +88% | 98 | +2% | 0.414 |  |
-| 6 | Gears of War: E-Day | +4.42 | 18 | 30,604 | +707% | +15% | 100 | +5% | 0.6739 |  |
-| 7 | iRacing | +4.25 | 66 | 7,090 | - | - | 97 | - | 0.4512 | ENTRY IGNITION:porsche,verstappensimracing |
-| 8 | STAR WARS: Galactic Racer | +4.25 | 26 | 19,468 | - | - | 6 | - | 0.8272 | ENTRY IGNITION:lirik,hugodelire |
-| 9 | Halloween: The Game | +4.25 | 46 | 9,722 | - | - | 100 | - | 0.4687 | ENTRY IGNITION:zentreya,ray |
-| 10 | CONTROL Resonant | +4.24 | 62 | 6,859 | +53% | +119% | 100 | +3% | 0.3633 | IGNITION:limealicious |
-| 11 | Heroes of the Storm | +4.16 | 40 | 12,123 | +215% | -36% | 99 | +68% | 0.3307 | IGNITION:grubby,crisheroes |
-| 12 | RimWorld | +4.15 | 73 | 6,217 | +122% | - | 93 | +69% | 0.552 | ENTRY IGNITION:edopeh |
-| 13 | Delta Force | +4.10 | 28 | 16,552 | +398% | -10% | 100 | +1% | 0.238 | IGNITION:gotaga |
-| 14 | Marvel Rivals | +3.68 | 24 | 16,788 | +127% | +5% | 99 | +0% | 0.2406 | IGNITION:jay3,kingsman265_twitch |
-| 15 | Fortnite | +3.50 | 3 | 102,560 | +370% | +39% | 96 | -4% | 0.1422 |  |
+| 1 | Escape from Tarkov | +3.65 | 32 | 11,093 | +81% | +86% | 99 | +3% | 0.3664 | IGNITION:lvndmark |
+| 2 | Rainbow Six Siege | +3.63 | 30 | 11,173 | +87% | +16% | 98 | +2% | 0.3166 | IGNITION:itsspoit,mingo |
+| 3 | CONTROL Resonant | +3.44 | 50 | 6,642 | +69% | +66% | 99 | -1% | 0.3543 | IGNITION:limealicious |
+| 4 | The Choicer Voicer | +3.25 | 21 | 20,221 | - | - | 7 | - | 0.9967 | ENTRY IGNITION:anyme023 |
+| 5 | Nightwater | +3.25 | 92 | 3,807 | - | - | 1 | - | 1.0 | ENTRY IGNITION:phunkroyal |
+| 6 | Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island | +3.25 | 93 | 3,520 | - | - | 7 | - | 0.9244 | ENTRY IGNITION:assarisyoko1 |
+| 7 | Trench Face | +3.25 | 39 | 9,516 | - | - | 1 | - | 1.0 | ENTRY IGNITION:moonmoon |
+| 8 | Black Myth: Wukong | +3.25 | 42 | 8,546 | - | - | 63 | - | 0.9704 | ENTRY IGNITION:realzbluewater |
+| 9 | The Quarry | +3.25 | 76 | 5,087 | - | - | 45 | - | 0.9017 | ENTRY IGNITION:dansgaming |
+| 10 | WWE 2K26 | +3.25 | 99 | 3,251 | - | - | 93 | - | 0.7764 | ENTRY IGNITION:juicy_tao |
+| 11 | Escape from Tarkov: Arena | +3.25 | 88 | 3,925 | - | - | 22 | - | 0.5032 | ENTRY IGNITION:huntpremier |
+| 12 | Warframe | +2.90 | 67 | 5,053 | - | +69% | 100 | - | 0.2686 | ENTRY |
+| 13 | Minecraft | +2.88 | 4 | 112,045 | +138% | +165% | 98 | +1% | 0.5309 |  |
+| 14 | Gears of War: E-Day | +2.51 | 34 | 8,091 | +57% | +23% | 97 | -3% | 0.297 | IGNITION:stormfall33 |
+| 15 | SurrounDead | +2.41 | 79 | 4,682 | - | +13% | 4 | - | 0.9974 | ENTRY IGNITION:locklear |
 
 ## Ignition alerts
 
@@ -30,31 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| STAR WARS: Galactic Racer | lirik | 17,931 | 16,104 | 83% | 26 |
-| Waterpark Simulator | sasavot | 19,087 | 13,892 | 98% | 35 |
-| RuneScape | runescape | 7,512 | 7,512 | 84% | 53 |
-| Alien: Isolation | dansgaming | 7,837 | 7,146 | 73% | 47 |
-| Watch Your Plastic Duck | ironmouse | 19,982 | 6,973 | 98% | 64 |
-| Rehaunted | knekro | 13,933 | 6,353 | 99% | 71 |
-| Gartic Show | 5opka | 6,819 | 5,607 | 100% | 80 |
-| SILENT HILL 2 | vei | 8,802 | 4,956 | 84% | 78 |
-| The Elder Scrolls V: Skyrim | vedal987 | 7,499 | 4,795 | 92% | 82 |
-| Nivalis Nights | phunkroyal | 5,242 | 4,058 | 84% | 87 |
+| The Choicer Voicer | anyme023 | 129,628 | 20,154 | 100% | 21 |
+| Trench Face | moonmoon | 14,354 | 9,516 | 100% | 39 |
+| Black Myth: Wukong | realzbluewater | 8,293 | 8,293 | 97% | 42 |
+| Watch Your Plastic Duck | ironmouse | 19,982 | 6,559 | 100% | 53 |
+| Heroes of the Storm | grubby | 9,492 | 5,480 | 58% | 38 |
+| Z1: Battle Royale | itachi | 38,034 | 5,402 | 65% | 44 |
+| SurrounDead | locklear | 6,891 | 4,670 | 100% | 79 |
+| The Quarry | dansgaming | 7,837 | 4,587 | 90% | 76 |
+| Nightwater | phunkroyal | 5,242 | 3,807 | 100% | 92 |
+| Jinro Metropolis | xhalli4x | 5,302 | 3,406 | 100% | 96 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 1.297 | Rocket League | 42,871 | 33,061 |
-| 1.178 | EA Sports FC 27 | 103,576 | 87,910 |
-| 1.12 | Grand Theft Auto V | 74,488 | 66,501 |
-| 0.803 | Among Us | 10,411 | 12,965 |
-| 0.631 | AION 2 | 86,655 | 137,372 |
-| 0.082 | Deadlock | 18,707 | 228,208 |
-| 0.068 | Valheim | 12,291 | 180,507 |
-| 0.059 | Warframe | 4,581 | 77,147 |
-| 0.055 | Aniimo | 5,761 | 104,176 |
-| 0.019 | PUBG: BATTLEGROUNDS | 11,405 | 605,728 |
+| 1.616 | Grand Theft Auto V | 107,445 | 66,501 |
+| 1.105 | EA Sports FC 27 | 97,146 | 87,910 |
+| 0.555 | AION 2 | 76,308 | 137,372 |
+| 0.36 | Minecraft Dungeons II | 6,714 | 18,652 |
+| 0.334 | Overwatch | 25,371 | 75,899 |
+| 0.048 | Apex Legends | 9,820 | 205,986 |
+| 0.038 | Aniimo | 3,915 | 104,176 |
+| 0.032 | Delta Force | 4,013 | 123,548 |
+| 0.029 | Counter-Strike | 33,778 | 1,160,588 |
+| 0.012 | PUBG: BATTLEGROUNDS | 7,562 | 605,728 |
 
 ---
 
