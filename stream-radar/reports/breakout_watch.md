@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-10-03T16` (UTC). History: 154 snapshots spanning 779h.
+Generated from snapshot `2026-10-03T19` (UTC). History: 155 snapshots spanning 782h.
 Reference windows: short = `2026-10-03T11`, day = `2026-10-02T19`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Old School RuneScape | +8.49 | 15 | 33,642 | +941% | +440% | 99 | +3% | 0.7858 |  |
-| 2 | Active Matter | +8.23 | 24 | 20,887 | +647% | +144% | 100 | +15% | 0.2447 | IGNITION:recrent,glorious_e |
-| 3 | Rocket League | +5.64 | 16 | 27,573 | +665% | +94% | 97 | +0% | 0.6315 |  |
-| 4 | Fire Emblem: Fortune's Weave | +5.25 | 64 | 6,520 | - | +61% | 99 | - | 0.2747 | ENTRY IGNITION:admiralbahroo,minoru04160 |
-| 5 | Marvel Rivals | +4.55 | 21 | 21,379 | +189% | +33% | 100 | +1% | 0.3373 | IGNITION:marvelrivals,jay3 |
-| 6 | RimWorld | +4.38 | 60 | 6,765 | +141% | - | 97 | +76% | 0.4605 | ENTRY IGNITION:edopeh |
-| 7 | Super Mario Maker 2 | +4.25 | 23 | 21,008 | - | - | 16 | - | 0.9732 | ENTRY IGNITION:papaplatte,dgr_dave |
-| 8 | DARK SOULS III | +4.25 | 75 | 5,367 | - | - | 98 | - | 0.5053 | ENTRY IGNITION:morphe_ya,sundae |
-| 9 | Genshin Impact | +3.73 | 38 | 7,807 | +86% | +91% | 98 | +0% | 0.2023 |  |
-| 10 | Find The Needle | +3.68 | 49 | 3,687 | - | -29% | 61 | - | 0.4502 | ENTRY IGNITION:just_ns |
-| 11 | Black Desert | +3.53 | 43 | 8,434 | +46% | +108% | 98 | -2% | 0.159 |  |
-| 12 | I'm Only Sleeping | +3.47 | 35 | 11,079 | -13% | +71% | 100 | +0% | 0.1849 | IGNITION:hjune,sven |
-| 13 | SILENT HILL: townfall | +3.44 | 47 | 7,640 | +211% | -37% | 96 | -3% | 0.4556 | IGNITION:shxtou,sakurah |
-| 14 | Hunt: Showdown 1896 | +3.27 | 72 | 5,336 | +150% | +70% | 95 | -4% | 0.2768 |  |
-| 15 | RuneScape | +3.25 | 44 | 8,710 | - | - | 30 | - | 0.8389 | ENTRY IGNITION:runescape |
+| 1 | Old School RuneScape | +9.49 | 16 | 47,276 | +1363% | +658% | 100 | +4% | 0.8089 |  |
+| 2 | Rocket League | +7.09 | 14 | 42,871 | +1090% | +202% | 99 | +2% | 0.4793 |  |
+| 3 | ROBLOX | +6.60 | 27 | 12,724 | +614% | +160% | 91 | -9% | 0.4602 | IGNITION:realzbluewater |
+| 4 | Z1: Battle Royale | +5.48 | 54 | 8,705 | +312% | +19% | 100 | +23% | 0.3735 | IGNITION:itachi,littlebigwhale |
+| 5 | Minecraft | +4.65 | 5 | 103,819 | +571% | +88% | 98 | +2% | 0.414 |  |
+| 6 | Gears of War: E-Day | +4.42 | 18 | 30,604 | +707% | +15% | 100 | +5% | 0.6739 |  |
+| 7 | iRacing | +4.25 | 66 | 7,090 | - | - | 97 | - | 0.4512 | ENTRY IGNITION:porsche,verstappensimracing |
+| 8 | STAR WARS: Galactic Racer | +4.25 | 26 | 19,468 | - | - | 6 | - | 0.8272 | ENTRY IGNITION:lirik,hugodelire |
+| 9 | Halloween: The Game | +4.25 | 46 | 9,722 | - | - | 100 | - | 0.4687 | ENTRY IGNITION:zentreya,ray |
+| 10 | CONTROL Resonant | +4.24 | 62 | 6,859 | +53% | +119% | 100 | +3% | 0.3633 | IGNITION:limealicious |
+| 11 | Heroes of the Storm | +4.16 | 40 | 12,123 | +215% | -36% | 99 | +68% | 0.3307 | IGNITION:grubby,crisheroes |
+| 12 | RimWorld | +4.15 | 73 | 6,217 | +122% | - | 93 | +69% | 0.552 | ENTRY IGNITION:edopeh |
+| 13 | Delta Force | +4.10 | 28 | 16,552 | +398% | -10% | 100 | +1% | 0.238 | IGNITION:gotaga |
+| 14 | Marvel Rivals | +3.68 | 24 | 16,788 | +127% | +5% | 99 | +0% | 0.2406 | IGNITION:jay3,kingsman265_twitch |
+| 15 | Fortnite | +3.50 | 3 | 102,560 | +370% | +39% | 96 | -4% | 0.1422 |  |
 
 ## Ignition alerts
 
@@ -30,31 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Super Mario Maker 2 | papaplatte | 32,454 | 20,445 | 97% | 23 |
-| Alien: Isolation | dansgaming | 7,837 | 7,837 | 81% | 37 |
-| RuneScape | runescape | 7,307 | 7,307 | 84% | 44 |
-| STAR WARS: Galactic Racer | jaharajayde | 5,334 | 5,334 | 99% | 36 |
-| Mario Kart World | etoiles | 17,184 | 4,424 | 82% | 76 |
-| World of Warships | worldofwarships | 13,050 | 4,193 | 83% | 81 |
-| IGTAP: An Incremental Game That's Also a Platformer | alexelcapo | 4,661 | 3,680 | 100% | 95 |
-| Life Is Strange | yuyuta0702 | 11,462 | 3,445 | 99% | 99 |
-| Jinro Metropolis | xhalli4x | 5,302 | 3,219 | 85% | 92 |
-| Sineus Arena Survivors | godjj | 4,692 | 2,748 | 71% | 91 |
+| STAR WARS: Galactic Racer | lirik | 17,931 | 16,104 | 83% | 26 |
+| Waterpark Simulator | sasavot | 19,087 | 13,892 | 98% | 35 |
+| RuneScape | runescape | 7,512 | 7,512 | 84% | 53 |
+| Alien: Isolation | dansgaming | 7,837 | 7,146 | 73% | 47 |
+| Watch Your Plastic Duck | ironmouse | 19,982 | 6,973 | 98% | 64 |
+| Rehaunted | knekro | 13,933 | 6,353 | 99% | 71 |
+| Gartic Show | 5opka | 6,819 | 5,607 | 100% | 80 |
+| SILENT HILL 2 | vei | 8,802 | 4,956 | 84% | 78 |
+| The Elder Scrolls V: Skyrim | vedal987 | 7,499 | 4,795 | 92% | 82 |
+| Nivalis Nights | phunkroyal | 5,242 | 4,058 | 84% | 87 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 1.112 | Grand Theft Auto V | 73,926 | 66,501 |
-| 0.868 | EA Sports FC 27 | 76,309 | 87,910 |
-| 0.834 | Rocket League | 27,573 | 33,061 |
-| 0.803 | Apex Legends | 165,381 | 205,986 |
-| 0.457 | AION 2 | 62,726 | 137,372 |
-| 0.062 | Delta Force | 7,654 | 123,548 |
-| 0.062 | Deadlock | 14,085 | 228,208 |
-| 0.047 | Aniimo | 4,847 | 104,176 |
-| 0.047 | ACE COMBAT 8: WINGS OF THEVE | 2,306 | 48,743 |
-| 0.024 | PUBG: BATTLEGROUNDS | 14,817 | 605,728 |
+| 1.297 | Rocket League | 42,871 | 33,061 |
+| 1.178 | EA Sports FC 27 | 103,576 | 87,910 |
+| 1.12 | Grand Theft Auto V | 74,488 | 66,501 |
+| 0.803 | Among Us | 10,411 | 12,965 |
+| 0.631 | AION 2 | 86,655 | 137,372 |
+| 0.082 | Deadlock | 18,707 | 228,208 |
+| 0.068 | Valheim | 12,291 | 180,507 |
+| 0.059 | Warframe | 4,581 | 77,147 |
+| 0.055 | Aniimo | 5,761 | 104,176 |
+| 0.019 | PUBG: BATTLEGROUNDS | 11,405 | 605,728 |
 
 ---
 
