@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-10-03T11` (UTC). History: 153 snapshots spanning 774h.
-Reference windows: short = `2026-10-03T05`, day = `2026-10-02T12`.
+Generated from snapshot `2026-10-03T16` (UTC). History: 154 snapshots spanning 779h.
+Reference windows: short = `2026-10-03T11`, day = `2026-10-02T19`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Counter-Strike | +6.41 | 2 | 172,213 | +1145% | +217% | 98 | +1% | 0.185 |  |
-| 2 | World of Tanks | +5.23 | 16 | 19,783 | +508% | +83% | 100 | +37% | 0.3538 |  |
-| 3 | VALORANT | +4.64 | 1 | 173,387 | +797% | +16% | 99 | +2% | 0.193 |  |
-| 4 | PUBG: BATTLEGROUNDS | +3.60 | 32 | 8,247 | +322% | -14% | 98 | -2% | 0.1879 | IGNITION:pubg_battlegrounds |
-| 5 | EA Sports FC 27 | +3.36 | 9 | 52,690 | +235% | +112% | 97 | +4% | 0.1324 |  |
-| 6 | RimWorld | +3.27 | 83 | 2,802 | - | - | 55 | - | 0.5585 | ENTRY IGNITION:edopeh |
-| 7 | The Binding of Isaac: Repentance | +3.25 | 42 | 6,407 | - | - | 56 | - | 0.7372 | ENTRY IGNITION:mynthos |
-| 8 | TCG Card Shop Simulator | +3.25 | 28 | 9,843 | - | - | 17 | - | 0.9392 | ENTRY IGNITION:trymacs |
-| 9 | Amnesia: The Bunker | +3.25 | 61 | 4,252 | - | - | 5 | - | 0.9948 | ENTRY IGNITION:dansgaming |
-| 10 | My Fav Chill Streamer Dies a Million Times | +3.25 | 25 | 10,841 | - | - | 1 | - | 1.0 | ENTRY IGNITION:indegnasen0706 |
-| 11 | Mabinogi Mobile | +3.25 | 98 | 2,255 | - | - | 7 | - | 0.51 | ENTRY IGNITION:mimiluckying |
-| 12 | Dota 2 | +3.01 | 6 | 58,034 | +290% | +10% | 100 | +4% | 0.2558 |  |
-| 13 | League of Legends | +3.01 | 4 | 115,854 | +334% | -1% | 100 | +3% | 0.442 |  |
-| 14 | Hearthstone | +2.83 | 33 | 8,274 | +93% | -13% | 84 | +65% | 0.282 | IGNITION:jeefhs |
-| 15 | Last Epoch | +2.67 | 27 | 10,028 | +76% | -27% | 100 | +2% | 0.2487 | IGNITION:pathofexilebota,wudijo |
+| 1 | Old School RuneScape | +8.49 | 15 | 33,642 | +941% | +440% | 99 | +3% | 0.7858 |  |
+| 2 | Active Matter | +8.23 | 24 | 20,887 | +647% | +144% | 100 | +15% | 0.2447 | IGNITION:recrent,glorious_e |
+| 3 | Rocket League | +5.64 | 16 | 27,573 | +665% | +94% | 97 | +0% | 0.6315 |  |
+| 4 | Fire Emblem: Fortune's Weave | +5.25 | 64 | 6,520 | - | +61% | 99 | - | 0.2747 | ENTRY IGNITION:admiralbahroo,minoru04160 |
+| 5 | Marvel Rivals | +4.55 | 21 | 21,379 | +189% | +33% | 100 | +1% | 0.3373 | IGNITION:marvelrivals,jay3 |
+| 6 | RimWorld | +4.38 | 60 | 6,765 | +141% | - | 97 | +76% | 0.4605 | ENTRY IGNITION:edopeh |
+| 7 | Super Mario Maker 2 | +4.25 | 23 | 21,008 | - | - | 16 | - | 0.9732 | ENTRY IGNITION:papaplatte,dgr_dave |
+| 8 | DARK SOULS III | +4.25 | 75 | 5,367 | - | - | 98 | - | 0.5053 | ENTRY IGNITION:morphe_ya,sundae |
+| 9 | Genshin Impact | +3.73 | 38 | 7,807 | +86% | +91% | 98 | +0% | 0.2023 |  |
+| 10 | Find The Needle | +3.68 | 49 | 3,687 | - | -29% | 61 | - | 0.4502 | ENTRY IGNITION:just_ns |
+| 11 | Black Desert | +3.53 | 43 | 8,434 | +46% | +108% | 98 | -2% | 0.159 |  |
+| 12 | I'm Only Sleeping | +3.47 | 35 | 11,079 | -13% | +71% | 100 | +0% | 0.1849 | IGNITION:hjune,sven |
+| 13 | SILENT HILL: townfall | +3.44 | 47 | 7,640 | +211% | -37% | 96 | -3% | 0.4556 | IGNITION:shxtou,sakurah |
+| 14 | Hunt: Showdown 1896 | +3.27 | 72 | 5,336 | +150% | +70% | 95 | -4% | 0.2768 |  |
+| 15 | RuneScape | +3.25 | 44 | 8,710 | - | - | 30 | - | 0.8389 | ENTRY IGNITION:runescape |
 
 ## Ignition alerts
 
@@ -30,27 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Harvester | ironmouse | 19,982 | 11,137 | 100% | 24 |
-| My Fav Chill Streamer Dies a Million Times | indegnasen0706 | 23,388 | 10,841 | 100% | 25 |
-| TCG Card Shop Simulator | trymacs | 25,296 | 9,245 | 94% | 28 |
-| The Binding of Isaac: Repentance | mynthos | 5,723 | 4,723 | 74% | 42 |
-| Amnesia: The Bunker | dansgaming | 5,342 | 4,230 | 99% | 61 |
-| RimWorld | edopeh | 4,868 | 1,565 | 56% | 83 |
+| Super Mario Maker 2 | papaplatte | 32,454 | 20,445 | 97% | 23 |
+| Alien: Isolation | dansgaming | 7,837 | 7,837 | 81% | 37 |
+| RuneScape | runescape | 7,307 | 7,307 | 84% | 44 |
+| STAR WARS: Galactic Racer | jaharajayde | 5,334 | 5,334 | 99% | 36 |
+| Mario Kart World | etoiles | 17,184 | 4,424 | 82% | 76 |
+| World of Warships | worldofwarships | 13,050 | 4,193 | 83% | 81 |
+| IGTAP: An Incremental Game That's Also a Platformer | alexelcapo | 4,661 | 3,680 | 100% | 95 |
+| Life Is Strange | yuyuta0702 | 11,462 | 3,445 | 99% | 99 |
+| Jinro Metropolis | xhalli4x | 5,302 | 3,219 | 85% | 92 |
+| Sineus Arena Survivors | godjj | 4,692 | 2,748 | 71% | 91 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 0.759 | Grand Theft Auto V | 50,504 | 66,501 |
-| 0.599 | EA Sports FC 27 | 52,690 | 87,910 |
-| 0.529 | Apex Legends | 108,955 | 205,986 |
-| 0.368 | AION 2 | 50,489 | 137,372 |
-| 0.349 | Overwatch | 26,485 | 75,899 |
-| 0.042 | Deadlock | 9,608 | 228,208 |
-| 0.038 | Valheim | 6,888 | 180,507 |
-| 0.027 | The Witcher 3: Wild Hunt | 2,806 | 102,849 |
-| 0.027 | Delta Force | 3,324 | 123,548 |
-| 0.014 | PUBG: BATTLEGROUNDS | 8,247 | 605,728 |
+| 1.112 | Grand Theft Auto V | 73,926 | 66,501 |
+| 0.868 | EA Sports FC 27 | 76,309 | 87,910 |
+| 0.834 | Rocket League | 27,573 | 33,061 |
+| 0.803 | Apex Legends | 165,381 | 205,986 |
+| 0.457 | AION 2 | 62,726 | 137,372 |
+| 0.062 | Delta Force | 7,654 | 123,548 |
+| 0.062 | Deadlock | 14,085 | 228,208 |
+| 0.047 | Aniimo | 4,847 | 104,176 |
+| 0.047 | ACE COMBAT 8: WINGS OF THEVE | 2,306 | 48,743 |
+| 0.024 | PUBG: BATTLEGROUNDS | 14,817 | 605,728 |
 
 ---
 
