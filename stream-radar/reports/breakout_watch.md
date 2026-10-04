@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-10-04T12` (UTC). History: 158 snapshots spanning 799h.
-Reference windows: short = `2026-10-04T05`, day = `2026-10-03T11`.
+Generated from snapshot `2026-10-04T18` (UTC). History: 159 snapshots spanning 805h.
+Reference windows: short = `2026-10-04T12`, day = `2026-10-03T19`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Apex Legends | +7.00 | 1 | 320,786 | +1643% | +194% | 100 | +1% | 0.2208 |  |
-| 2 | Old School RuneScape | +5.88 | 34 | 8,696 | +272% | +169% | 99 | +0% | 0.2782 | IGNITION:sardaco |
-| 3 | PUBG: BATTLEGROUNDS | +5.85 | 27 | 11,027 | +438% | +34% | 98 | -1% | 0.1849 | IGNITION:pubg_battlegrounds,krapycoco |
-| 4 | Counter-Strike | +5.26 | 3 | 162,514 | +1340% | -6% | 100 | +0% | 0.2304 |  |
-| 5 | Hearthstone | +4.44 | 23 | 12,871 | +139% | +56% | 99 | +62% | 0.2608 | IGNITION:jeefhs |
-| 6 | Minecraft Dungeons II | +4.24 | 41 | 6,799 | +51% | +64% | 99 | +9% | 0.4368 | IGNITION:derpgtx,yetr |
-| 7 | World of Tanks | +4.18 | 26 | 11,338 | +307% | -43% | 95 | +28% | 0.2451 | IGNITION:dakillzor,skill4ltu |
-| 8 | Valheim | +3.78 | 29 | 10,381 | +174% | +51% | 99 | -1% | 0.3837 | IGNITION:cohhcarnage |
-| 9 | Hunt: Showdown 1896 | +3.69 | 61 | 3,921 | - | +84% | 100 | - | 0.2555 | ENTRY |
-| 10 | VALORANT | +3.66 | 4 | 157,020 | +589% | -9% | 99 | +1% | 0.2398 |  |
-| 11 | ACE COMBAT 8: WINGS OF THEVE | +3.51 | 45 | 5,917 | +21% | +175% | 99 | +0% | 0.2058 |  |
-| 12 | Woman Simulator | +3.25 | 32 | 8,361 | - | - | 12 | - | 0.9821 | ENTRY IGNITION:joueur_du_grenier |
-| 13 | Megabonk | +3.25 | 80 | 3,077 | - | - | 16 | - | 0.9691 | ENTRY IGNITION:alderiate |
-| 14 | Find The Needle | +3.25 | 40 | 7,478 | - | - | 45 | - | 0.5734 | ENTRY IGNITION:bonjwa |
-| 15 | Dave the Diver | +3.25 | 85 | 2,904 | - | - | 9 | - | 0.938 | ENTRY IGNITION:miri_aetris |
+| 1 | Rainbow Six Siege | +7.41 | 23 | 24,219 | +651% | +121% | 95 | -3% | 0.4734 | IGNITION:rainbow6,razah |
+| 2 | Nivalis Nights | +5.79 | 30 | 19,280 | - | +300% | 37 | - | 0.9415 | ENTRY IGNITION:gronkh |
+| 3 | Warhammer 40,000: Space Marine II | +5.47 | 59 | 7,348 | +133% | +59% | 97 | +1% | 0.3325 | IGNITION:alphacast,firsttourguardsman |
+| 4 | ACE COMBAT 8: WINGS OF THEVE | +4.38 | 25 | 21,982 | +272% | - | 97 | -2% | 0.8028 | ENTRY IGNITION:lirik |
+| 5 | Delta Force | +4.01 | 28 | 19,633 | +314% | +19% | 99 | +0% | 0.3213 | IGNITION:recrent |
+| 6 | Heroes of the Storm | +3.94 | 41 | 11,185 | +204% | -8% | 96 | +78% | 0.4812 | IGNITION:grubby |
+| 7 | Genshin Impact | +3.87 | 45 | 9,214 | +128% | +56% | 93 | -4% | 0.4094 | IGNITION:zy0xxx |
+| 8 | Virtual Casino | +3.86 | 52 | 8,635 | +50% | +98% | 19 | +12% | 0.1664 |  |
+| 9 | Marvel Rivals | +3.75 | 27 | 17,881 | +149% | +7% | 93 | -1% | 0.3501 | IGNITION:marvelrivals,jay3 |
+| 10 | Street Fighter 6 | +3.58 | 54 | 7,904 | +111% | +29% | 96 | -2% | 0.625 | IGNITION:loltyler1 |
+| 11 | Fortnite | +3.56 | 5 | 109,889 | +473% | +7% | 100 | +3% | 0.1534 |  |
+| 12 | WARDOGS | +3.55 | 14 | 47,201 | +244% | +134% | 97 | -1% | 0.1963 |  |
+| 13 | PUBG: BATTLEGROUNDS | +3.54 | 29 | 17,906 | +62% | +57% | 96 | -2% | 0.3349 | IGNITION:pubg_battlegrounds,pokamolodoy |
+| 14 | Minecraft | +3.50 | 4 | 109,661 | +443% | +6% | 98 | +1% | 0.3685 |  |
+| 15 | Heroes of Might and Magic III: The Restoration of Erathia | +3.34 | 61 | 7,237 | +100% | - | 54 | +15% | 0.6533 | ENTRY IGNITION:heroes_hub |
 
 ## Ignition alerts
 
@@ -30,30 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Woman Simulator | joueur_du_grenier | 10,684 | 8,211 | 98% | 32 |
-| GeoGuessr | dmitry_lixxx | 7,267 | 4,398 | 79% | 48 |
-| Find The Needle | bonjwa | 12,174 | 4,288 | 57% | 40 |
-| Dynasty Warriors 3: Complete Edition Remastered | blusewilly_retry | 3,983 | 3,400 | 88% | 65 |
-| Megabonk | alderiate | 4,674 | 2,982 | 97% | 80 |
-| The Fridge is Red | dansgaming | 7,837 | 2,908 | 100% | 84 |
-| Dave the Diver | miri_aetris | 4,878 | 2,724 | 94% | 85 |
-| I Know a Guy | mobilmobil | 6,113 | 2,434 | 99% | 94 |
-| Halloween: The Game | tru3ta1ent | 3,273 | 1,396 | 57% | 92 |
+| Nivalis Nights | gronkh | 23,164 | 18,152 | 94% | 30 |
+| ACE COMBAT 8: WINGS OF THEVE | lirik | 17,931 | 17,647 | 80% | 25 |
+| Welcome to Elderfield | knekro | 13,933 | 7,758 | 97% | 56 |
+| Watch Your Plastic Duck | ironmouse | 19,982 | 7,284 | 97% | 55 |
+| Alien: Isolation | dansgaming | 7,837 | 7,088 | 74% | 47 |
+| Street Fighter 6 | loltyler1 | 19,205 | 4,940 | 62% | 54 |
+| Heroes of Might and Magic III: The Restoration of Erathia | heroes_hub | 4,728 | 4,728 | 65% | 61 |
+| Hollow Knight: Silksong | vedal987 | 7,499 | 4,226 | 59% | 60 |
+| Car Park Capital | tomato | 4,432 | 3,807 | 100% | 97 |
+| Click the Button | insym | 7,018 | 3,654 | 100% | 99 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 1.507 | Apex Legends | 320,786 | 212,883 |
-| 0.642 | Grand Theft Auto V | 44,992 | 70,110 |
-| 0.512 | EA Sports FC 27 | 45,271 | 88,441 |
-| 0.349 | Minecraft Dungeons II | 6,799 | 19,484 |
-| 0.347 | AION 2 | 50,818 | 146,483 |
-| 0.041 | VRChat | 2,508 | 60,988 |
-| 0.038 | Delta Force | 4,746 | 125,678 |
-| 0.036 | Rainbow Six Siege | 3,223 | 90,553 |
-| 0.03 | Aniimo | 3,270 | 109,319 |
-| 0.018 | PUBG: BATTLEGROUNDS | 11,027 | 619,749 |
+| 1.291 | EA Sports FC 27 | 114,202 | 88,441 |
+| 1.115 | Grand Theft Auto V | 78,183 | 70,110 |
+| 0.568 | AION 2 | 83,248 | 146,483 |
+| 0.471 | Rocket League | 15,182 | 32,258 |
+| 0.417 | ACE COMBAT 8: WINGS OF THEVE | 21,982 | 52,694 |
+| 0.051 | Warframe | 4,041 | 79,334 |
+| 0.049 | Dota 2 | 42,130 | 860,976 |
+| 0.046 | Aniimo | 4,980 | 109,319 |
+| 0.034 | Apex Legends | 7,164 | 212,883 |
+| 0.029 | PUBG: BATTLEGROUNDS | 17,906 | 619,749 |
 
 ---
 
