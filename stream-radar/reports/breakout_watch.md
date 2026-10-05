@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-10-05T09` (UTC). History: 162 snapshots spanning 820h.
-Reference windows: short = `2026-10-05T00`, day = `2026-10-04T12`.
+Generated from snapshot `2026-10-05T19` (UTC). History: 163 snapshots spanning 830h.
+Reference windows: short = `2026-10-05T09`, day = `2026-10-04T18`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Medieval Dynasty | +3.25 | 86 | 1,749 | - | - | 5 | - | 0.9754 | ENTRY IGNITION:gronkhtv |
-| 2 | Project P.I.T.T. | +3.25 | 22 | 9,360 | - | - | 1 | - | 1.0 | ENTRY IGNITION:ironmouse |
-| 3 | Railroad Tycoon II | +3.25 | 57 | 2,865 | - | - | 1 | - | 1.0 | ENTRY IGNITION:maxim |
-| 4 | Japanese Ramen Simulator | +3.25 | 48 | 4,440 | - | - | 1 | - | 1.0 | ENTRY IGNITION:sumomo_x |
-| 5 | Antivirus Survivors 2003 Professional | +3.25 | 34 | 7,026 | - | - | 3 | - | 0.9967 | ENTRY IGNITION:sasatikk |
-| 6 | Genshin Impact | +3.04 | 42 | 5,451 | +86% | +35% | 100 | +8% | 0.4368 | IGNITION:vodkavdk |
-| 7 | Total War: WARHAMMER III | +2.95 | 43 | 5,391 | - | +60% | 41 | - | 0.2983 | ENTRY |
-| 8 | Aniimo | +2.83 | 35 | 6,041 | +91% | +85% | 97 | +0% | 0.1985 |  |
-| 9 | Clash Royale | +2.75 | 18 | 10,253 | +171% | - | 41 | +0% | 0.2224 | ENTRY |
-| 10 | I'm Only Sleeping | +2.60 | 25 | 7,974 | +52% | -27% | 98 | -2% | 0.1307 | IGNITION:coachlim,zchum |
-| 11 | Graveyard Keeper II | +2.31 | 61 | 2,642 | - | -1% | 67 | - | 0.207 | ENTRY |
-| 12 | Stardew Valley | +2.28 | 60 | 2,628 | - | - | 46 | - | 0.8516 | ENTRY |
-| 13 | Active Matter | +2.25 | 89 | 1,610 | - | - | 70 | - | 0.1913 | ENTRY |
-| 14 | The Binding of Isaac: Repentance | +2.25 | 98 | 1,550 | - | - | 34 | - | 0.5948 | ENTRY |
-| 15 | Minecraft Dungeons II | +1.69 | 40 | 5,871 | -7% | -14% | 97 | -3% | 0.5621 | IGNITION:xop0,yetr |
+| 1 | AION 2 | +7.53 | 3 | 176,420 | +1480% | +112% | 94 | +96% | 0.0891 |  |
+| 2 | Rainbow Six Siege | +6.83 | 16 | 35,303 | +2067% | +46% | 98 | -2% | 0.5298 |  |
+| 3 | Rocket League | +6.69 | 17 | 33,337 | +1355% | +120% | 96 | -2% | 0.6991 |  |
+| 4 | Valheim | +5.83 | 21 | 23,648 | +324% | +64% | 100 | +0% | 0.3166 | IGNITION:quin69,barbarousking |
+| 5 | Grand Theft Auto V | +5.38 | 4 | 135,530 | +819% | +73% | 100 | +8% | 0.1967 |  |
+| 6 | Project Zomboid | +5.33 | 48 | 8,652 | +37% | +110% | 100 | +3% | 0.3383 | IGNITION:edopeh,carola |
+| 7 | Arena Breakout: Infinite | +5.28 | 41 | 10,897 | +371% | +69% | 98 | -1% | 0.1475 | IGNITION:lvndmark |
+| 8 | NBA 2K27 | +5.18 | 46 | 8,662 | +159% | +103% | 97 | +2% | 0.5098 | IGNITION:flight23white |
+| 9 | Transport Fever 3 | +5.16 | 81 | 5,056 | +326% | +9% | 78 | +81% | 0.3985 | IGNITION:staiy |
+| 10 | Heroes of Might and Magic III: The Restoration of Erathia | +5.16 | 54 | 7,640 | +338% | +6% | 50 | +85% | 0.5768 | IGNITION:heroes_hub |
+| 11 | Heroes of the Storm | +4.73 | 57 | 7,447 | +362% | -33% | 97 | +213% | 0.6201 | IGNITION:grubby |
+| 12 | Apex Legends | +4.61 | 28 | 15,270 | +103% | +113% | 100 | +0% | 0.3043 | IGNITION:imperialhal__,faide |
+| 13 | Machine Party | +4.25 | 50 | 8,777 | - | - | 10 | - | 0.7021 | ENTRY IGNITION:flareycs,deme |
+| 14 | Big Walk | +4.25 | 59 | 7,348 | - | - | 61 | - | 0.4028 | ENTRY IGNITION:kspksp,yuzumi_neon |
+| 15 | STAR WARS: Galactic Racer | +4.25 | 32 | 16,835 | - | - | 11 | - | 0.6646 | ENTRY IGNITION:lirik,xop0 |
 
 ## Ignition alerts
 
@@ -30,30 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Project P.I.T.T. | ironmouse | 19,982 | 9,360 | 100% | 22 |
-| Antivirus Survivors 2003 Professional | sasatikk | 22,217 | 7,003 | 100% | 34 |
-| Japanese Ramen Simulator | sumomo_x | 9,547 | 4,440 | 100% | 48 |
-| Tibia | japabigodin | 3,898 | 3,898 | 53% | 28 |
-| Minecraft Dungeons II | xop0 | 4,232 | 3,300 | 56% | 40 |
-| Stay Out of the House | dansgaming | 7,837 | 3,286 | 100% | 56 |
-| Railroad Tycoon II | maxim | 3,392 | 2,865 | 100% | 57 |
-| Medieval Dynasty | gronkhtv | 4,125 | 1,706 | 98% | 86 |
-| Dynasty Warriors 3: Complete Edition Remastered | blusewilly_retry | 3,983 | 933 | 67% | 100 |
+| Dirty Business | trymacs | 25,296 | 15,748 | 86% | 30 |
+| Garry's Mod | youngmulti | 13,489 | 13,489 | 52% | 23 |
+| STAR WARS: Galactic Racer | lirik | 17,931 | 11,189 | 66% | 32 |
+| Teach My Little Sister How to Drive | mastu | 239,077 | 9,773 | 99% | 45 |
+| First Class Trouble | domingo | 274,199 | 8,527 | 81% | 43 |
+| Machine Party | flareycs | 6,162 | 6,162 | 70% | 50 |
+| Watch Your Plastic Duck | ironmouse | 19,982 | 6,070 | 94% | 67 |
+| Monsters & Memories | cohhcarnage | 15,088 | 5,504 | 84% | 65 |
+| Heroes of the Storm | grubby | 9,492 | 4,618 | 62% | 57 |
+| NBA 2K27 | flight23white | 6,767 | 4,416 | 51% | 46 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 0.247 | Overwatch | 20,871 | 84,601 |
-| 0.199 | Grand Theft Auto V | 14,746 | 74,192 |
-| 0.162 | EA Sports FC 27 | 15,636 | 96,232 |
-| 0.132 | Dead by Daylight | 8,173 | 62,103 |
-| 0.091 | Marvel Rivals | 7,086 | 78,270 |
-| 0.025 | Valheim | 5,580 | 224,091 |
-| 0.025 | VRChat | 1,507 | 61,352 |
-| 0.023 | Rust | 3,371 | 149,781 |
-| 0.017 | Rainbow Six Siege | 1,629 | 96,161 |
-| 0.005 | PUBG: BATTLEGROUNDS | 3,188 | 637,522 |
+| 1.827 | Grand Theft Auto V | 135,530 | 74,192 |
+| 1.155 | AION 2 | 176,420 | 152,740 |
+| 1.021 | Rocket League | 33,337 | 32,649 |
+| 0.986 | EA Sports FC 27 | 94,877 | 96,232 |
+| 0.689 | Garry's Mod | 25,890 | 37,603 |
+| 0.055 | Dota 2 | 48,880 | 895,069 |
+| 0.051 | Warframe | 4,032 | 79,027 |
+| 0.051 | Total War: WARHAMMER III | 4,296 | 84,700 |
+| 0.036 | Aniimo | 3,978 | 109,595 |
+| 0.017 | PUBG: BATTLEGROUNDS | 11,032 | 637,522 |
 
 ---
 
