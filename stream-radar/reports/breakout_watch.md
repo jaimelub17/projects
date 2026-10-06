@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-10-06T08` (UTC). History: 165 snapshots spanning 843h.
-Reference windows: short = `2026-10-06T01`, day = `2026-10-05T09`.
+Generated from snapshot `2026-10-06T16` (UTC). History: 166 snapshots spanning 851h.
+Reference windows: short = `2026-10-06T08`, day = `2026-10-05T19`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Backrooms: Escape Together | +4.25 | 32 | 6,549 | - | - | 9 | - | 0.5865 | ENTRY IGNITION:zrush,blusewilly_retry |
-| 2 | Teamfight Tactics | +3.51 | 21 | 10,321 | +119% | +44% | 100 | +5% | 0.2047 | IGNITION:greentea |
-| 3 | World of Tanks | +3.47 | 40 | 4,715 | +69% | -16% | 97 | +47% | 0.2068 | IGNITION:dakillzor,dezgamez |
-| 4 | PUBG: BATTLEGROUNDS | +3.44 | 35 | 5,772 | +136% | +81% | 98 | +2% | 0.3732 | IGNITION:sumomo_x |
-| 5 | Ultra Street Fighter IV | +3.25 | 38 | 4,852 | - | - | 7 | - | 0.9757 | ENTRY IGNITION:maximilian_dood |
-| 6 | STAR WARS: Galactic Racer | +3.25 | 28 | 4,186 | - | - | 30 | - | 0.5296 | ENTRY IGNITION:sasatikk |
-| 7 | Sort Them Ducks | +3.25 | 52 | 3,262 | - | - | 2 | - | 0.9963 | ENTRY IGNITION:maxim |
-| 8 | Mimic Party | +3.25 | 51 | 3,252 | - | - | 7 | - | 0.4686 | ENTRY IGNITION:mimiluckying |
-| 9 | AION 2 | +3.19 | 2 | 90,946 | -23% | +714% | 99 | +0% | 0.2167 |  |
-| 10 | Arena Breakout: Infinite | +2.75 | 36 | 5,630 | +70% | +143% | 97 | +0% | 0.3435 |  |
-| 11 | RESIDENT EVIL 7 biohazard | +2.25 | 82 | 1,753 | - | - | 22 | - | 0.9663 | ENTRY |
-| 12 | Cult of the Lamb | +2.25 | 61 | 2,556 | - | - | 10 | - | 0.9757 | ENTRY |
-| 13 | Fire Emblem: Fortune's Weave | +2.25 | 75 | 1,970 | - | - | 92 | - | 0.6472 | ENTRY |
-| 14 | Super Smash Bros. Ultimate | +2.25 | 68 | 2,382 | - | - | 19 | - | 0.8589 | ENTRY |
-| 15 | Core Keeper | +2.25 | 20 | 10,533 | - | - | 18 | - | 0.9486 | ENTRY |
+| 1 | STAR WARS: Galactic Racer | +10.69 | 10 | 56,510 | +1250% | +236% | 97 | +223% | 0.1985 |  |
+| 2 | Hearthstone | +8.75 | 21 | 27,730 | +306% | +355% | 99 | +38% | 0.2273 | IGNITION:playhearthstone,guddummit |
+| 3 | Z1: Battle Royale | +7.71 | 40 | 9,874 | +304% | +134% | 100 | +79% | 0.2692 | IGNITION:chowh1 |
+| 4 | ARC Raiders | +6.69 | 23 | 23,961 | +331% | +168% | 100 | +2% | 0.3763 | IGNITION:nickmercs,hutchmf |
+| 5 | PUBG: BATTLEGROUNDS | +6.38 | 22 | 24,433 | +323% | +121% | 100 | +2% | 0.2046 | IGNITION:hiiragitsurugi,cr_vanilla |
+| 6 | Rainbow Six Siege | +6.11 | 26 | 19,779 | +1200% | -44% | 98 | +4% | 0.6034 | IGNITION:rainbow6,mingo |
+| 7 | Gears of War: E-Day | +5.73 | 27 | 15,497 | +275% | +531% | 98 | +0% | 0.1109 | IGNITION:littlebigwhale |
+| 8 | World of Tanks | +5.64 | 14 | 40,269 | +754% | +121% | 96 | -1% | 0.5063 |  |
+| 9 | SILENT HILL: townfall | +5.43 | 41 | 9,287 | +267% | +41% | 100 | +0% | 0.3381 | IGNITION:shxtou,lazvell |
+| 10 | Albion Online | +5.36 | 53 | 6,783 | +234% | +15% | 94 | +109% | 0.1928 | IGNITION:w0n23 |
+| 11 | Conan Exiles | +5.16 | 36 | 10,863 | +150% | +21% | 42 | +147% | 0.2365 | IGNITION:guanweiboy |
+| 12 | Dofus | +4.92 | 97 | 3,353 | +38% | - | 68 | +656% | 0.2449 | BREADTH ENTRY |
+| 13 | Jinro Metropolis | +4.42 | 74 | 4,814 | - | +21% | 10 | - | 0.861 | ENTRY IGNITION:xhalli4x |
+| 14 | Galumb | +4.25 | 46 | 8,337 | - | - | 7 | - | 0.332 | ENTRY IGNITION:godjj,yuzumi_neon |
+| 15 | Minecraft | +4.14 | 4 | 118,413 | +186% | +421% | 97 | -2% | 0.3347 |  |
 
 ## Ignition alerts
 
@@ -30,29 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Tibia | japabigodin | 5,165 | 5,165 | 64% | 25 |
-| Ultra Street Fighter IV | maximilian_dood | 9,734 | 4,734 | 98% | 38 |
-| Backrooms: Escape Together | zrush | 5,666 | 3,841 | 59% | 32 |
-| Sort Them Ducks | maxim | 3,392 | 3,250 | 100% | 52 |
-| The Evil Within | dansgaming | 7,837 | 2,809 | 94% | 55 |
-| STAR WARS: Galactic Racer | sasatikk | 22,217 | 2,217 | 53% | 28 |
-| Z1: Battle Royale | chowh1 | 6,559 | 1,445 | 59% | 64 |
-| Minecraft Dungeons II | yetr | 4,217 | 1,218 | 53% | 69 |
+| Dub Together | sasavot | 19,087 | 15,141 | 88% | 30 |
+| Rainbow Six Siege | rainbow6 | 22,272 | 11,935 | 60% | 26 |
+| Batomon Showdown | northernlion | 14,748 | 9,942 | 98% | 38 |
+| Call of Cthulhu | dansgaming | 7,837 | 6,083 | 100% | 60 |
+| Five Hearts Under One Roof 2 | sam1268 | 10,784 | 5,113 | 100% | 73 |
+| Jinro Metropolis | xhalli4x | 5,302 | 4,145 | 86% | 74 |
+| Five Nights at Freddy's 2 | agustin51 | 29,958 | 3,551 | 100% | 92 |
+| Geometry Dash | etoiles | 17,184 | 3,271 | 83% | 82 |
+| Obey the Voice | rickyedit | 3,225 | 3,225 | 99% | 100 |
+| The Isle | gssspotted | 4,366 | 3,118 | 52% | 61 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 0.229 | AION 2 | 90,946 | 397,905 |
-| 0.221 | Overwatch | 15,905 | 71,940 |
-| 0.198 | Grand Theft Auto V | 12,729 | 64,385 |
-| 0.165 | EA Sports FC 27 | 13,922 | 84,607 |
-| 0.144 | Arena Breakout: Infinite | 5,630 | 39,212 |
-| 0.024 | Counter-Strike | 27,626 | 1,140,811 |
-| 0.023 | Rust | 2,977 | 131,440 |
-| 0.019 | Rainbow Six Siege | 1,521 | 78,141 |
-| 0.019 | Delta Force | 2,389 | 125,815 |
-| 0.009 | PUBG: BATTLEGROUNDS | 5,772 | 612,531 |
+| 0.967 | Grand Theft Auto V | 62,240 | 64,385 |
+| 0.582 | ARC Raiders | 23,961 | 41,143 |
+| 0.564 | EA Sports FC 27 | 47,706 | 84,607 |
+| 0.439 | Dead by Daylight | 23,400 | 53,344 |
+| 0.38 | Overwatch | 27,336 | 71,940 |
+| 0.059 | Project Zomboid | 3,628 | 62,001 |
+| 0.052 | Total War: WARHAMMER III | 3,329 | 63,505 |
+| 0.047 | Aniimo | 4,116 | 86,729 |
+| 0.04 | PUBG: BATTLEGROUNDS | 24,433 | 612,531 |
+| 0.033 | Delta Force | 4,090 | 125,815 |
 
 ---
 
