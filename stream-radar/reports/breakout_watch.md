@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-10-05T19` (UTC). History: 163 snapshots spanning 830h.
-Reference windows: short = `2026-10-05T09`, day = `2026-10-04T18`.
+Generated from snapshot `2026-10-06T01` (UTC). History: 164 snapshots spanning 836h.
+Reference windows: short = `2026-10-05T19`, day = `2026-10-05T00`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | AION 2 | +7.53 | 3 | 176,420 | +1480% | +112% | 94 | +96% | 0.0891 |  |
-| 2 | Rainbow Six Siege | +6.83 | 16 | 35,303 | +2067% | +46% | 98 | -2% | 0.5298 |  |
-| 3 | Rocket League | +6.69 | 17 | 33,337 | +1355% | +120% | 96 | -2% | 0.6991 |  |
-| 4 | Valheim | +5.83 | 21 | 23,648 | +324% | +64% | 100 | +0% | 0.3166 | IGNITION:quin69,barbarousking |
-| 5 | Grand Theft Auto V | +5.38 | 4 | 135,530 | +819% | +73% | 100 | +8% | 0.1967 |  |
-| 6 | Project Zomboid | +5.33 | 48 | 8,652 | +37% | +110% | 100 | +3% | 0.3383 | IGNITION:edopeh,carola |
-| 7 | Arena Breakout: Infinite | +5.28 | 41 | 10,897 | +371% | +69% | 98 | -1% | 0.1475 | IGNITION:lvndmark |
-| 8 | NBA 2K27 | +5.18 | 46 | 8,662 | +159% | +103% | 97 | +2% | 0.5098 | IGNITION:flight23white |
-| 9 | Transport Fever 3 | +5.16 | 81 | 5,056 | +326% | +9% | 78 | +81% | 0.3985 | IGNITION:staiy |
-| 10 | Heroes of Might and Magic III: The Restoration of Erathia | +5.16 | 54 | 7,640 | +338% | +6% | 50 | +85% | 0.5768 | IGNITION:heroes_hub |
-| 11 | Heroes of the Storm | +4.73 | 57 | 7,447 | +362% | -33% | 97 | +213% | 0.6201 | IGNITION:grubby |
-| 12 | Apex Legends | +4.61 | 28 | 15,270 | +103% | +113% | 100 | +0% | 0.3043 | IGNITION:imperialhal__,faide |
-| 13 | Machine Party | +4.25 | 50 | 8,777 | - | - | 10 | - | 0.7021 | ENTRY IGNITION:flareycs,deme |
-| 14 | Big Walk | +4.25 | 59 | 7,348 | - | - | 61 | - | 0.4028 | ENTRY IGNITION:kspksp,yuzumi_neon |
-| 15 | STAR WARS: Galactic Racer | +4.25 | 32 | 16,835 | - | - | 11 | - | 0.6646 | ENTRY IGNITION:lirik,xop0 |
+| 1 | Gears of War: E-Day | +7.75 | 10 | 34,832 | +1318% | +381% | 96 | -1% | 0.8523 |  |
+| 2 | Minecraft | +6.54 | 3 | 148,254 | +552% | +820% | 100 | +5% | 0.343 |  |
+| 3 | The Witcher 3: Wild Hunt | +4.30 | 43 | 5,480 | - | - | 98 | - | 0.3546 | ENTRY IGNITION:dizzykitten,dropsbadge |
+| 4 | Halloween: The Game | +3.98 | 53 | 4,573 | - | +116% | 100 | - | 0.4511 | ENTRY |
+| 5 | The Sims 4 | +3.27 | 48 | 5,404 | - | - | 92 | - | 0.785 | ENTRY IGNITION:essemelle |
+| 6 | Terraria | +3.27 | 96 | 2,359 | - | - | 78 | - | 0.8198 | ENTRY IGNITION:rainhoe |
+| 7 | HER TREES : PUZZLE DREAM | +3.25 | 34 | 8,738 | - | - | 2 | - | 0.9999 | ENTRY IGNITION:rivers_gg |
+| 8 | Predecessor | +3.25 | 63 | 4,343 | - | - | 62 | - | 0.912 | ENTRY IGNITION:thebesttaco |
+| 9 | The Evil Within | +3.25 | 72 | 3,393 | - | - | 21 | - | 0.9726 | ENTRY IGNITION:dansgaming |
+| 10 | Mario's Balls | +3.25 | 39 | 7,142 | - | - | 1 | - | 1.0 | ENTRY IGNITION:vinesauce |
+| 11 | The Legend of Zelda: Ocarina of Time | +3.25 | 61 | 4,370 | - | - | 97 | - | 0.6018 | ENTRY IGNITION:barbarousking |
+| 12 | Minecraft Dungeons II | +2.98 | 38 | 7,054 | +2% | +12% | 100 | +3% | 0.5525 | BREADTH IGNITION:xop0,yetr |
+| 13 | ACE COMBAT 8: WINGS OF THEVE | +2.68 | 74 | 2,943 | - | +33% | 99 | - | 0.2695 | ENTRY |
+| 14 | Z1: Battle Royale | +2.61 | 58 | 4,649 | +10% | +20% | 93 | -7% | 0.3855 | IGNITION:zoomaa,twincytv |
+| 15 | Diablo IV | +2.56 | 94 | 2,351 | - | -3% | 98 | - | 0.3126 | ENTRY IGNITION:rob2628 |
 
 ## Ignition alerts
 
@@ -30,31 +30,30 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Dirty Business | trymacs | 25,296 | 15,748 | 86% | 30 |
-| Garry's Mod | youngmulti | 13,489 | 13,489 | 52% | 23 |
-| STAR WARS: Galactic Racer | lirik | 17,931 | 11,189 | 66% | 32 |
-| Teach My Little Sister How to Drive | mastu | 239,077 | 9,773 | 99% | 45 |
-| First Class Trouble | domingo | 274,199 | 8,527 | 81% | 43 |
-| Machine Party | flareycs | 6,162 | 6,162 | 70% | 50 |
-| Watch Your Plastic Duck | ironmouse | 19,982 | 6,070 | 94% | 67 |
-| Monsters & Memories | cohhcarnage | 15,088 | 5,504 | 84% | 65 |
-| Heroes of the Storm | grubby | 9,492 | 4,618 | 62% | 57 |
-| NBA 2K27 | flight23white | 6,767 | 4,416 | 51% | 46 |
+| HER TREES : PUZZLE DREAM | rivers_gg | 10,555 | 8,737 | 100% | 34 |
+| Mario's Balls | vinesauce | 10,423 | 7,142 | 100% | 39 |
+| The Sims 4 | essemelle | 4,242 | 4,242 | 78% | 48 |
+| Predecessor | thebesttaco | 3,961 | 3,961 | 91% | 63 |
+| Minecraft Dungeons II | xop0 | 4,232 | 3,897 | 55% | 38 |
+| The Evil Within | dansgaming | 7,837 | 3,300 | 97% | 72 |
+| The Legend of Zelda: Ocarina of Time | barbarousking | 4,665 | 2,630 | 60% | 61 |
+| Geometry Dash | etoiles | 17,184 | 2,531 | 75% | 64 |
+| Terraria | rainhoe | 3,974 | 1,934 | 82% | 96 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 1.827 | Grand Theft Auto V | 135,530 | 74,192 |
-| 1.155 | AION 2 | 176,420 | 152,740 |
-| 1.021 | Rocket League | 33,337 | 32,649 |
-| 0.986 | EA Sports FC 27 | 94,877 | 96,232 |
-| 0.689 | Garry's Mod | 25,890 | 37,603 |
-| 0.055 | Dota 2 | 48,880 | 895,069 |
-| 0.051 | Warframe | 4,032 | 79,027 |
-| 0.051 | Total War: WARHAMMER III | 4,296 | 84,700 |
-| 0.036 | Aniimo | 3,978 | 109,595 |
-| 0.017 | PUBG: BATTLEGROUNDS | 11,032 | 637,522 |
+| 1.963 | Grand Theft Auto V | 145,626 | 74,192 |
+| 0.777 | AION 2 | 118,706 | 152,740 |
+| 0.269 | EA Sports FC 27 | 25,931 | 96,232 |
+| 0.234 | Dead by Daylight | 14,517 | 62,103 |
+| 0.227 | Rocket League | 7,417 | 32,649 |
+| 0.031 | Valheim | 7,045 | 224,091 |
+| 0.028 | Counter-Strike | 35,759 | 1,293,425 |
+| 0.022 | Dota 2 | 19,778 | 895,069 |
+| 0.02 | Delta Force | 2,527 | 129,275 |
+| 0.004 | PUBG: BATTLEGROUNDS | 2,444 | 637,522 |
 
 ---
 
