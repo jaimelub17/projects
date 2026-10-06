@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-10-06T16` (UTC). History: 166 snapshots spanning 851h.
-Reference windows: short = `2026-10-06T08`, day = `2026-10-05T19`.
+Generated from snapshot `2026-10-06T22` (UTC). History: 167 snapshots spanning 857h.
+Reference windows: short = `2026-10-06T16`, day = `2026-10-05T19`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | STAR WARS: Galactic Racer | +10.69 | 10 | 56,510 | +1250% | +236% | 97 | +223% | 0.1985 |  |
-| 2 | Hearthstone | +8.75 | 21 | 27,730 | +306% | +355% | 99 | +38% | 0.2273 | IGNITION:playhearthstone,guddummit |
-| 3 | Z1: Battle Royale | +7.71 | 40 | 9,874 | +304% | +134% | 100 | +79% | 0.2692 | IGNITION:chowh1 |
-| 4 | ARC Raiders | +6.69 | 23 | 23,961 | +331% | +168% | 100 | +2% | 0.3763 | IGNITION:nickmercs,hutchmf |
-| 5 | PUBG: BATTLEGROUNDS | +6.38 | 22 | 24,433 | +323% | +121% | 100 | +2% | 0.2046 | IGNITION:hiiragitsurugi,cr_vanilla |
-| 6 | Rainbow Six Siege | +6.11 | 26 | 19,779 | +1200% | -44% | 98 | +4% | 0.6034 | IGNITION:rainbow6,mingo |
-| 7 | Gears of War: E-Day | +5.73 | 27 | 15,497 | +275% | +531% | 98 | +0% | 0.1109 | IGNITION:littlebigwhale |
-| 8 | World of Tanks | +5.64 | 14 | 40,269 | +754% | +121% | 96 | -1% | 0.5063 |  |
-| 9 | SILENT HILL: townfall | +5.43 | 41 | 9,287 | +267% | +41% | 100 | +0% | 0.3381 | IGNITION:shxtou,lazvell |
-| 10 | Albion Online | +5.36 | 53 | 6,783 | +234% | +15% | 94 | +109% | 0.1928 | IGNITION:w0n23 |
-| 11 | Conan Exiles | +5.16 | 36 | 10,863 | +150% | +21% | 42 | +147% | 0.2365 | IGNITION:guanweiboy |
-| 12 | Dofus | +4.92 | 97 | 3,353 | +38% | - | 68 | +656% | 0.2449 | BREADTH ENTRY |
-| 13 | Jinro Metropolis | +4.42 | 74 | 4,814 | - | +21% | 10 | - | 0.861 | ENTRY IGNITION:xhalli4x |
-| 14 | Galumb | +4.25 | 46 | 8,337 | - | - | 7 | - | 0.332 | ENTRY IGNITION:godjj,yuzumi_neon |
-| 15 | Minecraft | +4.14 | 4 | 118,413 | +186% | +421% | 97 | -2% | 0.3347 |  |
+| 1 | Marathon | +5.85 | 36 | 9,519 | +141% | - | 99 | +241% | 0.7408 | BREADTH ENTRY IGNITION:aztecross |
+| 2 | MapleStory | +4.25 | 22 | 19,486 | - | - | 100 | - | 0.1831 | ENTRY IGNITION:ereklo_game,kaise |
+| 3 | R.E.P.O. | +4.12 | 74 | 4,572 | - | - | 94 | - | 0.4941 | ENTRY IGNITION:fuslie,kkatamina |
+| 4 | SILENT HILL: townfall | +3.97 | 27 | 15,741 | +69% | +138% | 100 | +0% | 0.2352 | IGNITION:marcomerrino |
+| 5 | STAR WARS: Galactic Racer | +3.67 | 9 | 54,383 | -4% | +223% | 98 | +1% | 0.296 |  |
+| 6 | Call of Duty: Modern Warfare III | +3.25 | 77 | 4,419 | - | - | 96 | - | 0.926 | ENTRY IGNITION:jaydubskie |
+| 7 | TCG Card Shop Simulator | +3.25 | 92 | 3,129 | - | - | 57 | - | 0.8242 | ENTRY IGNITION:penta |
+| 8 | Car Park Capital | +3.25 | 35 | 10,273 | - | - | 3 | - | 0.981 | ENTRY IGNITION:alanzoka |
+| 9 | The Evil Within 2 | +3.25 | 80 | 4,070 | - | - | 7 | - | 0.9897 | ENTRY IGNITION:dansgaming |
+| 10 | Photomaly | +3.25 | 75 | 4,571 | - | - | 2 | - | 0.9991 | ENTRY IGNITION:h2p_gucio |
+| 11 | Yu-Gi-Oh! Master Duel | +3.23 | 68 | 4,859 | - | - | 75 | - | 0.7314 | ENTRY IGNITION:dkayed |
+| 12 | Destiny 2 | +3.21 | 86 | 3,345 | - | - | 99 | - | 0.3994 | ENTRY IGNITION:gronkhtv |
+| 13 | VRChat | +2.96 | 66 | 4,812 | - | +19% | 99 | - | 0.1623 | ENTRY |
+| 14 | Grand Theft Auto V | +2.55 | 2 | 189,560 | +205% | +40% | 99 | -1% | 0.1384 |  |
+| 15 | Minecraft | +2.53 | 4 | 138,319 | +17% | +509% | 97 | +0% | 0.3402 |  |
 
 ## Ignition alerts
 
@@ -30,31 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Dub Together | sasavot | 19,087 | 15,141 | 88% | 30 |
-| Rainbow Six Siege | rainbow6 | 22,272 | 11,935 | 60% | 26 |
-| Batomon Showdown | northernlion | 14,748 | 9,942 | 98% | 38 |
-| Call of Cthulhu | dansgaming | 7,837 | 6,083 | 100% | 60 |
-| Five Hearts Under One Roof 2 | sam1268 | 10,784 | 5,113 | 100% | 73 |
-| Jinro Metropolis | xhalli4x | 5,302 | 4,145 | 86% | 74 |
-| Five Nights at Freddy's 2 | agustin51 | 29,958 | 3,551 | 100% | 92 |
-| Geometry Dash | etoiles | 17,184 | 3,271 | 83% | 82 |
-| Obey the Voice | rickyedit | 3,225 | 3,225 | 99% | 100 |
-| The Isle | gssspotted | 4,366 | 3,118 | 52% | 61 |
+| Car Park Capital | alanzoka | 16,698 | 10,078 | 98% | 35 |
+| Marathon | aztecross | 7,052 | 7,052 | 74% | 36 |
+| Watch Your Plastic Duck | ironmouse | 19,982 | 5,188 | 98% | 57 |
+| World of Tanks | dakillzor | 15,951 | 4,973 | 60% | 39 |
+| Photomaly | h2p_gucio | 8,384 | 4,567 | 100% | 75 |
+| Call of Duty: Modern Warfare III | jaydubskie | 4,092 | 4,092 | 93% | 77 |
+| The Evil Within 2 | dansgaming | 7,837 | 4,028 | 99% | 80 |
+| Minecraft Dungeons II | xop0 | 4,232 | 3,972 | 77% | 59 |
+| Heroes of the Storm | grubby | 9,492 | 3,822 | 82% | 73 |
+| Rocket League | kaydop | 4,488 | 3,740 | 53% | 38 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 0.967 | Grand Theft Auto V | 62,240 | 64,385 |
-| 0.582 | ARC Raiders | 23,961 | 41,143 |
-| 0.564 | EA Sports FC 27 | 47,706 | 84,607 |
-| 0.439 | Dead by Daylight | 23,400 | 53,344 |
-| 0.38 | Overwatch | 27,336 | 71,940 |
-| 0.059 | Project Zomboid | 3,628 | 62,001 |
-| 0.052 | Total War: WARHAMMER III | 3,329 | 63,505 |
-| 0.047 | Aniimo | 4,116 | 86,729 |
-| 0.04 | PUBG: BATTLEGROUNDS | 24,433 | 612,531 |
-| 0.033 | Delta Force | 4,090 | 125,815 |
+| 2.944 | Grand Theft Auto V | 189,560 | 64,385 |
+| 0.71 | Overwatch | 51,046 | 71,940 |
+| 0.482 | ARC Raiders | 19,814 | 41,143 |
+| 0.358 | EA Sports FC 27 | 30,307 | 84,607 |
+| 0.296 | Dead by Daylight | 15,781 | 53,344 |
+| 0.04 | Aniimo | 3,496 | 86,729 |
+| 0.038 | Rust | 4,967 | 131,440 |
+| 0.029 | Warframe | 2,010 | 68,677 |
+| 0.023 | Delta Force | 2,940 | 125,815 |
+| 0.007 | PUBG: BATTLEGROUNDS | 4,281 | 612,531 |
 
 ---
 
