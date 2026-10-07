@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-10-06T22` (UTC). History: 167 snapshots spanning 857h.
-Reference windows: short = `2026-10-06T16`, day = `2026-10-05T19`.
+Generated from snapshot `2026-10-07T05` (UTC). History: 168 snapshots spanning 864h.
+Reference windows: short = `2026-10-06T22`, day = `2026-10-06T08`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Marathon | +5.85 | 36 | 9,519 | +141% | - | 99 | +241% | 0.7408 | BREADTH ENTRY IGNITION:aztecross |
-| 2 | MapleStory | +4.25 | 22 | 19,486 | - | - | 100 | - | 0.1831 | ENTRY IGNITION:ereklo_game,kaise |
-| 3 | R.E.P.O. | +4.12 | 74 | 4,572 | - | - | 94 | - | 0.4941 | ENTRY IGNITION:fuslie,kkatamina |
-| 4 | SILENT HILL: townfall | +3.97 | 27 | 15,741 | +69% | +138% | 100 | +0% | 0.2352 | IGNITION:marcomerrino |
-| 5 | STAR WARS: Galactic Racer | +3.67 | 9 | 54,383 | -4% | +223% | 98 | +1% | 0.296 |  |
-| 6 | Call of Duty: Modern Warfare III | +3.25 | 77 | 4,419 | - | - | 96 | - | 0.926 | ENTRY IGNITION:jaydubskie |
-| 7 | TCG Card Shop Simulator | +3.25 | 92 | 3,129 | - | - | 57 | - | 0.8242 | ENTRY IGNITION:penta |
-| 8 | Car Park Capital | +3.25 | 35 | 10,273 | - | - | 3 | - | 0.981 | ENTRY IGNITION:alanzoka |
-| 9 | The Evil Within 2 | +3.25 | 80 | 4,070 | - | - | 7 | - | 0.9897 | ENTRY IGNITION:dansgaming |
-| 10 | Photomaly | +3.25 | 75 | 4,571 | - | - | 2 | - | 0.9991 | ENTRY IGNITION:h2p_gucio |
-| 11 | Yu-Gi-Oh! Master Duel | +3.23 | 68 | 4,859 | - | - | 75 | - | 0.7314 | ENTRY IGNITION:dkayed |
-| 12 | Destiny 2 | +3.21 | 86 | 3,345 | - | - | 99 | - | 0.3994 | ENTRY IGNITION:gronkhtv |
-| 13 | VRChat | +2.96 | 66 | 4,812 | - | +19% | 99 | - | 0.1623 | ENTRY |
-| 14 | Grand Theft Auto V | +2.55 | 2 | 189,560 | +205% | +40% | 99 | -1% | 0.1384 |  |
-| 15 | Minecraft | +2.53 | 4 | 138,319 | +17% | +509% | 97 | +0% | 0.3402 |  |
+| 1 | ROBLOX | +9.04 | 15 | 14,377 | +406% | +1475% | 97 | +3% | 0.8019 |  |
+| 2 | ARC Raiders | +4.59 | 6 | 41,271 | +108% | +642% | 97 | +0% | 0.8851 |  |
+| 3 | PUBG: BATTLEGROUNDS | +3.91 | 19 | 14,070 | +229% | +144% | 99 | -1% | 0.8925 |  |
+| 4 | The Outlast Trials | +3.28 | 81 | 1,801 | - | - | 100 | - | 0.5791 | ENTRY IGNITION:paroniie |
+| 5 | Fallout 3 | +3.25 | 65 | 2,558 | - | - | 11 | - | 0.9863 | ENTRY IGNITION:vargskelethor |
+| 6 | Diablo II: Resurrected | +3.25 | 93 | 1,587 | - | - | 23 | - | 0.7013 | ENTRY IGNITION:avoidingthepuddle |
+| 7 | Minecraft Dungeons II | +3.18 | 41 | 5,203 | +1% | +127% | 95 | -3% | 0.7999 | IGNITION:xop0 |
+| 8 | Red Dead Redemption II | +2.75 | 42 | 4,980 | +69% | +105% | 98 | -1% | 0.3321 |  |
+| 9 | Marbles on Stream | +2.59 | 80 | 1,918 | - | +35% | 77 | - | 0.1569 | ENTRY |
+| 10 | Conan Exiles | +2.49 | 39 | 5,468 | +35% | +26% | 25 | +9% | 0.3378 | IGNITION:liang_0714 |
+| 11 | EA Sports FC 26 | +2.32 | 82 | 1,772 | - | +20% | 92 | - | 0.4808 | ENTRY |
+| 12 | DARK SOULS III | +2.25 | 74 | 2,102 | - | - | 41 | - | 0.4462 | ENTRY |
+| 13 | FINAL FANTASY VII | +2.25 | 85 | 1,758 | - | - | 16 | - | 0.8931 | ENTRY |
+| 14 | Super Mario Maker 2 | +2.25 | 92 | 1,604 | - | - | 11 | - | 0.8173 | ENTRY |
+| 15 | NBA 2K17 | +2.25 | 70 | 2,289 | - | - | 33 | - | 0.5797 | ENTRY |
 
 ## Ignition alerts
 
@@ -30,31 +30,27 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Car Park Capital | alanzoka | 16,698 | 10,078 | 98% | 35 |
-| Marathon | aztecross | 7,052 | 7,052 | 74% | 36 |
-| Watch Your Plastic Duck | ironmouse | 19,982 | 5,188 | 98% | 57 |
-| World of Tanks | dakillzor | 15,951 | 4,973 | 60% | 39 |
-| Photomaly | h2p_gucio | 8,384 | 4,567 | 100% | 75 |
-| Call of Duty: Modern Warfare III | jaydubskie | 4,092 | 4,092 | 93% | 77 |
-| The Evil Within 2 | dansgaming | 7,837 | 4,028 | 99% | 80 |
-| Minecraft Dungeons II | xop0 | 4,232 | 3,972 | 77% | 59 |
-| Heroes of the Storm | grubby | 9,492 | 3,822 | 82% | 73 |
-| Rocket League | kaydop | 4,488 | 3,740 | 53% | 38 |
+| Minecraft Dungeons II | xop0 | 4,232 | 4,162 | 80% | 41 |
+| Fallout 3 | vargskelethor | 4,765 | 2,523 | 99% | 65 |
+| The Evil Within 2 | dansgaming | 7,837 | 2,343 | 83% | 58 |
+| R.E.P.O. | foolish | 8,420 | 1,924 | 75% | 64 |
+| Diablo II: Resurrected | avoidingthepuddle | 3,313 | 1,113 | 70% | 93 |
+| The Outlast Trials | paroniie | 3,276 | 1,043 | 58% | 81 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 2.944 | Grand Theft Auto V | 189,560 | 64,385 |
-| 0.71 | Overwatch | 51,046 | 71,940 |
-| 0.482 | ARC Raiders | 19,814 | 41,143 |
-| 0.358 | EA Sports FC 27 | 30,307 | 84,607 |
-| 0.296 | Dead by Daylight | 15,781 | 53,344 |
-| 0.04 | Aniimo | 3,496 | 86,729 |
-| 0.038 | Rust | 4,967 | 131,440 |
-| 0.029 | Warframe | 2,010 | 68,677 |
-| 0.023 | Delta Force | 2,940 | 125,815 |
-| 0.007 | PUBG: BATTLEGROUNDS | 4,281 | 612,531 |
+| 1.064 | Grand Theft Auto V | 67,399 | 63,357 |
+| 0.999 | ARC Raiders | 41,271 | 41,309 |
+| 0.369 | Overwatch | 38,219 | 103,659 |
+| 0.283 | Escape from Tarkov | 11,059 | 39,085 |
+| 0.143 | AION 2 | 54,612 | 383,176 |
+| 0.02 | Valheim | 3,143 | 156,197 |
+| 0.018 | The Outlast Trials | 1,801 | 97,744 |
+| 0.018 | Dota 2 | 14,936 | 836,870 |
+| 0.016 | Delta Force | 2,033 | 127,794 |
+| 0.012 | Counter-Strike | 13,182 | 1,144,557 |
 
 ---
 
