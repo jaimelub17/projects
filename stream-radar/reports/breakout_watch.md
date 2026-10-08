@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-10-08T00` (UTC). History: 171 snapshots spanning 883h.
-Reference windows: short = `2026-10-07T19`, day = `2026-10-06T22`.
+Generated from snapshot `2026-10-08T06` (UTC). History: 172 snapshots spanning 889h.
+Reference windows: short = `2026-10-08T00`, day = `2026-10-07T05`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | ROBLOX | +5.41 | 31 | 8,489 | +218% | +199% | 99 | +0% | 0.6594 | IGNITION:ludwig |
-| 2 | Phasmophobia | +4.05 | 48 | 4,519 | - | +86% | 97 | - | 0.1983 | ENTRY |
-| 3 | SONG OF HORROR | +3.25 | 71 | 3,728 | - | - | 3 | - | 0.9984 | ENTRY IGNITION:dansgaming |
-| 4 | Kerbal Space Program | +3.25 | 57 | 4,605 | - | - | 7 | - | 0.998 | ENTRY IGNITION:dougdoug |
-| 5 | Dark Souls: Remastered | +3.25 | 85 | 3,187 | - | - | 62 | - | 0.5306 | ENTRY IGNITION:lilaggy |
-| 6 | I'm Only Sleeping | +3.21 | 51 | 4,553 | - | -4% | 99 | - | 0.1252 | ENTRY IGNITION:lota |
-| 7 | R.E.P.O. | +3.10 | 59 | 4,373 | - | -4% | 100 | - | 0.6048 | ENTRY IGNITION:foolish |
-| 8 | Minecraft Dungeons II | +3.05 | 46 | 5,479 | - | +6% | 95 | - | 0.791 | ENTRY IGNITION:xop0 |
-| 9 | The Legend of Zelda: Ocarina of Time | +2.54 | 81 | 3,313 | - | -12% | 78 | - | 0.6737 | ENTRY IGNITION:barbarousking |
-| 10 | Street Fighter 6 | +2.27 | 92 | 2,691 | - | - | 93 | - | 0.246 | ENTRY |
-| 11 | Call of Duty: Black Ops 7 | +2.26 | 78 | 2,853 | - | +21% | 100 | - | 0.2198 | ENTRY |
-| 12 | Battlefield 6 | +2.25 | 87 | 2,940 | - | - | 99 | - | 0.1435 | ENTRY |
-| 13 | Lethal Company | +2.25 | 97 | 2,580 | - | - | 57 | - | 0.4016 | ENTRY |
-| 14 | MLB The Show 26 | +2.25 | 83 | 3,394 | - | - | 86 | - | 0.4699 | ENTRY |
-| 15 | Marbles on Stream | +2.25 | 99 | 2,486 | - | - | 92 | - | 0.1215 | ENTRY |
+| 1 | RULE of ROSE | +3.25 | 94 | 1,595 | - | - | 1 | - | 1.0 | ENTRY IGNITION:bawkbasoup |
+| 2 | Greed & Darkness | +3.25 | 74 | 2,102 | - | - | 1 | - | 1.0 | ENTRY IGNITION:maxim |
+| 3 | Stranded With You | +3.25 | 77 | 1,965 | - | - | 1 | - | 1.0 | ENTRY IGNITION:sumomo_x |
+| 4 | RESIDENT EVIL 7 biohazard | +3.25 | 56 | 2,764 | - | - | 43 | - | 0.8582 | ENTRY IGNITION:penta |
+| 5 | Dwarf Eats Mountain | +3.25 | 64 | 2,288 | - | - | 1 | - | 1.0 | ENTRY IGNITION:shinjifromjapanxd |
+| 6 | Delivery | +3.25 | 54 | 2,898 | - | - | 1 | - | 1.0 | ENTRY IGNITION:vargskelethor |
+| 7 | REANIMAL | +3.25 | 61 | 2,534 | - | - | 16 | - | 0.8287 | ENTRY IGNITION:heyyouvideogame |
+| 8 | SILENT HILL: townfall | +2.60 | 35 | 6,794 | +32% | +94% | 92 | -2% | 0.1905 | IGNITION:pattymeza |
+| 9 | Resident Evil 4 | +2.27 | 91 | 1,622 | - | - | 80 | - | 0.2947 | ENTRY |
+| 10 | Super Mario Strikers | +2.25 | 87 | 1,754 | - | - | 2 | - | 0.9977 | ENTRY |
+| 11 | March of Giants | +2.25 | 55 | 2,812 | - | - | 15 | - | 0.532 | ENTRY |
+| 12 | Slay the Spire II | +2.25 | 88 | 1,706 | - | - | 50 | - | 0.3406 | ENTRY |
+| 13 | The Plant Shop | +2.25 | 86 | 1,768 | - | - | 4 | - | 0.9604 | ENTRY |
+| 14 | DARK SOULS II: Scholar of the First Sin | +2.25 | 95 | 1,563 | - | - | 32 | - | 0.3788 | ENTRY |
+| 15 | Look Outside | +2.25 | 85 | 1,778 | - | - | 11 | - | 0.5793 | ENTRY |
 
 ## Ignition alerts
 
@@ -30,31 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| ROBLOX | ludwig | 9,561 | 5,598 | 66% | 31 |
-| Mario Kart World | batora324 | 21,701 | 4,624 | 95% | 53 |
-| Kerbal Space Program | dougdoug | 6,682 | 4,596 | 100% | 57 |
-| Minecraft Dungeons II | xop0 | 4,334 | 4,334 | 79% | 46 |
-| SPAM | crocodyletv | 4,496 | 4,167 | 88% | 55 |
-| Heroes of Might and Magic III: The Restoration of Erathia | voodoosh | 5,278 | 3,794 | 80% | 56 |
-| SONG OF HORROR | dansgaming | 7,837 | 3,722 | 100% | 71 |
-| World of Tanks | dakillzor | 15,951 | 2,654 | 64% | 65 |
-| R.E.P.O. | foolish | 8,420 | 2,645 | 60% | 59 |
-| The Legend of Zelda: Ocarina of Time | barbarousking | 4,665 | 2,232 | 67% | 81 |
+| Mario Kart World | batora324 | 21,701 | 5,979 | 99% | 37 |
+| Delivery | vargskelethor | 4,765 | 2,898 | 100% | 54 |
+| SONG OF HORROR | dansgaming | 7,837 | 2,603 | 100% | 59 |
+| RESIDENT EVIL 7 biohazard | penta | 7,075 | 2,372 | 86% | 56 |
+| Dwarf Eats Mountain | shinjifromjapanxd | 6,318 | 2,288 | 100% | 64 |
+| Greed & Darkness | maxim | 3,392 | 2,102 | 100% | 74 |
+| REANIMAL | heyyouvideogame | 3,190 | 2,100 | 83% | 61 |
+| Stranded With You | sumomo_x | 9,547 | 1,965 | 100% | 77 |
+| World of Tanks | dakillzor | 15,951 | 1,715 | 53% | 49 |
+| RULE of ROSE | bawkbasoup | 3,517 | 1,595 | 100% | 94 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 2.867 | Grand Theft Auto V | 181,636 | 63,357 |
-| 1.04 | ARC Raiders | 42,969 | 41,309 |
-| 0.402 | Overwatch | 41,710 | 103,659 |
-| 0.344 | Rocket League | 10,185 | 29,636 |
-| 0.338 | Phasmophobia | 4,519 | 13,365 |
-| 0.027 | Dota 2 | 22,611 | 836,870 |
-| 0.024 | Counter-Strike | 27,996 | 1,144,557 |
-| 0.022 | Rust | 2,740 | 122,297 |
-| 0.019 | Delta Force | 2,408 | 127,794 |
-| 0.008 | PUBG: BATTLEGROUNDS | 5,148 | 624,992 |
+| 1.039 | Grand Theft Auto V | 73,883 | 71,092 |
+| 0.283 | Overwatch | 26,621 | 93,993 |
+| 0.27 | Escape from Tarkov | 10,463 | 38,687 |
+| 0.185 | Gears of War: E-Day | 5,822 | 31,517 |
+| 0.162 | Marvel Rivals | 11,413 | 70,415 |
+| 0.02 | Slay the Spire II | 1,706 | 86,747 |
+| 0.016 | Delta Force | 2,001 | 128,094 |
+| 0.013 | Dota 2 | 11,673 | 875,240 |
+| 0.013 | Counter-Strike | 16,410 | 1,276,600 |
+| 0.003 | PUBG: BATTLEGROUNDS | 1,810 | 668,378 |
 
 ---
 
