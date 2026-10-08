@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-10-07T19` (UTC). History: 170 snapshots spanning 878h.
-Reference windows: short = `2026-10-07T13`, day = `2026-10-06T16`.
+Generated from snapshot `2026-10-08T00` (UTC). History: 171 snapshots spanning 883h.
+Reference windows: short = `2026-10-07T19`, day = `2026-10-06T22`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Rocket League | +7.18 | 27 | 15,400 | +326% | +228% | 92 | -6% | 0.1582 | IGNITION:francerocketleague,kaydop |
-| 2 | Warhammer 40,000: Space Marine II | +6.27 | 49 | 9,584 | - | +170% | 97 | - | 0.6841 | ENTRY IGNITION:bonjwa,firsttourguardsman |
-| 3 | Z1: Battle Royale | +6.12 | 36 | 13,454 | +445% | +36% | 95 | +22% | 0.5026 | IGNITION:gotaga,itachi |
-| 4 | Heroes of the Storm | +4.67 | 77 | 5,942 | +152% | - | 100 | +104% | 0.6945 | ENTRY IGNITION:grubby |
-| 5 | Minecraft | +4.46 | 3 | 223,495 | +581% | +89% | 96 | -3% | 0.2259 |  |
-| 6 | SPAM | +4.25 | 38 | 13,014 | - | - | 77 | - | 0.3455 | ENTRY IGNITION:crocodyletv,shisheyu |
-| 7 | Super Mario Party Jamboree | +4.25 | 40 | 12,869 | - | - | 9 | - | 0.7947 | ENTRY IGNITION:mastu,hctuan |
-| 8 | Scam With Your Friends | +4.25 | 22 | 22,388 | - | - | 6 | - | 0.3062 | ENTRY IGNITION:xrohat,mertabimula |
-| 9 | Sid Meier's Civilization VI | +4.24 | 51 | 9,088 | - | - | 23 | - | 0.5533 | ENTRY IGNITION:pietsmiet,mauriceweber |
-| 10 | Warframe | +4.22 | 37 | 12,461 | - | - | 98 | - | 0.5756 | ENTRY IGNITION:warframeinternational,brozime |
-| 11 | Marvel Rivals | +3.95 | 28 | 13,985 | +141% | -0% | 100 | +8% | 0.1482 | IGNITION:jay3,bigpuffer |
-| 12 | Virtual Casino | +3.45 | 41 | 11,809 | +78% | +62% | 25 | +79% | 0.1397 | BREADTH |
-| 13 | VRChat | +3.41 | 84 | 4,961 | +66% | - | 92 | +114% | 0.1858 | BREADTH ENTRY |
-| 14 | Valheim | +3.37 | 18 | 26,112 | +305% | +41% | 99 | -1% | 0.282 |  |
-| 15 | Call of Duty: Warzone | +3.30 | 21 | 18,602 | +55% | +16% | 98 | +0% | 0.0847 | IGNITION:enkeo_,repullze |
+| 1 | ROBLOX | +5.41 | 31 | 8,489 | +218% | +199% | 99 | +0% | 0.6594 | IGNITION:ludwig |
+| 2 | Phasmophobia | +4.05 | 48 | 4,519 | - | +86% | 97 | - | 0.1983 | ENTRY |
+| 3 | SONG OF HORROR | +3.25 | 71 | 3,728 | - | - | 3 | - | 0.9984 | ENTRY IGNITION:dansgaming |
+| 4 | Kerbal Space Program | +3.25 | 57 | 4,605 | - | - | 7 | - | 0.998 | ENTRY IGNITION:dougdoug |
+| 5 | Dark Souls: Remastered | +3.25 | 85 | 3,187 | - | - | 62 | - | 0.5306 | ENTRY IGNITION:lilaggy |
+| 6 | I'm Only Sleeping | +3.21 | 51 | 4,553 | - | -4% | 99 | - | 0.1252 | ENTRY IGNITION:lota |
+| 7 | R.E.P.O. | +3.10 | 59 | 4,373 | - | -4% | 100 | - | 0.6048 | ENTRY IGNITION:foolish |
+| 8 | Minecraft Dungeons II | +3.05 | 46 | 5,479 | - | +6% | 95 | - | 0.791 | ENTRY IGNITION:xop0 |
+| 9 | The Legend of Zelda: Ocarina of Time | +2.54 | 81 | 3,313 | - | -12% | 78 | - | 0.6737 | ENTRY IGNITION:barbarousking |
+| 10 | Street Fighter 6 | +2.27 | 92 | 2,691 | - | - | 93 | - | 0.246 | ENTRY |
+| 11 | Call of Duty: Black Ops 7 | +2.26 | 78 | 2,853 | - | +21% | 100 | - | 0.2198 | ENTRY |
+| 12 | Battlefield 6 | +2.25 | 87 | 2,940 | - | - | 99 | - | 0.1435 | ENTRY |
+| 13 | Lethal Company | +2.25 | 97 | 2,580 | - | - | 57 | - | 0.4016 | ENTRY |
+| 14 | MLB The Show 26 | +2.25 | 83 | 3,394 | - | - | 86 | - | 0.4699 | ENTRY |
+| 15 | Marbles on Stream | +2.25 | 99 | 2,486 | - | - | 92 | - | 0.1215 | ENTRY |
 
 ## Ignition alerts
 
@@ -30,31 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Demonologist | zarbex | 28,526 | 12,653 | 92% | 35 |
-| Combolands | northernlion | 14,748 | 11,909 | 100% | 44 |
-| Super Mario Party Jamboree | mastu | 239,077 | 10,227 | 79% | 40 |
-| The Witcher 3: Wild Hunt | elajjaz | 13,191 | 8,094 | 53% | 29 |
-| Road to Empress I | antoinedaniel | 15,073 | 7,582 | 99% | 61 |
-| Warframe | warframeinternational | 7,173 | 7,173 | 58% | 37 |
-| Z1: Battle Royale | gotaga | 14,087 | 6,762 | 50% | 36 |
-| Warhammer 40,000: Space Marine II | bonjwa | 12,174 | 6,556 | 68% | 49 |
-| Super Mario Maker 2 | batora324 | 21,701 | 6,054 | 91% | 67 |
-| End of Abyss | dansgaming | 7,837 | 5,385 | 92% | 73 |
+| ROBLOX | ludwig | 9,561 | 5,598 | 66% | 31 |
+| Mario Kart World | batora324 | 21,701 | 4,624 | 95% | 53 |
+| Kerbal Space Program | dougdoug | 6,682 | 4,596 | 100% | 57 |
+| Minecraft Dungeons II | xop0 | 4,334 | 4,334 | 79% | 46 |
+| SPAM | crocodyletv | 4,496 | 4,167 | 88% | 55 |
+| Heroes of Might and Magic III: The Restoration of Erathia | voodoosh | 5,278 | 3,794 | 80% | 56 |
+| SONG OF HORROR | dansgaming | 7,837 | 3,722 | 100% | 71 |
+| World of Tanks | dakillzor | 15,951 | 2,654 | 64% | 65 |
+| R.E.P.O. | foolish | 8,420 | 2,645 | 60% | 59 |
+| The Legend of Zelda: Ocarina of Time | barbarousking | 4,665 | 2,232 | 67% | 81 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 2.466 | Grand Theft Auto V | 156,217 | 63,357 |
-| 0.775 | ARC Raiders | 32,011 | 41,309 |
-| 0.665 | EA Sports FC 27 | 55,180 | 83,034 |
-| 0.556 | Overwatch | 57,585 | 103,659 |
-| 0.52 | Rocket League | 15,400 | 29,636 |
-| 0.065 | Apex Legends | 13,305 | 204,036 |
-| 0.063 | Project Zomboid | 3,934 | 62,080 |
-| 0.062 | Aniimo | 4,955 | 79,687 |
-| 0.043 | Delta Force | 5,516 | 127,794 |
-| 0.014 | PUBG: BATTLEGROUNDS | 8,611 | 624,992 |
+| 2.867 | Grand Theft Auto V | 181,636 | 63,357 |
+| 1.04 | ARC Raiders | 42,969 | 41,309 |
+| 0.402 | Overwatch | 41,710 | 103,659 |
+| 0.344 | Rocket League | 10,185 | 29,636 |
+| 0.338 | Phasmophobia | 4,519 | 13,365 |
+| 0.027 | Dota 2 | 22,611 | 836,870 |
+| 0.024 | Counter-Strike | 27,996 | 1,144,557 |
+| 0.022 | Rust | 2,740 | 122,297 |
+| 0.019 | Delta Force | 2,408 | 127,794 |
+| 0.008 | PUBG: BATTLEGROUNDS | 5,148 | 624,992 |
 
 ---
 
