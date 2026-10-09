@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-10-09T16` (UTC). History: 177 snapshots spanning 923h.
-Reference windows: short = `2026-10-09T09`, day = `2026-10-08T13`.
+Generated from snapshot `2026-10-09T22` (UTC). History: 178 snapshots spanning 929h.
+Reference windows: short = `2026-10-09T16`, day = `2026-10-09T00`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Z1: Battle Royale | +11.73 | 34 | 15,036 | +963% | +453% | 95 | +98% | 0.5601 | IGNITION:gotaga,itachi |
-| 2 | Gears of War: E-Day | +8.72 | 27 | 15,922 | +498% | +338% | 100 | +2% | 0.1897 | IGNITION:shlorox,alphacast |
-| 3 | Rainbow Six Siege | +7.50 | 24 | 19,992 | +164% | +451% | 99 | +3% | 0.5847 | IGNITION:rainbow6,mingo |
-| 4 | Marvel Rivals | +5.49 | 20 | 26,173 | +209% | +448% | 99 | +12% | 0.1538 |  |
-| 5 | Mobile Legends: Bang Bang | +5.43 | 69 | 4,984 | +231% | +96% | 100 | +30% | 0.382 | IGNITION:smetanduck |
-| 6 | Minecraft | +5.29 | 8 | 65,548 | +955% | +60% | 97 | -1% | 0.584 |  |
-| 7 | EA Sports FC 27 | +5.19 | 7 | 90,294 | +578% | +225% | 99 | -1% | 0.0913 |  |
-| 8 | Grand Theft Auto V | +4.84 | 3 | 89,475 | +634% | +112% | 96 | -4% | 0.1266 |  |
-| 9 | TEKKEN 8 | +4.83 | 63 | 5,737 | +399% | - | 100 | +79% | 0.3089 | ENTRY |
-| 10 | World of Tanks | +4.77 | 32 | 15,583 | +187% | +73% | 94 | -2% | 0.183 | IGNITION:mailand,dakillzor |
-| 11 | Sons of the Forest | +4.30 | 26 | 17,656 | - | - | 56 | - | 0.7815 | ENTRY IGNITION:peereira7,paache_ |
-| 12 | Silver Pines | +4.14 | 68 | 5,095 | +29% | - | 60 | +150% | 0.4002 | BREADTH ENTRY IGNITION:saruei |
-| 13 | Hearthstone | +4.14 | 31 | 15,941 | +93% | +51% | 98 | +31% | 0.2481 | IGNITION:silvername,jeefhs |
-| 14 | Graveyard Keeper II | +4.12 | 77 | 4,540 | - | +97% | 98 | - | 0.5542 | ENTRY IGNITION:admiralbahroo |
-| 15 | Rust | +3.90 | 43 | 9,909 | +200% | +132% | 99 | +0% | 0.178 |  |
+| 1 | Marvel Rivals | +6.69 | 3 | 151,212 | +478% | +950% | 100 | +1% | 0.1721 |  |
+| 2 | Invokyr | +6.32 | 40 | 8,666 | - | +314% | 100 | - | 0.3198 | ENTRY IGNITION:ray |
+| 3 | nanos world | +4.85 | 55 | 6,047 | - | +87% | 78 | - | 0.368 | ENTRY IGNITION:mehditdonc |
+| 4 | Heroes of the Storm | +4.25 | 54 | 6,091 | - | - | 74 | - | 0.6838 | ENTRY IGNITION:grubby,mewnfare |
+| 5 | Street Fighter 6 | +3.29 | 94 | 2,983 | - | - | 89 | - | 0.7214 | ENTRY IGNITION:shinjifromjapanxd |
+| 6 | R.E.P.O. | +3.29 | 98 | 2,782 | - | - | 100 | - | 0.3016 | ENTRY IGNITION:jaharajayde |
+| 7 | Car Park Capital | +3.25 | 70 | 4,734 | - | - | 19 | - | 0.9163 | ENTRY IGNITION:squeex |
+| 8 | MARVEL Contest of Champions | +3.25 | 44 | 9,259 | - | - | 25 | - | 0.5386 | ENTRY IGNITION:pepe |
+| 9 | Ghost of Tsushima | +3.25 | 74 | 4,481 | - | - | 35 | - | 0.9728 | ENTRY IGNITION:rhona |
+| 10 | Marathon | +3.25 | 90 | 3,403 | - | - | 81 | - | 0.6365 | ENTRY IGNITION:aztecross |
+| 11 | Resident Evil Village | +3.25 | 72 | 4,521 | - | - | 98 | - | 0.9044 | ENTRY IGNITION:dansgaming |
+| 12 | Dark and Darker | +3.25 | 24 | 19,076 | - | - | 99 | - | 0.2575 | ENTRY IGNITION:h2p_gucio |
+| 13 | Among Us | +3.25 | 77 | 4,158 | - | - | 97 | - | 0.6479 | ENTRY IGNITION:lilsimsie |
+| 14 | Escape from Tarkov | +3.23 | 17 | 37,835 | +15% | +533% | 99 | +1% | 0.1988 |  |
+| 15 | Deadlock | +3.18 | 12 | 43,091 | +185% | +147% | 95 | -5% | 0.1156 |  |
 
 ## Ignition alerts
 
@@ -30,31 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Sons of the Forest | peereira7 | 235,604 | 13,799 | 78% | 26 |
-| Rainbow Six Siege | rainbow6 | 22,272 | 11,689 | 58% | 24 |
-| Stinker Golf | northernlion | 14,748 | 10,738 | 92% | 41 |
-| Z1: Battle Royale | gotaga | 14,087 | 8,421 | 56% | 34 |
-| Back to the Dawn | indegnasen0706 | 23,388 | 7,367 | 100% | 53 |
-| Permafrost | knekro | 13,933 | 6,140 | 67% | 46 |
-| Gakuen iDOLM@STER | yuyuta0702 | 11,462 | 4,531 | 100% | 76 |
-| Magical Princess | yaritaiji | 13,970 | 4,242 | 100% | 80 |
-| SILENT HILL 2 | vei | 8,802 | 4,092 | 90% | 75 |
-| Sandustry | kspksp | 9,269 | 3,733 | 100% | 90 |
+| Permafrost | locklear | 6,891 | 6,245 | 83% | 45 |
+| MARVEL Contest of Champions | pepe | 10,744 | 4,987 | 54% | 44 |
+| Ghost of Tsushima | rhona | 4,359 | 4,359 | 97% | 74 |
+| Car Park Capital | squeex | 10,291 | 4,338 | 92% | 70 |
+| Heroes of the Storm | grubby | 9,492 | 4,165 | 68% | 54 |
+| Resident Evil Village | dansgaming | 7,837 | 4,089 | 90% | 72 |
+| Graveyard Keeper II | admiralbahroo | 3,551 | 3,170 | 82% | 84 |
+| Among Us | lilsimsie | 3,482 | 2,694 | 65% | 77 |
+| Marathon | aztecross | 7,052 | 2,166 | 64% | 90 |
+| Street Fighter 6 | shinjifromjapanxd | 6,318 | 2,152 | 72% | 94 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 1.239 | Grand Theft Auto V | 89,475 | 72,218 |
-| 1.149 | EA Sports FC 27 | 90,294 | 78,607 |
-| 0.829 | Escape from Tarkov | 32,814 | 39,577 |
-| 0.7 | Sons of the Forest | 17,656 | 25,233 |
-| 0.532 | ARC Raiders | 69,580 | 130,755 |
-| 0.049 | Valheim | 7,170 | 144,878 |
-| 0.038 | Aniimo | 2,756 | 72,684 |
-| 0.037 | The Witcher 3: Wild Hunt | 3,123 | 84,376 |
-| 0.03 | Delta Force | 3,903 | 132,171 |
-| 0.009 | PUBG: BATTLEGROUNDS | 6,107 | 692,538 |
+| 2.149 | Marvel Rivals | 151,212 | 70,376 |
+| 1.966 | Grand Theft Auto V | 142,002 | 72,218 |
+| 1.023 | EA Sports FC 27 | 80,448 | 78,607 |
+| 0.956 | Escape from Tarkov | 37,835 | 39,577 |
+| 0.444 | Phasmophobia | 9,072 | 20,440 |
+| 0.041 | Aniimo | 2,971 | 72,684 |
+| 0.039 | The Witcher 3: Wild Hunt | 3,262 | 84,376 |
+| 0.033 | Counter-Strike | 40,216 | 1,220,555 |
+| 0.025 | Delta Force | 3,286 | 132,171 |
+| 0.009 | PUBG: BATTLEGROUNDS | 6,220 | 692,538 |
 
 ---
 
