@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-10-08T19` (UTC). History: 174 snapshots spanning 902h.
-Reference windows: short = `2026-10-08T13`, day = `2026-10-07T19`.
+Generated from snapshot `2026-10-09T00` (UTC). History: 175 snapshots spanning 907h.
+Reference windows: short = `2026-10-08T19`, day = `2026-10-08T00`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | ELDEN RING | +6.69 | 23 | 21,814 | +308% | +247% | 99 | +1% | 0.7132 | IGNITION:kamet0 |
-| 2 | Woman Simulator | +6.51 | 30 | 17,123 | +525% | - | 27 | +108% | 0.9258 | ENTRY IGNITION:zarbex |
-| 3 | DayZ | +6.00 | 17 | 43,708 | +117% | +742% | 100 | +0% | 0.5852 |  |
-| 4 | ROBLOX | +4.75 | 49 | 6,671 | - | +150% | 95 | - | 0.571 | ENTRY IGNITION:lollolacustre |
-| 5 | Clive Barker's Hellraiser: Revival | +4.33 | 8 | 108,549 | +490% | - | 100 | +2% | 0.1176 | ENTRY |
-| 6 | Guild Wars 2 | +4.25 | 97 | 3,740 | - | - | 76 | - | 0.5037 | ENTRY IGNITION:mightyteapot,laranity |
-| 7 | Last Epoch | +4.25 | 100 | 3,675 | - | - | 75 | - | 0.169 | ENTRY IGNITION:raxxanterax,wudijo |
-| 8 | REMATCH | +4.25 | 59 | 7,048 | - | - | 68 | - | 0.6142 | ENTRY IGNITION:ludwig,atrioc |
-| 9 | Fortnite | +4.20 | 10 | 80,378 | +333% | +198% | 99 | +0% | 0.1375 |  |
-| 10 | Valheim | +4.13 | 24 | 19,716 | +275% | -24% | 100 | +2% | 0.3585 | IGNITION:quin69,phunkroyal |
-| 11 | Marvel Rivals | +4.05 | 27 | 13,512 | +183% | -3% | 98 | -2% | 0.2453 | IGNITION:timthetatman,somjuu |
-| 12 | Rainbow Six Siege | +4.02 | 47 | 7,557 | +108% | +25% | 94 | -4% | 0.2751 | IGNITION:mingo,razah |
-| 13 | Graveyard Keeper II | +4.01 | 70 | 5,903 | +156% | - | 99 | +29% | 0.4211 | ENTRY IGNITION:admiralbahroo |
-| 14 | World of Tanks | +3.77 | 20 | 31,413 | +248% | +108% | 99 | +3% | 0.5634 |  |
-| 15 | Project Zomboid | +3.75 | 69 | 5,732 | - | +46% | 100 | - | 0.4283 | ENTRY IGNITION:edopeh |
+| 1 | Warframe | +5.75 | 24 | 14,533 | - | +229% | 98 | - | 0.8146 | ENTRY IGNITION:siejoumbra,brozime |
+| 2 | Rainbow Six Siege | +5.03 | 16 | 26,499 | +251% | +389% | 100 | +6% | 0.4396 |  |
+| 3 | Silver Pines | +3.81 | 31 | 11,846 | +92% | - | 66 | -15% | 0.6163 | ENTRY IGNITION:alanzoka,bawkbasoup |
+| 4 | Dragon's Dogma II | +3.77 | 12 | 40,118 | +353% | - | 98 | +0% | 0.8397 | ENTRY |
+| 5 | Mechabellum | +3.25 | 85 | 2,940 | - | - | 9 | - | 0.6963 | ENTRY IGNITION:admiralbahroo |
+| 6 | Shift at Midnight | +3.25 | 78 | 3,500 | - | - | 68 | - | 0.874 | ENTRY IGNITION:realkatieb |
+| 7 | Tormented Souls | +3.25 | 84 | 3,089 | - | - | 4 | - | 0.9916 | ENTRY IGNITION:dansgaming |
+| 8 | FINAL FANTASY XIV ONLINE | +3.11 | 57 | 4,348 | - | +67% | 100 | - | 0.1578 | ENTRY |
+| 9 | Arena Breakout: Infinite | +3.06 | 43 | 6,727 | -7% | +72% | 93 | -6% | 0.2685 | IGNITION:lvndmark,imow |
+| 10 | Minecraft Dungeons II | +3.06 | 41 | 7,835 | - | +43% | 95 | - | 0.7953 | ENTRY IGNITION:joe_bartolozzi |
+| 11 | Delta Force | +2.94 | 50 | 5,670 | -34% | +135% | 98 | -1% | 0.3307 | IGNITION:skipnho |
+| 12 | Dark Souls: Remastered | +2.91 | 80 | 3,443 | - | +8% | 74 | - | 0.7772 | ENTRY IGNITION:lilaggy |
+| 13 | Invokyr | +2.25 | 100 | 2,091 | - | - | 100 | - | 0.0995 | ENTRY |
+| 14 | R2 Online: Reign of Revolution | +2.25 | 94 | 2,468 | - | - | 29 | - | 0.4818 | ENTRY |
+| 15 | Risk of Rain 2 | +2.25 | 98 | 1,910 | - | - | 95 | - | 0.3435 | ENTRY |
 
 ## Ignition alerts
 
@@ -30,31 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Woman Simulator | zarbex | 28,526 | 15,853 | 93% | 30 |
-| ELDEN RING | kamet0 | 76,238 | 15,558 | 71% | 23 |
-| The Plant Shop | youngmulti | 13,489 | 12,079 | 98% | 41 |
-| Normal Golf Game | joe_bartolozzi | 22,331 | 10,302 | 100% | 46 |
-| Creature Kitchen | h2p_gucio | 8,384 | 6,890 | 99% | 60 |
-| Mr Toilet | locklear | 6,891 | 5,760 | 100% | 75 |
-| REMATCH | ludwig | 9,561 | 4,329 | 61% | 59 |
-| Neon Abyss 2 | shisheyu | 4,961 | 4,082 | 99% | 88 |
-| ROBLOX | lollolacustre | 6,678 | 3,809 | 57% | 49 |
-| SPAM | crocodyletv | 4,496 | 3,759 | 94% | 90 |
+| Warframe | siejoumbra | 11,838 | 11,838 | 81% | 24 |
+| Silver Pines | alanzoka | 16,698 | 7,301 | 62% | 31 |
+| Minecraft Dungeons II | joe_bartolozzi | 22,331 | 6,231 | 80% | 41 |
+| World of Tanks | dakillzor | 17,698 | 4,079 | 71% | 48 |
+| Rocket League | kaydop | 4,488 | 4,004 | 58% | 40 |
+| Woman Simulator | coachlim | 8,201 | 3,850 | 78% | 59 |
+| Heroes of Might and Magic III: The Restoration of Erathia | voodoosh | 5,278 | 3,653 | 74% | 60 |
+| Trackmania | therealmarzaa | 7,475 | 3,613 | 81% | 65 |
+| Tormented Souls | dansgaming | 7,837 | 3,063 | 99% | 84 |
+| Shift at Midnight | realkatieb | 18,641 | 3,059 | 87% | 78 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 4.743 | Among Us | 52,642 | 11,098 |
-| 2.331 | ARC Raiders | 102,544 | 43,993 |
-| 1.782 | Grand Theft Auto V | 126,700 | 71,092 |
-| 1.235 | Phasmophobia | 16,216 | 13,126 |
-| 0.999 | DayZ | 43,708 | 43,741 |
-| 0.073 | The Witcher 3: Wild Hunt | 6,508 | 89,559 |
-| 0.067 | Delta Force | 8,538 | 128,094 |
-| 0.065 | Apex Legends | 13,286 | 203,400 |
-| 0.053 | Aniimo | 4,011 | 75,188 |
-| 0.009 | PUBG: BATTLEGROUNDS | 5,890 | 668,378 |
+| 2.014 | ARC Raiders | 88,580 | 43,993 |
+| 1.978 | Grand Theft Auto V | 140,608 | 71,092 |
+| 0.771 | Phasmophobia | 10,115 | 13,126 |
+| 0.387 | Rainbow Six Siege | 26,499 | 68,540 |
+| 0.343 | Overwatch | 32,223 | 93,993 |
+| 0.031 | Valheim | 4,638 | 147,960 |
+| 0.026 | Dota 2 | 23,158 | 875,240 |
+| 0.025 | The Witcher 3: Wild Hunt | 2,197 | 89,559 |
+| 0.021 | Counter-Strike | 27,166 | 1,276,600 |
+| 0.007 | PUBG: BATTLEGROUNDS | 4,865 | 668,378 |
 
 ---
 
