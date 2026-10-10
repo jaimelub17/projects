@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-10-09T22` (UTC). History: 178 snapshots spanning 929h.
-Reference windows: short = `2026-10-09T16`, day = `2026-10-09T00`.
+Generated from snapshot `2026-10-10T05` (UTC). History: 179 snapshots spanning 936h.
+Reference windows: short = `2026-10-09T22`, day = `2026-10-09T09`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Marvel Rivals | +6.69 | 3 | 151,212 | +478% | +950% | 100 | +1% | 0.1721 |  |
-| 2 | Invokyr | +6.32 | 40 | 8,666 | - | +314% | 100 | - | 0.3198 | ENTRY IGNITION:ray |
-| 3 | nanos world | +4.85 | 55 | 6,047 | - | +87% | 78 | - | 0.368 | ENTRY IGNITION:mehditdonc |
-| 4 | Heroes of the Storm | +4.25 | 54 | 6,091 | - | - | 74 | - | 0.6838 | ENTRY IGNITION:grubby,mewnfare |
-| 5 | Street Fighter 6 | +3.29 | 94 | 2,983 | - | - | 89 | - | 0.7214 | ENTRY IGNITION:shinjifromjapanxd |
-| 6 | R.E.P.O. | +3.29 | 98 | 2,782 | - | - | 100 | - | 0.3016 | ENTRY IGNITION:jaharajayde |
-| 7 | Car Park Capital | +3.25 | 70 | 4,734 | - | - | 19 | - | 0.9163 | ENTRY IGNITION:squeex |
-| 8 | MARVEL Contest of Champions | +3.25 | 44 | 9,259 | - | - | 25 | - | 0.5386 | ENTRY IGNITION:pepe |
-| 9 | Ghost of Tsushima | +3.25 | 74 | 4,481 | - | - | 35 | - | 0.9728 | ENTRY IGNITION:rhona |
-| 10 | Marathon | +3.25 | 90 | 3,403 | - | - | 81 | - | 0.6365 | ENTRY IGNITION:aztecross |
-| 11 | Resident Evil Village | +3.25 | 72 | 4,521 | - | - | 98 | - | 0.9044 | ENTRY IGNITION:dansgaming |
-| 12 | Dark and Darker | +3.25 | 24 | 19,076 | - | - | 99 | - | 0.2575 | ENTRY IGNITION:h2p_gucio |
-| 13 | Among Us | +3.25 | 77 | 4,158 | - | - | 97 | - | 0.6479 | ENTRY IGNITION:lilsimsie |
-| 14 | Escape from Tarkov | +3.23 | 17 | 37,835 | +15% | +533% | 99 | +1% | 0.1988 |  |
-| 15 | Deadlock | +3.18 | 12 | 43,091 | +185% | +147% | 95 | -5% | 0.1156 |  |
+| 1 | R.E.P.O. | +5.76 | 21 | 12,654 | +355% | - | 94 | -6% | 0.5777 | ENTRY IGNITION:valkyrae,burn |
+| 2 | ACE COMBAT 8: WINGS OF THEVE | +4.40 | 55 | 3,817 | - | +88% | 100 | - | 0.7142 | ENTRY IGNITION:moistcr1tikal |
+| 3 | Invokyr | +4.03 | 29 | 8,788 | +1% | +148% | 99 | -1% | 0.3702 | IGNITION:michimochievee |
+| 4 | ARC Raiders | +3.41 | 2 | 87,286 | +153% | +244% | 97 | -2% | 0.527 |  |
+| 5 | Minecraft | +3.35 | 3 | 64,756 | +4% | +942% | 100 | +0% | 0.8646 |  |
+| 6 | Stardew Valley | +3.27 | 88 | 2,025 | - | - | 78 | - | 0.6489 | ENTRY IGNITION:kkatamina |
+| 7 | Banished | +3.25 | 67 | 2,975 | - | - | 1 | - | 1.0 | ENTRY IGNITION:gronkhtv |
+| 8 | Red Dead Redemption | +3.25 | 43 | 5,835 | - | - | 16 | - | 0.9966 | ENTRY IGNITION:fanum |
+| 9 | NBA 2K27 | +2.31 | 26 | 7,700 | +15% | +55% | 99 | +2% | 0.2286 | IGNITION:joeknowsyt |
+| 10 | Fall Guys | +2.25 | 69 | 2,876 | - | - | 65 | - | 0.2514 | ENTRY |
+| 11 | Epic Seven | +2.25 | 65 | 3,070 | - | - | 24 | - | 0.2893 | ENTRY |
+| 12 | RESIDENT EVIL: requiem | +2.25 | 77 | 2,470 | - | - | 100 | - | 0.4 | ENTRY |
+| 13 | FINAL FANTASY VII | +2.25 | 92 | 1,996 | - | - | 20 | - | 0.9133 | ENTRY |
+| 14 | Onimusha: Way of the Sword | +2.25 | 90 | 1,972 | - | - | 96 | - | 0.4919 | ENTRY |
+| 15 | Minecraft Dungeons II | +2.25 | 85 | 2,099 | - | - | 100 | - | 0.4221 | ENTRY |
 
 ## Ignition alerts
 
@@ -30,31 +30,29 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Permafrost | locklear | 6,891 | 6,245 | 83% | 45 |
-| MARVEL Contest of Champions | pepe | 10,744 | 4,987 | 54% | 44 |
-| Ghost of Tsushima | rhona | 4,359 | 4,359 | 97% | 74 |
-| Car Park Capital | squeex | 10,291 | 4,338 | 92% | 70 |
-| Heroes of the Storm | grubby | 9,492 | 4,165 | 68% | 54 |
-| Resident Evil Village | dansgaming | 7,837 | 4,089 | 90% | 72 |
-| Graveyard Keeper II | admiralbahroo | 3,551 | 3,170 | 82% | 84 |
-| Among Us | lilsimsie | 3,482 | 2,694 | 65% | 77 |
-| Marathon | aztecross | 7,052 | 2,166 | 64% | 90 |
-| Street Fighter 6 | shinjifromjapanxd | 6,318 | 2,152 | 72% | 94 |
+| R.E.P.O. | valkyrae | 14,437 | 7,310 | 58% | 21 |
+| Red Dead Redemption | fanum | 11,401 | 5,815 | 100% | 43 |
+| Rainbow Six Siege | rainbow6 | 22,272 | 3,916 | 61% | 30 |
+| MARVEL Contest of Champions | cesgod | 3,241 | 3,241 | 83% | 54 |
+| Banished | gronkhtv | 4,125 | 2,975 | 100% | 67 |
+| ACE COMBAT 8: WINGS OF THEVE | moistcr1tikal | 6,506 | 2,726 | 71% | 55 |
+| Resident Evil Village | dansgaming | 7,837 | 2,095 | 90% | 80 |
+| Stardew Valley | kkatamina | 4,868 | 1,314 | 65% | 88 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 2.149 | Marvel Rivals | 151,212 | 70,376 |
-| 1.966 | Grand Theft Auto V | 142,002 | 72,218 |
-| 1.023 | EA Sports FC 27 | 80,448 | 78,607 |
-| 0.956 | Escape from Tarkov | 37,835 | 39,577 |
-| 0.444 | Phasmophobia | 9,072 | 20,440 |
-| 0.041 | Aniimo | 2,971 | 72,684 |
-| 0.039 | The Witcher 3: Wild Hunt | 3,262 | 84,376 |
-| 0.033 | Counter-Strike | 40,216 | 1,220,555 |
-| 0.025 | Delta Force | 3,286 | 132,171 |
-| 0.009 | PUBG: BATTLEGROUNDS | 6,220 | 692,538 |
+| 0.73 | Escape from Tarkov | 29,330 | 40,182 |
+| 0.627 | ARC Raiders | 87,286 | 139,197 |
+| 0.619 | Grand Theft Auto V | 45,748 | 73,961 |
+| 0.479 | R.E.P.O. | 12,654 | 26,441 |
+| 0.319 | Overwatch | 26,492 | 82,933 |
+| 0.022 | Delta Force | 2,965 | 132,285 |
+| 0.02 | Rust | 2,713 | 134,219 |
+| 0.014 | Dota 2 | 13,204 | 917,780 |
+| 0.013 | Counter-Strike | 16,426 | 1,244,028 |
+| 0.002 | PUBG: BATTLEGROUNDS | 1,610 | 709,761 |
 
 ---
 
