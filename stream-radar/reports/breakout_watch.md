@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-10-10T18` (UTC). History: 181 snapshots spanning 949h.
-Reference windows: short = `2026-10-10T12`, day = `2026-10-09T16`.
+Generated from snapshot `2026-10-10T23` (UTC). History: 182 snapshots spanning 954h.
+Reference windows: short = `2026-10-10T18`, day = `2026-10-09T22`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | ROBLOX | +9.95 | 25 | 14,324 | +1042% | +554% | 100 | +4% | 0.5853 | IGNITION:whoplohoyparen |
-| 2 | Delta Force | +8.69 | 27 | 17,677 | +440% | +353% | 96 | -3% | 0.2809 | IGNITION:recrent,gotaga |
-| 3 | Silver Pines | +8.11 | 31 | 14,948 | +73% | +193% | 90 | +200% | 0.414 | BREADTH IGNITION:dansgaming,distortion2 |
-| 4 | Rocket League | +6.85 | 32 | 12,680 | +329% | +143% | 98 | -1% | 0.7445 | IGNITION:itachi,alphakep |
-| 5 | Fortnite | +5.82 | 5 | 103,117 | +587% | +336% | 100 | +0% | 0.121 |  |
-| 6 | Rainbow Six Siege | +5.06 | 18 | 39,962 | +683% | +100% | 96 | -2% | 0.5181 |  |
-| 7 | The Witcher 3: Wild Hunt | +4.83 | 64 | 6,715 | +39% | +115% | 100 | +3% | 0.6634 | IGNITION:missmikkaa,dropsbadge |
-| 8 | World of Tanks | +4.64 | 17 | 43,752 | +345% | +181% | 97 | +0% | 0.585 |  |
-| 9 | SILENT HILL: townfall | +4.60 | 49 | 8,764 | - | +65% | 99 | - | 0.3624 | ENTRY IGNITION:shxtou,lazvell |
-| 10 | STAR WARS: Galactic Racer | +4.50 | 40 | 11,337 | +312% | - | 95 | -5% | 0.6322 | ENTRY IGNITION:iiizwerg |
-| 11 | Project Zomboid | +4.46 | 58 | 7,525 | - | +109% | 100 | - | 0.3451 | ENTRY IGNITION:edopeh |
-| 12 | PEAK | +4.29 | 30 | 15,897 | - | - | 95 | - | 0.3364 | ENTRY IGNITION:zentreya,silvervale |
-| 13 | Deadlock | +4.27 | 24 | 22,161 | +99% | +46% | 100 | +0% | 0.1699 | IGNITION:jamside,deathydl |
-| 14 | Heroes of the Storm | +4.25 | 71 | 6,141 | - | - | 75 | - | 0.51 | ENTRY IGNITION:grubby,mewnfare |
-| 15 | Overwatch | +4.18 | 6 | 98,469 | +299% | +170% | 100 | +4% | 0.3679 |  |
+| 1 | Aniimo | +6.66 | 28 | 11,136 | +214% | +275% | 98 | +0% | 0.5612 | IGNITION:silvervale |
+| 2 | Z1: Battle Royale | +3.71 | 29 | 11,922 | - | +125% | 100 | - | 0.1398 | ENTRY |
+| 3 | Gears of War: E-Day | +3.61 | 37 | 6,446 | +92% | +83% | 100 | +4% | 0.4195 | IGNITION:agraelus |
+| 4 | SOMA | +3.25 | 70 | 3,964 | - | - | 18 | - | 0.9712 | ENTRY IGNITION:dansgaming |
+| 5 | theHunter: Call of the Wild | +3.25 | 82 | 3,268 | - | - | 40 | - | 0.9602 | ENTRY IGNITION:laink |
+| 6 | Castlevania: Symphony of the Night | +3.25 | 90 | 2,887 | - | - | 10 | - | 0.9799 | ENTRY IGNITION:barbarousking |
+| 7 | Crime Scene Cleaner | +3.25 | 88 | 3,032 | - | - | 18 | - | 0.9733 | ENTRY IGNITION:ray |
+| 8 | SILENT HILL 2 | +3.25 | 27 | 12,660 | - | - | 80 | - | 0.9598 | ENTRY IGNITION:emiru |
+| 9 | MapleStory | +3.03 | 43 | 8,039 | +35% | +23% | 98 | +0% | 0.3435 | IGNITION:ereklo_game,kaise |
+| 10 | Silver Pines | +2.73 | 31 | 11,634 | -22% | +103% | 68 | -24% | 0.25 | IGNITION:distortion2,h0llylp |
+| 11 | PUBG: BATTLEGROUNDS | +2.62 | 38 | 8,233 | +59% | +32% | 99 | +1% | 0.4627 | IGNITION:des0ut |
+| 12 | Pilgrim | +2.25 | 80 | 3,386 | - | - | 2 | - | 0.5443 | ENTRY |
+| 13 | Halloween: The Game | +2.25 | 89 | 2,733 | - | - | 99 | - | 0.3297 | ENTRY |
+| 14 | R2 Online: Reign of Revolution | +2.25 | 100 | 2,551 | - | - | 27 | - | 0.5445 | ENTRY |
+| 15 | Battlefield REDSEC | +2.25 | 81 | 3,277 | - | - | 58 | - | 0.2417 | ENTRY |
 
 ## Ignition alerts
 
@@ -30,31 +30,30 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Grand Theft Auto: San Andreas | illojuan | 38,408 | 27,507 | 97% | 22 |
-| Battlefield 1 | lirik | 17,931 | 10,116 | 99% | 45 |
-| Rocket League | itachi | 38,034 | 9,440 | 74% | 32 |
-| ROBLOX | whoplohoyparen | 8,384 | 8,384 | 59% | 25 |
-| Forever Ago | t2x2 | 16,777 | 8,182 | 93% | 51 |
-| Car Park Capital | zerator | 65,739 | 7,682 | 98% | 59 |
-| Terraria | forsen | 10,577 | 7,350 | 91% | 57 |
-| Normal Golf Game | antoinedaniel | 15,073 | 7,234 | 100% | 65 |
-| STAR WARS: Galactic Racer | iiizwerg | 7,167 | 7,167 | 63% | 40 |
-| Bunker Tidy Up | h2p_gucio | 8,384 | 7,054 | 100% | 66 |
+| SILENT HILL 2 | emiru | 14,104 | 12,151 | 96% | 27 |
+| Aniimo | silvervale | 6,250 | 6,250 | 56% | 28 |
+| World of Tanks | dakillzor | 25,594 | 5,295 | 61% | 39 |
+| SOMA | dansgaming | 7,837 | 3,850 | 97% | 70 |
+| Heroes of the Storm | grubby | 9,492 | 3,735 | 67% | 60 |
+| theHunter: Call of the Wild | laink | 5,269 | 3,138 | 96% | 82 |
+| Graveyard Keeper II | admiralbahroo | 3,551 | 3,035 | 81% | 72 |
+| Crime Scene Cleaner | ray | 3,285 | 2,951 | 97% | 88 |
+| Castlevania: Symphony of the Night | barbarousking | 4,665 | 2,829 | 98% | 90 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 1.187 | Overwatch | 98,469 | 82,933 |
-| 1.109 | Escape from Tarkov | 44,545 | 40,182 |
-| 0.941 | Grand Theft Auto V | 69,616 | 73,961 |
-| 0.848 | Street Fighter 6 | 32,079 | 37,838 |
-| 0.602 | PEAK | 15,897 | 26,417 |
-| 0.051 | Rust | 6,864 | 134,219 |
-| 0.049 | Dota 2 | 44,825 | 917,780 |
-| 0.048 | Aniimo | 3,543 | 73,525 |
-| 0.038 | Apex Legends | 8,420 | 224,470 |
-| 0.007 | PUBG: BATTLEGROUNDS | 5,191 | 709,761 |
+| 1.405 | Grand Theft Auto V | 103,901 | 73,961 |
+| 1.261 | Overwatch | 104,608 | 82,933 |
+| 0.937 | Escape from Tarkov | 37,641 | 40,182 |
+| 0.545 | Rainbow Six Siege | 42,652 | 78,309 |
+| 0.492 | EA Sports FC 27 | 41,513 | 84,327 |
+| 0.031 | Counter-Strike | 38,353 | 1,244,028 |
+| 0.03 | Apex Legends | 6,818 | 224,470 |
+| 0.025 | Delta Force | 3,326 | 132,285 |
+| 0.018 | Rust | 2,386 | 134,219 |
+| 0.012 | PUBG: BATTLEGROUNDS | 8,233 | 709,761 |
 
 ---
 
