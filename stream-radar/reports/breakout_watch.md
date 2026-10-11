@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-10-11T18` (UTC). History: 185 snapshots spanning 973h.
-Reference windows: short = `2026-10-11T12`, day = `2026-10-10T18`.
+Generated from snapshot `2026-10-11T23` (UTC). History: 186 snapshots spanning 978h.
+Reference windows: short = `2026-10-11T18`, day = `2026-10-10T23`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Street Fighter 6 | +7.26 | 14 | 62,374 | +2284% | +94% | 98 | -1% | 0.2214 |  |
-| 2 | Rocket League | +6.47 | 25 | 19,200 | +544% | +51% | 100 | +4% | 0.2402 | IGNITION:paache_,agustin51 |
-| 3 | Clive Barker's Hellraiser: Revival | +5.33 | 21 | 26,760 | +264% | +62% | 99 | +4% | 0.1676 | IGNITION:zentreya,sleduck |
-| 4 | Dragon's Dogma II | +5.08 | 27 | 17,427 | +211% | +37% | 100 | +1% | 0.3655 | IGNITION:elajjaz,xop0 |
-| 5 | Rainbow Six Siege | +4.91 | 24 | 19,650 | +573% | -51% | 97 | -1% | 0.4869 | IGNITION:rainbow6,razah |
-| 6 | nanos world | +4.64 | 46 | 10,770 | - | +108% | 100 | - | 0.3052 | ENTRY IGNITION:mehditdonc |
-| 7 | Pokémon Community Game | +4.25 | 41 | 11,703 | - | - | 83 | - | 0.6009 | ENTRY IGNITION:knekro,pokealexvgc |
-| 8 | MapleStory | +4.09 | 61 | 7,738 | +85% | +30% | 100 | +1% | 0.2559 | IGNITION:ereklo_game,kaise |
-| 9 | Silver Pines | +4.08 | 32 | 15,242 | +32% | +2% | 89 | +102% | 0.3738 | BREADTH IGNITION:dansgaming,distortion2 |
-| 10 | Deadlock | +3.88 | 23 | 25,127 | +150% | +13% | 100 | +0% | 0.2627 | IGNITION:recrent,jamside |
-| 11 | Z1: Battle Royale | +3.87 | 26 | 20,813 | +166% | - | 100 | +11% | 0.2743 | ENTRY IGNITION:ayezee |
-| 12 | Virtual Casino | +3.66 | 35 | 14,192 | +94% | +61% | 24 | +41% | 0.2213 | IGNITION:slimenkpac |
-| 13 | Albion Online | +3.51 | 87 | 4,803 | +23% | -3% | 99 | +65% | 0.1382 | BREADTH IGNITION:w0n23,zizaran |
-| 14 | Hello Neighbor 2 | +3.25 | 38 | 12,884 | - | - | 1 | - | 1.0 | ENTRY IGNITION:mastu |
-| 15 | Order of the Sinking Star | +3.25 | 28 | 17,723 | - | - | 45 | - | 0.9607 | ENTRY IGNITION:lirik |
+| 1 | R.E.P.O. | +4.32 | 22 | 17,295 | - | - | 97 | - | 0.5361 | ENTRY IGNITION:valkyrae,foolish |
+| 2 | Pokémon Champions | +3.31 | 43 | 7,809 | +22% | - | 70 | +11% | 0.6256 | ENTRY IGNITION:pokemon,pokealexvgc |
+| 3 | Woman Simulator | +3.25 | 27 | 14,687 | - | - | 9 | - | 0.9491 | ENTRY IGNITION:emiru |
+| 4 | Sunset Summit | +3.25 | 72 | 4,029 | - | - | 2 | - | 0.9938 | ENTRY IGNITION:locklear |
+| 5 | Amnesia | +3.25 | 77 | 4,266 | - | - | 1 | - | 1.0 | ENTRY IGNITION:dansgaming |
+| 6 | Big Ambitions | +3.25 | 31 | 12,482 | - | - | 3 | - | 0.9986 | ENTRY IGNITION:gronkh |
+| 7 | Shift at Midnight | +3.25 | 97 | 2,836 | - | - | 60 | - | 0.8152 | ENTRY IGNITION:fanfan |
+| 8 | Chivalry 2 | +3.25 | 98 | 2,781 | - | - | 17 | - | 0.9899 | ENTRY IGNITION:barbarousking |
+| 9 | Windswept | +3.25 | 100 | 2,573 | - | - | 1 | - | 1.0 | ENTRY IGNITION:dariomocciatwitch |
+| 10 | Microsoft Flight Simulator 2024 | +3.25 | 66 | 4,936 | - | - | 45 | - | 0.9463 | ENTRY IGNITION:vargskelethor |
+| 11 | Yu-Gi-Oh! Master Duel | +3.24 | 71 | 4,690 | - | - | 54 | - | 0.8235 | ENTRY IGNITION:dkayed |
+| 12 | Destiny 2 | +3.00 | 92 | 2,815 | - | +31% | 98 | - | 0.1496 | ENTRY IGNITION:gronkhtv |
+| 13 | Apex Legends | +2.87 | 26 | 11,190 | +70% | +64% | 100 | +0% | 0.4625 | IGNITION:nicewigg |
+| 14 | Dark and Darker | +2.49 | 46 | 7,444 | +20% | +91% | 82 | -10% | 0.2567 |  |
+| 15 | Phasmophobia | +2.41 | 40 | 7,183 | +91% | +66% | 99 | -1% | 0.1735 |  |
 
 ## Ignition alerts
 
@@ -30,31 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Order of the Sinking Star | lirik | 17,931 | 17,027 | 96% | 28 |
-| Hello Neighbor 2 | mastu | 239,077 | 12,884 | 100% | 38 |
-| Fall Guys | cptwillis | 11,539 | 11,539 | 96% | 40 |
-| Log Drop | zerator | 65,739 | 10,755 | 100% | 47 |
-| MOLE | antoinedaniel | 15,073 | 10,491 | 99% | 49 |
-| Terraria | forsen | 10,577 | 8,752 | 93% | 54 |
-| Pokémon Community Game | knekro | 13,933 | 7,032 | 60% | 41 |
-| Forever Ago | t2x2 | 16,777 | 6,881 | 96% | 63 |
-| Pokémon Champions | pokemon | 6,299 | 4,618 | 72% | 68 |
-| Anomaly Directive | insym | 7,018 | 4,452 | 100% | 90 |
+| Woman Simulator | emiru | 14,104 | 13,939 | 95% | 27 |
+| Big Ambitions | gronkh | 24,579 | 12,465 | 100% | 31 |
+| R.E.P.O. | valkyrae | 14,437 | 9,271 | 54% | 22 |
+| Pokémon Community Game | knekro | 13,933 | 6,308 | 73% | 38 |
+| Heroes of Might and Magic III: The Restoration of Erathia | voodoosh | 5,303 | 5,303 | 79% | 50 |
+| Rocket League | kaydop | 4,945 | 4,945 | 58% | 34 |
+| Pokémon Champions | pokemon | 6,299 | 4,885 | 63% | 43 |
+| Microsoft Flight Simulator 2024 | vargskelethor | 4,765 | 4,671 | 95% | 66 |
+| World of Tanks | dakillzor | 25,594 | 4,277 | 69% | 54 |
+| Amnesia | dansgaming | 7,837 | 4,266 | 100% | 77 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 1.646 | Street Fighter 6 | 62,374 | 37,890 |
-| 1.273 | Escape from Tarkov | 56,133 | 44,094 |
-| 1.242 | Grand Theft Auto V | 98,625 | 79,384 |
-| 1.167 | Overwatch | 101,930 | 87,313 |
-| 0.777 | EA Sports FC 27 | 62,249 | 80,067 |
-| 0.056 | WARDOGS | 10,991 | 195,518 |
-| 0.038 | Counter-Strike | 53,688 | 1,404,142 |
-| 0.035 | Valheim | 6,260 | 177,919 |
-| 0.028 | Apex Legends | 6,592 | 239,111 |
-| 0.007 | PUBG: BATTLEGROUNDS | 5,070 | 746,791 |
+| 1.128 | Grand Theft Auto V | 89,533 | 79,384 |
+| 0.977 | Overwatch | 85,324 | 87,313 |
+| 0.878 | Escape from Tarkov | 38,711 | 44,094 |
+| 0.566 | R.E.P.O. | 17,295 | 30,579 |
+| 0.423 | Rainbow Six Siege | 36,908 | 87,203 |
+| 0.026 | Counter-Strike | 36,892 | 1,404,142 |
+| 0.025 | Delta Force | 3,645 | 143,328 |
+| 0.024 | Valheim | 4,330 | 177,919 |
+| 0.023 | The Outlast Trials | 3,015 | 130,448 |
+| 0.006 | PUBG: BATTLEGROUNDS | 4,283 | 746,791 |
 
 ---
 
