@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-10-12T05` (UTC). History: 187 snapshots spanning 984h.
-Reference windows: short = `2026-10-11T23`, day = `2026-10-11T05`.
+Generated from snapshot `2026-10-12T15` (UTC). History: 188 snapshots spanning 994h.
+Reference windows: short = `2026-10-12T05`, day = `2026-10-11T12`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | PEAK | +6.15 | 39 | 6,110 | - | +222% | 75 | - | 0.6561 | ENTRY IGNITION:yugi,santipulgaz |
-| 2 | Dark Souls: Remastered | +3.25 | 93 | 1,613 | - | - | 50 | - | 0.7464 | ENTRY IGNITION:maxim |
-| 3 | Banished | +3.25 | 85 | 1,926 | - | - | 1 | - | 1.0 | ENTRY IGNITION:gronkhtv |
-| 4 | Deep Blue Sushi | +3.25 | 45 | 4,398 | - | - | 2 | - | 0.8313 | ENTRY IGNITION:henyathegenius |
-| 5 | Alan Wake | +3.25 | 62 | 3,106 | - | - | 17 | - | 0.973 | ENTRY IGNITION:dansgaming |
-| 6 | Yo-kai Watch | +3.25 | 73 | 2,149 | - | - | 3 | - | 0.9688 | ENTRY IGNITION:vodkavdk |
-| 7 | Satisfactory | +3.25 | 100 | 1,529 | - | - | 32 | - | 0.8751 | ENTRY IGNITION:surefour |
-| 8 | Drillbound | +3.25 | 71 | 2,232 | - | - | 2 | - | 0.9946 | ENTRY IGNITION:shinjifromjapanxd |
-| 9 | Red Dead Redemption | +3.25 | 36 | 7,116 | - | - | 14 | - | 0.9767 | ENTRY IGNITION:fanum |
-| 10 | I'm Only Sleeping | +2.69 | 31 | 6,289 | +31% | -2% | 100 | +0% | 0.0848 | IGNITION:lota,zchum |
-| 11 | Super Mario Maker 2 | +2.43 | 81 | 1,972 | - | +23% | 13 | - | 0.8372 | ENTRY |
-| 12 | Teamfight Tactics | +2.38 | 28 | 9,988 | +3% | +23% | 100 | +0% | 0.2954 | IGNITION:boxbox,greentea |
-| 13 | 7 Days to Die | +2.29 | 5 | 47,375 | - | - | 96 | - | 0.694 | ENTRY |
-| 14 | Warframe | +2.25 | 88 | 1,535 | - | - | 98 | - | 0.071 | ENTRY |
-| 15 | hololive Dreams | +2.25 | 97 | 1,555 | - | - | 6 | - | 0.9929 | ENTRY |
+| 1 | World of Tanks | +6.96 | 18 | 27,605 | +956% | +157% | 97 | +62% | 0.3136 |  |
+| 2 | Rust | +5.59 | 38 | 9,255 | +392% | +88% | 98 | -1% | 0.2389 | IGNITION:oilrats |
+| 3 | Albion Online | +5.42 | 55 | 6,512 | +205% | +67% | 99 | +48% | 0.2274 | IGNITION:w0n23 |
+| 4 | Silver Pines | +5.34 | 28 | 16,162 | +232% | +40% | 61 | +27% | 0.5617 | IGNITION:cohhcarnage,dansgaming |
+| 5 | Hearthstone | +5.28 | 24 | 16,723 | +241% | +17% | 97 | +56% | 0.335 | IGNITION:silvername,jeefhs |
+| 6 | SILENT HILL: townfall | +5.24 | 51 | 7,000 | +146% | +133% | 99 | +5% | 0.3374 | IGNITION:shxtou |
+| 7 | Call of Duty: Warzone | +4.30 | 27 | 14,135 | +226% | +85% | 100 | +0% | 0.2574 | IGNITION:camy |
+| 8 | Sons of the Forest | +4.22 | 29 | 14,829 | - | - | 23 | - | 0.8039 | ENTRY IGNITION:peereira7,paache_ |
+| 9 | Project Zomboid | +3.96 | 59 | 6,080 | +204% | - | 98 | -2% | 0.591 | ENTRY IGNITION:stintik |
+| 10 | Conan Exiles | +3.82 | 61 | 5,907 | +107% | - | 42 | +110% | 0.2316 | BREADTH ENTRY |
+| 11 | Arena Breakout: Infinite | +3.65 | 43 | 8,155 | +328% | +44% | 100 | +0% | 0.1269 |  |
+| 12 | Crypto | +3.64 | 45 | 8,125 | +197% | +87% | 100 | +5% | 0.1425 |  |
+| 13 | NBA 2K27 | +3.54 | 39 | 8,426 | -3% | +161% | 98 | +1% | 0.2579 | IGNITION:hanjoudesu |
+| 14 | Japanese Ramen Simulator | +3.52 | 21 | 22,010 | - | +10% | 100 | - | 0.6777 | ENTRY IGNITION:yaritaiji,mobilmobil |
+| 15 | Counter-Strike | +3.48 | 3 | 107,834 | +557% | -27% | 97 | -3% | 0.1426 |  |
 
 ## Ignition alerts
 
@@ -30,31 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Red Dead Redemption | fanum | 11,401 | 6,950 | 98% | 36 |
-| R.E.P.O. | kkatamina | 4,868 | 4,016 | 51% | 33 |
-| PEAK | yugi | 5,671 | 4,009 | 66% | 39 |
-| Deep Blue Sushi | henyathegenius | 4,538 | 3,656 | 83% | 45 |
-| Alan Wake | dansgaming | 7,837 | 3,022 | 97% | 62 |
-| ACE COMBAT 8: WINGS OF THEVE | moistcr1tikal | 6,506 | 2,287 | 58% | 48 |
-| Drillbound | shinjifromjapanxd | 6,318 | 2,220 | 99% | 71 |
-| Yo-kai Watch | vodkavdk | 12,049 | 2,082 | 97% | 73 |
-| Banished | gronkhtv | 4,125 | 1,926 | 100% | 85 |
-| World of Tanks | dakillzor | 25,594 | 1,572 | 60% | 68 |
+| Japanese Ramen Simulator | yaritaiji | 14,917 | 14,917 | 68% | 21 |
+| Sons of the Forest | peereira7 | 235,604 | 11,921 | 80% | 29 |
+| Silver Pines | cohhcarnage | 15,088 | 9,078 | 56% | 28 |
+| RuneScape | runescape | 8,257 | 8,257 | 64% | 31 |
+| Terraria | forsen | 10,577 | 7,230 | 96% | 50 |
+| Resident Evil 2 | distortion2 | 6,645 | 5,648 | 89% | 58 |
+| RV There Yet? | kr1stw | 7,031 | 5,056 | 80% | 57 |
+| The Impossible Game | barbarousking | 4,665 | 3,986 | 100% | 81 |
+| Project Zomboid | stintik | 8,846 | 3,593 | 59% | 59 |
+| Maitre des Fleurs | ponce | 4,848 | 3,381 | 100% | 90 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 1.103 | 7 Days to Die | 47,375 | 42,965 |
-| 0.723 | Escape from Tarkov | 30,626 | 42,361 |
-| 0.39 | Grand Theft Auto V | 31,242 | 80,147 |
-| 0.292 | Overwatch | 26,248 | 90,004 |
-| 0.265 | R.E.P.O. | 7,907 | 29,799 |
-| 0.015 | Rust | 1,881 | 122,967 |
-| 0.015 | Dota 2 | 15,505 | 1,034,502 |
-| 0.015 | Delta Force | 2,029 | 135,722 |
-| 0.012 | Counter-Strike | 16,412 | 1,404,227 |
-| 0.002 | PUBG: BATTLEGROUNDS | 1,619 | 713,683 |
+| 1.091 | Escape from Tarkov | 46,210 | 42,361 |
+| 0.832 | Grand Theft Auto V | 66,678 | 80,147 |
+| 0.595 | Sons of the Forest | 14,829 | 24,935 |
+| 0.38 | EA Sports FC 27 | 33,277 | 87,490 |
+| 0.303 | Overwatch | 27,301 | 90,004 |
+| 0.042 | Valheim | 7,879 | 189,547 |
+| 0.041 | Dota 2 | 42,879 | 1,034,502 |
+| 0.034 | The Witcher 3: Wild Hunt | 4,150 | 121,041 |
+| 0.03 | Delta Force | 4,131 | 135,722 |
+| 0.008 | PUBG: BATTLEGROUNDS | 5,872 | 713,683 |
 
 ---
 
