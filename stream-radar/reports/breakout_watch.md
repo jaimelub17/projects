@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-10-12T15` (UTC). History: 188 snapshots spanning 994h.
-Reference windows: short = `2026-10-12T05`, day = `2026-10-11T12`.
+Generated from snapshot `2026-10-12T22` (UTC). History: 189 snapshots spanning 1001h.
+Reference windows: short = `2026-10-12T15`, day = `2026-10-11T23`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | World of Tanks | +6.96 | 18 | 27,605 | +956% | +157% | 97 | +62% | 0.3136 |  |
-| 2 | Rust | +5.59 | 38 | 9,255 | +392% | +88% | 98 | -1% | 0.2389 | IGNITION:oilrats |
-| 3 | Albion Online | +5.42 | 55 | 6,512 | +205% | +67% | 99 | +48% | 0.2274 | IGNITION:w0n23 |
-| 4 | Silver Pines | +5.34 | 28 | 16,162 | +232% | +40% | 61 | +27% | 0.5617 | IGNITION:cohhcarnage,dansgaming |
-| 5 | Hearthstone | +5.28 | 24 | 16,723 | +241% | +17% | 97 | +56% | 0.335 | IGNITION:silvername,jeefhs |
-| 6 | SILENT HILL: townfall | +5.24 | 51 | 7,000 | +146% | +133% | 99 | +5% | 0.3374 | IGNITION:shxtou |
-| 7 | Call of Duty: Warzone | +4.30 | 27 | 14,135 | +226% | +85% | 100 | +0% | 0.2574 | IGNITION:camy |
-| 8 | Sons of the Forest | +4.22 | 29 | 14,829 | - | - | 23 | - | 0.8039 | ENTRY IGNITION:peereira7,paache_ |
-| 9 | Project Zomboid | +3.96 | 59 | 6,080 | +204% | - | 98 | -2% | 0.591 | ENTRY IGNITION:stintik |
-| 10 | Conan Exiles | +3.82 | 61 | 5,907 | +107% | - | 42 | +110% | 0.2316 | BREADTH ENTRY |
-| 11 | Arena Breakout: Infinite | +3.65 | 43 | 8,155 | +328% | +44% | 100 | +0% | 0.1269 |  |
-| 12 | Crypto | +3.64 | 45 | 8,125 | +197% | +87% | 100 | +5% | 0.1425 |  |
-| 13 | NBA 2K27 | +3.54 | 39 | 8,426 | -3% | +161% | 98 | +1% | 0.2579 | IGNITION:hanjoudesu |
-| 14 | Japanese Ramen Simulator | +3.52 | 21 | 22,010 | - | +10% | 100 | - | 0.6777 | ENTRY IGNITION:yaritaiji,mobilmobil |
-| 15 | Counter-Strike | +3.48 | 3 | 107,834 | +557% | -27% | 97 | -3% | 0.1426 |  |
+| 1 | Z1: Battle Royale | +4.75 | 33 | 10,849 | +270% | +8% | 99 | -1% | 0.5887 | IGNITION:gotaga,ayezee |
+| 2 | Valheim | +4.61 | 32 | 10,142 | +29% | +134% | 100 | +0% | 0.329 | IGNITION:shylily,distortion2 |
+| 3 | The Long Drive | +4.25 | 26 | 16,400 | - | - | 5 | - | 0.5943 | ENTRY IGNITION:vedal987,crelly |
+| 4 | Rainbow Six Siege | +4.22 | 14 | 36,095 | +769% | -2% | 95 | -2% | 0.8078 |  |
+| 5 | STAR WARS: Galactic Racer | +3.25 | 47 | 7,120 | - | - | 99 | - | 0.4567 | ENTRY IGNITION:avoidingthepuddle |
+| 6 | Planet Coaster 2 | +3.25 | 57 | 6,013 | - | - | 6 | - | 0.9943 | ENTRY IGNITION:squeex |
+| 7 | Corpse Party | +3.25 | 83 | 3,707 | - | - | 3 | - | 0.9933 | ENTRY IGNITION:dansgaming |
+| 8 | Sobosuba | +3.25 | 49 | 6,626 | - | - | 1 | - | 1.0 | ENTRY IGNITION:dougdoug |
+| 9 | No, I'm Not A Human | +3.25 | 88 | 3,098 | - | - | 15 | - | 0.7421 | ENTRY IGNITION:jamside |
+| 10 | Halloween: The Game | +3.25 | 40 | 8,437 | - | - | 92 | - | 0.5841 | ENTRY IGNITION:smii7y |
+| 11 | Graveyard Keeper II | +3.25 | 85 | 3,419 | - | - | 54 | - | 0.8225 | ENTRY IGNITION:admiralbahroo |
+| 12 | Mario Kart World | +3.25 | 58 | 5,889 | - | - | 23 | - | 0.9314 | ENTRY IGNITION:batora324 |
+| 13 | I’m a Wizard, But I Dig | +3.25 | 81 | 4,099 | - | - | 1 | - | 1.0 | ENTRY IGNITION:locklear |
+| 14 | Abiotic Factor | +3.25 | 95 | 2,993 | - | - | 32 | - | 0.9696 | ENTRY IGNITION:limealicious |
+| 15 | Pokémon | +3.25 | 71 | 4,715 | - | - | 62 | - | 0.6609 | ENTRY IGNITION:pointcrow |
 
 ## Ignition alerts
 
@@ -30,31 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Japanese Ramen Simulator | yaritaiji | 14,917 | 14,917 | 68% | 21 |
-| Sons of the Forest | peereira7 | 235,604 | 11,921 | 80% | 29 |
-| Silver Pines | cohhcarnage | 15,088 | 9,078 | 56% | 28 |
-| RuneScape | runescape | 8,257 | 8,257 | 64% | 31 |
-| Terraria | forsen | 10,577 | 7,230 | 96% | 50 |
-| Resident Evil 2 | distortion2 | 6,645 | 5,648 | 89% | 58 |
-| RV There Yet? | kr1stw | 7,031 | 5,056 | 80% | 57 |
-| The Impossible Game | barbarousking | 4,665 | 3,986 | 100% | 81 |
-| Project Zomboid | stintik | 8,846 | 3,593 | 59% | 59 |
-| Maitre des Fleurs | ponce | 4,848 | 3,381 | 100% | 90 |
+| The Long Drive | vedal987 | 9,747 | 9,747 | 59% | 26 |
+| Silver Pines | alanzoka | 16,698 | 7,525 | 84% | 37 |
+| Sobosuba | dougdoug | 6,682 | 6,626 | 100% | 49 |
+| Z1: Battle Royale | gotaga | 14,087 | 6,387 | 59% | 33 |
+| Pokémon Community Game | knekro | 13,933 | 6,359 | 74% | 41 |
+| Planet Coaster 2 | squeex | 10,291 | 5,979 | 99% | 57 |
+| Perudo | domingo | 274,199 | 5,656 | 100% | 62 |
+| Mario Kart World | batora324 | 21,701 | 5,485 | 93% | 58 |
+| Halloween: The Game | smii7y | 4,928 | 4,928 | 58% | 40 |
+| World of Tanks | dakillzor | 25,594 | 4,788 | 53% | 39 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 1.091 | Escape from Tarkov | 46,210 | 42,361 |
-| 0.832 | Grand Theft Auto V | 66,678 | 80,147 |
-| 0.595 | Sons of the Forest | 14,829 | 24,935 |
-| 0.38 | EA Sports FC 27 | 33,277 | 87,490 |
-| 0.303 | Overwatch | 27,301 | 90,004 |
-| 0.042 | Valheim | 7,879 | 189,547 |
-| 0.041 | Dota 2 | 42,879 | 1,034,502 |
-| 0.034 | The Witcher 3: Wild Hunt | 4,150 | 121,041 |
-| 0.03 | Delta Force | 4,131 | 135,722 |
-| 0.008 | PUBG: BATTLEGROUNDS | 5,872 | 713,683 |
+| 1.929 | Grand Theft Auto V | 154,610 | 80,147 |
+| 0.965 | Escape from Tarkov | 40,878 | 42,361 |
+| 0.398 | EA Sports FC 27 | 34,801 | 87,490 |
+| 0.387 | Rainbow Six Siege | 36,095 | 93,174 |
+| 0.271 | AION 2 | 106,321 | 392,300 |
+| 0.035 | Counter-Strike | 48,658 | 1,404,227 |
+| 0.033 | Warframe | 2,607 | 78,597 |
+| 0.027 | Delta Force | 3,649 | 135,722 |
+| 0.025 | The Witcher 3: Wild Hunt | 3,039 | 121,041 |
+| 0.009 | PUBG: BATTLEGROUNDS | 6,683 | 713,683 |
 
 ---
 
