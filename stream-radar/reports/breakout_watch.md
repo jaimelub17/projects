@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-10-13T06` (UTC). History: 190 snapshots spanning 1009h.
-Reference windows: short = `2026-10-12T22`, day = `2026-10-12T05`.
+Generated from snapshot `2026-10-13T15` (UTC). History: 191 snapshots spanning 1018h.
+Reference windows: short = `2026-10-13T06`, day = `2026-10-12T15`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | ROBLOX | +6.91 | 16 | 16,236 | +421% | +847% | 95 | -1% | 0.878 |  |
-| 2 | Street Fighter 6 | +6.25 | 6 | 28,206 | - | +928% | 100 | - | 0.2788 | ENTRY |
-| 3 | Marbles on Stream | +5.08 | 43 | 4,792 | - | +149% | 73 | - | 0.6774 | ENTRY IGNITION:papanurg1e |
-| 4 | R.E.P.O. | +4.42 | 26 | 9,004 | +199% | +14% | 93 | -2% | 0.3444 | IGNITION:kkatamina,arckon |
-| 5 | Dark Souls: Remastered | +3.72 | 66 | 2,368 | - | +47% | 36 | - | 0.886 | ENTRY IGNITION:maxim |
-| 6 | [HERROR] Gas Station Case | +3.25 | 33 | 6,662 | - | - | 2 | - | 0.9995 | ENTRY IGNITION:supertf |
-| 7 | Fire Emblem: Fortune's Weave | +3.25 | 57 | 2,856 | - | - | 99 | - | 0.451 | ENTRY IGNITION:peterpark |
-| 8 | Left 4 Dead 2 | +3.17 | 82 | 1,846 | - | - | 33 | - | 0.9269 | ENTRY IGNITION:bawkbasoup |
-| 9 | World of Tanks | +2.64 | 40 | 5,395 | -40% | +106% | 73 | -19% | 0.3931 | IGNITION:dakillzor,dezgamez |
-| 10 | Total War: WARHAMMER III | +2.52 | 76 | 2,083 | - | +35% | 16 | - | 0.6135 | ENTRY |
-| 11 | Five Nights at Freddy's 2 | +2.25 | 65 | 2,431 | - | - | 5 | - | 0.979 | ENTRY |
-| 12 | The Legend of Zelda: Ocarina of Time | +2.25 | 74 | 2,194 | - | - | 34 | - | 0.7616 | ENTRY |
-| 13 | [Stories to Tell]: The Stoneville Incident | +2.25 | 84 | 1,774 | - | - | 1 | - | 1.0 | ENTRY |
-| 14 | Fart Together | +2.25 | 72 | 1,849 | - | - | 4 | - | 0.7453 | ENTRY |
-| 15 | Eternal Return | +2.25 | 79 | 1,957 | - | - | 23 | - | 0.8835 | ENTRY |
+| 1 | Rainbow Six Siege | +9.02 | 31 | 14,068 | +801% | +239% | 96 | +2% | 0.4718 | IGNITION:rainbow6,mingo |
+| 2 | Red Dead Redemption II | +5.49 | 71 | 4,841 | +288% | - | 98 | +8% | 0.604 | ENTRY IGNITION:realzbluewater,brucegrannec |
+| 3 | The Witcher 3: Wild Hunt | +5.44 | 45 | 8,147 | +262% | +96% | 100 | +18% | 0.4893 | IGNITION:missmikkaa |
+| 4 | Z1: Battle Royale | +5.05 | 56 | 6,691 | - | +128% | 100 | - | 0.5682 | ENTRY IGNITION:itachi |
+| 5 | World of Tanks | +4.84 | 21 | 21,339 | +296% | -23% | 99 | +36% | 0.2398 | IGNITION:quickybaby,dakillzor |
+| 6 | Hearthstone | +4.73 | 28 | 16,631 | +175% | -1% | 100 | +75% | 0.327 | IGNITION:silvername,guddummit |
+| 7 | Phasmophobia | +4.68 | 49 | 7,292 | +187% | +85% | 100 | +0% | 0.6359 | IGNITION:yatoo_x3 |
+| 8 | Star Citizen | +4.36 | 69 | 5,184 | +271% | +38% | 89 | +82% | 0.385 |  |
+| 9 | STAR WARS: Galactic Racer | +4.25 | 29 | 15,623 | - | - | 99 | - | 0.4966 | ENTRY IGNITION:elajjaz,melharucos |
+| 10 | Invokyr | +4.25 | 40 | 9,684 | - | - | 67 | - | 0.2467 | ENTRY IGNITION:dhalucard,vegetta777 |
+| 11 | Battlefield 6 | +4.21 | 24 | 18,384 | - | - | 100 | - | 0.3939 | ENTRY IGNITION:recrent,stodeh |
+| 12 | PUBG: BATTLEGROUNDS | +4.18 | 44 | 7,757 | +456% | +32% | 100 | +9% | 0.0928 |  |
+| 13 | Crusader Kings III | +4.14 | 43 | 8,637 | - | - | 16 | - | 0.6736 | ENTRY IGNITION:domingo,sundae |
+| 14 | Street Fighter 6 | +4.09 | 27 | 16,250 | -42% | +427% | 98 | -2% | 0.3679 | IGNITION:naru0419045 |
+| 15 | Apex Legends | +3.78 | 16 | 30,176 | +422% | +45% | 100 | +2% | 0.197 |  |
 
 ## Ignition alerts
 
@@ -30,27 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| [HERROR] Gas Station Case | supertf | 14,663 | 6,659 | 100% | 33 |
-| Mario Kart World | batora324 | 21,701 | 5,581 | 98% | 39 |
-| Marbles on Stream | papanurg1e | 3,246 | 3,246 | 68% | 43 |
-| Corpse Party | dansgaming | 7,837 | 2,308 | 99% | 69 |
-| Dark Souls: Remastered | maxim | 3,507 | 2,098 | 89% | 66 |
-| Left 4 Dead 2 | bawkbasoup | 3,517 | 1,711 | 93% | 82 |
+| Others | indegnasen0706 | 23,388 | 14,558 | 100% | 30 |
+| Terraria | forsen | 10,577 | 8,058 | 96% | 47 |
+| The Long Drive | vedal987 | 9,747 | 7,983 | 87% | 42 |
+| Crusader Kings III | domingo | 274,199 | 5,818 | 67% | 43 |
+| Gakuen iDOLM@STER | yuyuta0702 | 11,462 | 5,596 | 100% | 65 |
+| End of Abyss | dansgaming | 7,837 | 5,249 | 98% | 68 |
+| Phasmophobia | yatoo_x3 | 4,637 | 4,637 | 64% | 49 |
+| Granny | barbarousking | 4,665 | 4,023 | 100% | 85 |
+| Z1: Battle Royale | itachi | 38,034 | 3,802 | 57% | 56 |
+| Knight Online | pwnage | 3,428 | 3,428 | 70% | 72 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 0.75 | Grand Theft Auto V | 50,241 | 66,986 |
-| 0.746 | Street Fighter 6 | 28,206 | 37,825 |
-| 0.736 | Escape from Tarkov | 29,467 | 40,053 |
-| 0.368 | R.E.P.O. | 9,004 | 24,481 |
-| 0.178 | AION 2 | 65,507 | 367,485 |
-| 0.018 | Dota 2 | 16,513 | 930,820 |
-| 0.016 | Warframe | 1,232 | 76,105 |
-| 0.013 | Delta Force | 1,660 | 131,038 |
-| 0.013 | Counter-Strike | 16,680 | 1,248,671 |
-| 0.002 | PUBG: BATTLEGROUNDS | 1,396 | 679,146 |
+| 0.982 | Escape from Tarkov | 39,351 | 40,053 |
+| 0.887 | Grand Theft Auto V | 59,391 | 66,986 |
+| 0.436 | Battlefield 6 | 18,384 | 42,174 |
+| 0.43 | Street Fighter 6 | 16,250 | 37,825 |
+| 0.405 | Dead by Daylight | 25,703 | 63,422 |
+| 0.052 | Dota 2 | 48,090 | 930,820 |
+| 0.045 | Aniimo | 3,380 | 75,520 |
+| 0.041 | Valheim | 6,532 | 159,969 |
+| 0.031 | Delta Force | 4,113 | 131,038 |
+| 0.011 | PUBG: BATTLEGROUNDS | 7,757 | 679,146 |
 
 ---
 
