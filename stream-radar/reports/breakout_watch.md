@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-10-13T21` (UTC). History: 192 snapshots spanning 1024h.
-Reference windows: short = `2026-10-13T15`, day = `2026-10-12T22`.
+Generated from snapshot `2026-10-14T01` (UTC). History: 193 snapshots spanning 1028h.
+Reference windows: short = `2026-10-13T21`, day = `2026-10-12T22`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Rocket League | +8.22 | 21 | 31,076 | +728% | +261% | 99 | +12% | 0.5401 | IGNITION:peereira7,paache_ |
-| 2 | Hearthstone | +6.04 | 23 | 23,422 | +41% | +339% | 99 | -1% | 0.1361 | IGNITION:zeddy,xqn_thesad |
-| 3 | Guild Wars 2 | +4.25 | 46 | 7,970 | - | - | 91 | - | 0.2211 | ENTRY IGNITION:laranity,mukluk |
-| 4 | Valheim | +4.06 | 29 | 14,839 | +127% | +46% | 100 | +0% | 0.4566 | IGNITION:quin69,shylily |
-| 5 | Deadlock | +4.00 | 10 | 59,207 | +202% | +291% | 94 | -4% | 0.1534 |  |
-| 6 | The Long Drive | +3.92 | 27 | 16,770 | +82% | +2% | 6 | +50% | 0.5085 | IGNITION:vedal987,crelly |
-| 7 | Project Zomboid | +3.83 | 65 | 5,069 | - | +70% | 100 | - | 0.4476 | ENTRY IGNITION:edopeh |
-| 8 | MapleStory | +3.73 | 57 | 6,233 | +51% | +36% | 91 | -1% | 0.36 | IGNITION:ereklo_game,kaise |
-| 9 | Clive Barker's Hellraiser: Revival | +3.72 | 25 | 18,957 | +160% | +1% | 98 | -2% | 0.1773 | IGNITION:zentreya,h0llylp |
-| 10 | Road to Empress II | +3.25 | 53 | 6,996 | - | - | 2 | - | 0.9999 | ENTRY IGNITION:antoinedaniel |
-| 11 | Dark Souls: Remastered | +3.25 | 52 | 7,132 | - | - | 77 | - | 0.8352 | ENTRY IGNITION:bonjwa |
-| 12 | Scam With Your Friends | +3.25 | 98 | 3,012 | - | - | 4 | - | 0.7374 | ENTRY IGNITION:marco_scm |
-| 13 | Deep Dish Dungeon | +3.25 | 31 | 14,092 | - | - | 51 | - | 0.9377 | ENTRY IGNITION:alanzoka |
-| 14 | The Binding of Isaac: Repentance | +3.25 | 71 | 5,010 | - | - | 90 | - | 0.7659 | ENTRY IGNITION:shisheyu |
-| 15 | ELDEN RING | +3.20 | 44 | 8,152 | +44% | +96% | 92 | -8% | 0.3422 | IGNITION:florence |
+| 1 | RESIDENT EVIL: requiem | +4.25 | 37 | 8,668 | - | - | 99 | - | 0.6992 | ENTRY IGNITION:lospollostv,s_chilla |
+| 2 | Fears to Fathom - Scratch Creek | +4.25 | 60 | 5,177 | - | - | 14 | - | 0.7947 | ENTRY IGNITION:fuslie,hjune |
+| 3 | Geometry Dash | +3.85 | 46 | 5,971 | - | +26% | 100 | - | 0.629 | ENTRY IGNITION:doggie |
+| 4 | Madden NFL 27 | +3.28 | 65 | 2,881 | - | +50% | 99 | - | 0.3665 | ENTRY |
+| 5 | Trackmania | +3.25 | 86 | 2,914 | - | - | 24 | - | 0.8902 | ENTRY IGNITION:therealmarzaa |
+| 6 | FAITH: Chapter III | +3.25 | 88 | 2,809 | - | - | 1 | - | 1.0 | ENTRY IGNITION:dansgaming |
+| 7 | iRacing | +3.25 | 45 | 6,005 | - | - | 98 | - | 0.5217 | ENTRY IGNITION:nascar |
+| 8 | Cosmodread | +3.25 | 50 | 5,668 | - | - | 1 | - | 1.0 | ENTRY IGNITION:vinesauce |
+| 9 | Hood Warfare | +3.25 | 100 | 2,097 | - | - | 23 | - | 0.928 | ENTRY IGNITION:zoomaa |
+| 10 | MapleStory | +3.18 | 44 | 6,288 | +1% | +37% | 100 | +10% | 0.3314 | BREADTH IGNITION:ereklo_game |
+| 11 | Teamfight Tactics | +2.97 | 29 | 11,893 | +0% | +23% | 95 | +1% | 0.2572 | BREADTH IGNITION:boxbox,setsuko |
+| 12 | ARC Raiders | +2.42 | 5 | 63,576 | +66% | +183% | 98 | -2% | 0.7332 |  |
+| 13 | Alien: Isolation | +2.25 | 83 | 3,004 | - | - | 99 | - | 0.5186 | ENTRY |
+| 14 | Once Human | +2.25 | 97 | 1,936 | - | - | 100 | - | 0.4416 | ENTRY |
+| 15 | R2 Online: Reign of Revolution | +2.25 | 96 | 2,248 | - | - | 17 | - | 0.5116 | ENTRY |
 
 ## Ignition alerts
 
@@ -30,30 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Rocket League | peereira7 | 235,604 | 16,785 | 54% | 21 |
-| Deep Dish Dungeon | alanzoka | 16,698 | 13,214 | 94% | 31 |
-| The Long Drive | vedal987 | 9,747 | 8,527 | 51% | 27 |
-| Road to Empress II | antoinedaniel | 15,073 | 6,995 | 100% | 53 |
-| Terraria | squeex | 10,291 | 6,028 | 92% | 55 |
-| Dark Souls: Remastered | bonjwa | 12,174 | 5,957 | 84% | 52 |
-| Heroes of the Storm | grubby | 9,492 | 4,989 | 87% | 62 |
-| The Binding of Isaac: Repentance | shisheyu | 4,961 | 3,837 | 77% | 71 |
-| Scam With Your Friends | marco_scm | 4,941 | 2,221 | 74% | 98 |
+| Silver Pines | alanzoka | 16,698 | 6,767 | 68% | 34 |
+| RESIDENT EVIL: requiem | lospollostv | 9,275 | 6,061 | 70% | 37 |
+| Cosmodread | vinesauce | 10,423 | 5,668 | 100% | 50 |
+| Fears to Fathom - Scratch Creek | fuslie | 19,522 | 4,114 | 79% | 60 |
+| Geometry Dash | doggie | 5,085 | 3,756 | 63% | 46 |
+| Clash Royale | narek_cr | 3,886 | 3,209 | 83% | 71 |
+| iRacing | nascar | 3,133 | 3,133 | 52% | 45 |
+| FAITH: Chapter III | dansgaming | 7,837 | 2,809 | 100% | 88 |
+| Trackmania | therealmarzaa | 7,475 | 2,594 | 89% | 86 |
+| Hood Warfare | zoomaa | 3,592 | 1,946 | 93% | 100 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 2.668 | Grand Theft Auto V | 178,706 | 66,986 |
-| 1.085 | Escape from Tarkov | 43,466 | 40,053 |
-| 0.939 | Rocket League | 31,076 | 33,086 |
-| 0.388 | Overwatch | 31,655 | 81,528 |
-| 0.318 | Dead by Daylight | 20,158 | 63,422 |
-| 0.047 | Apex Legends | 10,166 | 214,517 |
-| 0.038 | Delta Force | 4,991 | 131,038 |
-| 0.037 | Slay the Spire II | 3,483 | 95,408 |
-| 0.03 | Aniimo | 2,270 | 75,520 |
-| 0.011 | PUBG: BATTLEGROUNDS | 7,655 | 679,146 |
+| 2.121 | Grand Theft Auto V | 142,075 | 66,986 |
+| 0.846 | Escape from Tarkov | 33,897 | 40,053 |
+| 0.423 | Rocket League | 14,005 | 33,086 |
+| 0.417 | ARC Raiders | 63,576 | 152,547 |
+| 0.235 | Dead by Daylight | 14,902 | 63,422 |
+| 0.034 | Rust | 3,941 | 116,035 |
+| 0.034 | Aniimo | 2,551 | 75,520 |
+| 0.025 | Dota 2 | 22,923 | 930,820 |
+| 0.024 | Counter-Strike | 30,182 | 1,248,671 |
+| 0.018 | Valheim | 2,845 | 159,969 |
 
 ---
 
