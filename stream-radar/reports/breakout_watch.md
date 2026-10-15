@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-10-14T23` (UTC). History: 197 snapshots spanning 1050h.
-Reference windows: short = `2026-10-14T18`, day = `2026-10-13T21`.
+Generated from snapshot `2026-10-15T04` (UTC). History: 198 snapshots spanning 1055h.
+Reference windows: short = `2026-10-14T23`, day = `2026-10-14T01`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Street Fighter 6 | +4.69 | 18 | 26,031 | +207% | +239% | 99 | +1% | 0.4215 |  |
-| 2 | Teamfight Tactics | +4.48 | 23 | 17,848 | +98% | +51% | 98 | +5% | 0.1694 | IGNITION:boxbox,florence |
-| 3 | PUBG: BATTLEGROUNDS | +3.72 | 22 | 17,443 | +65% | +128% | 98 | -2% | 0.4932 | IGNITION:sasavot |
-| 4 | League of Legends | +3.44 | 1 | 326,681 | +112% | +433% | 98 | -2% | 0.6378 |  |
-| 5 | ELDEN RING | +3.25 | 35 | 9,551 | +38% | +17% | 100 | +2% | 0.2976 | IGNITION:zoomaa,lilaggy |
-| 6 | World of Warships | +3.25 | 94 | 2,567 | - | - | 31 | - | 0.8411 | ENTRY IGNITION:worldofwarships |
-| 7 | Warhammer 40,000: Space Marine II | +3.25 | 65 | 4,344 | - | - | 94 | - | 0.6333 | ENTRY IGNITION:firsttourguardsman |
-| 8 | Fatal Frame: Maiden of Black Water | +3.25 | 83 | 3,400 | - | - | 1 | - | 1.0 | ENTRY IGNITION:dansgaming |
-| 9 | Resident Evil Village | +3.25 | 61 | 5,144 | - | - | 96 | - | 0.9246 | ENTRY IGNITION:realkatieb |
-| 10 | Master Healer Kale With Useless Party | +3.25 | 95 | 2,921 | - | - | 1 | - | 1.0 | ENTRY IGNITION:admiralbahroo |
-| 11 | The Last of Us Part I | +3.25 | 75 | 4,026 | - | - | 45 | - | 0.5343 | ENTRY IGNITION:s_chilla |
-| 12 | Call of Duty: Modern Warfare 4 | +3.25 | 62 | 5,041 | - | - | 21 | - | 0.9843 | ENTRY IGNITION:callofduty |
-| 13 | Pokémon Community Game | +3.25 | 51 | 6,202 | - | - | 73 | - | 0.8349 | ENTRY IGNITION:knekro |
-| 14 | Castlevania: Belmont's Curse | +3.25 | 37 | 9,206 | - | - | 52 | - | 0.9491 | ENTRY IGNITION:alanzoka |
-| 15 | Silver Pines | +3.16 | 54 | 5,530 | - | -23% | 82 | - | 0.526 | ENTRY IGNITION:avoidingthepuddle,fugu_fps |
+| 1 | R.E.P.O. | +4.79 | 56 | 3,802 | - | +126% | 99 | - | 0.6683 | ENTRY IGNITION:masayoshi |
+| 2 | STAR WARS: Galactic Racer | +4.71 | 45 | 5,396 | - | +34% | 100 | - | 0.5269 | ENTRY IGNITION:atrioc,zchum |
+| 3 | HATSUNE MIKU: COLORFUL STAGE! | +4.25 | 22 | 9,973 | - | - | 5 | - | 0.6011 | ENTRY IGNITION:ironmouse,cdawg |
+| 4 | Dragon's Dogma II | +4.14 | 36 | 7,099 | - | +145% | 97 | - | 0.2021 | ENTRY |
+| 5 | I'm Only Sleeping | +4.11 | 38 | 6,131 | +91% | +13% | 99 | +2% | 0.1664 | IGNITION:coachlim,lota |
+| 6 | Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island | +3.25 | 88 | 1,899 | - | - | 7 | - | 0.9642 | ENTRY IGNITION:naru0419045 |
+| 7 | Red Dead Redemption: Undead Nightmare | +3.25 | 32 | 8,415 | - | - | 4 | - | 0.9809 | ENTRY IGNITION:fanum |
+| 8 | Minecraft Dungeons II | +3.25 | 96 | 1,696 | - | - | 85 | - | 0.4245 | ENTRY IGNITION:yetr |
+| 9 | The Witcher 3: Wild Hunt | +3.17 | 85 | 1,950 | - | - | 65 | - | 0.5405 | ENTRY IGNITION:dropsbadge |
+| 10 | ACE COMBAT 8: WINGS OF THEVE | +3.15 | 42 | 6,090 | - | - | 91 | - | 0.7337 | ENTRY IGNITION:vinesauce |
+| 11 | Fatal Frame: Maiden of Black Water | +3.04 | 72 | 2,297 | -32% | - | 4 | +300% | 0.9965 | ENTRY IGNITION:dansgaming |
+| 12 | R2 Online: Reign of Revolution | +2.99 | 70 | 2,358 | - | +5% | 29 | - | 0.5089 | ENTRY |
+| 13 | FINAL FANTASY VII | +2.25 | 73 | 2,280 | - | - | 16 | - | 0.9022 | ENTRY |
+| 14 | ARKNIGHTS: ENDFIELD | +2.25 | 46 | 5,261 | - | - | 99 | - | 0.3224 | ENTRY |
+| 15 | Super Smash Bros. Melee | +2.25 | 89 | 1,904 | - | - | 21 | - | 0.5599 | ENTRY |
 
 ## Ignition alerts
 
@@ -30,31 +30,29 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Castlevania: Belmont's Curse | alanzoka | 16,698 | 8,737 | 95% | 37 |
-| Pokémon Community Game | knekro | 13,933 | 5,178 | 83% | 51 |
-| Call of Duty: Modern Warfare 4 | callofduty | 4,962 | 4,962 | 98% | 62 |
-| Terraria | squeex | 10,291 | 4,845 | 92% | 58 |
-| Resident Evil Village | realkatieb | 18,641 | 4,756 | 92% | 61 |
-| Rocket League | kaydop | 4,945 | 3,783 | 51% | 39 |
-| Fatal Frame: Maiden of Black Water | dansgaming | 7,837 | 3,400 | 100% | 83 |
-| Heroes of the Storm | grubby | 9,492 | 3,168 | 77% | 73 |
-| Master Healer Kale With Useless Party | admiralbahroo | 3,551 | 2,921 | 100% | 95 |
-| Silver Pines | avoidingthepuddle | 3,313 | 2,909 | 53% | 54 |
+| Red Dead Redemption: Undead Nightmare | fanum | 11,401 | 8,254 | 98% | 32 |
+| HATSUNE MIKU: COLORFUL STAGE! | ironmouse | 19,982 | 5,995 | 60% | 22 |
+| ACE COMBAT 8: WINGS OF THEVE | vinesauce | 10,423 | 4,468 | 73% | 42 |
+| Geometry Dash | doggie | 5,085 | 3,238 | 89% | 59 |
+| STAR WARS: Galactic Racer | atrioc | 3,155 | 2,843 | 53% | 45 |
+| R.E.P.O. | masayoshi | 3,278 | 2,541 | 67% | 56 |
+| Fatal Frame: Maiden of Black Water | dansgaming | 7,837 | 2,289 | 100% | 72 |
+| Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island | naru0419045 | 6,288 | 1,831 | 96% | 88 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 2.16 | Grand Theft Auto V | 144,679 | 66,986 |
-| 0.688 | Street Fighter 6 | 26,031 | 37,825 |
-| 0.299 | EA Sports FC 27 | 24,738 | 82,775 |
-| 0.286 | ELDEN RING | 9,551 | 33,438 |
-| 0.282 | Escape from Tarkov | 11,287 | 40,053 |
-| 0.033 | Aniimo | 2,528 | 75,520 |
-| 0.026 | PUBG: BATTLEGROUNDS | 17,443 | 679,146 |
-| 0.023 | Counter-Strike | 28,787 | 1,248,671 |
-| 0.021 | Rust | 2,476 | 116,035 |
-| 0.02 | Delta Force | 2,675 | 131,038 |
+| 1.436 | Grand Theft Auto V | 88,693 | 61,778 |
+| 0.353 | ARC Raiders | 53,031 | 150,137 |
+| 0.298 | ACE COMBAT 8: WINGS OF THEVE | 6,090 | 20,470 |
+| 0.231 | Overwatch | 16,207 | 70,144 |
+| 0.21 | Dragon's Dogma II | 7,099 | 33,792 |
+| 0.023 | Dota 2 | 20,130 | 859,106 |
+| 0.022 | Warframe | 1,491 | 67,689 |
+| 0.014 | Counter-Strike | 17,408 | 1,280,126 |
+| 0.013 | Delta Force | 1,618 | 121,160 |
+| 0.002 | PUBG: BATTLEGROUNDS | 1,610 | 803,114 |
 
 ---
 
