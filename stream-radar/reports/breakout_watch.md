@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-10-15T16` (UTC). History: 200 snapshots spanning 1067h.
-Reference windows: short = `2026-10-15T11`, day = `2026-10-14T18`.
+Generated from snapshot `2026-10-15T21` (UTC). History: 201 snapshots spanning 1072h.
+Reference windows: short = `2026-10-15T16`, day = `2026-10-14T23`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | The Witcher 3: Wild Hunt | +8.39 | 34 | 13,269 | +253% | +268% | 99 | +2% | 0.533 | IGNITION:elajjaz,missmikkaa |
-| 2 | Rust | +6.54 | 43 | 9,810 | +352% | +124% | 97 | -2% | 0.2433 | IGNITION:oilrats |
-| 3 | Call of Duty: Warzone | +6.39 | 23 | 25,533 | +319% | +142% | 100 | +0% | 0.3965 | IGNITION:mvrwizy,camy |
-| 4 | ROBLOX | +6.38 | 27 | 17,972 | +1523% | -20% | 97 | +13% | 0.7827 | IGNITION:t2x2 |
-| 5 | Warframe | +5.70 | 40 | 8,824 | - | +89% | 98 | - | 0.2616 | ENTRY IGNITION:aztecross,pupsker |
-| 6 | SILENT HILL: townfall | +5.21 | 65 | 6,063 | +127% | - | 97 | +73% | 0.4986 | ENTRY IGNITION:shxtou,anthonydaytv |
-| 7 | Rainbow Six Siege | +5.16 | 32 | 12,769 | +491% | +108% | 96 | -3% | 0.1991 |  |
-| 8 | Enshrouded | +5.14 | 12 | 43,233 | +400% | +151% | 100 | +11% | 0.1645 |  |
-| 9 | Marvel Rivals | +4.83 | 22 | 25,506 | +101% | +128% | 99 | +0% | 0.3585 | IGNITION:marvelrivals,jay3 |
-| 10 | Fortnite | +4.33 | 6 | 77,037 | +367% | +141% | 99 | +0% | 0.1094 |  |
-| 11 | Cuphead | +4.25 | 26 | 20,808 | - | - | 28 | - | 0.8724 | ENTRY IGNITION:peereira7,agustin51 |
-| 12 | OpenFront | +4.25 | 45 | 9,824 | - | - | 10 | - | 0.4577 | ENTRY IGNITION:bonjwa,pietsmiet |
-| 13 | Gears of War: E-Day | +3.76 | 76 | 4,335 | +165% | - | 100 | +4% | 0.3301 | ENTRY IGNITION:vegetta777 |
-| 14 | Terraria | +3.74 | 46 | 9,688 | - | +15% | 84 | - | 0.7972 | ENTRY IGNITION:forsen,assarisyoko1 |
-| 15 | Valheim | +3.58 | 38 | 11,537 | +158% | -12% | 99 | +1% | 0.5423 | IGNITION:quin69,distortion2 |
+| 1 | Enshrouded | +7.21 | 12 | 49,136 | +14% | +1763% | 96 | -4% | 0.1269 |  |
+| 2 | Rainbow Six Siege | +5.70 | 11 | 57,272 | +349% | +521% | 100 | +4% | 0.5721 |  |
+| 3 | Planet Zoo 2 | +4.30 | 31 | 16,123 | +65% | +102% | 99 | +2% | 0.3177 | IGNITION:h2p_gucio,lilsimsie |
+| 4 | the cabin game | +4.25 | 22 | 27,228 | - | - | 6 | - | 0.4088 | ENTRY IGNITION:joe_bartolozzi,supertf |
+| 5 | Rust | +4.07 | 42 | 8,913 | -9% | +260% | 99 | +2% | 0.2611 | IGNITION:oilrats |
+| 6 | ELDEN RING | +4.02 | 43 | 8,803 | +230% | -8% | 99 | +5% | 0.2446 | IGNITION:lilaggy,captain_domo |
+| 7 | Rocket League | +3.93 | 35 | 12,406 | +90% | +67% | 99 | +1% | 0.3277 | IGNITION:kaydop,mawkzy_ |
+| 8 | WARDOGS | +3.50 | 9 | 57,589 | +3% | +854% | 95 | -5% | 0.1476 |  |
+| 9 | Warframe | +3.30 | 46 | 7,591 | -14% | +102% | 96 | -2% | 0.3473 | IGNITION:brozime,pupsker |
+| 10 | Teamfight Tactics | +3.28 | 26 | 17,939 | +87% | +1% | 100 | +9% | 0.2034 | IGNITION:vornixfunk,loltyler1 |
+| 11 | STAR WARS: Galactic Racer | +3.25 | 78 | 4,478 | - | - | 95 | - | 0.6956 | ENTRY IGNITION:zentreya |
+| 12 | Marathon | +3.25 | 88 | 3,857 | - | - | 100 | - | 0.503 | ENTRY IGNITION:aztecross |
+| 13 | Mario Kart World | +3.25 | 79 | 4,447 | - | - | 26 | - | 0.8734 | ENTRY IGNITION:batora324 |
+| 14 | Bramble: The Mountain King | +3.25 | 95 | 3,501 | - | - | 7 | - | 0.9751 | ENTRY IGNITION:dansgaming |
+| 15 | Peggle | +3.25 | 68 | 5,157 | - | - | 2 | - | 0.9977 | ENTRY IGNITION:dougdoug |
 
 ## Ignition alerts
 
@@ -30,31 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Cuphead | peereira7 | 235,604 | 18,152 | 87% | 26 |
-| ROBLOX | t2x2 | 16,777 | 14,066 | 78% | 27 |
-| The Long Drive | vedal987 | 9,747 | 8,090 | 51% | 31 |
-| Terraria | forsen | 10,577 | 7,723 | 80% | 46 |
-| The Witcher 3: Wild Hunt | elajjaz | 13,191 | 7,072 | 53% | 34 |
-| Valheim | quin69 | 12,132 | 6,256 | 54% | 38 |
-| Trackmania | zerator | 65,739 | 6,188 | 77% | 52 |
-| World of Warships | worldofwarships | 13,050 | 6,103 | 84% | 59 |
-| Jinro Metropolis | xhalli4x | 5,302 | 3,896 | 100% | 88 |
-| Chant Wizard | sleduck | 5,255 | 3,791 | 90% | 83 |
+| World of Tanks | quickybaby | 13,247 | 7,134 | 53% | 37 |
+| Crusader Kings III | antoinedaniel | 15,073 | 6,499 | 98% | 59 |
+| The Witcher 3: Wild Hunt | elajjaz | 13,191 | 5,890 | 72% | 51 |
+| Peggle | dougdoug | 6,682 | 5,145 | 100% | 68 |
+| Heroes of the Storm | grubby | 9,492 | 4,041 | 81% | 72 |
+| Mario Kart World | batora324 | 21,701 | 3,884 | 87% | 79 |
+| Bramble: The Mountain King | dansgaming | 7,837 | 3,414 | 98% | 95 |
+| Halloween: The Game | lollolacustre | 6,678 | 3,161 | 76% | 82 |
+| STAR WARS: Galactic Racer | zentreya | 5,347 | 3,115 | 70% | 78 |
+| Marathon | aztecross | 7,192 | 1,940 | 50% | 88 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 1.375 | Grand Theft Auto V | 84,922 | 61,778 |
-| 0.509 | EA Sports FC 27 | 37,804 | 74,318 |
-| 0.447 | WARDOGS | 55,654 | 124,583 |
-| 0.37 | Marvel Rivals | 25,506 | 69,027 |
-| 0.353 | Escape from Tarkov | 13,350 | 37,854 |
-| 0.066 | Street Fighter 6 | 3,010 | 45,922 |
-| 0.064 | VRChat | 3,368 | 52,796 |
-| 0.056 | Aniimo | 3,301 | 58,758 |
-| 0.029 | Delta Force | 3,534 | 121,160 |
-| 0.008 | PUBG: BATTLEGROUNDS | 6,396 | 803,114 |
+| 1.98 | Grand Theft Auto V | 122,305 | 61,778 |
+| 0.825 | Rainbow Six Siege | 57,272 | 69,453 |
+| 0.471 | Balatro | 3,833 | 8,137 |
+| 0.462 | WARDOGS | 57,589 | 124,583 |
+| 0.425 | Rocket League | 12,406 | 29,193 |
+| 0.079 | Street Fighter 6 | 3,642 | 45,922 |
+| 0.069 | Valheim | 8,594 | 124,728 |
+| 0.062 | Apex Legends | 13,510 | 218,353 |
+| 0.057 | Project Zomboid | 3,386 | 58,969 |
+| 0.009 | PUBG: BATTLEGROUNDS | 7,186 | 803,114 |
 
 ---
 
