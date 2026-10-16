@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-10-16T00` (UTC). History: 202 snapshots spanning 1075h.
-Reference windows: short = `2026-10-15T16`, day = `2026-10-14T23`.
+Generated from snapshot `2026-10-16T07` (UTC). History: 203 snapshots spanning 1082h.
+Reference windows: short = `2026-10-16T00`, day = `2026-10-15T04`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Warframe | +6.18 | 26 | 14,715 | +67% | +291% | 100 | +2% | 0.6856 | IGNITION:ottofyre,brozime |
-| 2 | Enshrouded | +5.34 | 14 | 26,390 | -39% | +901% | 99 | -1% | 0.1313 |  |
-| 3 | Delta Force | +4.96 | 46 | 6,770 | +92% | +153% | 100 | +2% | 0.3176 | IGNITION:skipnho |
-| 4 | Super Mario Odyssey | +3.25 | 98 | 2,168 | - | - | 26 | - | 0.5959 | ENTRY IGNITION:smallant |
-| 5 | Peggle | +3.25 | 62 | 4,969 | - | - | 4 | - | 0.9924 | ENTRY IGNITION:dougdoug |
-| 6 | Refund This Game | +3.25 | 35 | 10,755 | - | - | 1 | - | 1.0 | ENTRY IGNITION:moonmoon |
-| 7 | SILENT HILL 2 | +3.25 | 33 | 12,169 | - | - | 65 | - | 0.9593 | ENTRY IGNITION:emiru |
-| 8 | Grand Theft Auto: San Andreas | +3.25 | 24 | 19,387 | - | - | 52 | - | 0.9896 | ENTRY IGNITION:illojuan |
-| 9 | Mario Kart World | +3.25 | 67 | 4,653 | - | - | 31 | - | 0.942 | ENTRY IGNITION:batora324 |
-| 10 | Serve or Die | +3.25 | 90 | 2,917 | - | - | 2 | - | 0.9997 | ENTRY IGNITION:henyathegenius |
-| 11 | Bramble: The Mountain King | +3.25 | 94 | 2,673 | - | - | 3 | - | 0.9966 | ENTRY IGNITION:dansgaming |
-| 12 | Dumb Ways to Build | +3.25 | 63 | 4,910 | - | - | 13 | - | 0.991 | ENTRY IGNITION:vinesauce |
-| 13 | Horripilant | +3.25 | 92 | 2,785 | - | - | 2 | - | 0.9989 | ENTRY IGNITION:h2p_gucio |
-| 14 | Slay the Spire II | +3.25 | 39 | 8,618 | - | - | 73 | - | 0.7465 | ENTRY IGNITION:supertf |
-| 15 | Geometry Dash | +3.17 | 72 | 4,297 | - | - | 99 | - | 0.4654 | ENTRY IGNITION:etoiles |
+| 1 | VALORANT | +6.14 | 1 | 153,268 | +478% | +940% | 98 | -1% | 0.1977 |  |
+| 2 | I'm Only Sleeping | +4.66 | 15 | 15,667 | +305% | +156% | 100 | +0% | 0.5768 |  |
+| 3 | ROBLOX | +4.29 | 27 | 8,447 | +70% | +275% | 92 | -5% | 0.8766 | IGNITION:paulsteve007 |
+| 4 | PUBG: BATTLEGROUNDS | +4.27 | 41 | 5,035 | +14% | +213% | 99 | -1% | 0.2405 | IGNITION:haumpah |
+| 5 | Enshrouded | +4.19 | 18 | 14,558 | -45% | +571% | 99 | +0% | 0.1908 |  |
+| 6 | Condemned 2: Bloodshot | +3.25 | 73 | 2,388 | - | - | 2 | - | 0.9996 | ENTRY IGNITION:dansgaming |
+| 7 | Trash Day | +3.25 | 76 | 2,338 | - | - | 12 | - | 0.9384 | ENTRY IGNITION:shinjifromjapanxd |
+| 8 | Wizard101 | +3.25 | 44 | 5,078 | - | - | 16 | - | 0.9866 | ENTRY IGNITION:silky |
+| 9 | Invincible VS | +3.25 | 42 | 5,204 | - | - | 2 | - | 0.9988 | ENTRY IGNITION:maximilian_dood |
+| 10 | Metin2 | +3.25 | 87 | 2,037 | - | - | 17 | - | 0.8218 | ENTRY IGNITION:gekkox3 |
+| 11 | Community Inc | +3.25 | 65 | 2,832 | - | - | 1 | - | 1.0 | ENTRY IGNITION:vargskelethor |
+| 12 | Thank You Bus Driver | +3.25 | 92 | 1,865 | - | - | 1 | - | 1.0 | ENTRY IGNITION:mynthos |
+| 13 | Chained Beasts | +3.25 | 82 | 2,142 | - | - | 9 | - | 0.4552 | ENTRY IGNITION:mimiluckying |
+| 14 | The Witcher 3: Wild Hunt | +2.85 | 81 | 2,149 | - | +10% | 77 | - | 0.5668 | ENTRY IGNITION:dropsbadge |
+| 15 | World of Tanks | +2.73 | 53 | 4,211 | -8% | +18% | 85 | +15% | 0.3538 | IGNITION:dakillzor,dezgamez |
 
 ## Ignition alerts
 
@@ -30,31 +30,30 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Grand Theft Auto: San Andreas | illojuan | 38,408 | 19,186 | 99% | 24 |
-| SILENT HILL 2 | emiru | 14,104 | 11,674 | 96% | 33 |
-| Refund This Game | moonmoon | 14,354 | 10,755 | 100% | 35 |
-| Warframe | ottofyre | 10,089 | 10,089 | 69% | 26 |
-| Slay the Spire II | supertf | 14,663 | 6,433 | 75% | 39 |
-| Rocket League | kaydop | 5,146 | 5,146 | 54% | 34 |
-| Peggle | dougdoug | 6,682 | 4,931 | 99% | 62 |
-| Dumb Ways to Build | vinesauce | 10,423 | 4,866 | 99% | 63 |
-| Mario Kart World | batora324 | 21,701 | 4,383 | 94% | 67 |
-| Serve or Die | henyathegenius | 4,538 | 2,916 | 100% | 90 |
+| ROBLOX | paulsteve007 | 7,405 | 7,405 | 88% | 27 |
+| Mario Kart World | batora324 | 21,701 | 6,104 | 99% | 35 |
+| Invincible VS | maximilian_dood | 9,734 | 5,198 | 100% | 42 |
+| Wizard101 | silky | 26,260 | 5,010 | 99% | 44 |
+| R.E.P.O. | kkatamina | 4,868 | 3,273 | 87% | 56 |
+| Community Inc | vargskelethor | 4,765 | 2,832 | 100% | 65 |
+| Condemned 2: Bloodshot | dansgaming | 7,837 | 2,387 | 100% | 73 |
+| Trash Day | shinjifromjapanxd | 6,318 | 2,194 | 94% | 76 |
+| Thank You Bus Driver | mynthos | 5,723 | 1,865 | 100% | 92 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 2.143 | Grand Theft Auto V | 132,402 | 61,778 |
-| 0.412 | Marvel Rivals | 28,442 | 69,027 |
-| 0.342 | ARC Raiders | 51,381 | 150,137 |
-| 0.328 | Rocket League | 9,588 | 29,193 |
-| 0.312 | Phasmophobia | 4,894 | 15,665 |
-| 0.032 | Dota 2 | 27,236 | 859,106 |
-| 0.03 | Apex Legends | 6,564 | 218,353 |
-| 0.026 | Counter-Strike | 32,779 | 1,280,126 |
-| 0.021 | Valheim | 2,632 | 124,728 |
-| 0.005 | PUBG: BATTLEGROUNDS | 4,398 | 803,114 |
+| 0.739 | Grand Theft Auto V | 46,191 | 62,522 |
+| 0.614 | Castlevania: Belmont's Curse | 11,221 | 18,261 |
+| 0.223 | Enshrouded | 14,558 | 65,204 |
+| 0.184 | R.E.P.O. | 3,776 | 20,517 |
+| 0.159 | Dead by Daylight | 10,224 | 64,446 |
+| 0.019 | Warframe | 1,844 | 97,217 |
+| 0.019 | Delta Force | 2,194 | 117,067 |
+| 0.017 | Valheim | 2,004 | 115,989 |
+| 0.013 | Counter-Strike | 15,072 | 1,165,887 |
+| 0.006 | PUBG: BATTLEGROUNDS | 5,035 | 789,961 |
 
 ---
 
