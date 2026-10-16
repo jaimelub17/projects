@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-10-16T07` (UTC). History: 203 snapshots spanning 1082h.
-Reference windows: short = `2026-10-16T00`, day = `2026-10-15T04`.
+Generated from snapshot `2026-10-16T13` (UTC). History: 204 snapshots spanning 1088h.
+Reference windows: short = `2026-10-16T07`, day = `2026-10-15T11`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | VALORANT | +6.14 | 1 | 153,268 | +478% | +940% | 98 | -1% | 0.1977 |  |
-| 2 | I'm Only Sleeping | +4.66 | 15 | 15,667 | +305% | +156% | 100 | +0% | 0.5768 |  |
-| 3 | ROBLOX | +4.29 | 27 | 8,447 | +70% | +275% | 92 | -5% | 0.8766 | IGNITION:paulsteve007 |
-| 4 | PUBG: BATTLEGROUNDS | +4.27 | 41 | 5,035 | +14% | +213% | 99 | -1% | 0.2405 | IGNITION:haumpah |
-| 5 | Enshrouded | +4.19 | 18 | 14,558 | -45% | +571% | 99 | +0% | 0.1908 |  |
-| 6 | Condemned 2: Bloodshot | +3.25 | 73 | 2,388 | - | - | 2 | - | 0.9996 | ENTRY IGNITION:dansgaming |
-| 7 | Trash Day | +3.25 | 76 | 2,338 | - | - | 12 | - | 0.9384 | ENTRY IGNITION:shinjifromjapanxd |
-| 8 | Wizard101 | +3.25 | 44 | 5,078 | - | - | 16 | - | 0.9866 | ENTRY IGNITION:silky |
-| 9 | Invincible VS | +3.25 | 42 | 5,204 | - | - | 2 | - | 0.9988 | ENTRY IGNITION:maximilian_dood |
-| 10 | Metin2 | +3.25 | 87 | 2,037 | - | - | 17 | - | 0.8218 | ENTRY IGNITION:gekkox3 |
-| 11 | Community Inc | +3.25 | 65 | 2,832 | - | - | 1 | - | 1.0 | ENTRY IGNITION:vargskelethor |
-| 12 | Thank You Bus Driver | +3.25 | 92 | 1,865 | - | - | 1 | - | 1.0 | ENTRY IGNITION:mynthos |
-| 13 | Chained Beasts | +3.25 | 82 | 2,142 | - | - | 9 | - | 0.4552 | ENTRY IGNITION:mimiluckying |
-| 14 | The Witcher 3: Wild Hunt | +2.85 | 81 | 2,149 | - | +10% | 77 | - | 0.5668 | ENTRY IGNITION:dropsbadge |
-| 15 | World of Tanks | +2.73 | 53 | 4,211 | -8% | +18% | 85 | +15% | 0.3538 | IGNITION:dakillzor,dezgamez |
+| 1 | Where Winds Meet | +7.97 | 40 | 8,856 | +113% | +410% | 77 | +51% | 0.4483 | IGNITION:mobilmobil,godjj |
+| 2 | Planet Zoo 2 | +7.02 | 11 | 36,313 | +1633% | +21% | 97 | +116% | 0.7726 |  |
+| 3 | Rainbow Six Siege | +6.99 | 30 | 13,676 | +214% | +533% | 97 | +5% | 0.6549 | IGNITION:rainbow6 |
+| 4 | Escape from Tarkov | +5.97 | 28 | 14,790 | +274% | +143% | 98 | -1% | 0.2744 | IGNITION:cr_arisakaaa,glorious_e |
+| 5 | Splatoon 3 | +5.70 | 13 | 36,280 | - | +724% | 90 | - | 0.37 | ENTRY |
+| 6 | Street Fighter 6 | +5.55 | 17 | 27,671 | +491% | +297% | 99 | -1% | 0.2314 |  |
+| 7 | World of Tanks | +4.46 | 32 | 12,784 | +204% | +31% | 98 | +15% | 0.3316 | IGNITION:quickybaby,dakillzor |
+| 8 | Rocket League | +4.44 | 50 | 5,318 | +129% | +130% | 99 | +0% | 0.5348 | IGNITION:atowwwww |
+| 9 | Castlevania: Belmont's Curse | +4.19 | 21 | 21,238 | +89% | +113% | 100 | +0% | 0.2887 | IGNITION:mistermv,cdawg |
+| 10 | Albion Online | +4.05 | 51 | 5,806 | +231% | +39% | 98 | +92% | 0.2168 |  |
+| 11 | Rust | +3.81 | 46 | 6,256 | +83% | +188% | 100 | +2% | 0.1913 |  |
+| 12 | Marvel Rivals | +3.42 | 25 | 16,303 | +88% | +29% | 100 | +4% | 0.2918 | IGNITION:marvelrivals,jay3 |
+| 13 | NARAKA: BLADEPOINT | +3.25 | 65 | 3,961 | - | - | 31 | - | 0.9293 | ENTRY IGNITION:shipbroman |
+| 14 | Crow Country | +3.25 | 74 | 3,345 | - | - | 4 | - | 0.9931 | ENTRY IGNITION:dansgaming |
+| 15 | $cam With Your Friends | +3.25 | 55 | 5,161 | - | - | 43 | - | 0.8281 | ENTRY IGNITION:stintik |
 
 ## Ignition alerts
 
@@ -30,30 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| ROBLOX | paulsteve007 | 7,405 | 7,405 | 88% | 27 |
-| Mario Kart World | batora324 | 21,701 | 6,104 | 99% | 35 |
-| Invincible VS | maximilian_dood | 9,734 | 5,198 | 100% | 42 |
-| Wizard101 | silky | 26,260 | 5,010 | 99% | 44 |
-| R.E.P.O. | kkatamina | 4,868 | 3,273 | 87% | 56 |
-| Community Inc | vargskelethor | 4,765 | 2,832 | 100% | 65 |
-| Condemned 2: Bloodshot | dansgaming | 7,837 | 2,387 | 100% | 73 |
-| Trash Day | shinjifromjapanxd | 6,318 | 2,194 | 94% | 76 |
-| Thank You Bus Driver | mynthos | 5,723 | 1,865 | 100% | 92 |
+| Rainbow Six Siege | rainbow6 | 22,272 | 8,956 | 65% | 30 |
+| I'm Only Sleeping | jynxzi | 208,367 | 7,220 | 55% | 31 |
+| Valor Mortis | cohhcarnage | 15,088 | 6,978 | 65% | 35 |
+| $cam With Your Friends | stintik | 8,846 | 4,274 | 83% | 55 |
+| NARAKA: BLADEPOINT | shipbroman | 4,397 | 3,681 | 93% | 65 |
+| Crow Country | dansgaming | 7,837 | 3,322 | 99% | 74 |
+| PARANORMASIGHT: The Mermaid's Curse | yuyuta0702 | 11,462 | 3,172 | 99% | 76 |
+| Rocket League | atowwwww | 4,577 | 2,844 | 53% | 50 |
+| Winnie the Pooh | sterzik | 4,026 | 2,369 | 100% | 90 |
+| Jinro Metropolis | xhalli4x | 5,302 | 2,170 | 63% | 71 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 0.739 | Grand Theft Auto V | 46,191 | 62,522 |
-| 0.614 | Castlevania: Belmont's Curse | 11,221 | 18,261 |
-| 0.223 | Enshrouded | 14,558 | 65,204 |
-| 0.184 | R.E.P.O. | 3,776 | 20,517 |
-| 0.159 | Dead by Daylight | 10,224 | 64,446 |
-| 0.019 | Warframe | 1,844 | 97,217 |
-| 0.019 | Delta Force | 2,194 | 117,067 |
-| 0.017 | Valheim | 2,004 | 115,989 |
-| 0.013 | Counter-Strike | 15,072 | 1,165,887 |
-| 0.006 | PUBG: BATTLEGROUNDS | 5,035 | 789,961 |
+| 1.163 | Castlevania: Belmont's Curse | 21,238 | 18,261 |
+| 1.051 | Planet Zoo 2 | 36,313 | 34,536 |
+| 0.79 | Grand Theft Auto V | 49,403 | 62,522 |
+| 0.644 | Street Fighter 6 | 27,671 | 42,968 |
+| 0.426 | Enshrouded | 27,769 | 65,204 |
+| 0.047 | Warframe | 4,617 | 97,217 |
+| 0.031 | Counter-Strike | 35,964 | 1,165,887 |
+| 0.03 | Valheim | 3,512 | 115,989 |
+| 0.027 | Delta Force | 3,144 | 117,067 |
+| 0.011 | PUBG: BATTLEGROUNDS | 9,081 | 789,961 |
 
 ---
 
