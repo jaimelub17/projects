@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-10-17T12` (UTC). History: 209 snapshots spanning 1111h.
+Generated from snapshot `2026-10-17T15` (UTC). History: 210 snapshots spanning 1114h.
 Reference windows: short = `2026-10-17T06`, day = `2026-10-16T13`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | PUBG: BATTLEGROUNDS | +5.51 | 17 | 22,670 | +541% | +150% | 100 | +2% | 0.1997 |  |
-| 2 | over the hill | +4.25 | 43 | 6,676 | - | - | 24 | - | 0.5433 | ENTRY IGNITION:dmitry_lixxx,yuuechka |
-| 3 | Pokémon Champions | +4.25 | 32 | 9,472 | - | - | 60 | - | 0.416 | ENTRY IGNITION:pokemon,pokealexvgc |
-| 4 | Rainbow Six Siege | +4.22 | 28 | 12,629 | +375% | -8% | 97 | +4% | 0.7134 | IGNITION:rainbow6 |
-| 5 | Metin2 | +3.98 | 44 | 6,630 | +204% | +36% | 43 | +54% | 0.3146 |  |
-| 6 | World of Tanks | +3.63 | 30 | 12,839 | +101% | +0% | 99 | +10% | 0.373 | IGNITION:quickybaby,dakillzor |
-| 7 | EA Sports FC 27 | +3.54 | 10 | 32,320 | +176% | +118% | 100 | +1% | 0.1721 |  |
-| 8 | Stardew Valley | +3.28 | 75 | 3,250 | - | - | 76 | - | 0.8822 | ENTRY IGNITION:alderiate |
-| 9 | Teach My Little Sister How to Drive | +3.25 | 79 | 3,156 | - | - | 8 | - | 0.9876 | ENTRY IGNITION:vodkavdk |
-| 10 | Big Walk | +3.25 | 49 | 5,735 | - | - | 35 | - | 0.9683 | ENTRY IGNITION:cdawg |
-| 11 | Yakuza 0 | +3.25 | 67 | 3,687 | - | - | 5 | - | 0.9976 | ENTRY IGNITION:michimochievee |
-| 12 | The Dark Pictures Anthology: House of Ashes | +3.25 | 65 | 3,868 | - | - | 4 | - | 0.9951 | ENTRY IGNITION:dansgaming |
-| 13 | Dragon Quest V: Tenkuu no Hanayome | +3.25 | 85 | 2,792 | - | - | 1 | - | 1.0 | ENTRY IGNITION:akamikarubi |
-| 14 | Mario Kart World | +3.02 | 60 | 4,459 | -22% | - | 39 | +225% | 0.878 | ENTRY IGNITION:batora324 |
-| 15 | Total War: WARHAMMER III | +2.77 | 89 | 2,638 | +45% | - | 26 | +62% | 0.6751 | BREADTH ENTRY |
+| 1 | The Witcher 3: Wild Hunt | +8.16 | 32 | 13,678 | +396% | +239% | 98 | +40% | 0.5026 | IGNITION:elajjaz,missmikkaa |
+| 2 | Rocket League | +6.24 | 36 | 12,017 | +315% | +126% | 97 | +0% | 0.2949 | IGNITION:zenrll,atowwwww |
+| 3 | World of Tanks | +5.43 | 21 | 21,190 | +232% | +66% | 96 | +7% | 0.2815 | IGNITION:skill4ltu,quickybaby |
+| 4 | Counter-Strike | +5.13 | 5 | 123,019 | +503% | +242% | 99 | +3% | 0.2398 |  |
+| 5 | World of Warcraft | +4.94 | 3 | 133,807 | +476% | +223% | 100 | +2% | 0.263 |  |
+| 6 | Fortnite | +4.51 | 6 | 67,907 | +205% | +419% | 97 | +0% | 0.1746 |  |
+| 7 | Rust | +4.44 | 43 | 9,663 | +303% | +54% | 99 | +2% | 0.2288 | IGNITION:oilrats |
+| 8 | Pokémon Champions | +4.25 | 40 | 11,596 | - | - | 79 | - | 0.4848 | ENTRY IGNITION:pokemon,pokealexvgc |
+| 9 | Cuphead | +4.25 | 33 | 13,591 | - | - | 17 | - | 0.8152 | ENTRY IGNITION:peereira7,agustin51 |
+| 10 | Flipping is Hard | +4.25 | 88 | 3,363 | - | - | 17 | - | 0.8269 | ENTRY IGNITION:stintik,v0kky |
+| 11 | World of Warships | +3.93 | 61 | 5,939 | - | +179% | 47 | - | 0.227 | ENTRY |
+| 12 | Rainbow Six Siege | +3.90 | 35 | 12,160 | +357% | -11% | 100 | +8% | 0.6793 | IGNITION:rainbow6 |
+| 13 | Star Citizen | +3.72 | 54 | 7,087 | +65% | +52% | 99 | +2% | 0.2814 | IGNITION:knebeltv,mda009 |
+| 14 | Escape from Tarkov | +3.61 | 23 | 18,330 | +75% | +24% | 99 | +1% | 0.2349 | IGNITION:cr_arisakaaa,cr_vanilla |
+| 15 | Call of Duty: Modern Warfare 4 | +3.50 | 13 | 33,235 | +299% | - | 99 | -1% | 0.356 | ENTRY |
 
 ## Ignition alerts
 
@@ -30,31 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Rainbow Six Siege | rainbow6 | 22,272 | 9,009 | 71% | 28 |
-| Street Fighter 6 | yaritaiji | 14,917 | 6,688 | 81% | 33 |
-| Big Walk | cdawg | 5,553 | 5,553 | 97% | 49 |
-| Mario Kart World | batora324 | 21,701 | 3,915 | 88% | 60 |
-| The Dark Pictures Anthology: House of Ashes | dansgaming | 7,837 | 3,849 | 100% | 65 |
-| Yakuza 0 | michimochievee | 4,244 | 3,678 | 100% | 67 |
-| over the hill | dmitry_lixxx | 7,267 | 3,627 | 54% | 43 |
-| Teach My Little Sister How to Drive | vodkavdk | 12,049 | 3,117 | 99% | 79 |
-| Stardew Valley | alderiate | 4,674 | 2,867 | 88% | 75 |
-| Dragon Quest V: Tenkuu no Hanayome | akamikarubi | 5,999 | 2,792 | 100% | 85 |
+| Cuphead | peereira7 | 235,604 | 11,080 | 82% | 33 |
+| Rainbow Six Siege | rainbow6 | 22,272 | 8,260 | 68% | 35 |
+| The Witcher 3: Wild Hunt | elajjaz | 13,191 | 6,875 | 50% | 32 |
+| Planet Zoo 2 | yaritaiji | 14,917 | 6,654 | 51% | 34 |
+| Terraria | forsen | 10,577 | 6,514 | 94% | 48 |
+| Tenebris Somnia | dansgaming | 7,837 | 5,904 | 89% | 56 |
+| Haunted Heist | kr1stw | 7,031 | 4,458 | 94% | 72 |
+| True Fear: Forsaken Souls - Part 2 | blackufa | 5,029 | 4,208 | 100% | 80 |
+| Gears of War: E-Day | godjj | 4,692 | 3,588 | 69% | 64 |
+| STAR WARS: Galactic Racer | mauriceweber | 3,626 | 3,446 | 70% | 69 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 0.673 | Grand Theft Auto V | 46,955 | 69,818 |
-| 0.405 | EA Sports FC 27 | 32,320 | 79,800 |
-| 0.312 | Overwatch | 21,689 | 69,468 |
-| 0.29 | Castlevania: Belmont's Curse | 5,268 | 18,184 |
-| 0.227 | ARC Raiders | 32,106 | 141,686 |
-| 0.035 | Delta Force | 4,443 | 126,889 |
-| 0.032 | The Witcher 3: Wild Hunt | 2,277 | 71,632 |
-| 0.029 | PUBG: BATTLEGROUNDS | 22,670 | 795,174 |
-| 0.026 | Valheim | 3,184 | 124,611 |
-| 0.026 | Counter-Strike | 33,409 | 1,297,140 |
+| 0.801 | Grand Theft Auto V | 55,949 | 69,818 |
+| 0.524 | Castlevania: Belmont's Curse | 9,537 | 18,184 |
+| 0.449 | Escape from Tarkov | 18,330 | 40,805 |
+| 0.393 | Planet Zoo 2 | 13,082 | 33,291 |
+| 0.378 | Rocket League | 12,017 | 31,832 |
+| 0.05 | Project Zomboid | 3,029 | 61,028 |
+| 0.044 | Apex Legends | 9,756 | 221,139 |
+| 0.038 | Valheim | 4,750 | 124,611 |
+| 0.023 | Delta Force | 2,923 | 126,889 |
+| 0.009 | PUBG: BATTLEGROUNDS | 7,129 | 795,174 |
 
 ---
 
