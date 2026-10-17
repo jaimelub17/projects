@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-10-17T18` (UTC). History: 211 snapshots spanning 1117h.
-Reference windows: short = `2026-10-17T12`, day = `2026-10-16T18`.
+Generated from snapshot `2026-10-17T22` (UTC). History: 212 snapshots spanning 1121h.
+Reference windows: short = `2026-10-17T15`, day = `2026-10-16T21`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Quarantine Zone: The Last Check | +6.62 | 24 | 20,957 | - | +235% | 70 | - | 0.685 | ENTRY IGNITION:sasavot,insym |
-| 2 | Tenebris Somnia | +6.57 | 42 | 10,762 | +299% | +6% | 83 | +144% | 0.4799 | IGNITION:dansgaming,cohhcarnage |
-| 3 | MapleStory | +5.98 | 49 | 9,605 | +219% | +70% | 99 | +2% | 0.2632 | IGNITION:ereklo_game,kaise |
-| 4 | The Witcher 3: Wild Hunt | +5.58 | 34 | 13,974 | +514% | -6% | 97 | +1% | 0.4888 | IGNITION:elajjaz,missmikkaa |
-| 5 | World of Warcraft | +5.40 | 3 | 321,484 | +613% | +266% | 99 | +1% | 0.1938 |  |
-| 6 | Escape from Tarkov | +4.98 | 21 | 22,611 | +324% | -0% | 97 | -3% | 0.1772 | IGNITION:cr_arisakaaa,bobito217 |
-| 7 | Star Citizen | +4.86 | 39 | 11,905 | +134% | +53% | 100 | +0% | 0.2712 | IGNITION:vaterundsohnzocken,knebeltv |
-| 8 | Delta Force | +4.55 | 27 | 18,127 | +308% | +36% | 99 | -1% | 0.2944 | IGNITION:recrent |
-| 9 | Dark and Darker | +4.32 | 78 | 4,872 | +56% | - | 97 | +120% | 0.2613 | BREADTH ENTRY IGNITION:marex |
-| 10 | Hood Warfare 2 | +4.10 | 33 | 14,398 | - | - | 25 | - | 0.754 | ENTRY IGNITION:peereira7,paache_ |
-| 11 | ROBLOX | +3.43 | 46 | 4,815 | +204% | +43% | 92 | -3% | 0.0727 |  |
-| 12 | Rainbow Six Siege | +3.41 | 25 | 18,414 | +46% | +27% | 99 | +2% | 0.6471 | IGNITION:rainbow6,razah |
-| 13 | RimWorld | +3.28 | 95 | 4,089 | - | - | 56 | - | 0.55 | ENTRY IGNITION:edopeh |
-| 14 | Counter-Strike | +3.27 | 5 | 158,313 | +374% | +20% | 96 | -3% | 0.3073 |  |
-| 15 | Find The Needle | +3.25 | 31 | 15,451 | - | - | 27 | - | 0.9554 | ENTRY IGNITION:t2x2 |
+| 1 | MapleStory | +8.00 | 23 | 17,571 | +343% | +179% | 100 | +1% | 0.3308 | IGNITION:ereklo_game,maplestory |
+| 2 | nanos world | +5.47 | 31 | 11,783 | +366% | +41% | 100 | +122% | 0.1766 |  |
+| 3 | Tenebris Somnia | +4.77 | 27 | 13,312 | +100% | -30% | 97 | +116% | 0.3887 | BREADTH IGNITION:elajjaz,h0llylp |
+| 4 | Heroes of the Storm | +4.25 | 60 | 5,935 | - | - | 76 | - | 0.6837 | ENTRY IGNITION:grubby,mewnfare |
+| 5 | Albion Online | +3.82 | 50 | 7,645 | +57% | +58% | 99 | -1% | 0.306 | IGNITION:w0n23 |
+| 6 | Overwatch | +3.72 | 8 | 59,692 | +162% | +251% | 92 | -4% | 0.562 |  |
+| 7 | Dark Souls: Remastered | +3.57 | 41 | 8,852 | +153% | - | 67 | -3% | 0.783 | ENTRY IGNITION:distortion2 |
+| 8 | The Choicer Voicer | +3.25 | 54 | 6,292 | - | - | 6 | - | 0.6648 | ENTRY IGNITION:vei |
+| 9 | Teach My Little Sister How to Drive | +3.25 | 37 | 8,987 | - | - | 4 | - | 0.9994 | ENTRY IGNITION:agent00 |
+| 10 | Granny | +3.25 | 96 | 3,347 | - | - | 2 | - | 0.9994 | ENTRY IGNITION:barbarousking |
+| 11 | The Dark Pictures Anthology: The Devil in Me | +3.25 | 74 | 4,745 | - | - | 18 | - | 0.8394 | ENTRY IGNITION:dansgaming |
+| 12 | Clash Royale | +3.25 | 67 | 5,289 | - | - | 44 | - | 0.568 | ENTRY IGNITION:narek_cr |
+| 13 | Where Winds Meet | +3.25 | 95 | 3,410 | - | - | 76 | - | 0.6314 | ENTRY IGNITION:laufielol |
+| 14 | Five Nights at Freddy's: Secret of the Mimic | +3.25 | 99 | 3,075 | - | - | 5 | - | 0.9727 | ENTRY IGNITION:paache_ |
+| 15 | Warframe | +3.17 | 66 | 4,727 | - | +5% | 100 | - | 0.1948 | ENTRY IGNITION:flats |
 
 ## Ignition alerts
 
@@ -30,31 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Find The Needle | t2x2 | 16,777 | 14,762 | 96% | 31 |
-| Quarantine Zone: The Last Check | sasavot | 31,051 | 14,356 | 68% | 24 |
-| Rainbow Six Siege | rainbow6 | 22,272 | 11,916 | 65% | 25 |
-| Hood Warfare 2 | peereira7 | 235,604 | 10,856 | 75% | 33 |
-| Demon's Souls | distortion2 | 6,645 | 6,310 | 99% | 62 |
-| Valheim | quin69 | 12,132 | 5,639 | 63% | 47 |
-| Red Dead Redemption: Undead Nightmare | fanum | 11,401 | 5,366 | 100% | 74 |
-| Alien: Isolation | vei | 8,802 | 4,667 | 78% | 68 |
-| Clash Royale | narek_cr | 3,886 | 3,698 | 56% | 59 |
-| Dub Together | marco_scm | 4,941 | 3,520 | 60% | 70 |
+| Teach My Little Sister How to Drive | agent00 | 16,132 | 8,982 | 100% | 37 |
+| Dark Souls: Remastered | distortion2 | 6,931 | 6,931 | 78% | 41 |
+| The Choicer Voicer | vei | 8,802 | 4,183 | 66% | 54 |
+| Heroes of the Storm | grubby | 9,492 | 4,058 | 68% | 60 |
+| The Dark Pictures Anthology: The Devil in Me | dansgaming | 7,837 | 3,983 | 84% | 74 |
+| STAR WARS: Galactic Racer | zentreya | 5,347 | 3,484 | 54% | 53 |
+| Granny | barbarousking | 4,665 | 3,345 | 100% | 96 |
+| Clash Royale | narek_cr | 3,886 | 3,004 | 57% | 67 |
+| Five Nights at Freddy's: Secret of the Mimic | paache_ | 31,003 | 2,991 | 97% | 99 |
+| Pokémon Champions | pokemon | 6,299 | 2,133 | 58% | 91 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 1.503 | Hood Warfare 2 | 14,398 | 9,581 |
-| 1.157 | Grand Theft Auto V | 80,787 | 69,818 |
-| 0.783 | Overwatch | 54,384 | 69,468 |
-| 0.554 | Escape from Tarkov | 22,611 | 40,805 |
-| 0.46 | EA Sports FC 27 | 36,675 | 79,800 |
-| 0.064 | Project Zomboid | 3,888 | 61,028 |
-| 0.061 | Deadlock | 18,475 | 303,347 |
-| 0.058 | Battlefield 6 | 3,520 | 60,347 |
-| 0.043 | Apex Legends | 9,528 | 221,139 |
-| 0.005 | PUBG: BATTLEGROUNDS | 4,232 | 795,174 |
+| 1.524 | Grand Theft Auto V | 106,434 | 69,818 |
+| 0.859 | Overwatch | 59,692 | 69,468 |
+| 0.612 | Castlevania: Belmont's Curse | 11,128 | 18,184 |
+| 0.602 | EA Sports FC 27 | 48,055 | 79,800 |
+| 0.426 | Rocket League | 13,561 | 31,832 |
+| 0.041 | Rust | 5,310 | 130,659 |
+| 0.034 | Counter-Strike | 43,457 | 1,297,140 |
+| 0.028 | Valheim | 3,435 | 124,611 |
+| 0.028 | Delta Force | 3,608 | 126,889 |
+| 0.01 | PUBG: BATTLEGROUNDS | 7,581 | 795,174 |
 
 ---
 
