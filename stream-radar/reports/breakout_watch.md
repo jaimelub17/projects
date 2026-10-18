@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-10-18T00` (UTC). History: 213 snapshots spanning 1123h.
-Reference windows: short = `2026-10-17T18`, day = `2026-10-17T00`.
+Generated from snapshot `2026-10-18T04` (UTC). History: 214 snapshots spanning 1127h.
+Reference windows: short = `2026-10-17T22`, day = `2026-10-17T06`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Silver Pines | +5.21 | 40 | 8,534 | - | +150% | 48 | - | 0.9019 | ENTRY IGNITION:jerma985 |
-| 2 | Terraria | +4.64 | 26 | 14,294 | - | +142% | 100 | - | 0.9745 | ENTRY IGNITION:emiru |
-| 3 | Chained Together | +4.25 | 28 | 12,189 | - | - | 17 | - | 0.6449 | ENTRY IGNITION:2xrakai,rayasianboy |
-| 4 | Apex Legends | +3.85 | 22 | 15,216 | +60% | +67% | 100 | +1% | 0.3279 | IGNITION:meesterkeem,nicewigg |
-| 5 | MapleStory | +3.75 | 34 | 9,640 | +0% | +58% | 100 | +1% | 0.4046 | BREADTH IGNITION:ereklo_game,kaise |
-| 6 | The Choicer Voicer | +3.25 | 49 | 6,832 | - | - | 4 | - | 0.6857 | ENTRY IGNITION:vei |
-| 7 | Heroes of the Storm | +3.25 | 94 | 2,968 | - | - | 50 | - | 0.7719 | ENTRY IGNITION:mewnfare |
-| 8 | The Dark Pictures Anthology: The Devil in Me | +3.25 | 77 | 3,685 | - | - | 15 | - | 0.9558 | ENTRY IGNITION:dansgaming |
-| 9 | The Legend of Zelda: A Link to the Past | +3.25 | 88 | 3,227 | - | - | 40 | - | 0.9287 | ENTRY IGNITION:henyathegenius |
-| 10 | DARK SOULS III | +3.25 | 48 | 6,919 | - | - | 71 | - | 0.9506 | ENTRY IGNITION:distortion2 |
-| 11 | Where Winds Meet | +3.25 | 58 | 5,840 | - | - | 86 | - | 0.6529 | ENTRY IGNITION:realzbluewater |
-| 12 | Z1: Battle Royale | +3.25 | 65 | 4,759 | - | - | 100 | - | 0.3684 | ENTRY IGNITION:zoomaa |
-| 13 | Clive Barker's Hellraiser: Revival | +2.84 | 46 | 6,173 | - | +45% | 96 | - | 0.3689 | ENTRY |
-| 14 | I'm Only Sleeping | +2.73 | 93 | 2,927 | - | +3% | 98 | - | 0.1828 | ENTRY IGNITION:lota |
-| 15 | Teamfight Tactics | +2.72 | 30 | 10,914 | +17% | +20% | 95 | -5% | 0.246 | IGNITION:setsuko,frodan |
+| 1 | Street Fighter 6 | +6.92 | 18 | 19,043 | +359% | +530% | 100 | +0% | 0.125 |  |
+| 2 | Geometry Dash | +3.33 | 83 | 2,600 | - | - | 98 | - | 0.8104 | ENTRY IGNITION:doggie |
+| 3 | Call of Duty 4: Modern Warfare | +3.25 | 72 | 3,385 | - | - | 26 | - | 0.9876 | ENTRY IGNITION:xarola_ |
+| 4 | PiKUNiKU | +3.25 | 62 | 3,442 | - | - | 1 | - | 1.0 | ENTRY IGNITION:vargskelethor |
+| 5 | The Legend of Zelda: A Link to the Past | +3.25 | 51 | 4,861 | - | - | 28 | - | 0.9445 | ENTRY IGNITION:henyathegenius |
+| 6 | VRChat | +3.05 | 32 | 8,323 | +68% | +121% | 99 | -1% | 0.2296 |  |
+| 7 | Rainbow Six Siege | +2.77 | 34 | 5,684 | -9% | +114% | 100 | +0% | 0.4203 | IGNITION:mingo |
+| 8 | ARC Raiders | +2.67 | 3 | 55,701 | +48% | +252% | 96 | +5% | 0.6144 |  |
+| 9 | STAR WARS: Galactic Racer | +2.62 | 28 | 9,750 | +52% | - | 100 | +2% | 0.8883 | ENTRY IGNITION:jerma985 |
+| 10 | Bills Must Be Paid | +2.25 | 74 | 2,878 | - | - | 5 | - | 0.9948 | ENTRY |
+| 11 | Lies of P | +2.25 | 99 | 1,957 | - | - | 40 | - | 0.8421 | ENTRY |
+| 12 | Just Dance: Decades of Hits | +2.25 | 85 | 2,422 | - | - | 5 | - | 0.9798 | ENTRY |
+| 13 | Super Mario Maker 2 | +2.25 | 94 | 2,137 | - | - | 19 | - | 0.5587 | ENTRY |
+| 14 | The Skin Stapler | +2.25 | 91 | 2,166 | - | - | 3 | - | 0.9917 | ENTRY |
+| 15 | Battlefield 6 | +2.19 | 50 | 4,273 | +1% | +95% | 97 | -2% | 0.1949 |  |
 
 ## Ignition alerts
 
@@ -30,31 +30,28 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Terraria | emiru | 14,104 | 13,930 | 97% | 26 |
-| Chained Together | 2xrakai | 24,892 | 7,861 | 64% | 28 |
-| Silver Pines | jerma985 | 16,487 | 7,697 | 90% | 40 |
-| DARK SOULS III | distortion2 | 6,931 | 6,577 | 95% | 48 |
-| Rocket League | kaydop | 6,055 | 4,840 | 54% | 31 |
-| The Choicer Voicer | vei | 8,802 | 4,685 | 69% | 49 |
-| Where Winds Meet | realzbluewater | 8,293 | 3,813 | 65% | 58 |
-| The Dark Pictures Anthology: The Devil in Me | dansgaming | 7,837 | 3,522 | 96% | 77 |
-| The Legend of Zelda: A Link to the Past | henyathegenius | 4,538 | 2,997 | 93% | 88 |
-| Heroes of the Storm | mewnfare | 3,122 | 2,291 | 77% | 94 |
+| STAR WARS: Galactic Racer | jerma985 | 16,487 | 8,661 | 89% | 28 |
+| The Legend of Zelda: A Link to the Past | henyathegenius | 4,591 | 4,591 | 94% | 51 |
+| Call of Duty: Modern Warfare 4 | moistcr1tikal | 6,506 | 4,022 | 50% | 29 |
+| PiKUNiKU | vargskelethor | 4,765 | 3,442 | 100% | 62 |
+| Call of Duty 4: Modern Warfare | xarola_ | 5,133 | 3,343 | 99% | 72 |
+| The Dark Pictures Anthology: The Devil in Me | dansgaming | 7,837 | 2,994 | 99% | 71 |
+| Geometry Dash | doggie | 5,085 | 2,107 | 81% | 83 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 1.368 | Grand Theft Auto V | 95,541 | 69,818 |
-| 0.895 | Overwatch | 62,181 | 69,468 |
-| 0.48 | Castlevania: Belmont's Curse | 8,726 | 18,184 |
-| 0.472 | EA Sports FC 27 | 37,646 | 79,800 |
-| 0.468 | ARC Raiders | 66,265 | 141,686 |
-| 0.032 | Warframe | 3,305 | 104,805 |
-| 0.032 | Rust | 4,131 | 130,659 |
-| 0.027 | Counter-Strike | 34,857 | 1,297,140 |
-| 0.026 | Valheim | 3,247 | 124,611 |
-| 0.007 | PUBG: BATTLEGROUNDS | 5,681 | 795,174 |
+| 0.53 | Grand Theft Auto V | 38,655 | 72,903 |
+| 0.447 | Street Fighter 6 | 19,043 | 42,624 |
+| 0.355 | ARC Raiders | 55,701 | 156,983 |
+| 0.316 | Marvel Rivals | 24,257 | 76,674 |
+| 0.265 | Overwatch | 20,072 | 75,787 |
+| 0.019 | Dota 2 | 18,556 | 969,895 |
+| 0.018 | Counter-Strike | 24,619 | 1,360,532 |
+| 0.016 | Warframe | 1,681 | 103,071 |
+| 0.016 | Valheim | 2,403 | 146,497 |
+| 0.002 | PUBG: BATTLEGROUNDS | 1,610 | 809,673 |
 
 ---
 
