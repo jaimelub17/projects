@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-10-18T18` (UTC). History: 217 snapshots spanning 1141h.
-Reference windows: short = `2026-10-18T11`, day = `2026-10-17T18`.
+Generated from snapshot `2026-10-18T22` (UTC). History: 218 snapshots spanning 1145h.
+Reference windows: short = `2026-10-18T15`, day = `2026-10-17T22`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Rocket League | +7.91 | 25 | 17,357 | +598% | +161% | 99 | -1% | 0.2791 | IGNITION:paache_,agustin51 |
-| 2 | Tenebris Somnia | +6.80 | 34 | 14,580 | +186% | +35% | 79 | +193% | 0.3085 | BREADTH IGNITION:forsen,xop0 |
-| 3 | The Witcher 3: Wild Hunt | +5.41 | 35 | 14,092 | +424% | +1% | 99 | +1% | 0.5629 | IGNITION:elajjaz,missmikkaa |
-| 4 | Valheim | +4.95 | 38 | 11,104 | +209% | +25% | 100 | +2% | 0.4936 | IGNITION:quin69,alphacast |
-| 5 | Rainbow Six Siege | +4.93 | 29 | 15,369 | +392% | -17% | 100 | +1% | 0.3965 | IGNITION:rainbow6,itsspoit |
-| 6 | Delta Force | +4.49 | 21 | 27,145 | +148% | +50% | 99 | +2% | 0.2482 | IGNITION:recrent,locklear |
-| 7 | Fortnite | +4.37 | 6 | 125,681 | +627% | +39% | 100 | +1% | 0.359 |  |
-| 8 | Dark Souls: Remastered | +4.28 | 57 | 7,726 | - | +80% | 74 | - | 0.3409 | ENTRY IGNITION:h0llylp |
-| 9 | Z1: Battle Royale | +4.25 | 59 | 7,136 | - | - | 100 | - | 0.5241 | ENTRY IGNITION:itachi,twincytv |
-| 10 | ROBLOX | +4.13 | 45 | 6,297 | +311% | +31% | 95 | -2% | 0.3907 | IGNITION:asiv0y |
-| 11 | World of Warcraft | +4.10 | 3 | 313,950 | +678% | -2% | 100 | +1% | 0.2582 |  |
-| 12 | Marvel Rivals | +4.04 | 19 | 26,790 | +338% | +94% | 99 | -1% | 0.3073 |  |
-| 13 | League of Legends | +4.02 | 1 | 532,220 | +476% | +61% | 98 | -1% | 0.3003 |  |
-| 14 | World of Warships | +3.67 | 76 | 5,405 | +140% | +29% | 63 | +103% | 0.4396 |  |
-| 15 | Metin2 | +3.65 | 41 | 11,525 | +71% | +52% | 59 | +79% | 0.2044 | BREADTH |
+| 1 | Phasmophobia | +5.09 | 42 | 7,547 | - | +165% | 100 | - | 0.58 | ENTRY IGNITION:spookytimepizza |
+| 2 | Rocket League | +4.90 | 24 | 17,688 | +251% | +30% | 100 | +2% | 0.5 | IGNITION:itachi,atowwwww |
+| 3 | nanos world | +4.42 | 30 | 15,215 | +220% | +29% | 96 | +75% | 0.2239 | IGNITION:mehditdonc |
+| 4 | VRChat | +4.33 | 40 | 9,670 | +61% | +95% | 100 | +33% | 0.4911 | IGNITION:saya |
+| 5 | DARK SOULS II: Scholar of the First Sin | +4.25 | 37 | 10,507 | - | - | 50 | - | 0.6194 | ENTRY IGNITION:distortion2,deme |
+| 6 | Cursed Digicam | +3.25 | 69 | 5,054 | - | - | 1 | - | 1.0 | ENTRY IGNITION:dansgaming |
+| 7 | Windswept | +3.25 | 82 | 3,931 | - | - | 1 | - | 1.0 | ENTRY IGNITION:dariomocciatwitch |
+| 8 | BOMBANANA! | +3.25 | 95 | 3,372 | - | - | 28 | - | 0.7245 | ENTRY IGNITION:zy0xxx |
+| 9 | Vietcong | +3.25 | 91 | 3,451 | - | - | 1 | - | 1.0 | ENTRY IGNITION:agraelus |
+| 10 | A Weird Game About Sausage | +3.25 | 94 | 3,415 | - | - | 9 | - | 0.9567 | ENTRY IGNITION:barbarousking |
+| 11 | Huntsman | +3.25 | 31 | 13,547 | - | - | 2 | - | 0.9996 | ENTRY IGNITION:emiru |
+| 12 | SoulCalibur II | +3.25 | 89 | 3,507 | - | - | 1 | - | 1.0 | ENTRY IGNITION:avoidingthepuddle |
+| 13 | The Plant Shop | +3.25 | 44 | 7,651 | - | - | 2 | - | 0.9331 | ENTRY IGNITION:skywhywalker |
+| 14 | Kiosk | +3.25 | 99 | 3,300 | - | - | 5 | - | 0.9603 | ENTRY IGNITION:stormfall33 |
+| 15 | Escape from Tarkov | +3.24 | 32 | 12,653 | -2% | +92% | 99 | +0% | 0.4125 | IGNITION:lvndmark,pestily |
 
 ## Ignition alerts
 
@@ -30,31 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| over the hill | lirik | 17,931 | 14,127 | 91% | 32 |
-| The Witcher 3: Wild Hunt | elajjaz | 13,191 | 7,932 | 56% | 35 |
-| Bloodborne | distortion2 | 6,931 | 6,085 | 72% | 54 |
-| One Million Coins | knekro | 13,933 | 5,515 | 99% | 73 |
-| Ghostbusters: The Video Game Remastered | dansgaming | 7,837 | 5,169 | 100% | 79 |
-| Mario Kart World | batora324 | 21,701 | 4,649 | 81% | 71 |
-| Z1: Battle Royale | itachi | 38,034 | 3,740 | 52% | 59 |
-| Pokémon Community Game | sekiam | 3,624 | 3,624 | 62% | 70 |
-| Trash Day | tomato | 4,432 | 3,507 | 71% | 83 |
-| $cam With Your Friends | aslanshukasha | 3,778 | 3,108 | 78% | 98 |
+| Huntsman | emiru | 14,104 | 13,541 | 100% | 31 |
+| Rocket League | itachi | 38,034 | 8,844 | 50% | 24 |
+| The Plant Shop | skywhywalker | 17,529 | 7,139 | 93% | 44 |
+| DARK SOULS II: Scholar of the First Sin | distortion2 | 6,931 | 6,508 | 62% | 37 |
+| Cursed Digicam | dansgaming | 7,837 | 5,054 | 100% | 69 |
+| STAR WARS: Galactic Racer | knekro | 13,933 | 4,793 | 80% | 51 |
+| Phasmophobia | spookytimepizza | 4,377 | 4,377 | 58% | 42 |
+| $cam With Your Friends | carola | 4,032 | 3,935 | 91% | 76 |
+| Windswept | dariomocciatwitch | 4,271 | 3,931 | 100% | 82 |
+| SoulCalibur II | avoidingthepuddle | 3,507 | 3,507 | 100% | 89 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 1.093 | Grand Theft Auto V | 79,684 | 72,903 |
-| 0.702 | Overwatch | 53,201 | 75,787 |
-| 0.606 | EA Sports FC 27 | 47,376 | 78,118 |
-| 0.556 | Rocket League | 17,357 | 31,213 |
-| 0.381 | Escape from Tarkov | 16,021 | 42,028 |
-| 0.064 | Red Dead Redemption II | 3,315 | 51,585 |
-| 0.061 | WARDOGS | 18,575 | 304,002 |
-| 0.049 | Warframe | 5,046 | 103,071 |
-| 0.044 | Apex Legends | 10,099 | 231,338 |
-| 0.008 | PUBG: BATTLEGROUNDS | 6,808 | 809,673 |
+| 2.071 | Grand Theft Auto V | 150,976 | 72,903 |
+| 0.717 | Overwatch | 54,307 | 75,787 |
+| 0.593 | EA Sports FC 27 | 46,289 | 78,118 |
+| 0.567 | Rocket League | 17,688 | 31,213 |
+| 0.349 | Phasmophobia | 7,547 | 21,630 |
+| 0.036 | Warframe | 3,730 | 103,071 |
+| 0.034 | Valheim | 4,957 | 146,497 |
+| 0.024 | Counter-Strike | 32,576 | 1,360,532 |
+| 0.016 | Baldur's Gate 3 | 946 | 60,321 |
+| 0.007 | PUBG: BATTLEGROUNDS | 5,290 | 809,673 |
 
 ---
 
