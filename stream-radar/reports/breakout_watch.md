@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-10-18T11` (UTC). History: 215 snapshots spanning 1134h.
-Reference windows: short = `2026-10-18T04`, day = `2026-10-17T12`.
+Generated from snapshot `2026-10-18T15` (UTC). History: 216 snapshots spanning 1138h.
+Reference windows: short = `2026-10-18T11`, day = `2026-10-17T15`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | I'm Only Sleeping | +5.56 | 22 | 16,457 | +180% | +120% | 98 | -2% | 0.4394 | IGNITION:jynxzi,eido |
-| 2 | VALORANT | +5.50 | 2 | 148,008 | +537% | +656% | 71 | -25% | 0.2729 |  |
-| 3 | Hearthstone | +5.41 | 31 | 9,706 | +262% | +16% | 88 | +42% | 0.3422 | IGNITION:jeefhs,qq7925168 |
-| 4 | Delta Force | +5.03 | 30 | 10,940 | +179% | +146% | 97 | -1% | 0.2761 | IGNITION:kr1stw |
-| 5 | PUBG: BATTLEGROUNDS | +4.67 | 19 | 18,293 | +1036% | -19% | 98 | +8% | 0.2195 |  |
-| 6 | World of Tanks | +4.30 | 34 | 9,029 | +227% | -30% | 100 | +33% | 0.281 | IGNITION:dakillzor,dezgamez |
-| 7 | Dragon Quest V: Tenkuu no Hanayome | +4.18 | 71 | 3,024 | - | +8% | 4 | - | 0.998 | ENTRY IGNITION:akamikarubi |
-| 8 | Pokémon Champions | +3.49 | 32 | 9,482 | - | +0% | 59 | - | 0.4129 | ENTRY IGNITION:pokemon,pokealexvgc |
-| 9 | Frostpunk | +3.25 | 37 | 8,114 | - | - | 1 | - | 1.0 | ENTRY IGNITION:cdawg |
-| 10 | Demonologist | +3.25 | 57 | 4,175 | - | - | 6 | - | 0.9954 | ENTRY IGNITION:dansgaming |
-| 11 | The Dandelion Endures. | +3.25 | 74 | 2,936 | - | - | 1 | - | 1.0 | ENTRY IGNITION:blusewilly_retry |
-| 12 | MARVEL TŌKON: Fighting Souls | +3.25 | 86 | 2,357 | - | - | 9 | - | 0.5936 | ENTRY IGNITION:gocchanmikey |
-| 13 | Shipping Store Simulator 2037 | +3.25 | 43 | 6,811 | - | - | 8 | - | 0.9116 | ENTRY IGNITION:mynthos |
-| 14 | Yo-kai Watch | +3.25 | 83 | 2,541 | - | - | 3 | - | 0.9957 | ENTRY IGNITION:vodkavdk |
-| 15 | PARANORMASIGHT: The Mermaid's Curse | +3.25 | 51 | 4,725 | - | - | 4 | - | 0.992 | ENTRY IGNITION:yuyuta0702 |
+| 1 | Castlevania: Belmont's Curse | +6.54 | 24 | 20,454 | +326% | +114% | 100 | +4% | 0.3975 | IGNITION:mistermv,revenant |
+| 2 | Dark Souls: Remastered | +6.25 | 45 | 9,243 | - | +165% | 78 | - | 0.4708 | ENTRY IGNITION:bonjwa,h0llylp |
+| 3 | MapleStory | +6.16 | 47 | 8,841 | +295% | +123% | 93 | +19% | 0.6201 | IGNITION:roger9527 |
+| 4 | The Witcher 3: Wild Hunt | +5.72 | 30 | 14,936 | +455% | +9% | 99 | +1% | 0.5154 | IGNITION:elajjaz,missmikkaa |
+| 5 | Rainbow Six Siege | +5.06 | 33 | 12,923 | +314% | +6% | 100 | +1% | 0.4595 | IGNITION:rainbow6,itsspoit |
+| 6 | NBA 2K27 | +5.04 | 40 | 9,451 | +156% | +135% | 100 | +5% | 0.7029 | IGNITION:yaritaiji |
+| 7 | ACE COMBAT 8: WINGS OF THEVE | +4.91 | 97 | 3,465 | +369% | +7% | 76 | +62% | 0.7772 | IGNITION:saruei |
+| 8 | Valheim | +4.32 | 41 | 8,914 | +148% | +88% | 94 | -4% | 0.3883 | IGNITION:quin69 |
+| 9 | Project Zomboid | +4.30 | 72 | 5,860 | - | +93% | 100 | - | 0.3928 | ENTRY IGNITION:edopeh |
+| 10 | MECCHA CHAMELEON | +4.25 | 58 | 6,763 | - | - | 40 | - | 0.4643 | ENTRY IGNITION:dhalucard,sieglinde |
+| 11 | Fortnite | +3.97 | 5 | 107,103 | +520% | +58% | 91 | -8% | 0.2561 |  |
+| 12 | Marvel Rivals | +3.86 | 25 | 18,106 | +196% | -8% | 99 | -1% | 0.2807 | IGNITION:marvelrivals,jay3 |
+| 13 | Pokémon Champions | +3.77 | 29 | 15,450 | +63% | +33% | 67 | +14% | 0.4458 | IGNITION:pokemon,pokealexvgc |
+| 14 | Hearthstone | +3.58 | 31 | 14,870 | +53% | +25% | 100 | +14% | 0.3725 | IGNITION:silvername,guddummit |
+| 15 | Metin2 | +3.55 | 42 | 9,815 | +45% | +78% | 52 | +58% | 0.2272 | BREADTH |
 
 ## Ignition alerts
 
@@ -30,31 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Call of Duty: Modern Warfare 4 | recrent | 11,832 | 8,360 | 64% | 26 |
-| Street Fighter 6 | capcomfighters_jp | 9,512 | 8,299 | 62% | 27 |
-| Frostpunk | cdawg | 8,114 | 8,114 | 100% | 37 |
-| Shipping Store Simulator 2037 | mynthos | 6,209 | 6,209 | 91% | 43 |
-| PARANORMASIGHT: The Mermaid's Curse | yuyuta0702 | 11,462 | 4,687 | 99% | 51 |
-| Demonologist | dansgaming | 7,837 | 4,156 | 100% | 57 |
-| Dragon Quest V: Tenkuu no Hanayome | akamikarubi | 5,999 | 3,018 | 100% | 71 |
-| The Dandelion Endures. | blusewilly_retry | 3,983 | 2,936 | 100% | 74 |
-| Stardew Valley | alderiate | 4,674 | 2,655 | 86% | 67 |
-| Yo-kai Watch | vodkavdk | 12,049 | 2,530 | 100% | 83 |
+| The Witcher 3: Wild Hunt | elajjaz | 13,191 | 7,698 | 52% | 30 |
+| Tenebris Somnia | forsen | 10,577 | 6,708 | 79% | 49 |
+| NBA 2K27 | yaritaiji | 14,917 | 6,643 | 70% | 40 |
+| Ghostbusters: The Video Game Remastered | dansgaming | 7,837 | 6,461 | 100% | 62 |
+| Mario Kart World | batora324 | 21,701 | 5,858 | 94% | 65 |
+| MapleStory | roger9527 | 9,846 | 5,482 | 62% | 47 |
+| One Million Coins | alexelcapo | 5,422 | 5,422 | 100% | 75 |
+| Japanese Ramen Simulator | kr1stw | 7,031 | 4,804 | 80% | 70 |
+| Gamble With Your Friends | solo | 38,541 | 4,255 | 79% | 76 |
+| PARANORMASIGHT: The Mermaid's Curse | yuyuta0702 | 11,462 | 3,787 | 99% | 92 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 0.483 | Grand Theft Auto V | 35,225 | 72,903 |
-| 0.44 | ARC Raiders | 69,095 | 156,983 |
-| 0.378 | EA Sports FC 27 | 29,541 | 78,118 |
-| 0.313 | Street Fighter 6 | 13,322 | 42,624 |
-| 0.223 | Overwatch | 16,878 | 75,787 |
-| 0.03 | Stardew Valley | 3,092 | 103,664 |
-| 0.028 | Aniimo | 1,797 | 64,500 |
-| 0.026 | Counter-Strike | 35,107 | 1,360,532 |
-| 0.025 | Valheim | 3,593 | 146,497 |
-| 0.023 | PUBG: BATTLEGROUNDS | 18,293 | 809,673 |
+| 0.811 | Grand Theft Auto V | 59,095 | 72,903 |
+| 0.373 | EA Sports FC 27 | 29,112 | 78,118 |
+| 0.329 | Overwatch | 24,948 | 75,787 |
+| 0.311 | ARC Raiders | 48,869 | 156,983 |
+| 0.307 | Escape from Tarkov | 12,906 | 42,028 |
+| 0.047 | Battlefield 6 | 3,391 | 71,541 |
+| 0.044 | Dota 2 | 42,685 | 969,895 |
+| 0.032 | Warframe | 3,288 | 103,071 |
+| 0.025 | Delta Force | 3,133 | 126,305 |
+| 0.008 | PUBG: BATTLEGROUNDS | 6,325 | 809,673 |
 
 ---
 
