@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-10-19T19` (UTC). History: 221 snapshots spanning 1166h.
-Reference windows: short = `2026-10-19T13`, day = `2026-10-18T18`.
+Generated from snapshot `2026-10-19T23` (UTC). History: 222 snapshots spanning 1170h.
+Reference windows: short = `2026-10-19T19`, day = `2026-10-18T22`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Among Us | +7.72 | 23 | 27,988 | - | +493% | 89 | - | 0.5325 | ENTRY IGNITION:inoxtag,michou |
-| 2 | Warframe | +6.45 | 30 | 19,241 | - | +281% | 94 | - | 0.8625 | ENTRY IGNITION:warframe,iflynn |
-| 3 | ELDEN RING | +6.41 | 46 | 11,005 | +452% | +136% | 98 | -2% | 0.5776 | IGNITION:distortion2 |
-| 4 | Call of Duty: Warzone | +4.89 | 29 | 16,493 | +169% | +78% | 98 | +1% | 0.2122 | IGNITION:camy,deusamir |
-| 5 | World of Tanks | +4.41 | 24 | 27,278 | +178% | +50% | 92 | -4% | 0.3041 | IGNITION:quickybaby,mouzakrobat |
-| 6 | Dark Souls: Remastered | +4.39 | 47 | 11,559 | - | +50% | 83 | - | 0.2024 | ENTRY IGNITION:h0llylp,pietsmiet |
-| 7 | ArcheAge Chronicles | +4.25 | 27 | 20,890 | - | - | 100 | - | 0.1528 | ENTRY IGNITION:revenant,kanonxo |
-| 8 | Rocket League | +4.25 | 35 | 13,440 | +324% | -23% | 96 | +2% | 0.2342 | IGNITION:mawkzy_,kaydop |
-| 9 | Rainbow Six Siege | +4.17 | 38 | 13,438 | +291% | -13% | 96 | -3% | 0.3687 | IGNITION:rainbow6,itsspoit |
-| 10 | Fortnite | +4.00 | 6 | 99,303 | +762% | -21% | 97 | -3% | 0.1561 |  |
-| 11 | Grand Theft Auto V | +3.81 | 3 | 121,449 | +385% | +52% | 97 | +2% | 0.147 |  |
-| 12 | Tenebris Somnia | +3.76 | 53 | 9,548 | +287% | -35% | 75 | +134% | 0.837 | IGNITION:alanzoka |
-| 13 | $cam With Your Friends | +3.56 | 63 | 8,059 | - | +102% | 93 | - | 0.2992 | ENTRY |
-| 14 | Phasmophobia | +3.56 | 54 | 8,070 | - | +55% | 99 | - | 0.5177 | ENTRY IGNITION:insym |
-| 15 | Heroes of the Storm | +3.39 | 77 | 5,972 | +156% | +27% | 61 | +15% | 0.7431 | IGNITION:grubby |
+| 1 | Rainbow Six Siege | +5.31 | 11 | 33,179 | +147% | +619% | 97 | +1% | 0.7931 |  |
+| 2 | Teamfight Tactics | +3.95 | 21 | 20,347 | +39% | +87% | 97 | +5% | 0.2571 | IGNITION:loltyler1,boxbox |
+| 3 | Valor Mortis | +3.36 | 36 | 8,842 | +131% | - | 95 | -4% | 0.7515 | ENTRY IGNITION:alanzoka |
+| 4 |  SEKIRO: SHADOWS DIE TWICE | +3.25 | 100 | 2,529 | - | - | 38 | - | 0.8584 | ENTRY IGNITION:lilaggy |
+| 5 | Pokémon | +3.25 | 80 | 3,594 | - | - | 60 | - | 0.7546 | ENTRY IGNITION:smallant |
+| 6 | Slay the Princess | +3.25 | 78 | 3,563 | - | - | 3 | - | 0.998 | ENTRY IGNITION:dansgaming |
+| 7 | Endacopia | +3.25 | 32 | 11,059 | - | - | 20 | - | 0.9869 | ENTRY IGNITION:moonmoon |
+| 8 | Silver Pines | +3.25 | 72 | 3,901 | - | - | 61 | - | 0.5973 | ENTRY IGNITION:avoidingthepuddle |
+| 9 | Lethal Company | +3.25 | 38 | 8,576 | - | - | 43 | - | 0.7684 | ENTRY IGNITION:ironmouse |
+| 10 | Castlevania: Belmont's Curse | +2.76 | 37 | 6,778 | +17% | +52% | 99 | +0% | 0.4273 | IGNITION:dariomocciatwitch |
+| 11 | Red Dead Redemption II | +2.75 | 53 | 4,371 | - | +28% | 96 | - | 0.4905 | ENTRY |
+| 12 | Hogwarts Legacy | +2.44 | 46 | 6,163 | +4% | - | 96 | +8% | 0.9562 | BREADTH ENTRY IGNITION:realzbluewater |
+| 13 | MARVEL SNAP | +2.25 | 69 | 4,000 | - | - | 20 | - | 0.4462 | ENTRY |
+| 14 | Z1: Battle Royale | +2.25 | 91 | 2,970 | - | - | 96 | - | 0.3303 | ENTRY |
+| 15 | Planet Coaster | +2.25 | 90 | 2,862 | - | - | 5 | - | 0.406 | ENTRY |
 
 ## Ignition alerts
 
@@ -30,31 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Warframe | warframe | 24,916 | 16,595 | 86% | 30 |
-| Among Us | mastu | 239,077 | 15,046 | 97% | 36 |
-| Among Us | inoxtag | 14,903 | 14,903 | 53% | 23 |
-| Toy Story 3 | bratishkinoff | 14,481 | 10,766 | 100% | 49 |
-| Chained Beasts | northernlion | 14,748 | 9,515 | 98% | 51 |
-| Tenebris Somnia | alanzoka | 16,698 | 7,992 | 84% | 53 |
-| Valheim | quin69 | 12,132 | 7,117 | 63% | 44 |
-| Elta: Defy All Gods | elajjaz | 13,191 | 6,579 | 100% | 71 |
-| ELDEN RING | distortion2 | 6,931 | 6,356 | 58% | 46 |
-| Hogwarts Legacy | realzbluewater | 8,293 | 5,628 | 95% | 78 |
+| Endacopia | moonmoon | 14,354 | 10,914 | 99% | 32 |
+| Valor Mortis | alanzoka | 16,698 | 6,645 | 75% | 36 |
+| Lethal Company | ironmouse | 19,982 | 6,590 | 77% | 38 |
+| Hogwarts Legacy | realzbluewater | 8,293 | 5,893 | 96% | 46 |
+| Rocket League | kaydop | 6,055 | 4,810 | 62% | 35 |
+| Mario Kart World | batora324 | 21,701 | 4,380 | 95% | 60 |
+| Dark Souls: Remastered | bonjwa | 12,174 | 4,085 | 91% | 63 |
+| Slay the Princess | dansgaming | 7,837 | 3,556 | 100% | 78 |
+| Heroes of Might and Magic III: The Restoration of Erathia | voodoosh | 5,303 | 2,782 | 58% | 55 |
+| Pokémon | smallant | 3,116 | 2,712 | 75% | 80 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 1.882 | Among Us | 27,988 | 14,871 |
-| 1.601 | Grand Theft Auto V | 121,449 | 75,854 |
-| 0.491 | $cam With Your Friends | 8,059 | 16,397 |
-| 0.425 | Rocket League | 13,440 | 31,638 |
-| 0.413 | EA Sports FC 27 | 34,456 | 83,407 |
-| 0.052 | WARDOGS | 15,354 | 294,741 |
-| 0.05 | Dota 2 | 50,539 | 1,009,131 |
-| 0.043 | Counter-Strike | 58,716 | 1,355,257 |
-| 0.039 | Delta Force | 4,648 | 119,549 |
-| 0.009 | PUBG: BATTLEGROUNDS | 7,517 | 808,407 |
+| 1.748 | Grand Theft Auto V | 132,605 | 75,854 |
+| 0.439 | EA Sports FC 27 | 36,581 | 83,407 |
+| 0.352 | Rainbow Six Siege | 33,179 | 94,297 |
+| 0.296 | Hogwarts Legacy | 6,163 | 20,821 |
+| 0.271 | ARC Raiders | 43,280 | 159,585 |
+| 0.03 | Dota 2 | 30,209 | 1,009,131 |
+| 0.03 | Battlefield 6 | 2,295 | 76,774 |
+| 0.027 | Counter-Strike | 36,717 | 1,355,257 |
+| 0.016 | Valheim | 2,497 | 152,608 |
+| 0.005 | PUBG: BATTLEGROUNDS | 4,140 | 808,407 |
 
 ---
 
