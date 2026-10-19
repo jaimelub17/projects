@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-10-18T22` (UTC). History: 218 snapshots spanning 1145h.
-Reference windows: short = `2026-10-18T15`, day = `2026-10-17T22`.
+Generated from snapshot `2026-10-19T04` (UTC). History: 219 snapshots spanning 1151h.
+Reference windows: short = `2026-10-18T22`, day = `2026-10-18T04`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Phasmophobia | +5.09 | 42 | 7,547 | - | +165% | 100 | - | 0.58 | ENTRY IGNITION:spookytimepizza |
-| 2 | Rocket League | +4.90 | 24 | 17,688 | +251% | +30% | 100 | +2% | 0.5 | IGNITION:itachi,atowwwww |
-| 3 | nanos world | +4.42 | 30 | 15,215 | +220% | +29% | 96 | +75% | 0.2239 | IGNITION:mehditdonc |
-| 4 | VRChat | +4.33 | 40 | 9,670 | +61% | +95% | 100 | +33% | 0.4911 | IGNITION:saya |
-| 5 | DARK SOULS II: Scholar of the First Sin | +4.25 | 37 | 10,507 | - | - | 50 | - | 0.6194 | ENTRY IGNITION:distortion2,deme |
-| 6 | Cursed Digicam | +3.25 | 69 | 5,054 | - | - | 1 | - | 1.0 | ENTRY IGNITION:dansgaming |
-| 7 | Windswept | +3.25 | 82 | 3,931 | - | - | 1 | - | 1.0 | ENTRY IGNITION:dariomocciatwitch |
-| 8 | BOMBANANA! | +3.25 | 95 | 3,372 | - | - | 28 | - | 0.7245 | ENTRY IGNITION:zy0xxx |
-| 9 | Vietcong | +3.25 | 91 | 3,451 | - | - | 1 | - | 1.0 | ENTRY IGNITION:agraelus |
-| 10 | A Weird Game About Sausage | +3.25 | 94 | 3,415 | - | - | 9 | - | 0.9567 | ENTRY IGNITION:barbarousking |
-| 11 | Huntsman | +3.25 | 31 | 13,547 | - | - | 2 | - | 0.9996 | ENTRY IGNITION:emiru |
-| 12 | SoulCalibur II | +3.25 | 89 | 3,507 | - | - | 1 | - | 1.0 | ENTRY IGNITION:avoidingthepuddle |
-| 13 | The Plant Shop | +3.25 | 44 | 7,651 | - | - | 2 | - | 0.9331 | ENTRY IGNITION:skywhywalker |
-| 14 | Kiosk | +3.25 | 99 | 3,300 | - | - | 5 | - | 0.9603 | ENTRY IGNITION:stormfall33 |
-| 15 | Escape from Tarkov | +3.24 | 32 | 12,653 | -2% | +92% | 99 | +0% | 0.4125 | IGNITION:lvndmark,pestily |
+| 1 | R.E.P.O. | +7.87 | 25 | 10,199 | - | +532% | 100 | - | 0.6942 | ENTRY IGNITION:valkyrae,kkatamina |
+| 2 | Valor Mortis | +4.58 | 50 | 4,138 | - | +85% | 91 | - | 0.6165 | ENTRY IGNITION:moistcr1tikal |
+| 3 | I'm Only Sleeping | +4.41 | 29 | 8,383 | - | +43% | 99 | - | 0.5047 | ENTRY IGNITION:ravshann,lota |
+| 4 | JUMP KING QUEST | +4.25 | 45 | 4,680 | - | - | 2 | - | 0.7863 | ENTRY IGNITION:cdawg,rainhoe |
+| 5 | Mortal Kombat X | +3.25 | 44 | 4,809 | - | - | 3 | - | 0.9992 | ENTRY IGNITION:maximilian_dood |
+| 6 | Silent Hill | +3.25 | 63 | 2,968 | - | - | 8 | - | 0.9798 | ENTRY IGNITION:dansgaming |
+| 7 | Resident Evil 4 | +3.25 | 60 | 3,204 | - | - | 65 | - | 0.6888 | ENTRY IGNITION:bawkbasoup |
+| 8 | Weird Dreams | +3.25 | 23 | 10,591 | - | - | 2 | - | 0.9998 | ENTRY IGNITION:vinesauce |
+| 9 | Invasion of The Halloween Fiends | +3.25 | 51 | 4,082 | - | - | 2 | - | 0.853 | ENTRY IGNITION:skermz |
+| 10 | DayZ | +3.00 | 36 | 6,229 | -2% | +117% | 99 | +0% | 0.512 | IGNITION:smoke |
+| 11 | Hearthstone | +2.52 | 40 | 5,271 | +5% | +96% | 51 | -35% | 0.3314 | IGNITION:paroniie |
+| 12 | Pokémon GO | +2.44 | 74 | 2,421 | - | +20% | 29 | - | 0.3449 | ENTRY |
+| 13 | R2 Online: Reign of Revolution | +2.42 | 58 | 3,330 | +5% | +74% | 28 | +0% | 0.5216 |  |
+| 14 | Aniimo | +2.29 | 61 | 2,921 | - | +22% | 99 | - | 0.1691 | ENTRY |
+| 15 | Hunt: Showdown 1896 | +2.28 | 96 | 1,728 | - | - | 97 | - | 0.2766 | ENTRY |
 
 ## Ignition alerts
 
@@ -30,31 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Huntsman | emiru | 14,104 | 13,541 | 100% | 31 |
-| Rocket League | itachi | 38,034 | 8,844 | 50% | 24 |
-| The Plant Shop | skywhywalker | 17,529 | 7,139 | 93% | 44 |
-| DARK SOULS II: Scholar of the First Sin | distortion2 | 6,931 | 6,508 | 62% | 37 |
-| Cursed Digicam | dansgaming | 7,837 | 5,054 | 100% | 69 |
-| STAR WARS: Galactic Racer | knekro | 13,933 | 4,793 | 80% | 51 |
-| Phasmophobia | spookytimepizza | 4,377 | 4,377 | 58% | 42 |
-| $cam With Your Friends | carola | 4,032 | 3,935 | 91% | 76 |
-| Windswept | dariomocciatwitch | 4,271 | 3,931 | 100% | 82 |
-| SoulCalibur II | avoidingthepuddle | 3,507 | 3,507 | 100% | 89 |
+| Weird Dreams | vinesauce | 10,589 | 10,589 | 100% | 23 |
+| R.E.P.O. | valkyrae | 14,967 | 7,080 | 69% | 25 |
+| Mortal Kombat X | maximilian_dood | 9,734 | 4,805 | 100% | 44 |
+| I'm Only Sleeping | ravshann | 21,363 | 4,231 | 50% | 29 |
+| JUMP KING QUEST | cdawg | 8,114 | 3,680 | 79% | 45 |
+| Invasion of The Halloween Fiends | skermz | 5,235 | 3,482 | 85% | 51 |
+| DayZ | smoke | 3,718 | 3,189 | 51% | 36 |
+| Silent Hill | dansgaming | 7,837 | 2,908 | 98% | 63 |
+| Valor Mortis | moistcr1tikal | 6,506 | 2,551 | 62% | 50 |
+| Resident Evil 4 | bawkbasoup | 3,517 | 2,207 | 69% | 60 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 2.071 | Grand Theft Auto V | 150,976 | 72,903 |
-| 0.717 | Overwatch | 54,307 | 75,787 |
-| 0.593 | EA Sports FC 27 | 46,289 | 78,118 |
-| 0.567 | Rocket League | 17,688 | 31,213 |
-| 0.349 | Phasmophobia | 7,547 | 21,630 |
-| 0.036 | Warframe | 3,730 | 103,071 |
-| 0.034 | Valheim | 4,957 | 146,497 |
-| 0.024 | Counter-Strike | 32,576 | 1,360,532 |
-| 0.016 | Baldur's Gate 3 | 946 | 60,321 |
-| 0.007 | PUBG: BATTLEGROUNDS | 5,290 | 809,673 |
+| 0.725 | Grand Theft Auto V | 54,988 | 75,854 |
+| 0.367 | R.E.P.O. | 10,199 | 27,807 |
+| 0.249 | Marvel Rivals | 18,120 | 72,788 |
+| 0.246 | Overwatch | 19,002 | 77,128 |
+| 0.151 | Escape from Tarkov | 6,340 | 42,003 |
+| 0.018 | Dota 2 | 17,851 | 1,009,131 |
+| 0.018 | Delta Force | 2,174 | 119,549 |
+| 0.015 | Valheim | 2,227 | 152,608 |
+| 0.01 | Counter-Strike | 13,122 | 1,355,257 |
+| 0.002 | PUBG: BATTLEGROUNDS | 1,608 | 808,407 |
 
 ---
 
