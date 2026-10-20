@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-10-19T23` (UTC). History: 222 snapshots spanning 1170h.
-Reference windows: short = `2026-10-19T19`, day = `2026-10-18T22`.
+Generated from snapshot `2026-10-20T04` (UTC). History: 223 snapshots spanning 1175h.
+Reference windows: short = `2026-10-19T23`, day = `2026-10-19T04`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Rainbow Six Siege | +5.31 | 11 | 33,179 | +147% | +619% | 97 | +1% | 0.7931 |  |
-| 2 | Teamfight Tactics | +3.95 | 21 | 20,347 | +39% | +87% | 97 | +5% | 0.2571 | IGNITION:loltyler1,boxbox |
-| 3 | Valor Mortis | +3.36 | 36 | 8,842 | +131% | - | 95 | -4% | 0.7515 | ENTRY IGNITION:alanzoka |
-| 4 |  SEKIRO: SHADOWS DIE TWICE | +3.25 | 100 | 2,529 | - | - | 38 | - | 0.8584 | ENTRY IGNITION:lilaggy |
-| 5 | Pokémon | +3.25 | 80 | 3,594 | - | - | 60 | - | 0.7546 | ENTRY IGNITION:smallant |
-| 6 | Slay the Princess | +3.25 | 78 | 3,563 | - | - | 3 | - | 0.998 | ENTRY IGNITION:dansgaming |
-| 7 | Endacopia | +3.25 | 32 | 11,059 | - | - | 20 | - | 0.9869 | ENTRY IGNITION:moonmoon |
-| 8 | Silver Pines | +3.25 | 72 | 3,901 | - | - | 61 | - | 0.5973 | ENTRY IGNITION:avoidingthepuddle |
-| 9 | Lethal Company | +3.25 | 38 | 8,576 | - | - | 43 | - | 0.7684 | ENTRY IGNITION:ironmouse |
-| 10 | Castlevania: Belmont's Curse | +2.76 | 37 | 6,778 | +17% | +52% | 99 | +0% | 0.4273 | IGNITION:dariomocciatwitch |
-| 11 | Red Dead Redemption II | +2.75 | 53 | 4,371 | - | +28% | 96 | - | 0.4905 | ENTRY |
-| 12 | Hogwarts Legacy | +2.44 | 46 | 6,163 | +4% | - | 96 | +8% | 0.9562 | BREADTH ENTRY IGNITION:realzbluewater |
-| 13 | MARVEL SNAP | +2.25 | 69 | 4,000 | - | - | 20 | - | 0.4462 | ENTRY |
-| 14 | Z1: Battle Royale | +2.25 | 91 | 2,970 | - | - | 96 | - | 0.3303 | ENTRY |
-| 15 | Planet Coaster | +2.25 | 90 | 2,862 | - | - | 5 | - | 0.406 | ENTRY |
+| 1 | Clive Barker's Hellraiser: Revival | +4.82 | 23 | 10,844 | +118% | +191% | 92 | -3% | 0.6741 | IGNITION:ironmouse |
+| 2 | JOHN GLEEP | +3.25 | 42 | 5,004 | - | - | 1 | - | 1.0 | ENTRY IGNITION:ludwig |
+| 3 | League of Legends: Wild Rift | +3.25 | 100 | 1,686 | - | - | 55 | - | 0.6756 | ENTRY IGNITION:tealzlol |
+| 4 | Silver Chains | +3.25 | 79 | 2,467 | - | - | 1 | - | 1.0 | ENTRY IGNITION:dansgaming |
+| 5 | ROUTINE | +3.25 | 39 | 5,870 | - | - | 8 | - | 0.9879 | ENTRY IGNITION:vinesauce |
+| 6 | Stupid Never Dies | +3.25 | 44 | 4,964 | - | - | 12 | - | 0.9889 | ENTRY IGNITION:maximilian_dood |
+| 7 | The Stanley Parable: Ultra Deluxe | +3.25 | 64 | 3,043 | - | - | 2 | - | 0.9993 | ENTRY IGNITION:asmongold247 |
+| 8 | ArcheAge Chronicles | +3.25 | 93 | 1,966 | - | - | 61 | - | 0.3611 | ENTRY IGNITION:dunc |
+| 9 | Geometry Dash | +3.11 | 83 | 2,242 | - | - | 83 | - | 0.7904 | ENTRY IGNITION:doggie |
+| 10 | ELDEN RING | +2.83 | 57 | 3,418 | +11% | +85% | 98 | -2% | 0.2499 | IGNITION:shiishak |
+| 11 | FINAL FANTASY VII | +2.25 | 96 | 1,818 | - | - | 11 | - | 0.9197 | ENTRY |
+| 12 | Graveyard Keeper II | +2.25 | 99 | 1,738 | - | - | 34 | - | 0.4707 | ENTRY |
+| 13 | Genshin Impact | +2.13 | 45 | 4,764 | +29% | - | 92 | -8% | 0.5382 | ENTRY IGNITION:zy0xxx |
+| 14 | Project Zomboid | +2.09 | 86 | 2,068 | - | - | 96 | - | 0.0745 | ENTRY |
+| 15 | Mario Kart World | +1.98 | 33 | 6,620 | +43% | - | 23 | -28% | 0.9699 | ENTRY IGNITION:batora324 |
 
 ## Ignition alerts
 
@@ -30,31 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Endacopia | moonmoon | 14,354 | 10,914 | 99% | 32 |
-| Valor Mortis | alanzoka | 16,698 | 6,645 | 75% | 36 |
-| Lethal Company | ironmouse | 19,982 | 6,590 | 77% | 38 |
-| Hogwarts Legacy | realzbluewater | 8,293 | 5,893 | 96% | 46 |
-| Rocket League | kaydop | 6,055 | 4,810 | 62% | 35 |
-| Mario Kart World | batora324 | 21,701 | 4,380 | 95% | 60 |
-| Dark Souls: Remastered | bonjwa | 12,174 | 4,085 | 91% | 63 |
-| Slay the Princess | dansgaming | 7,837 | 3,556 | 100% | 78 |
-| Heroes of Might and Magic III: The Restoration of Erathia | voodoosh | 5,303 | 2,782 | 58% | 55 |
-| Pokémon | smallant | 3,116 | 2,712 | 75% | 80 |
+| Endacopia | moonmoon | 14,354 | 9,803 | 98% | 25 |
+| Clive Barker's Hellraiser: Revival | ironmouse | 19,982 | 7,310 | 67% | 23 |
+| Mario Kart World | batora324 | 21,701 | 6,421 | 97% | 33 |
+| ROUTINE | vinesauce | 10,589 | 5,799 | 99% | 39 |
+| JOHN GLEEP | ludwig | 9,561 | 5,004 | 100% | 42 |
+| Stupid Never Dies | maximilian_dood | 9,734 | 4,909 | 99% | 44 |
+| The Stanley Parable: Ultra Deluxe | asmongold247 | 5,262 | 3,041 | 100% | 64 |
+| R.E.P.O. | masayoshi | 3,278 | 2,807 | 75% | 56 |
+| Street Fighter 6 | naru0419045 | 6,288 | 2,623 | 59% | 50 |
+| Genshin Impact | zy0xxx | 10,507 | 2,564 | 54% | 45 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 1.748 | Grand Theft Auto V | 132,605 | 75,854 |
-| 0.439 | EA Sports FC 27 | 36,581 | 83,407 |
-| 0.352 | Rainbow Six Siege | 33,179 | 94,297 |
-| 0.296 | Hogwarts Legacy | 6,163 | 20,821 |
-| 0.271 | ARC Raiders | 43,280 | 159,585 |
-| 0.03 | Dota 2 | 30,209 | 1,009,131 |
-| 0.03 | Battlefield 6 | 2,295 | 76,774 |
-| 0.027 | Counter-Strike | 36,717 | 1,355,257 |
-| 0.016 | Valheim | 2,497 | 152,608 |
-| 0.005 | PUBG: BATTLEGROUNDS | 4,140 | 808,407 |
+| 0.964 | Grand Theft Auto V | 64,145 | 66,534 |
+| 0.432 | ARC Raiders | 54,287 | 125,761 |
+| 0.213 | Marvel Rivals | 14,995 | 70,381 |
+| 0.178 | R.E.P.O. | 3,757 | 21,058 |
+| 0.177 | Overwatch | 11,449 | 64,660 |
+| 0.018 | Rust | 1,954 | 108,995 |
+| 0.017 | Dota 2 | 15,730 | 916,309 |
+| 0.017 | Delta Force | 1,925 | 113,020 |
+| 0.013 | Counter-Strike | 14,935 | 1,180,247 |
+| 0.003 | PUBG: BATTLEGROUNDS | 2,208 | 783,765 |
 
 ---
 
