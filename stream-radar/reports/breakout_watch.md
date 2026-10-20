@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-10-20T04` (UTC). History: 223 snapshots spanning 1175h.
-Reference windows: short = `2026-10-19T23`, day = `2026-10-19T04`.
+Generated from snapshot `2026-10-20T11` (UTC). History: 224 snapshots spanning 1182h.
+Reference windows: short = `2026-10-20T04`, day = `2026-10-19T13`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Clive Barker's Hellraiser: Revival | +4.82 | 23 | 10,844 | +118% | +191% | 92 | -3% | 0.6741 | IGNITION:ironmouse |
-| 2 | JOHN GLEEP | +3.25 | 42 | 5,004 | - | - | 1 | - | 1.0 | ENTRY IGNITION:ludwig |
-| 3 | League of Legends: Wild Rift | +3.25 | 100 | 1,686 | - | - | 55 | - | 0.6756 | ENTRY IGNITION:tealzlol |
-| 4 | Silver Chains | +3.25 | 79 | 2,467 | - | - | 1 | - | 1.0 | ENTRY IGNITION:dansgaming |
-| 5 | ROUTINE | +3.25 | 39 | 5,870 | - | - | 8 | - | 0.9879 | ENTRY IGNITION:vinesauce |
-| 6 | Stupid Never Dies | +3.25 | 44 | 4,964 | - | - | 12 | - | 0.9889 | ENTRY IGNITION:maximilian_dood |
-| 7 | The Stanley Parable: Ultra Deluxe | +3.25 | 64 | 3,043 | - | - | 2 | - | 0.9993 | ENTRY IGNITION:asmongold247 |
-| 8 | ArcheAge Chronicles | +3.25 | 93 | 1,966 | - | - | 61 | - | 0.3611 | ENTRY IGNITION:dunc |
-| 9 | Geometry Dash | +3.11 | 83 | 2,242 | - | - | 83 | - | 0.7904 | ENTRY IGNITION:doggie |
-| 10 | ELDEN RING | +2.83 | 57 | 3,418 | +11% | +85% | 98 | -2% | 0.2499 | IGNITION:shiishak |
-| 11 | FINAL FANTASY VII | +2.25 | 96 | 1,818 | - | - | 11 | - | 0.9197 | ENTRY |
-| 12 | Graveyard Keeper II | +2.25 | 99 | 1,738 | - | - | 34 | - | 0.4707 | ENTRY |
-| 13 | Genshin Impact | +2.13 | 45 | 4,764 | +29% | - | 92 | -8% | 0.5382 | ENTRY IGNITION:zy0xxx |
-| 14 | Project Zomboid | +2.09 | 86 | 2,068 | - | - | 96 | - | 0.0745 | ENTRY |
-| 15 | Mario Kart World | +1.98 | 33 | 6,620 | +43% | - | 23 | -28% | 0.9699 | ENTRY IGNITION:batora324 |
+| 1 | Old School RuneScape | +10.24 | 4 | 62,496 | +2479% | +820% | 100 | +0% | 0.2155 |  |
+| 2 | PUBG: BATTLEGROUNDS | +5.43 | 25 | 10,003 | +353% | +8% | 100 | +4% | 0.2579 | IGNITION:des0ut,kr1stw |
+| 3 | Street Fighter 6 | +5.29 | 11 | 29,575 | +567% | +163% | 96 | -4% | 0.3263 |  |
+| 4 | World of Tanks | +4.65 | 29 | 9,011 | +153% | -8% | 100 | +67% | 0.3486 | IGNITION:quickybaby,dakillzor |
+| 5 | I'm Only Sleeping | +3.94 | 28 | 9,291 | +49% | +56% | 100 | +0% | 0.1096 | IGNITION:judah_xx,arckon |
+| 6 | Overwatch | +3.25 | 6 | 48,669 | +325% | +47% | 94 | -6% | 0.4507 |  |
+| 7 | BOMBANANA! | +3.25 | 64 | 3,102 | - | - | 15 | - | 0.5371 | ENTRY IGNITION:qq7925168 |
+| 8 | Trash Day | +3.25 | 58 | 3,561 | - | - | 5 | - | 0.9761 | ENTRY IGNITION:dmitry_lixxx |
+| 9 | Silent Hill 3 | +3.25 | 62 | 3,333 | - | - | 4 | - | 0.9967 | ENTRY IGNITION:dansgaming |
+| 10 | Silver Pines | +3.25 | 69 | 2,809 | - | - | 33 | - | 0.4162 | ENTRY IGNITION:evangelion0 |
+| 11 | Night Record: Thin Walls | +3.25 | 73 | 2,665 | - | - | 1 | - | 1.0 | ENTRY IGNITION:sterzik |
+| 12 | Gothic 1 Remake | +3.25 | 51 | 4,103 | - | - | 5 | - | 0.9981 | ENTRY IGNITION:melharucos |
+| 13 | Lycans | +3.25 | 33 | 7,211 | - | - | 14 | - | 0.6867 | ENTRY IGNITION:ponce |
+| 14 | Stardew Valley | +3.17 | 82 | 2,303 | - | - | 46 | - | 0.8793 | ENTRY IGNITION:alderiate |
+| 15 | The Witcher 3: Wild Hunt | +2.91 | 68 | 2,795 | - | +8% | 92 | - | 0.4193 | ENTRY IGNITION:gronkhtv |
 
 ## Ignition alerts
 
@@ -30,31 +30,29 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Endacopia | moonmoon | 14,354 | 9,803 | 98% | 25 |
-| Clive Barker's Hellraiser: Revival | ironmouse | 19,982 | 7,310 | 67% | 23 |
-| Mario Kart World | batora324 | 21,701 | 6,421 | 97% | 33 |
-| ROUTINE | vinesauce | 10,589 | 5,799 | 99% | 39 |
-| JOHN GLEEP | ludwig | 9,561 | 5,004 | 100% | 42 |
-| Stupid Never Dies | maximilian_dood | 9,734 | 4,909 | 99% | 44 |
-| The Stanley Parable: Ultra Deluxe | asmongold247 | 5,262 | 3,041 | 100% | 64 |
-| R.E.P.O. | masayoshi | 3,278 | 2,807 | 75% | 56 |
-| Street Fighter 6 | naru0419045 | 6,288 | 2,623 | 59% | 50 |
-| Genshin Impact | zy0xxx | 10,507 | 2,564 | 54% | 45 |
+| Lycans | ponce | 4,952 | 4,952 | 69% | 33 |
+| Escape from Tarkov | glorious_e | 10,841 | 4,230 | 56% | 30 |
+| Gothic 1 Remake | melharucos | 6,614 | 4,095 | 100% | 51 |
+| Trash Day | dmitry_lixxx | 7,267 | 3,476 | 98% | 58 |
+| Silent Hill 3 | dansgaming | 7,837 | 3,322 | 100% | 62 |
+| Night Record: Thin Walls | sterzik | 4,026 | 2,665 | 100% | 73 |
+| Stardew Valley | alderiate | 4,674 | 2,025 | 88% | 82 |
+| BOMBANANA! | qq7925168 | 4,225 | 1,666 | 54% | 64 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 0.964 | Grand Theft Auto V | 64,145 | 66,534 |
-| 0.432 | ARC Raiders | 54,287 | 125,761 |
-| 0.213 | Marvel Rivals | 14,995 | 70,381 |
-| 0.178 | R.E.P.O. | 3,757 | 21,058 |
-| 0.177 | Overwatch | 11,449 | 64,660 |
-| 0.018 | Rust | 1,954 | 108,995 |
-| 0.017 | Dota 2 | 15,730 | 916,309 |
-| 0.017 | Delta Force | 1,925 | 113,020 |
-| 0.013 | Counter-Strike | 14,935 | 1,180,247 |
-| 0.003 | PUBG: BATTLEGROUNDS | 2,208 | 783,765 |
+| 0.753 | Overwatch | 48,669 | 64,660 |
+| 0.729 | Street Fighter 6 | 29,575 | 40,580 |
+| 0.296 | Grand Theft Auto V | 19,727 | 66,534 |
+| 0.22 | ARC Raiders | 27,694 | 125,761 |
+| 0.204 | Escape from Tarkov | 7,575 | 37,129 |
+| 0.034 | Battlefield 6 | 1,892 | 56,362 |
+| 0.027 | Delta Force | 3,050 | 113,020 |
+| 0.026 | Stardew Valley | 2,303 | 86,961 |
+| 0.023 | Valheim | 2,654 | 114,669 |
+| 0.013 | PUBG: BATTLEGROUNDS | 10,003 | 783,765 |
 
 ---
 
