@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-10-21T18` (UTC). History: 230 snapshots spanning 1213h.
-Reference windows: short = `2026-10-21T13`, day = `2026-10-20T17`.
+Generated from snapshot `2026-10-21T23` (UTC). History: 231 snapshots spanning 1218h.
+Reference windows: short = `2026-10-21T18`, day = `2026-10-21T00`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | MapleStory | +7.92 | 51 | 8,851 | +282% | +120% | 100 | +52% | 0.3219 | IGNITION:ereklo_game,kaise |
-| 2 | Kingdom Come: Deliverance II | +7.20 | 26 | 22,273 | - | +345% | 100 | - | 0.6678 | ENTRY IGNITION:lirik,gagik |
-| 3 | ELDEN RING | +5.70 | 16 | 34,535 | +120% | +568% | 100 | +8% | 0.7838 |  |
-| 4 | Valheim | +5.43 | 46 | 9,683 | +158% | +167% | 100 | +1% | 0.6554 | IGNITION:quin69 |
-| 5 | Disney Dreamlight Valley | +5.27 | 18 | 31,501 | +846% | - | 98 | +2% | 0.2179 | ENTRY |
-| 6 | The Legend of Zelda: Ocarina of Time | +4.54 | 79 | 5,201 | +37% | +7% | 87 | +263% | 0.6829 | BREADTH IGNITION:barbarousking |
-| 7 | GONE Fishing | +4.25 | 87 | 4,567 | - | - | 14 | - | 0.7178 | ENTRY IGNITION:tomato,strippin |
-| 8 | Z1: Battle Royale | +4.25 | 49 | 9,866 | - | - | 94 | - | 0.6877 | ENTRY IGNITION:itachi,ayezee |
-| 9 | Fart Together | +4.25 | 31 | 16,687 | - | - | 8 | - | 0.8211 | ENTRY IGNITION:mastu,hctuan |
-| 10 | R.E.P.O. | +4.23 | 60 | 7,004 | - | - | 97 | - | 0.4383 | ENTRY IGNITION:mazellovvv,chatterbox |
-| 11 | Heroes of the Storm | +3.25 | 77 | 5,355 | - | - | 70 | - | 0.673 | ENTRY IGNITION:grubby |
-| 12 | Mario Kart World | +3.25 | 65 | 6,478 | - | - | 24 | - | 0.9424 | ENTRY IGNITION:batora324 |
-| 13 | Bruisers 2D Boxing | +3.25 | 73 | 5,782 | - | - | 4 | - | 0.996 | ENTRY IGNITION:knekro |
-| 14 | State of Decay | +3.25 | 83 | 4,922 | - | - | 1 | - | 1.0 | ENTRY IGNITION:dansgaming |
-| 15 | Witchspire | +3.25 | 32 | 16,556 | - | - | 81 | - | 0.3672 | ENTRY IGNITION:streamdatabase |
+| 1 | $cam With Your Friends | +6.94 | 14 | 33,143 | - | +1154% | 62 | - | 0.8473 | ENTRY |
+| 2 | Madden NFL 27 | +5.95 | 28 | 14,948 | - | +495% | 93 | - | 0.8706 | ENTRY IGNITION:eamaddennfl |
+| 3 | Rocket League | +4.70 | 17 | 28,225 | +327% | +220% | 97 | -2% | 0.4407 |  |
+| 4 | Sons of the Forest | +4.25 | 33 | 11,487 | - | - | 34 | - | 0.5126 | ENTRY IGNITION:giggand,coachlim |
+| 5 | RESIDENT EVIL: requiem | +4.25 | 56 | 5,654 | - | - | 100 | - | 0.5467 | ENTRY IGNITION:kumi,pointcrow |
+| 6 | Castlevania: Belmont's Curse | +3.27 | 50 | 5,787 | - | -7% | 98 | - | 0.4482 | ENTRY IGNITION:stormfall33,lilaggy |
+| 7 | Pokémon Trading Card Game | +3.25 | 95 | 2,957 | - | - | 43 | - | 0.5945 | ENTRY IGNITION:pokemon |
+| 8 | THE WELL IS NOT EMPTY | +3.25 | 75 | 3,938 | - | - | 2 | - | 0.9997 | ENTRY IGNITION:kopsteep |
+| 9 | Athanasia | +3.25 | 39 | 8,768 | - | - | 3 | - | 0.9798 | ENTRY IGNITION:alanzoka |
+| 10 | Grand Theft Auto: Vice City | +3.25 | 82 | 3,667 | - | - | 17 | - | 0.8388 | ENTRY IGNITION:nikolarn |
+| 11 | Sip Fisher | +3.25 | 80 | 3,691 | - | - | 1 | - | 1.0 | ENTRY IGNITION:knekro |
+| 12 | Stupid Never Dies | +3.25 | 71 | 4,380 | - | - | 26 | - | 0.4098 | ENTRY IGNITION:barbarousking |
+| 13 | The Lord of the Rings: Gollum | +3.25 | 72 | 4,215 | - | - | 2 | - | 0.9941 | ENTRY IGNITION:dansgaming |
+| 14 | Pokémon Community Game | +3.25 | 58 | 5,605 | - | - | 77 | - | 0.3982 | ENTRY IGNITION:bigpuffer |
+| 15 | MapleStory | +2.71 | 36 | 8,995 | +2% | +33% | 98 | -2% | 0.3399 | IGNITION:ereklo_game,xchocobars |
 
 ## Ignition alerts
 
@@ -30,31 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Kingdom Come: Deliverance II | lirik | 17,931 | 14,873 | 67% | 26 |
-| Fart Together | mastu | 239,077 | 13,701 | 82% | 31 |
-| Satisfactory | zerator | 65,739 | 11,938 | 97% | 45 |
-| Slay the Spire II | northernlion | 14,748 | 10,569 | 74% | 36 |
-| Enshrouded | cohhcarnage | 15,088 | 9,675 | 53% | 27 |
-| Tropico 7 | t2x2 | 16,777 | 8,900 | 100% | 52 |
-| Z1: Battle Royale | itachi | 38,034 | 6,785 | 69% | 49 |
-| Valheim | quin69 | 12,132 | 6,346 | 66% | 46 |
-| Mario Kart World | batora324 | 21,701 | 6,105 | 94% | 65 |
-| Bruisers 2D Boxing | knekro | 13,933 | 5,759 | 100% | 73 |
+| Madden NFL 27 | eamaddennfl | 26,563 | 13,014 | 87% | 28 |
+| Athanasia | alanzoka | 16,698 | 8,591 | 98% | 39 |
+| Sons of the Forest | giggand | 5,888 | 5,888 | 51% | 33 |
+| Satisfactory | zerator | 65,739 | 5,226 | 93% | 57 |
+| Mario Kart World | batora324 | 21,701 | 5,034 | 95% | 61 |
+| The Lord of the Rings: Gollum | dansgaming | 7,837 | 4,190 | 99% | 72 |
+| THE WELL IS NOT EMPTY | kopsteep | 7,602 | 3,937 | 100% | 75 |
+| Sip Fisher | knekro | 13,933 | 3,691 | 100% | 80 |
+| RESIDENT EVIL: requiem | kumi | 3,091 | 3,091 | 55% | 56 |
+| Grand Theft Auto: Vice City | nikolarn | 3,096 | 3,076 | 84% | 82 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 1.698 | Grand Theft Auto V | 110,297 | 64,960 |
-| 1.189 | ELDEN RING | 34,535 | 29,056 |
-| 0.748 | Zenless Zone Zero | 4,881 | 6,525 |
-| 0.487 | Among Us | 4,463 | 9,157 |
-| 0.393 | EA Sports FC 27 | 27,233 | 69,355 |
-| 0.056 | Rust | 5,743 | 101,826 |
-| 0.049 | Dota 2 | 44,318 | 907,099 |
-| 0.045 | Apex Legends | 9,238 | 206,385 |
-| 0.041 | Delta Force | 4,531 | 111,752 |
-| 0.008 | PUBG: BATTLEGROUNDS | 6,369 | 778,436 |
+| 1.881 | Grand Theft Auto V | 122,215 | 64,960 |
+| 1.295 | ELDEN RING | 37,613 | 29,056 |
+| 1.039 | Rocket League | 28,225 | 27,177 |
+| 0.302 | EA Sports FC 27 | 20,973 | 69,355 |
+| 0.299 | Escape from Tarkov | 11,046 | 36,973 |
+| 0.037 | Dota 2 | 33,639 | 907,099 |
+| 0.032 | Valheim | 3,400 | 105,226 |
+| 0.029 | Rust | 2,986 | 101,826 |
+| 0.025 | Delta Force | 2,775 | 111,752 |
+| 0.008 | PUBG: BATTLEGROUNDS | 5,883 | 778,436 |
 
 ---
 
