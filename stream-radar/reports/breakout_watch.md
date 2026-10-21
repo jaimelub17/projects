@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-10-21T00` (UTC). History: 227 snapshots spanning 1195h.
-Reference windows: short = `2026-10-20T17`, day = `2026-10-19T23`.
+Generated from snapshot `2026-10-21T07` (UTC). History: 228 snapshots spanning 1202h.
+Reference windows: short = `2026-10-21T00`, day = `2026-10-20T04`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | ELDEN RING | +8.72 | 10 | 31,693 | +513% | +930% | 99 | +1% | 0.8756 |  |
-| 2 | MapleStory | +5.42 | 47 | 6,758 | +68% | +77% | 100 | +49% | 0.317 | IGNITION:ereklo_game,kaise |
-| 3 | One Million Coins | +4.25 | 52 | 5,602 | - | - | 7 | - | 0.6921 | ENTRY IGNITION:therealmarzaa,agraelus |
-| 4 | Warframe | +3.61 | 58 | 4,130 | - | +2% | 99 | - | 0.247 | ENTRY IGNITION:brozime,yourluckyclover |
-| 5 | Tenebris Somnia | +3.44 | 39 | 7,972 | - | +51% | 100 | - | 0.5605 | ENTRY IGNITION:laynalazar |
-| 6 | Outer Wilds | +3.25 | 42 | 7,515 | - | - | 19 | - | 0.9794 | ENTRY IGNITION:realzbluewater |
-| 7 | The Bridge Curse 2: The Extrication | +3.25 | 77 | 3,361 | - | - | 2 | - | 0.9985 | ENTRY IGNITION:dansgaming |
-| 8 | A Weird Game About Sausage | +3.25 | 93 | 2,594 | - | - | 7 | - | 0.9726 | ENTRY IGNITION:avoidingthepuddle |
-| 9 | Resident Evil Village | +3.25 | 65 | 3,991 | - | - | 89 | - | 0.8855 | ENTRY IGNITION:realkatieb |
-| 10 | Terraria | +3.16 | 28 | 12,194 | - | - | 65 | - | 0.9779 | ENTRY IGNITION:emiru |
-| 11 | Endacopia | +2.66 | 30 | 11,599 | - | +5% | 21 | - | 0.9757 | ENTRY IGNITION:moonmoon |
-| 12 | Gears of War: E-Day | +2.65 | 68 | 2,723 | - | +34% | 99 | - | 0.2328 | ENTRY |
-| 13 | Invokyr | +2.62 | 19 | 21,158 | +0% | - | 92 | +149% | 0.3556 | BREADTH ENTRY |
-| 14 | Battlefield 6 | +2.30 | 70 | 2,965 | - | +29% | 97 | - | 0.1143 | ENTRY |
-| 15 | TEKKEN 8 | +2.25 | 78 | 2,989 | - | - | 96 | - | 0.2646 | ENTRY |
+| 1 | ArcheAge Chronicles | +6.54 | 29 | 7,065 | - | +259% | 21 | - | 0.6501 | ENTRY IGNITION:metashi12,datmodz |
+| 2 | Zenless Zone Zero | +6.00 | 46 | 3,236 | -37% | +1112% | 96 | +243% | 0.2129 |  |
+| 3 | Street Fighter 6 | +3.35 | 27 | 5,285 | +100% | +19% | 94 | -6% | 0.3455 | IGNITION:naru0419045 |
+| 4 | FATAL FRAME II: Crimson Butterfly REMAKE | +3.25 | 87 | 1,558 | - | - | 12 | - | 0.9531 | ENTRY IGNITION:bawkbasoup |
+| 5 | Five Nights with Maids | +3.25 | 69 | 1,907 | - | - | 1 | - | 1.0 | ENTRY IGNITION:sumomo_x |
+| 6 | Rip It! Card Collector | +3.25 | 55 | 2,885 | - | - | 1 | - | 1.0 | ENTRY IGNITION:mynthos |
+| 7 | Bloodborne | +3.25 | 66 | 2,037 | - | - | 31 | - | 0.9057 | ENTRY IGNITION:39daph |
+| 8 | Resident Evil | +3.25 | 50 | 3,071 | - | - | 10 | - | 0.8769 | ENTRY IGNITION:dansgaming |
+| 9 | I'm Only Sleeping | +3.06 | 28 | 6,953 | +129% | +12% | 99 | -1% | 0.1457 | IGNITION:exsl95 |
+| 10 | World of Tanks | +2.88 | 42 | 4,253 | -9% | +20% | 72 | +7% | 0.3971 | IGNITION:dakillzor,dezgamez |
+| 11 | Escape from Tarkov | +2.64 | 31 | 6,247 | +17% | +11% | 99 | -1% | 0.2153 | IGNITION:glorious_e,desmondpilak |
+| 12 | Hearthstone | +2.43 | 18 | 10,113 | -0% | +132% | 93 | -2% | 0.1462 |  |
+| 13 | R2 Online: Reign of Revolution | +2.33 | 49 | 3,143 | +11% | +6% | 36 | +64% | 0.5498 | BREADTH |
+| 14 | NTE: Neverness to Everness | +2.25 | 85 | 1,571 | - | - | 96 | - | 0.4367 | ENTRY |
+| 15 | Silent Hill | +2.25 | 81 | 1,694 | - | - | 6 | - | 0.8772 | ENTRY |
 
 ## Ignition alerts
 
@@ -30,31 +30,28 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Terraria | emiru | 14,104 | 11,925 | 98% | 28 |
-| Endacopia | moonmoon | 14,354 | 11,317 | 98% | 30 |
-| Outer Wilds | realzbluewater | 8,293 | 7,360 | 98% | 42 |
-| Among Us | valkyrae | 14,967 | 6,644 | 61% | 34 |
-| Tenebris Somnia | laynalazar | 5,083 | 4,468 | 56% | 39 |
-| One Million Coins | therealmarzaa | 7,475 | 3,877 | 69% | 52 |
-| Resident Evil Village | realkatieb | 18,641 | 3,534 | 89% | 65 |
-| The Bridge Curse 2: The Extrication | dansgaming | 7,837 | 3,356 | 100% | 77 |
-| The Legend of Zelda: Ocarina of Time | barbarousking | 4,665 | 2,638 | 76% | 75 |
-| A Weird Game About Sausage | avoidingthepuddle | 3,507 | 2,523 | 97% | 93 |
+| ELDEN RING | jynxzi | 208,367 | 6,498 | 77% | 24 |
+| ArcheAge Chronicles | metashi12 | 19,418 | 4,593 | 65% | 29 |
+| Rip It! Card Collector | mynthos | 6,209 | 2,885 | 100% | 55 |
+| Resident Evil | dansgaming | 7,837 | 2,693 | 88% | 50 |
+| Five Nights with Maids | sumomo_x | 9,547 | 1,907 | 100% | 69 |
+| Bloodborne | 39daph | 3,806 | 1,845 | 91% | 66 |
+| FATAL FRAME II: Crimson Butterfly REMAKE | bawkbasoup | 3,517 | 1,485 | 95% | 87 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 1.529 | Grand Theft Auto V | 101,758 | 66,534 |
-| 1.037 | ELDEN RING | 31,693 | 30,574 |
-| 1.035 | Among Us | 10,902 | 10,530 |
-| 0.754 | Zenless Zone Zero | 5,156 | 6,838 |
-| 0.304 | THE FINALS | 5,258 | 17,313 |
-| 0.027 | Dota 2 | 24,901 | 916,309 |
-| 0.026 | Valheim | 2,958 | 114,669 |
-| 0.022 | Counter-Strike | 26,495 | 1,180,247 |
-| 0.02 | Delta Force | 2,258 | 113,020 |
-| 0.005 | PUBG: BATTLEGROUNDS | 3,733 | 783,765 |
+| 0.496 | Zenless Zone Zero | 3,236 | 6,525 |
+| 0.407 | Grand Theft Auto V | 26,467 | 64,960 |
+| 0.292 | ELDEN RING | 8,482 | 29,056 |
+| 0.256 | ARC Raiders | 25,601 | 99,935 |
+| 0.189 | Dead by Daylight | 11,418 | 60,567 |
+| 0.019 | Valheim | 2,041 | 105,226 |
+| 0.017 | Warframe | 1,333 | 80,602 |
+| 0.017 | Rust | 1,700 | 101,826 |
+| 0.013 | AION 2 | 3,329 | 254,118 |
+| 0.004 | PUBG: BATTLEGROUNDS | 2,853 | 778,436 |
 
 ---
 
