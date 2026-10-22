@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-10-22T04` (UTC). History: 232 snapshots spanning 1223h.
-Reference windows: short = `2026-10-21T23`, day = `2026-10-21T07`.
+Generated from snapshot `2026-10-22T11` (UTC). History: 233 snapshots spanning 1230h.
+Reference windows: short = `2026-10-22T04`, day = `2026-10-21T13`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | DayZ | +5.49 | 24 | 11,235 | +135% | +315% | 99 | +3% | 0.7364 | IGNITION:summit1g |
-| 2 | Battlefield 6 | +3.73 | 53 | 3,813 | - | +157% | 95 | - | 0.3635 | ENTRY |
-| 3 | Silver Pines | +3.32 | 78 | 2,449 | - | +82% | 50 | - | 0.4341 | ENTRY |
-| 4 | Ultimate Marvel vs. Capcom 3 | +3.25 | 55 | 3,978 | - | - | 9 | - | 0.9721 | ENTRY IGNITION:maximilian_dood |
-| 5 | Nintendo Switch Sports Resort | +3.25 | 59 | 3,494 | - | - | 52 | - | 0.6122 | ENTRY IGNITION:masayoshi |
-| 6 | ROUTINE | +3.25 | 44 | 5,353 | - | - | 8 | - | 0.9854 | ENTRY IGNITION:vinesauce |
-| 7 | NBA 2K27 | +3.21 | 25 | 8,177 | +68% | +102% | 100 | +3% | 0.1332 | IGNITION:joeknowsyt |
-| 8 | Super Mario Maker 2 | +2.61 | 88 | 2,061 | - | +48% | 17 | - | 0.574 | ENTRY |
-| 9 | I'm Only Sleeping | +2.27 | 48 | 4,506 | - | -35% | 100 | - | 0.1882 | ENTRY IGNITION:humzh,lota |
-| 10 | Once Human | +2.25 | 36 | 5,087 | - | - | 99 | - | 0.1187 | ENTRY |
-| 11 | Project Zomboid | +2.25 | 65 | 2,773 | - | - | 98 | - | 0.3942 | ENTRY |
-| 12 | STAR WARS: Galactic Racer | +2.25 | 93 | 1,874 | - | - | 94 | - | 0.31 | ENTRY |
-| 13 | Red Dead Redemption | +2.25 | 99 | 1,629 | - | - | 17 | - | 0.6169 | ENTRY |
-| 14 | Wuthering Waves | +2.25 | 98 | 1,742 | - | - | 96 | - | 0.5132 | ENTRY |
-| 15 | TEKKEN 8 | +2.25 | 91 | 1,950 | - | - | 75 | - | 0.4226 | ENTRY |
+| 1 | Pokémon Champions | +7.40 | 35 | 7,753 | +189% | +237% | 56 | +8% | 0.5698 | IGNITION:gutitubo |
+| 2 | Dota 2 | +4.80 | 3 | 71,358 | +385% | +216% | 98 | +0% | 0.2092 |  |
+| 3 | Street Fighter 6 | +4.03 | 24 | 12,153 | +140% | +5% | 99 | -1% | 0.5372 | IGNITION:yaritaiji,shinjifromjapanxd |
+| 4 | World of Tanks | +3.88 | 42 | 6,717 | +142% | -39% | 97 | +73% | 0.3237 | IGNITION:dakillzor,dezgamez |
+| 5 | PUBG: BATTLEGROUNDS | +3.66 | 18 | 14,906 | - | +150% | 100 | - | 0.2241 | ENTRY |
+| 6 | MapleStory | +3.31 | 48 | 5,213 | -33% | +125% | 99 | -1% | 0.4502 | IGNITION:never_loses |
+| 7 | Valor Mortis | +3.25 | 55 | 4,151 | - | - | 64 | - | 0.5748 | ENTRY IGNITION:blackufa |
+| 8 | Yu-Gi-Oh! Master Duel | +3.25 | 93 | 1,910 | - | - | 21 | - | 0.866 | ENTRY IGNITION:joshuaschmidtygo |
+| 9 | Final Fantasy Resonance | +3.25 | 62 | 3,733 | - | - | 100 | - | 0.3172 | ENTRY IGNITION:evangelion0 |
+| 10 | Half Grip | +3.25 | 60 | 3,898 | - | - | 2 | - | 0.9997 | ENTRY IGNITION:mynthos |
+| 11 | Eternal Return | +3.25 | 88 | 2,150 | - | - | 26 | - | 0.5716 | ENTRY IGNITION:takayaspecial |
+| 12 | Cyberpunk 2077 | +3.25 | 30 | 9,241 | - | - | 99 | - | 0.1713 | ENTRY IGNITION:streamdatabase |
+| 13 | Stardew Valley | +3.25 | 85 | 2,274 | - | - | 55 | - | 0.8259 | ENTRY IGNITION:alderiate |
+| 14 | Dupery: A Game of Solo Deduction | +3.25 | 100 | 1,634 | - | - | 2 | - | 0.9535 | ENTRY IGNITION:dhalucard |
+| 15 | The Witcher 3: Wild Hunt | +3.13 | 72 | 3,096 | - | -20% | 102 | - | 0.3275 | ENTRY IGNITION:gronkhtv,dropsbadge |
 
 ## Ignition alerts
 
@@ -30,31 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| ELDEN RING | jynxzi | 208,367 | 8,867 | 74% | 21 |
-| DayZ | summit1g | 16,669 | 8,273 | 74% | 24 |
-| Mario Kart World | batora324 | 21,701 | 5,724 | 99% | 41 |
-| ROUTINE | vinesauce | 10,589 | 5,275 | 99% | 44 |
-| Ultimate Marvel vs. Capcom 3 | maximilian_dood | 9,734 | 3,867 | 97% | 55 |
-| The Lord of the Rings: Gollum | dansgaming | 7,837 | 2,659 | 100% | 70 |
-| Nintendo Switch Sports Resort | masayoshi | 3,278 | 2,139 | 61% | 59 |
-| Genshin Impact | zy0xxx | 10,507 | 2,102 | 52% | 54 |
-| Geometry Dash | doggie | 5,085 | 1,683 | 69% | 77 |
-| FATAL FRAME II: Crimson Butterfly REMAKE | bawkbasoup | 3,517 | 1,565 | 93% | 100 |
+| Street Fighter 6 | yaritaiji | 14,917 | 6,529 | 54% | 24 |
+| Escape from Tarkov | glorious_e | 10,841 | 4,660 | 59% | 34 |
+| Pokémon Champions | gutitubo | 7,834 | 4,418 | 57% | 35 |
+| Half Grip | mynthos | 6,209 | 3,897 | 100% | 60 |
+| The Lord of the Rings: Gollum | dansgaming | 7,837 | 3,306 | 100% | 67 |
+| Rocket League | rocketbaguette | 25,902 | 2,840 | 56% | 46 |
+| Valor Mortis | blackufa | 5,196 | 2,386 | 57% | 55 |
+| Stardew Valley | alderiate | 4,674 | 1,878 | 83% | 85 |
+| Yu-Gi-Oh! Master Duel | joshuaschmidtygo | 9,564 | 1,654 | 87% | 93 |
+| Dupery: A Game of Solo Deduction | dhalucard | 3,232 | 1,558 | 95% | 100 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 0.933 | Grand Theft Auto V | 60,579 | 64,960 |
-| 0.463 | Zenless Zone Zero | 3,023 | 6,525 |
-| 0.414 | ELDEN RING | 12,037 | 29,056 |
-| 0.211 | Marvel Rivals | 13,692 | 64,794 |
-| 0.195 | Overwatch | 12,129 | 62,248 |
-| 0.032 | WARDOGS | 6,431 | 200,134 |
-| 0.023 | Valheim | 2,427 | 105,226 |
-| 0.02 | Rust | 2,048 | 101,826 |
-| 0.016 | Dota 2 | 14,702 | 907,099 |
-| 0.012 | Counter-Strike | 14,944 | 1,205,009 |
+| 0.669 | Grand Theft Auto V | 43,436 | 64,960 |
+| 0.407 | Wuthering Waves | 4,644 | 11,397 |
+| 0.318 | Zenless Zone Zero | 2,078 | 6,525 |
+| 0.3 | Street Fighter 6 | 12,153 | 40,510 |
+| 0.214 | Escape from Tarkov | 7,906 | 36,973 |
+| 0.03 | Rust | 3,105 | 101,826 |
+| 0.027 | Valheim | 2,809 | 105,226 |
+| 0.027 | Stardew Valley | 2,274 | 85,038 |
+| 0.021 | Delta Force | 2,309 | 111,752 |
+| 0.019 | PUBG: BATTLEGROUNDS | 14,906 | 778,436 |
 
 ---
 
