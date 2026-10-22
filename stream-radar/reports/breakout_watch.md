@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-10-22T11` (UTC). History: 233 snapshots spanning 1230h.
-Reference windows: short = `2026-10-22T04`, day = `2026-10-21T13`.
+Generated from snapshot `2026-10-22T17` (UTC). History: 234 snapshots spanning 1236h.
+Reference windows: short = `2026-10-22T11`, day = `2026-10-21T18`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Pokémon Champions | +7.40 | 35 | 7,753 | +189% | +237% | 56 | +8% | 0.5698 | IGNITION:gutitubo |
-| 2 | Dota 2 | +4.80 | 3 | 71,358 | +385% | +216% | 98 | +0% | 0.2092 |  |
-| 3 | Street Fighter 6 | +4.03 | 24 | 12,153 | +140% | +5% | 99 | -1% | 0.5372 | IGNITION:yaritaiji,shinjifromjapanxd |
-| 4 | World of Tanks | +3.88 | 42 | 6,717 | +142% | -39% | 97 | +73% | 0.3237 | IGNITION:dakillzor,dezgamez |
-| 5 | PUBG: BATTLEGROUNDS | +3.66 | 18 | 14,906 | - | +150% | 100 | - | 0.2241 | ENTRY |
-| 6 | MapleStory | +3.31 | 48 | 5,213 | -33% | +125% | 99 | -1% | 0.4502 | IGNITION:never_loses |
-| 7 | Valor Mortis | +3.25 | 55 | 4,151 | - | - | 64 | - | 0.5748 | ENTRY IGNITION:blackufa |
-| 8 | Yu-Gi-Oh! Master Duel | +3.25 | 93 | 1,910 | - | - | 21 | - | 0.866 | ENTRY IGNITION:joshuaschmidtygo |
-| 9 | Final Fantasy Resonance | +3.25 | 62 | 3,733 | - | - | 100 | - | 0.3172 | ENTRY IGNITION:evangelion0 |
-| 10 | Half Grip | +3.25 | 60 | 3,898 | - | - | 2 | - | 0.9997 | ENTRY IGNITION:mynthos |
-| 11 | Eternal Return | +3.25 | 88 | 2,150 | - | - | 26 | - | 0.5716 | ENTRY IGNITION:takayaspecial |
-| 12 | Cyberpunk 2077 | +3.25 | 30 | 9,241 | - | - | 99 | - | 0.1713 | ENTRY IGNITION:streamdatabase |
-| 13 | Stardew Valley | +3.25 | 85 | 2,274 | - | - | 55 | - | 0.8259 | ENTRY IGNITION:alderiate |
-| 14 | Dupery: A Game of Solo Deduction | +3.25 | 100 | 1,634 | - | - | 2 | - | 0.9535 | ENTRY IGNITION:dhalucard |
-| 15 | The Witcher 3: Wild Hunt | +3.13 | 72 | 3,096 | - | -20% | 102 | - | 0.3275 | ENTRY IGNITION:gronkhtv,dropsbadge |
+| 1 | Stupid Never Dies | +7.40 | 33 | 14,407 | +604% | - | 23 | +64% | 0.5029 | ENTRY IGNITION:zerator,forsen |
+| 2 | Among Us | +6.99 | 9 | 65,412 | - | +1366% | 54 | - | 0.8456 | ENTRY |
+| 3 | Rust | +5.77 | 39 | 11,969 | +285% | +108% | 99 | +3% | 0.1967 | IGNITION:oilrats |
+| 4 | Dark Souls: Remastered | +5.18 | 40 | 11,912 | - | +87% | 79 | - | 0.4394 | ENTRY IGNITION:mahluna,pietsmiet |
+| 5 | Enshrouded | +4.79 | 25 | 25,229 | +246% | +39% | 94 | -5% | 0.398 | IGNITION:cohhcarnage,silvervale |
+| 6 | Fortnite | +4.46 | 7 | 70,218 | +391% | +154% | 100 | +3% | 0.0825 |  |
+| 7 | Project Zomboid | +4.28 | 65 | 6,666 | - | +71% | 100 | - | 0.3821 | ENTRY IGNITION:edopeh |
+| 8 | Among Us | +4.25 | 23 | 27,542 | - | - | 9 | - | 0.7964 | ENTRY IGNITION:peereira7,paache_ |
+| 9 | The Witcher 3: Wild Hunt | +4.17 | 43 | 10,712 | +246% | - | 98 | -4% | 0.7439 | ENTRY IGNITION:elajjaz |
+| 10 | I'm Only Sleeping | +3.52 | 67 | 6,168 | -14% | +56% | 100 | +2% | 0.2044 | IGNITION:exsl95,mooda |
+| 11 | Virtual Casino | +3.35 | 48 | 9,404 | +12% | +47% | 36 | +89% | 0.1098 | BREADTH |
+| 12 | Final Fantasy Resonance | +3.29 | 49 | 8,056 | +116% | - | 100 | +0% | 0.3282 | ENTRY IGNITION:phunkroyal |
+| 13 | Valor Mortis | +3.27 | 79 | 4,958 | +19% | - | 100 | +56% | 0.6567 | BREADTH ENTRY IGNITION:blackufa |
+| 14 | Powerful Pro Yakyuu 2026-2027 | +3.25 | 68 | 5,955 | - | - | 1 | - | 1.0 | ENTRY IGNITION:yuyuta0702 |
+| 15 | Nintendo Switch Sports Resort | +3.25 | 54 | 8,348 | - | - | 90 | - | 0.3846 | ENTRY IGNITION:ponce |
 
 ## Ignition alerts
 
@@ -30,31 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Street Fighter 6 | yaritaiji | 14,917 | 6,529 | 54% | 24 |
-| Escape from Tarkov | glorious_e | 10,841 | 4,660 | 59% | 34 |
-| Pokémon Champions | gutitubo | 7,834 | 4,418 | 57% | 35 |
-| Half Grip | mynthos | 6,209 | 3,897 | 100% | 60 |
-| The Lord of the Rings: Gollum | dansgaming | 7,837 | 3,306 | 100% | 67 |
-| Rocket League | rocketbaguette | 25,902 | 2,840 | 56% | 46 |
-| Valor Mortis | blackufa | 5,196 | 2,386 | 57% | 55 |
-| Stardew Valley | alderiate | 4,674 | 1,878 | 83% | 85 |
-| Yu-Gi-Oh! Master Duel | joshuaschmidtygo | 9,564 | 1,654 | 87% | 93 |
-| Dupery: A Game of Solo Deduction | dhalucard | 3,232 | 1,558 | 95% | 100 |
+| Among Us | peereira7 | 235,604 | 21,935 | 80% | 23 |
+| Totally Accurate Battlegrounds | sasavot | 31,051 | 14,465 | 100% | 34 |
+| Super Battle Golf | northernlion | 14,748 | 8,852 | 90% | 46 |
+| The Witcher 3: Wild Hunt | elajjaz | 13,191 | 7,969 | 74% | 43 |
+| Stupid Never Dies | zerator | 65,739 | 7,246 | 50% | 33 |
+| World of Warships | worldofwarships | 13,050 | 6,801 | 81% | 55 |
+| Powerful Pro Yakyuu 2026-2027 | yuyuta0702 | 11,462 | 5,955 | 100% | 68 |
+| TORMENTED SOULS II | dansgaming | 7,837 | 5,359 | 99% | 75 |
+| Clive Barker's Hellraiser: Revival | vei | 8,802 | 4,304 | 65% | 63 |
+| Spore | morphe_ya | 31,552 | 4,247 | 97% | 88 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 0.669 | Grand Theft Auto V | 43,436 | 64,960 |
-| 0.407 | Wuthering Waves | 4,644 | 11,397 |
-| 0.318 | Zenless Zone Zero | 2,078 | 6,525 |
-| 0.3 | Street Fighter 6 | 12,153 | 40,510 |
-| 0.214 | Escape from Tarkov | 7,906 | 36,973 |
-| 0.03 | Rust | 3,105 | 101,826 |
-| 0.027 | Valheim | 2,809 | 105,226 |
-| 0.027 | Stardew Valley | 2,274 | 85,038 |
-| 0.021 | Delta Force | 2,309 | 111,752 |
-| 0.019 | PUBG: BATTLEGROUNDS | 14,906 | 778,436 |
+| 7.143 | Among Us | 65,412 | 9,157 |
+| 1.064 | Grand Theft Auto V | 69,106 | 64,960 |
+| 1.018 | ELDEN RING | 29,570 | 29,056 |
+| 0.575 | EA Sports FC 27 | 39,883 | 69,355 |
+| 0.436 | Wuthering Waves | 4,968 | 11,397 |
+| 0.055 | Rainbow Six Siege | 3,883 | 70,295 |
+| 0.039 | Apex Legends | 7,960 | 206,385 |
+| 0.037 | Delta Force | 4,148 | 111,752 |
+| 0.031 | Valheim | 3,282 | 105,226 |
+| 0.008 | PUBG: BATTLEGROUNDS | 6,489 | 778,436 |
 
 ---
 
