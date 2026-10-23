@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-10-22T21` (UTC). History: 235 snapshots spanning 1240h.
+Generated from snapshot `2026-10-23T00` (UTC). History: 236 snapshots spanning 1243h.
 Reference windows: short = `2026-10-22T17`, day = `2026-10-21T23`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Valheim | +5.52 | 42 | 9,676 | +195% | +185% | 100 | +2% | 0.6255 | IGNITION:quin69 |
-| 2 | World of Tanks: HEAT | +4.25 | 75 | 5,061 | - | - | 10 | - | 0.8475 | ENTRY IGNITION:summit1g,fl0m |
-| 3 | DEVOUR | +4.25 | 29 | 16,522 | - | - | 15 | - | 0.8182 | ENTRY IGNITION:peereira7,paache_ |
-| 4 | Stupid Never Dies | +3.89 | 44 | 9,987 | -31% | +128% | 33 | +43% | 0.5186 | IGNITION:elajjaz,missmikkaa |
-| 5 | Nintendo Switch Sports Resort | +3.51 | 22 | 19,677 | +136% | - | 93 | +3% | 0.8245 | ENTRY IGNITION:alanzoka |
-| 6 | Clash Royale | +3.51 | 54 | 3,806 | - | +22% | 50 | - | 0.2262 | ENTRY |
-| 7 | Once Human | +3.41 | 52 | 6,599 | +36% | - | 100 | +3% | 0.1197 | ENTRY IGNITION:eskay,flats |
-| 8 | Resident Evil 2 | +3.25 | 61 | 6,194 | - | - | 95 | - | 0.5838 | ENTRY IGNITION:rebeudeter |
-| 9 | Camp Whittlewood | +3.25 | 86 | 4,200 | - | - | 1 | - | 1.0 | ENTRY IGNITION:baitybait |
-| 10 | Dungeonbound | +3.25 | 70 | 5,788 | - | - | 2 | - | 0.9998 | ENTRY IGNITION:knekro |
-| 11 | Resident Evil 4 | +3.25 | 78 | 4,674 | - | - | 99 | - | 0.6209 | ENTRY IGNITION:lydiaviolet |
-| 12 | Shipping Store Simulator 2037 | +3.25 | 66 | 5,956 | - | - | 2 | - | 0.9978 | ENTRY IGNITION:antoinedaniel |
-| 13 | One Million Coins | +3.25 | 38 | 12,931 | - | - | 5 | - | 0.9869 | ENTRY IGNITION:joe_bartolozzi |
-| 14 | Goosebumps: Dead of Night | +3.25 | 87 | 4,145 | - | - | 1 | - | 1.0 | ENTRY IGNITION:dansgaming |
-| 15 | Satisfactory | +2.89 | 57 | 7,018 | - | +25% | 73 | - | 0.9574 | ENTRY IGNITION:zerator |
+| 1 | Warframe | +5.78 | 34 | 10,665 | - | +170% | 100 | - | 0.6891 | ENTRY IGNITION:widescreenjohn,brozime |
+| 2 | HUNGER | +5.75 | 8 | 48,383 | +421% | +341% | 96 | -3% | 0.7824 |  |
+| 3 | DayZ | +4.31 | 32 | 11,225 | +87% | +135% | 97 | -3% | 0.7351 | IGNITION:summit1g |
+| 4 | Apex Legends | +3.73 | 11 | 29,970 | +277% | +84% | 100 | +2% | 0.2311 |  |
+| 5 | Halloween: The Game | +3.25 | 73 | 3,543 | - | - | 100 | - | 0.6528 | ENTRY IGNITION:tminnzy |
+| 6 | KOTÁMON: My Sis Found A Super-Rare Card In Her Cereal Box, So I Became A Garbage Man To Find The Entire Collection And Earn $1,000,000 | +3.25 | 74 | 3,566 | - | - | 3 | - | 0.9966 | ENTRY IGNITION:chibidoki |
+| 7 | Silver Pines | +3.25 | 64 | 4,528 | - | - | 63 | - | 0.6241 | ENTRY IGNITION:jermaslavalamp |
+| 8 | Terraria | +3.25 | 35 | 10,915 | - | - | 84 | - | 0.9363 | ENTRY IGNITION:emiru |
+| 9 | Downfall | +3.25 | 84 | 2,881 | - | - | 1 | - | 1.0 | ENTRY IGNITION:dansgaming |
+| 10 | Gears of War: E-Day | +2.92 | 72 | 2,769 | - | +42% | 94 | - | 0.1961 | ENTRY |
+| 11 | Once Human | +2.90 | 39 | 8,415 | +74% | - | 100 | +3% | 0.499 | ENTRY IGNITION:realzbluewater |
+| 12 | Sons of the Forest | +2.78 | 44 | 8,343 | - | -27% | 36 | - | 0.5137 | ENTRY IGNITION:giggand,coachlim |
+| 13 | NBA 2K27 | +2.60 | 17 | 4,382 | - | -10% | 98 | - | 0.0888 | ENTRY |
+| 14 | Tenebris Somnia | +2.50 | 69 | 3,912 | - | +18% | 97 | - | 0.2799 | ENTRY |
+| 15 | Marvel's Wolverine | +2.25 | 85 | 2,926 | - | - | 75 | - | 0.8859 | ENTRY |
 
 ## Ignition alerts
 
@@ -30,31 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Nintendo Switch Sports Resort | alanzoka | 16,698 | 16,224 | 82% | 22 |
-| DEVOUR | peereira7 | 235,604 | 13,518 | 82% | 29 |
-| One Million Coins | joe_bartolozzi | 22,331 | 12,761 | 99% | 38 |
-| Satisfactory | zerator | 65,739 | 6,719 | 96% | 57 |
-| Valheim | quin69 | 12,132 | 6,052 | 63% | 42 |
-| Shipping Store Simulator 2037 | antoinedaniel | 15,073 | 5,943 | 100% | 66 |
-| Dungeonbound | knekro | 13,933 | 5,787 | 100% | 70 |
-| Stupid Never Dies | elajjaz | 13,191 | 5,179 | 52% | 44 |
-| World of Tanks: HEAT | summit1g | 16,669 | 4,289 | 85% | 75 |
-| Camp Whittlewood | baitybait | 6,872 | 4,200 | 100% | 86 |
+| Terraria | emiru | 14,104 | 10,220 | 94% | 35 |
+| DayZ | summit1g | 16,669 | 8,251 | 74% | 32 |
+| Warframe | widescreenjohn | 7,349 | 7,349 | 69% | 34 |
+| Sons of the Forest | giggand | 5,888 | 4,286 | 51% | 44 |
+| KOTÁMON: My Sis Found A Super-Rare Card In Her Cereal Box, So I Became A Garbage Man To Find The Entire Collection And Earn $1,000,000 | chibidoki | 3,909 | 3,554 | 100% | 74 |
+| Downfall | dansgaming | 7,837 | 2,881 | 100% | 84 |
+| Silver Pines | jermaslavalamp | 3,575 | 2,826 | 62% | 64 |
+| Kingdom Come: Deliverance II | penta | 7,075 | 2,605 | 70% | 71 |
+| Grand Theft Auto: Vice City | nikolarn | 3,096 | 2,391 | 98% | 95 |
+| Halloween: The Game | tminnzy | 3,172 | 2,313 | 65% | 73 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 1.979 | Grand Theft Auto V | 128,572 | 64,960 |
-| 1.346 | ELDEN RING | 39,107 | 29,056 |
-| 0.436 | EA Sports FC 27 | 30,241 | 69,355 |
-| 0.268 | Cyberpunk 2077 | 14,919 | 55,678 |
-| 0.253 | Rocket League | 6,884 | 27,177 |
-| 0.046 | Apex Legends | 9,562 | 206,385 |
-| 0.04 | Warframe | 3,248 | 80,602 |
-| 0.036 | Counter-Strike | 43,742 | 1,205,009 |
-| 0.032 | Delta Force | 3,578 | 111,752 |
-| 0.012 | PUBG: BATTLEGROUNDS | 9,719 | 778,436 |
+| 1.308 | Grand Theft Auto V | 85,000 | 64,960 |
+| 1.055 | ELDEN RING | 30,662 | 29,056 |
+| 0.62 | Rocket League | 16,842 | 27,177 |
+| 0.484 | Wuthering Waves | 5,515 | 11,397 |
+| 0.231 | Dead by Daylight | 13,973 | 60,567 |
+| 0.032 | Dota 2 | 29,348 | 907,099 |
+| 0.024 | Delta Force | 2,669 | 111,752 |
+| 0.023 | Valheim | 2,430 | 105,226 |
+| 0.013 | Counter-Strike | 15,335 | 1,205,009 |
+| 0.004 | PUBG: BATTLEGROUNDS | 2,821 | 778,436 |
 
 ---
 
