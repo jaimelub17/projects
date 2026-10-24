@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-10-24T04` (UTC). History: 241 snapshots spanning 1271h.
-Reference windows: short = `2026-10-23T23`, day = `2026-10-23T07`.
+Generated from snapshot `2026-10-24T10` (UTC). History: 242 snapshots spanning 1277h.
+Reference windows: short = `2026-10-24T04`, day = `2026-10-23T07`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | VRChat | +6.18 | 26 | 12,657 | +76% | +465% | 94 | -6% | 0.4527 | IGNITION:vinesauce |
-| 2 | Rust | +3.54 | 27 | 12,356 | -51% | +312% | 98 | -2% | 0.3474 | IGNITION:oilrats,ezbompany |
-| 3 | R.E.P.O. | +3.34 | 37 | 7,187 | - | - | 92 | - | 0.7946 | ENTRY IGNITION:kaise |
-| 4 | Zenless Zone Zero | +3.29 | 39 | 7,075 | - | - | 100 | - | 0.6506 | ENTRY IGNITION:yulihong22 |
-| 5 | Detroit: Become Human | +3.25 | 84 | 3,067 | - | - | 27 | - | 0.4904 | ENTRY IGNITION:arckon |
-| 6 | Kingdom Come: Deliverance II | +3.25 | 95 | 2,537 | - | - | 39 | - | 0.9042 | ENTRY IGNITION:penta |
-| 7 | Double Dealers | +3.25 | 61 | 4,134 | - | - | 2 | - | 0.9952 | ENTRY IGNITION:nickmercs |
-| 8 | Her Revenge | +3.25 | 31 | 9,590 | - | - | 1 | - | 1.0 | ENTRY IGNITION:brucedropemoff |
-| 9 | Bloodborne | +3.25 | 94 | 2,539 | - | - | 77 | - | 0.6132 | ENTRY IGNITION:39daph |
-| 10 | Michigan: Report from Hell | +3.25 | 78 | 3,227 | - | - | 1 | - | 1.0 | ENTRY IGNITION:dansgaming |
-| 11 | Visage | +3.25 | 65 | 4,090 | - | - | 10 | - | 0.9844 | ENTRY IGNITION:laynalazar |
-| 12 | Mist Survival | +3.25 | 85 | 2,917 | - | - | 1 | - | 1.0 | ENTRY IGNITION:gronkhtv |
-| 13 | I'm Only Sleeping | +3.07 | 42 | 7,022 | +132% | -4% | 99 | -1% | 0.3255 | IGNITION:2okos,humzh |
-| 14 | Marbles on Stream | +2.84 | 74 | 3,448 | - | +74% | 88 | - | 0.1984 | ENTRY |
-| 15 | Teamfight Tactics | +2.56 | 33 | 8,808 | +22% | +22% | 100 | +4% | 0.3105 | IGNITION:boxbox,greentea |
+| 1 | PUBG: BATTLEGROUNDS | +8.72 | 12 | 29,353 | +1303% | +619% | 97 | -1% | 0.4998 |  |
+| 2 | World of Tanks | +6.65 | 28 | 10,531 | +211% | +144% | 97 | +41% | 0.2405 | IGNITION:dakillzor,quickybaby |
+| 3 | Counter-Strike | +6.29 | 2 | 170,607 | +461% | +907% | 100 | +4% | 0.2334 |  |
+| 4 | Street Fighter 6 | +5.78 | 22 | 14,654 | +168% | +199% | 89 | -11% | 0.2521 | IGNITION:mistermv,capcomfighters_jp |
+| 5 | EA Sports FC 27 | +5.67 | 13 | 25,796 | +126% | +713% | 95 | -1% | 0.1688 |  |
+| 6 | Minecraft | +5.08 | 4 | 69,693 | +476% | +289% | 97 | +1% | 0.2712 |  |
+| 7 | Dark Souls: Remastered | +5.01 | 27 | 10,813 | +248% | +122% | 43 | -23% | 0.7887 | IGNITION:maxim |
+| 8 | Rust | +4.78 | 21 | 14,631 | +18% | +388% | 100 | +2% | 0.3263 | IGNITION:oilrats |
+| 9 | We Were Here Tomorrow | +4.70 | 29 | 10,429 | - | +81% | 39 | - | 0.6464 | ENTRY IGNITION:ironmouse,michimochievee |
+| 10 | Rainbow Six Siege | +4.63 | 38 | 6,878 | +52% | +275% | 99 | +2% | 0.429 | IGNITION:rainbow6 |
+| 11 | ARC Raiders | +4.50 | 10 | 32,241 | +225% | +370% | 100 | +1% | 0.7603 |  |
+| 12 | Arena Breakout: Infinite | +4.01 | 56 | 4,613 | - | +167% | 100 | - | 0.2887 | ENTRY |
+| 13 | Teamfight Tactics | +3.59 | 23 | 13,611 | +55% | +88% | 91 | -9% | 0.2821 | IGNITION:greentea,gearbaby1010 |
+| 14 | Enshrouded | +3.56 | 39 | 6,982 | +158% | +114% | 100 | +3% | 0.2398 |  |
+| 15 | Stardew Valley | +3.28 | 73 | 2,977 | - | - | 64 | - | 0.8892 | ENTRY IGNITION:alderiate |
 
 ## Ignition alerts
 
@@ -30,31 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Her Revenge | brucedropemoff | 19,447 | 9,590 | 100% | 31 |
-| DayZ | summit1g | 16,669 | 9,532 | 77% | 29 |
-| ELDEN RING | jynxzi | 208,367 | 8,891 | 69% | 24 |
-| R.E.P.O. | kaise | 6,819 | 5,711 | 79% | 37 |
-| Zenless Zone Zero | yulihong22 | 4,603 | 4,603 | 65% | 39 |
-| Double Dealers | nickmercs | 11,067 | 4,114 | 100% | 61 |
-| Visage | laynalazar | 5,083 | 4,026 | 98% | 65 |
-| Desert Bus | desertbus | 4,188 | 3,595 | 100% | 71 |
-| Michigan: Report from Hell | dansgaming | 7,837 | 3,227 | 100% | 78 |
-| Mist Survival | gronkhtv | 4,125 | 2,917 | 100% | 85 |
+| DayZ | summit1g | 16,669 | 10,586 | 81% | 24 |
+| Dark Souls: Remastered | maxim | 8,528 | 8,528 | 79% | 27 |
+| SOMA | k4sen | 20,406 | 7,957 | 99% | 35 |
+| We Were Here Tomorrow | ironmouse | 19,982 | 6,741 | 65% | 29 |
+| ELDEN RING | jynxzi | 208,367 | 6,610 | 74% | 32 |
+| The Legend of Zelda: A Link to the Past | maximilian_dood | 9,734 | 5,511 | 92% | 44 |
+| Mario Kart World | batora324 | 21,701 | 4,337 | 100% | 58 |
+| Harvester | dansgaming | 7,837 | 3,783 | 100% | 62 |
+| Desert Bus | desertbus | 4,188 | 2,687 | 100% | 77 |
+| Stardew Valley | alderiate | 4,674 | 2,647 | 89% | 73 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 0.771 | Grand Theft Auto V | 55,630 | 72,152 |
-| 0.569 | Zenless Zone Zero | 7,075 | 12,444 |
-| 0.407 | ELDEN RING | 12,951 | 31,836 |
-| 0.337 | Marvel Rivals | 20,790 | 61,626 |
-| 0.276 | R.E.P.O. | 7,187 | 26,010 |
-| 0.023 | Warframe | 2,097 | 90,337 |
-| 0.022 | Delta Force | 2,677 | 122,206 |
-| 0.021 | Valheim | 2,182 | 105,045 |
-| 0.017 | Dota 2 | 16,781 | 987,282 |
-| 0.003 | PUBG: BATTLEGROUNDS | 2,092 | 809,926 |
+| 0.425 | Overwatch | 27,672 | 65,179 |
+| 0.42 | Grand Theft Auto V | 30,285 | 72,152 |
+| 0.369 | Street Fighter 6 | 14,654 | 39,756 |
+| 0.356 | ARC Raiders | 32,241 | 90,652 |
+| 0.327 | EA Sports FC 27 | 25,796 | 78,916 |
+| 0.036 | Farming Simulator 25 | 1,700 | 47,092 |
+| 0.034 | Stardew Valley | 2,977 | 88,575 |
+| 0.034 | Apex Legends | 7,619 | 225,732 |
+| 0.025 | Warframe | 2,230 | 90,337 |
+| 0.015 | Delta Force | 1,873 | 122,206 |
 
 ---
 
