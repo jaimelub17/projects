@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-10-24T10` (UTC). History: 242 snapshots spanning 1277h.
-Reference windows: short = `2026-10-24T04`, day = `2026-10-23T07`.
+Generated from snapshot `2026-10-24T15` (UTC). History: 243 snapshots spanning 1282h.
+Reference windows: short = `2026-10-24T10`, day = `2026-10-23T13`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | PUBG: BATTLEGROUNDS | +8.72 | 12 | 29,353 | +1303% | +619% | 97 | -1% | 0.4998 |  |
-| 2 | World of Tanks | +6.65 | 28 | 10,531 | +211% | +144% | 97 | +41% | 0.2405 | IGNITION:dakillzor,quickybaby |
-| 3 | Counter-Strike | +6.29 | 2 | 170,607 | +461% | +907% | 100 | +4% | 0.2334 |  |
-| 4 | Street Fighter 6 | +5.78 | 22 | 14,654 | +168% | +199% | 89 | -11% | 0.2521 | IGNITION:mistermv,capcomfighters_jp |
-| 5 | EA Sports FC 27 | +5.67 | 13 | 25,796 | +126% | +713% | 95 | -1% | 0.1688 |  |
-| 6 | Minecraft | +5.08 | 4 | 69,693 | +476% | +289% | 97 | +1% | 0.2712 |  |
-| 7 | Dark Souls: Remastered | +5.01 | 27 | 10,813 | +248% | +122% | 43 | -23% | 0.7887 | IGNITION:maxim |
-| 8 | Rust | +4.78 | 21 | 14,631 | +18% | +388% | 100 | +2% | 0.3263 | IGNITION:oilrats |
-| 9 | We Were Here Tomorrow | +4.70 | 29 | 10,429 | - | +81% | 39 | - | 0.6464 | ENTRY IGNITION:ironmouse,michimochievee |
-| 10 | Rainbow Six Siege | +4.63 | 38 | 6,878 | +52% | +275% | 99 | +2% | 0.429 | IGNITION:rainbow6 |
-| 11 | ARC Raiders | +4.50 | 10 | 32,241 | +225% | +370% | 100 | +1% | 0.7603 |  |
-| 12 | Arena Breakout: Infinite | +4.01 | 56 | 4,613 | - | +167% | 100 | - | 0.2887 | ENTRY |
-| 13 | Teamfight Tactics | +3.59 | 23 | 13,611 | +55% | +88% | 91 | -9% | 0.2821 | IGNITION:greentea,gearbaby1010 |
-| 14 | Enshrouded | +3.56 | 39 | 6,982 | +158% | +114% | 100 | +3% | 0.2398 |  |
-| 15 | Stardew Valley | +3.28 | 73 | 2,977 | - | - | 64 | - | 0.8892 | ENTRY IGNITION:alderiate |
+| 1 | Rocket League | +8.52 | 22 | 19,455 | +577% | +254% | 100 | +4% | 0.5752 | IGNITION:peereira7,paache_ |
+| 2 | Mario Kart World | +6.05 | 66 | 6,051 | +39% | +28% | 29 | +867% | 0.9579 | BREADTH IGNITION:batora324 |
+| 3 | Cyberpunk 2077 | +5.55 | 27 | 17,504 | +226% | +83% | 99 | +0% | 0.301 | IGNITION:missmikkaa,keyles |
+| 4 | Fortnite | +4.92 | 6 | 68,852 | +327% | +522% | 86 | -11% | 0.4396 |  |
+| 5 | Aspis | +4.86 | 80 | 4,937 | +170% | - | 19 | +111% | 0.9779 | ENTRY IGNITION:blackufa |
+| 6 | Project Zomboid | +4.53 | 54 | 7,095 | - | +123% | 99 | - | 0.3796 | ENTRY IGNITION:elwycco |
+| 7 | Clive Barker's Hellraiser: Revival | +4.49 | 50 | 3,463 | +84% | +7% | 86 | +100% | 0.2995 | BREADTH |
+| 8 | Le Mans Ultimate | +4.44 | 39 | 9,932 | +229% | +145% | 100 | +0% | 0.113 |  |
+| 9 | Escape from Tarkov | +4.36 | 31 | 15,404 | +232% | +72% | 100 | +0% | 0.1178 | IGNITION:trey24k |
+| 10 | ACE COMBAT 8: WINGS OF THEVE | +4.25 | 36 | 15,518 | - | - | 60 | - | 0.8042 | ENTRY IGNITION:indegnasen0706,saruei |
+| 11 | ROBLOX | +4.20 | 47 | 4,126 | +110% | +187% | 99 | +0% | 0.175 |  |
+| 12 | World of Tanks | +3.99 | 29 | 18,177 | +73% | +80% | 99 | +2% | 0.289 | IGNITION:quickybaby,skill4ltu |
+| 13 | Desert Bus | +3.90 | 96 | 3,655 | +36% | - | 2 | +100% | 0.9984 | BREADTH ENTRY IGNITION:desertbus |
+| 14 | World of Warships | +3.74 | 78 | 5,129 | +169% | - | 55 | +96% | 0.2096 | ENTRY |
+| 15 | Warframe | +3.53 | 71 | 5,012 | +125% | - | 97 | +5% | 0.6522 | ENTRY IGNITION:confused_alucardia |
 
 ## Ignition alerts
 
@@ -30,31 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| DayZ | summit1g | 16,669 | 10,586 | 81% | 24 |
-| Dark Souls: Remastered | maxim | 8,528 | 8,528 | 79% | 27 |
-| SOMA | k4sen | 20,406 | 7,957 | 99% | 35 |
-| We Were Here Tomorrow | ironmouse | 19,982 | 6,741 | 65% | 29 |
-| ELDEN RING | jynxzi | 208,367 | 6,610 | 74% | 32 |
-| The Legend of Zelda: A Link to the Past | maximilian_dood | 9,734 | 5,511 | 92% | 44 |
-| Mario Kart World | batora324 | 21,701 | 4,337 | 100% | 58 |
-| Harvester | dansgaming | 7,837 | 3,783 | 100% | 62 |
-| Desert Bus | desertbus | 4,188 | 2,687 | 100% | 77 |
-| Stardew Valley | alderiate | 4,674 | 2,647 | 89% | 73 |
+| Japanese Ramen Simulator | stylishnoob4 | 28,294 | 16,723 | 96% | 32 |
+| ACE COMBAT 8: WINGS OF THEVE | indegnasen0706 | 35,632 | 12,479 | 80% | 36 |
+| Rocket League | peereira7 | 235,604 | 11,190 | 58% | 22 |
+| Dark Souls | elajjaz | 13,191 | 8,814 | 97% | 45 |
+| Metal Gear Solid V: The Phantom Pain | forsen | 10,577 | 7,144 | 100% | 57 |
+| SOMA | k4sen | 20,406 | 6,190 | 99% | 65 |
+| Mario Kart World | batora324 | 21,701 | 5,796 | 96% | 66 |
+| Night Trap | dansgaming | 7,837 | 5,240 | 100% | 75 |
+| Gakuen iDOLM@STER | yuyuta0702 | 11,462 | 5,212 | 100% | 76 |
+| GONE Fishing | kr1stw | 7,031 | 4,924 | 69% | 55 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 0.425 | Overwatch | 27,672 | 65,179 |
-| 0.42 | Grand Theft Auto V | 30,285 | 72,152 |
-| 0.369 | Street Fighter 6 | 14,654 | 39,756 |
-| 0.356 | ARC Raiders | 32,241 | 90,652 |
-| 0.327 | EA Sports FC 27 | 25,796 | 78,916 |
-| 0.036 | Farming Simulator 25 | 1,700 | 47,092 |
-| 0.034 | Stardew Valley | 2,977 | 88,575 |
-| 0.034 | Apex Legends | 7,619 | 225,732 |
-| 0.025 | Warframe | 2,230 | 90,337 |
-| 0.015 | Delta Force | 1,873 | 122,206 |
+| 0.665 | Grand Theft Auto V | 47,964 | 72,152 |
+| 0.609 | Rocket League | 19,455 | 31,971 |
+| 0.423 | Escape from Tarkov | 15,404 | 36,452 |
+| 0.388 | Street Fighter 6 | 15,444 | 39,756 |
+| 0.323 | War Thunder | 29,765 | 92,130 |
+| 0.066 | VRChat | 3,785 | 57,768 |
+| 0.061 | Apex Legends | 13,688 | 225,732 |
+| 0.055 | Warframe | 5,012 | 90,337 |
+| 0.036 | Valheim | 3,769 | 105,045 |
+| 0.007 | PUBG: BATTLEGROUNDS | 5,332 | 809,926 |
 
 ---
 
