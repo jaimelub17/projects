@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-10-25T11` (UTC). History: 247 snapshots spanning 1302h.
-Reference windows: short = `2026-10-25T04`, day = `2026-10-24T10`.
+Generated from snapshot `2026-10-25T16` (UTC). History: 248 snapshots spanning 1307h.
+Reference windows: short = `2026-10-25T11`, day = `2026-10-24T15`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | NBA 2K27 | +6.71 | 31 | 9,632 | +81% | +516% | 96 | -3% | 0.6876 | IGNITION:yaritaiji |
-| 2 | World of Warships | +6.07 | 40 | 6,690 | - | +251% | 31 | - | 0.6756 | ENTRY IGNITION:overlordbou |
-| 3 | PUBG: BATTLEGROUNDS | +6.01 | 11 | 33,517 | +1725% | +14% | 100 | +0% | 0.5405 |  |
-| 4 | Le Mans Ultimate | +4.45 | 28 | 9,014 | +120% | +199% | 100 | +1% | 0.1944 |  |
-| 5 | World of Tanks | +4.06 | 34 | 8,441 | +202% | -20% | 97 | +23% | 0.2882 | IGNITION:dakillzor,dezgamez |
-| 6 | Counter-Strike | +3.67 | 2 | 157,227 | +545% | -8% | 99 | +0% | 0.1728 |  |
-| 7 | WARDOGS | +3.63 | 22 | 13,306 | +141% | +66% | 98 | -2% | 0.3253 | IGNITION:chad |
-| 8 | Dota 2 | +3.48 | 4 | 77,601 | +314% | +65% | 99 | +0% | 0.1607 |  |
-| 9 | Delta Force | +3.42 | 56 | 4,090 | +93% | +118% | 99 | +2% | 0.2924 |  |
-| 10 | Final Fantasy Resonance | +3.31 | 48 | 5,358 | +65% | +60% | 100 | +0% | 0.1965 | IGNITION:evangelion0 |
-| 11 | The Witcher 3: Wild Hunt | +3.28 | 57 | 3,839 | - | +12% | 100 | - | 0.3821 | ENTRY IGNITION:gronkhtv |
-| 12 | Quarantine Zone: The Last Check | +3.25 | 38 | 7,739 | - | - | 11 | - | 0.8298 | ENTRY IGNITION:mynthos |
-| 13 | Prognostic | +3.25 | 59 | 3,681 | - | - | 1 | - | 1.0 | ENTRY IGNITION:dansgaming |
-| 14 | Farming Simulator 25 | +3.18 | 73 | 2,950 | - | +74% | 100 | - | 0.2244 | ENTRY |
-| 15 | Mobile Legends: Bang Bang | +3.00 | 71 | 3,015 | - | +63% | 97 | - | 0.2584 | ENTRY |
+| 1 | Valheim | +5.76 | 43 | 9,127 | +191% | +142% | 100 | +3% | 0.4839 | IGNITION:quin69 |
+| 2 | Enshrouded | +5.70 | 17 | 26,219 | +358% | +304% | 96 | -3% | 0.4808 |  |
+| 3 | Gray Zone Warfare | +5.31 | 37 | 11,819 | +146% | +75% | 100 | +1% | 0.2422 | IGNITION:damnitbennett,willerz |
+| 4 | Rainbow Six Siege | +4.97 | 36 | 11,124 | +104% | +98% | 100 | +0% | 0.233 | IGNITION:rainbow6,itsspoit |
+| 5 | World of Warships | +4.92 | 47 | 9,145 | +37% | +78% | 58 | +87% | 0.3101 | BREADTH IGNITION:overlordbou |
+| 6 | Pokémon GO | +4.56 | 50 | 7,540 | +217% | +32% | 28 | +22% | 0.6187 | IGNITION:pokemongo |
+| 7 | Kingdom Come: Deliverance II | +4.39 | 64 | 5,685 | - | +55% | 100 | - | 0.4936 | ENTRY IGNITION:gagik |
+| 8 | End of Abyss | +4.25 | 40 | 10,615 | - | - | 13 | - | 0.7535 | ENTRY IGNITION:elajjaz,ilame |
+| 9 | Cyberpunk 2077 | +4.13 | 21 | 18,646 | +137% | +7% | 96 | -1% | 0.2484 | IGNITION:missmikkaa,sunglitters |
+| 10 | Diablo II | +3.96 | 59 | 5,875 | +105% | - | 92 | +67% | 0.1792 | ENTRY IGNITION:raxxanterax |
+| 11 | Street Fighter 6 | +3.92 | 41 | 10,263 | +501% | -34% | 100 | +0% | 0.71 | IGNITION:yaritaiji |
+| 12 | ARC Raiders | +3.58 | 14 | 31,326 | +164% | +119% | 100 | +0% | 0.5005 |  |
+| 13 | Planet Zoo 2 | +3.46 | 77 | 5,081 | +137% | +39% | 98 | +51% | 0.2814 |  |
+| 14 | ACE COMBAT 8: WINGS OF THEVE | +3.34 | 35 | 12,982 | - | -16% | 58 | - | 0.7482 | ENTRY IGNITION:indegnasen0706,saruei |
+| 15 | Still Wakes the Deep | +3.25 | 81 | 4,714 | - | - | 13 | - | 0.982 | ENTRY IGNITION:vei |
 
 ## Ignition alerts
 
@@ -30,28 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| NBA 2K27 | yaritaiji | 14,917 | 6,623 | 69% | 31 |
-| Quarantine Zone: The Last Check | mynthos | 6,422 | 6,422 | 83% | 38 |
-| World of Warships | overlordbou | 4,520 | 4,520 | 68% | 40 |
-| Escape from Tarkov | glorious_e | 10,841 | 4,129 | 51% | 33 |
-| Prognostic | dansgaming | 7,837 | 3,681 | 100% | 59 |
-| Desert Bus | desertbus | 4,289 | 2,710 | 100% | 79 |
-| Stardew Valley | alderiate | 4,674 | 2,221 | 72% | 68 |
+| Oshaberi King! Komyuryoku Shindan Game | stylishnoob4 | 28,294 | 13,195 | 100% | 34 |
+| War Thunder | warthunder_esports | 21,895 | 10,431 | 64% | 25 |
+| ACE COMBAT 8: WINGS OF THEVE | indegnasen0706 | 35,632 | 9,713 | 75% | 35 |
+| End of Abyss | elajjaz | 13,191 | 7,998 | 75% | 40 |
+| Street Fighter 6 | yaritaiji | 14,917 | 7,287 | 71% | 41 |
+| Moon Sweepers | alexelcapo | 6,424 | 6,424 | 66% | 44 |
+| Static Dread: The Submarine | dansgaming | 7,837 | 6,005 | 100% | 56 |
+| Metal Gear Solid V: The Phantom Pain | forsen | 10,577 | 5,846 | 100% | 60 |
+| Plushy's Playground: Into the Slide | blackufa | 5,540 | 5,540 | 100% | 67 |
+| Mycopunk | lirik | 17,931 | 5,392 | 97% | 66 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 0.559 | Overwatch | 39,651 | 70,900 |
-| 0.473 | Grand Theft Auto V | 35,793 | 75,747 |
-| 0.349 | EA Sports FC 27 | 26,099 | 74,729 |
-| 0.208 | Escape from Tarkov | 8,019 | 38,503 |
-| 0.154 | Arena Breakout: Infinite | 5,524 | 35,797 |
-| 0.04 | Apex Legends | 9,288 | 233,670 |
-| 0.033 | Delta Force | 4,090 | 125,444 |
-| 0.033 | DayZ | 2,097 | 64,165 |
-| 0.031 | Stardew Valley | 3,075 | 99,123 |
-| 0.025 | Valheim | 3,132 | 124,046 |
+| 0.717 | Grand Theft Auto V | 54,316 | 75,747 |
+| 0.351 | Escape from Tarkov | 13,513 | 38,503 |
+| 0.314 | ARC Raiders | 31,326 | 99,824 |
+| 0.29 | EA Sports FC 27 | 21,682 | 74,729 |
+| 0.276 | Dead by Daylight | 19,868 | 71,988 |
+| 0.056 | WARDOGS | 11,297 | 201,193 |
+| 0.055 | Project Zomboid | 3,821 | 69,291 |
+| 0.052 | Apex Legends | 12,231 | 233,670 |
+| 0.027 | Delta Force | 3,367 | 125,444 |
+| 0.011 | PUBG: BATTLEGROUNDS | 9,178 | 817,009 |
 
 ---
 
