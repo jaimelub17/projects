@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-10-25T04` (UTC). History: 246 snapshots spanning 1295h.
-Reference windows: short = `2026-10-24T22`, day = `2026-10-24T04`.
+Generated from snapshot `2026-10-25T11` (UTC). History: 247 snapshots spanning 1302h.
+Reference windows: short = `2026-10-25T04`, day = `2026-10-24T10`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Pokémon GO | +11.48 | 5 | 56,321 | +706% | +2320% | 51 | +16% | 0.6711 |  |
-| 2 | I'm Only Sleeping | +5.86 | 23 | 13,248 | +241% | +89% | 100 | +0% | 0.2896 | IGNITION:rostislav_999,exsl95 |
-| 3 | Super Battle Golf | +4.25 | 34 | 7,865 | - | - | 34 | - | 0.7223 | ENTRY IGNITION:valkyrae,arckon |
-| 4 | Invokyr | +3.92 | 45 | 6,403 | - | +79% | 81 | - | 0.3205 | ENTRY IGNITION:masayoshi |
-| 5 | Call of Duty: Modern Warfare | +3.25 | 66 | 3,791 | - | - | 17 | - | 0.9939 | ENTRY IGNITION:henyathegenius |
-| 6 | League of Legends: Wild Rift | +3.25 | 100 | 2,112 | - | - | 50 | - | 0.6671 | ENTRY IGNITION:tealzlol |
-| 7 | A Quiet Place: The Road Ahead | +3.25 | 77 | 3,153 | - | - | 8 | - | 0.9807 | ENTRY IGNITION:dansgaming |
-| 8 | Nintendo Switch Sports Resort | +3.25 | 50 | 5,590 | - | - | 33 | - | 0.946 | ENTRY IGNITION:maximilian_dood |
-| 9 | SATANIC PANIC 666 | +3.25 | 67 | 3,780 | - | - | 1 | - | 1.0 | ENTRY IGNITION:vargskelethor |
-| 10 | Resident Evil Village | +3.25 | 53 | 5,093 | - | - | 81 | - | 0.9144 | ENTRY IGNITION:shinjifromjapanxd |
-| 11 | Woman Simulator | +3.25 | 88 | 2,381 | - | - | 6 | - | 0.9874 | ENTRY IGNITION:penta |
-| 12 | RimWorld | +2.33 | 94 | 2,176 | - | - | 25 | - | 0.6604 | ENTRY |
-| 13 | Destiny 2 | +2.31 | 89 | 1,910 | - | - | 98 | - | 0.1094 | ENTRY |
-| 14 | The Outlast Trials | +2.25 | 96 | 1,926 | - | - | 100 | - | 0.2731 | ENTRY |
-| 15 | Castlevania: Belmont's Curse | +2.25 | 84 | 2,502 | - | - | 100 | - | 0.1091 | ENTRY |
+| 1 | NBA 2K27 | +6.71 | 31 | 9,632 | +81% | +516% | 96 | -3% | 0.6876 | IGNITION:yaritaiji |
+| 2 | World of Warships | +6.07 | 40 | 6,690 | - | +251% | 31 | - | 0.6756 | ENTRY IGNITION:overlordbou |
+| 3 | PUBG: BATTLEGROUNDS | +6.01 | 11 | 33,517 | +1725% | +14% | 100 | +0% | 0.5405 |  |
+| 4 | Le Mans Ultimate | +4.45 | 28 | 9,014 | +120% | +199% | 100 | +1% | 0.1944 |  |
+| 5 | World of Tanks | +4.06 | 34 | 8,441 | +202% | -20% | 97 | +23% | 0.2882 | IGNITION:dakillzor,dezgamez |
+| 6 | Counter-Strike | +3.67 | 2 | 157,227 | +545% | -8% | 99 | +0% | 0.1728 |  |
+| 7 | WARDOGS | +3.63 | 22 | 13,306 | +141% | +66% | 98 | -2% | 0.3253 | IGNITION:chad |
+| 8 | Dota 2 | +3.48 | 4 | 77,601 | +314% | +65% | 99 | +0% | 0.1607 |  |
+| 9 | Delta Force | +3.42 | 56 | 4,090 | +93% | +118% | 99 | +2% | 0.2924 |  |
+| 10 | Final Fantasy Resonance | +3.31 | 48 | 5,358 | +65% | +60% | 100 | +0% | 0.1965 | IGNITION:evangelion0 |
+| 11 | The Witcher 3: Wild Hunt | +3.28 | 57 | 3,839 | - | +12% | 100 | - | 0.3821 | ENTRY IGNITION:gronkhtv |
+| 12 | Quarantine Zone: The Last Check | +3.25 | 38 | 7,739 | - | - | 11 | - | 0.8298 | ENTRY IGNITION:mynthos |
+| 13 | Prognostic | +3.25 | 59 | 3,681 | - | - | 1 | - | 1.0 | ENTRY IGNITION:dansgaming |
+| 14 | Farming Simulator 25 | +3.18 | 73 | 2,950 | - | +74% | 100 | - | 0.2244 | ENTRY |
+| 15 | Mobile Legends: Bang Bang | +3.00 | 71 | 3,015 | - | +63% | 97 | - | 0.2584 | ENTRY |
 
 ## Ignition alerts
 
@@ -30,31 +30,28 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| DayZ | summit1g | 16,669 | 9,877 | 76% | 25 |
-| Mario Kart World | batora324 | 21,701 | 9,022 | 98% | 31 |
-| Super Battle Golf | valkyrae | 14,967 | 5,681 | 72% | 34 |
-| Nintendo Switch Sports Resort | maximilian_dood | 9,734 | 5,288 | 95% | 50 |
-| Resident Evil Village | shinjifromjapanxd | 6,318 | 4,657 | 91% | 53 |
-| SATANIC PANIC 666 | vargskelethor | 4,765 | 3,780 | 100% | 67 |
-| Desert Bus | desertbus | 4,289 | 3,775 | 100% | 69 |
-| Call of Duty: Modern Warfare | henyathegenius | 4,591 | 3,768 | 99% | 66 |
-| A Quiet Place: The Road Ahead | dansgaming | 7,837 | 3,092 | 98% | 77 |
-| Woman Simulator | penta | 7,075 | 2,351 | 99% | 88 |
+| NBA 2K27 | yaritaiji | 14,917 | 6,623 | 69% | 31 |
+| Quarantine Zone: The Last Check | mynthos | 6,422 | 6,422 | 83% | 38 |
+| World of Warships | overlordbou | 4,520 | 4,520 | 68% | 40 |
+| Escape from Tarkov | glorious_e | 10,841 | 4,129 | 51% | 33 |
+| Prognostic | dansgaming | 7,837 | 3,681 | 100% | 59 |
+| Desert Bus | desertbus | 4,289 | 2,710 | 100% | 79 |
+| Stardew Valley | alderiate | 4,674 | 2,221 | 72% | 68 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 0.737 | Grand Theft Auto V | 55,830 | 75,747 |
-| 0.281 | Overwatch | 19,933 | 70,900 |
-| 0.206 | Marvel Rivals | 18,917 | 91,784 |
-| 0.204 | DayZ | 13,081 | 64,165 |
-| 0.185 | NARAKA: BLADEPOINT | 12,874 | 69,508 |
-| 0.02 | Valheim | 2,449 | 124,046 |
-| 0.018 | Counter-Strike | 24,384 | 1,347,645 |
-| 0.017 | Dota 2 | 18,745 | 1,082,992 |
-| 0.017 | Delta Force | 2,114 | 125,444 |
-| 0.002 | PUBG: BATTLEGROUNDS | 1,837 | 817,009 |
+| 0.559 | Overwatch | 39,651 | 70,900 |
+| 0.473 | Grand Theft Auto V | 35,793 | 75,747 |
+| 0.349 | EA Sports FC 27 | 26,099 | 74,729 |
+| 0.208 | Escape from Tarkov | 8,019 | 38,503 |
+| 0.154 | Arena Breakout: Infinite | 5,524 | 35,797 |
+| 0.04 | Apex Legends | 9,288 | 233,670 |
+| 0.033 | Delta Force | 4,090 | 125,444 |
+| 0.033 | DayZ | 2,097 | 64,165 |
+| 0.031 | Stardew Valley | 3,075 | 99,123 |
+| 0.025 | Valheim | 3,132 | 124,046 |
 
 ---
 
