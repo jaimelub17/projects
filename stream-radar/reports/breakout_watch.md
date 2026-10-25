@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-10-24T22` (UTC). History: 245 snapshots spanning 1289h.
-Reference windows: short = `2026-10-24T15`, day = `2026-10-23T23`.
+Generated from snapshot `2026-10-25T04` (UTC). History: 246 snapshots spanning 1295h.
+Reference windows: short = `2026-10-24T22`, day = `2026-10-24T04`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Valheim | +6.26 | 44 | 8,241 | +119% | +168% | 96 | -3% | 0.4308 | IGNITION:phunkroyal,strippin |
-| 2 | Geometry Dash | +3.60 | 59 | 6,302 | - | +41% | 100 | - | 0.6593 | ENTRY IGNITION:zoinkgd |
-| 3 | Overwatch | +3.48 | 10 | 47,155 | +129% | +219% | 99 | +3% | 0.492 |  |
-| 4 | DayZ | +3.38 | 38 | 9,535 | +142% | +27% | 98 | +0% | 0.285 | IGNITION:summit1g |
-| 5 | MapleStory | +3.38 | 78 | 4,951 | - | +44% | 100 | - | 0.3755 | ENTRY IGNITION:ereklo_game |
-| 6 | Teamfight Tactics | +3.31 | 30 | 14,792 | -16% | +105% | 100 | +2% | 0.4062 | IGNITION:k3soju,frodan |
-| 7 | Life Is Strange | +3.25 | 64 | 5,987 | - | - | 9 | - | 0.995 | ENTRY IGNITION:realzbluewater |
-| 8 | Moon Sweepers | +3.25 | 80 | 4,872 | - | - | 64 | - | 0.8097 | ENTRY IGNITION:letsgameitout |
-| 9 | Echoes in Darkness | +3.25 | 98 | 3,625 | - | - | 3 | - | 0.9884 | ENTRY IGNITION:gom4rt |
-| 10 | BALL x PIT | +3.25 | 90 | 4,273 | - | - | 6 | - | 0.9956 | ENTRY IGNITION:shylily |
-| 11 | Gears of War: E-Day | +3.25 | 62 | 5,481 | - | - | 98 | - | 0.4634 | ENTRY IGNITION:limealicious |
-| 12 | Blair Witch | +3.25 | 68 | 5,736 | - | - | 4 | - | 0.9923 | ENTRY IGNITION:dansgaming |
-| 13 | We Were Here Tomorrow | +3.25 | 56 | 6,853 | - | - | 80 | - | 0.6364 | ENTRY IGNITION:therealmarzaa |
-| 14 | Bloodborne | +3.25 | 100 | 3,456 | - | - | 88 | - | 0.8652 | ENTRY IGNITION:avoidingthepuddle |
-| 15 | Marbles on Stream | +3.25 | 66 | 5,738 | - | - | 99 | - | 0.297 | ENTRY IGNITION:arckon |
+| 1 | Pokémon GO | +11.48 | 5 | 56,321 | +706% | +2320% | 51 | +16% | 0.6711 |  |
+| 2 | I'm Only Sleeping | +5.86 | 23 | 13,248 | +241% | +89% | 100 | +0% | 0.2896 | IGNITION:rostislav_999,exsl95 |
+| 3 | Super Battle Golf | +4.25 | 34 | 7,865 | - | - | 34 | - | 0.7223 | ENTRY IGNITION:valkyrae,arckon |
+| 4 | Invokyr | +3.92 | 45 | 6,403 | - | +79% | 81 | - | 0.3205 | ENTRY IGNITION:masayoshi |
+| 5 | Call of Duty: Modern Warfare | +3.25 | 66 | 3,791 | - | - | 17 | - | 0.9939 | ENTRY IGNITION:henyathegenius |
+| 6 | League of Legends: Wild Rift | +3.25 | 100 | 2,112 | - | - | 50 | - | 0.6671 | ENTRY IGNITION:tealzlol |
+| 7 | A Quiet Place: The Road Ahead | +3.25 | 77 | 3,153 | - | - | 8 | - | 0.9807 | ENTRY IGNITION:dansgaming |
+| 8 | Nintendo Switch Sports Resort | +3.25 | 50 | 5,590 | - | - | 33 | - | 0.946 | ENTRY IGNITION:maximilian_dood |
+| 9 | SATANIC PANIC 666 | +3.25 | 67 | 3,780 | - | - | 1 | - | 1.0 | ENTRY IGNITION:vargskelethor |
+| 10 | Resident Evil Village | +3.25 | 53 | 5,093 | - | - | 81 | - | 0.9144 | ENTRY IGNITION:shinjifromjapanxd |
+| 11 | Woman Simulator | +3.25 | 88 | 2,381 | - | - | 6 | - | 0.9874 | ENTRY IGNITION:penta |
+| 12 | RimWorld | +2.33 | 94 | 2,176 | - | - | 25 | - | 0.6604 | ENTRY |
+| 13 | Destiny 2 | +2.31 | 89 | 1,910 | - | - | 98 | - | 0.1094 | ENTRY |
+| 14 | The Outlast Trials | +2.25 | 96 | 1,926 | - | - | 100 | - | 0.2731 | ENTRY |
+| 15 | Castlevania: Belmont's Curse | +2.25 | 84 | 2,502 | - | - | 100 | - | 0.1091 | ENTRY |
 
 ## Ignition alerts
 
@@ -30,31 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| War Thunder | warthunder_esports | 21,895 | 14,456 | 68% | 22 |
-| Dark Souls | elajjaz | 13,191 | 7,185 | 98% | 53 |
-| Life Is Strange | realzbluewater | 8,293 | 5,957 | 100% | 64 |
-| Blair Witch | dansgaming | 7,837 | 5,692 | 99% | 68 |
-| Mario Kart World | batora324 | 21,701 | 5,128 | 97% | 75 |
-| Dark Souls: Remastered | edopeh | 4,868 | 4,415 | 92% | 82 |
-| We Were Here Tomorrow | therealmarzaa | 7,475 | 4,361 | 64% | 56 |
-| Desert Bus | desertbus | 4,289 | 4,289 | 100% | 89 |
-| Clive Barker's Hellraiser: Revival | laynalazar | 5,083 | 4,271 | 71% | 63 |
-| BALL x PIT | shylily | 5,249 | 4,254 | 100% | 90 |
+| DayZ | summit1g | 16,669 | 9,877 | 76% | 25 |
+| Mario Kart World | batora324 | 21,701 | 9,022 | 98% | 31 |
+| Super Battle Golf | valkyrae | 14,967 | 5,681 | 72% | 34 |
+| Nintendo Switch Sports Resort | maximilian_dood | 9,734 | 5,288 | 95% | 50 |
+| Resident Evil Village | shinjifromjapanxd | 6,318 | 4,657 | 91% | 53 |
+| SATANIC PANIC 666 | vargskelethor | 4,765 | 3,780 | 100% | 67 |
+| Desert Bus | desertbus | 4,289 | 3,775 | 100% | 69 |
+| Call of Duty: Modern Warfare | henyathegenius | 4,591 | 3,768 | 99% | 66 |
+| A Quiet Place: The Road Ahead | dansgaming | 7,837 | 3,092 | 98% | 77 |
+| Woman Simulator | penta | 7,075 | 2,351 | 99% | 88 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 1.454 | Grand Theft Auto V | 104,899 | 72,152 |
-| 0.723 | Overwatch | 47,155 | 65,179 |
-| 0.435 | Rocket League | 13,911 | 31,971 |
-| 0.429 | EA Sports FC 27 | 33,880 | 78,916 |
-| 0.411 | Marvel Rivals | 25,318 | 61,626 |
-| 0.061 | Cyberpunk 2077 | 7,572 | 124,145 |
-| 0.054 | Dota 2 | 53,363 | 987,282 |
-| 0.039 | Apex Legends | 8,831 | 225,732 |
-| 0.034 | Counter-Strike | 42,882 | 1,274,983 |
-| 0.008 | PUBG: BATTLEGROUNDS | 6,702 | 809,926 |
+| 0.737 | Grand Theft Auto V | 55,830 | 75,747 |
+| 0.281 | Overwatch | 19,933 | 70,900 |
+| 0.206 | Marvel Rivals | 18,917 | 91,784 |
+| 0.204 | DayZ | 13,081 | 64,165 |
+| 0.185 | NARAKA: BLADEPOINT | 12,874 | 69,508 |
+| 0.02 | Valheim | 2,449 | 124,046 |
+| 0.018 | Counter-Strike | 24,384 | 1,347,645 |
+| 0.017 | Dota 2 | 18,745 | 1,082,992 |
+| 0.017 | Delta Force | 2,114 | 125,444 |
+| 0.002 | PUBG: BATTLEGROUNDS | 1,837 | 817,009 |
 
 ---
 
