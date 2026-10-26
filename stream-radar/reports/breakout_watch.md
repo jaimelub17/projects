@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-10-26T04` (UTC). History: 251 snapshots spanning 1319h.
-Reference windows: short = `2026-10-25T22`, day = `2026-10-25T04`.
+Generated from snapshot `2026-10-26T12` (UTC). History: 252 snapshots spanning 1327h.
+Reference windows: short = `2026-10-26T04`, day = `2026-10-25T11`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Street Fighter 6 | +4.55 | 31 | 7,342 | +12% | +220% | 97 | -1% | 0.2142 | IGNITION:naru0419045 |
-| 2 | Genshin Impact | +4.34 | 42 | 5,216 | +44% | +141% | 97 | -3% | 0.5115 | IGNITION:zy0xxx |
-| 3 | Mimic Party | +4.25 | 33 | 7,131 | - | - | 7 | - | 0.6597 | ENTRY IGNITION:crystalmolly,caprimint |
-| 4 | HUNGER | +3.95 | 30 | 7,635 | +25% | +54% | 99 | +1% | 0.2799 | IGNITION:smoke,sequisha |
-| 5 | Call of Duty: Black Ops | +3.25 | 96 | 1,724 | - | - | 24 | - | 0.7175 | ENTRY IGNITION:smallant |
-| 6 | Plants vs. Zombies | +3.25 | 94 | 1,771 | - | - | 100 | - | 0.865 | ENTRY IGNITION:39daph |
-| 7 | $cam With Your Friends | +3.25 | 53 | 4,372 | - | - | 82 | - | 0.7511 | ENTRY IGNITION:penta |
-| 8 | RESIDENT EVIL 7 biohazard | +3.25 | 41 | 5,431 | - | - | 60 | - | 0.6036 | ENTRY IGNITION:dansgaming |
-| 9 | Pokémon Legends: Z-A | +3.25 | 95 | 1,766 | - | - | 22 | - | 0.8817 | ENTRY IGNITION:bigpuffer |
-| 10 | Mist Survival | +3.25 | 69 | 2,874 | - | - | 1 | - | 1.0 | ENTRY IGNITION:gronkhtv |
-| 11 | Dead Space | +3.25 | 74 | 2,548 | - | - | 33 | - | 0.8014 | ENTRY IGNITION:bawkbasoup |
-| 12 | Terraria | +3.22 | 22 | 12,059 | - | - | 71 | - | 0.9813 | ENTRY IGNITION:emiru |
-| 13 | Warframe | +2.83 | 59 | 3,305 | +4% | +70% | 93 | -6% | 0.2115 | IGNITION:brozime |
-| 14 | Aniimo | +2.26 | 91 | 1,774 | - | - | 94 | - | 0.2492 | ENTRY |
-| 15 | Witchspire | +2.25 | 92 | 1,905 | - | - | 30 | - | 0.2378 | ENTRY |
+| 1 | Enshrouded | +6.83 | 13 | 19,459 | +771% | +240% | 100 | +0% | 0.4623 |  |
+| 2 | Planet Zoo 2 | +6.68 | 28 | 10,798 | - | +404% | 69 | - | 0.6443 | ENTRY IGNITION:yaritaiji |
+| 3 | Street Fighter 6 | +6.60 | 33 | 8,719 | +19% | +410% | 97 | +0% | 0.5542 | IGNITION:ikoma_dogura,haitani0904 |
+| 4 | Hunt: Showdown 1896 | +5.94 | 30 | 10,200 | - | +460% | 100 | - | 0.2574 | ENTRY |
+| 5 | Call of Duty: Warzone | +5.12 | 45 | 5,575 | +75% | +240% | 99 | +3% | 0.4556 | IGNITION:camy |
+| 6 | Counter-Strike | +5.09 | 2 | 189,849 | +1053% | +21% | 99 | +1% | 0.2319 |  |
+| 7 | Hearthstone | +4.61 | 23 | 13,658 | +166% | +26% | 97 | +116% | 0.1855 | IGNITION:xqn_thesad |
+| 8 | Pokémon Champions | +4.54 | 48 | 5,730 | +241% | - | 45 | +25% | 0.5775 | ENTRY IGNITION:gutitubo |
+| 9 | Phasmophobia | +3.92 | 57 | 4,318 | +178% | - | 97 | +7% | 0.3277 | ENTRY IGNITION:tuulathecat |
+| 10 | Teamfight Tactics | +3.58 | 22 | 13,770 | +129% | -23% | 97 | +24% | 0.1719 | IGNITION:bbbb87,gearbaby1010 |
+| 11 | PUBG: BATTLEGROUNDS | +3.50 | 12 | 21,883 | +586% | -35% | 99 | +9% | 0.8035 |  |
+| 12 | Gray Zone Warfare | +3.33 | 44 | 6,544 | +39% | +36% | 99 | +0% | 0.1718 | IGNITION:willerz,damnitbennett |
+| 13 | Cyberpunk 2077 | +3.30 | 31 | 9,673 | +147% | +23% | 99 | +2% | 0.2433 | IGNITION:anniefuchsia |
+| 14 | Japanese Ramen Simulator | +3.25 | 67 | 3,453 | - | - | 83 | - | 0.439 | ENTRY IGNITION:minoru04160 |
+| 15 | Alien: Isolation | +3.25 | 66 | 3,516 | - | - | 23 | - | 0.905 | ENTRY IGNITION:shibuya_kaho |
 
 ## Ignition alerts
 
@@ -30,31 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Terraria | emiru | 14,104 | 11,834 | 98% | 22 |
-| Mimic Party | crystalmolly | 4,704 | 4,704 | 66% | 33 |
-| Desert Bus | desertbus | 4,330 | 3,404 | 100% | 62 |
-| $cam With Your Friends | penta | 7,075 | 3,284 | 75% | 53 |
-| RESIDENT EVIL 7 biohazard | dansgaming | 7,837 | 3,278 | 60% | 41 |
-| Mist Survival | gronkhtv | 4,125 | 2,874 | 100% | 69 |
-| Genshin Impact | zy0xxx | 10,507 | 2,668 | 51% | 42 |
-| Dead Space | bawkbasoup | 3,517 | 2,042 | 80% | 74 |
-| Geometry Dash | doggie | 5,085 | 1,955 | 80% | 78 |
-| Pokémon Legends: Z-A | bigpuffer | 3,135 | 1,557 | 88% | 95 |
+| Pokémon Shield | confused_dude | 8,007 | 8,007 | 100% | 38 |
+| Planet Zoo 2 | yaritaiji | 14,917 | 6,957 | 64% | 28 |
+| Street Fighter 6 | ikoma_dogura | 4,832 | 4,832 | 55% | 33 |
+| Age of War | sterzik | 4,206 | 4,206 | 100% | 59 |
+| RESIDENT EVIL 7 biohazard | dansgaming | 7,837 | 3,612 | 75% | 54 |
+| Pokémon Champions | gutitubo | 7,834 | 3,309 | 58% | 48 |
+| Resident Evil 3: Nemesis | blusewilly_retry | 3,983 | 3,255 | 99% | 70 |
+| Alien: Isolation | shibuya_kaho | 3,182 | 3,182 | 90% | 66 |
+| Maitre des Fleurs | ponce | 4,952 | 3,101 | 100% | 73 |
+| Super Mario World | barbarousking | 4,665 | 2,696 | 90% | 75 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 0.564 | Grand Theft Auto V | 44,357 | 78,666 |
-| 0.235 | DayZ | 15,962 | 68,051 |
-| 0.227 | Terraria | 12,059 | 53,138 |
-| 0.201 | Street Fighter 6 | 7,342 | 36,503 |
-| 0.197 | Overwatch | 13,897 | 70,474 |
-| 0.019 | Enshrouded | 2,233 | 116,840 |
-| 0.017 | Valheim | 2,187 | 129,594 |
-| 0.015 | Dota 2 | 16,581 | 1,097,854 |
-| 0.012 | Counter-Strike | 16,462 | 1,338,829 |
-| 0.004 | PUBG: BATTLEGROUNDS | 3,192 | 812,708 |
+| 0.387 | Planet Zoo 2 | 10,798 | 27,913 |
+| 0.34 | Hunt: Showdown 1896 | 10,200 | 29,968 |
+| 0.259 | Grand Theft Auto V | 20,358 | 78,666 |
+| 0.239 | Street Fighter 6 | 8,719 | 36,503 |
+| 0.238 | EA Sports FC 27 | 18,656 | 78,354 |
+| 0.029 | DayZ | 1,997 | 68,051 |
+| 0.028 | Rainbow Six Siege | 2,526 | 90,722 |
+| 0.027 | PUBG: BATTLEGROUNDS | 21,883 | 812,708 |
+| 0.021 | Valheim | 2,786 | 129,594 |
+| 0.019 | Warframe | 1,711 | 89,441 |
 
 ---
 
