@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-10-26T12` (UTC). History: 252 snapshots spanning 1327h.
-Reference windows: short = `2026-10-26T04`, day = `2026-10-25T11`.
+Generated from snapshot `2026-10-26T19` (UTC). History: 253 snapshots spanning 1334h.
+Reference windows: short = `2026-10-26T12`, day = `2026-10-25T19`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Enshrouded | +6.83 | 13 | 19,459 | +771% | +240% | 100 | +0% | 0.4623 |  |
-| 2 | Planet Zoo 2 | +6.68 | 28 | 10,798 | - | +404% | 69 | - | 0.6443 | ENTRY IGNITION:yaritaiji |
-| 3 | Street Fighter 6 | +6.60 | 33 | 8,719 | +19% | +410% | 97 | +0% | 0.5542 | IGNITION:ikoma_dogura,haitani0904 |
-| 4 | Hunt: Showdown 1896 | +5.94 | 30 | 10,200 | - | +460% | 100 | - | 0.2574 | ENTRY |
-| 5 | Call of Duty: Warzone | +5.12 | 45 | 5,575 | +75% | +240% | 99 | +3% | 0.4556 | IGNITION:camy |
-| 6 | Counter-Strike | +5.09 | 2 | 189,849 | +1053% | +21% | 99 | +1% | 0.2319 |  |
-| 7 | Hearthstone | +4.61 | 23 | 13,658 | +166% | +26% | 97 | +116% | 0.1855 | IGNITION:xqn_thesad |
-| 8 | Pokémon Champions | +4.54 | 48 | 5,730 | +241% | - | 45 | +25% | 0.5775 | ENTRY IGNITION:gutitubo |
-| 9 | Phasmophobia | +3.92 | 57 | 4,318 | +178% | - | 97 | +7% | 0.3277 | ENTRY IGNITION:tuulathecat |
-| 10 | Teamfight Tactics | +3.58 | 22 | 13,770 | +129% | -23% | 97 | +24% | 0.1719 | IGNITION:bbbb87,gearbaby1010 |
-| 11 | PUBG: BATTLEGROUNDS | +3.50 | 12 | 21,883 | +586% | -35% | 99 | +9% | 0.8035 |  |
-| 12 | Gray Zone Warfare | +3.33 | 44 | 6,544 | +39% | +36% | 99 | +0% | 0.1718 | IGNITION:willerz,damnitbennett |
-| 13 | Cyberpunk 2077 | +3.30 | 31 | 9,673 | +147% | +23% | 99 | +2% | 0.2433 | IGNITION:anniefuchsia |
-| 14 | Japanese Ramen Simulator | +3.25 | 67 | 3,453 | - | - | 83 | - | 0.439 | ENTRY IGNITION:minoru04160 |
-| 15 | Alien: Isolation | +3.25 | 66 | 3,516 | - | - | 23 | - | 0.905 | ENTRY IGNITION:shibuya_kaho |
+| 1 | Fortnite | +6.26 | 3 | 207,848 | +1611% | +61% | 99 | +5% | 0.2283 |  |
+| 2 | World of Tanks | +6.21 | 22 | 34,524 | +329% | +119% | 100 | +4% | 0.2178 | IGNITION:quickybaby,skill4ltu |
+| 3 | Clash Royale | +5.70 | 21 | 35,871 | +221% | - | 68 | +51% | 0.6328 | ENTRY IGNITION:jynxzi,narek_cr |
+| 4 | Tape to Tape | +5.30 | 40 | 13,107 | - | +159% | 17 | - | 0.9818 | ENTRY IGNITION:northernlion |
+| 5 | Rocket League | +4.39 | 30 | 15,946 | +313% | -17% | 96 | +0% | 0.5304 | IGNITION:itachi,mawkzy_ |
+| 6 | Night Plane | +4.25 | 25 | 26,965 | - | - | 15 | - | 0.3504 | ENTRY IGNITION:alanzoka,laynalazar |
+| 7 | Phasmophobia | +4.10 | 35 | 13,706 | +217% | - | 98 | +1% | 0.4791 | ENTRY IGNITION:insym |
+| 8 | Valheim | +4.09 | 43 | 10,286 | +269% | +14% | 100 | +0% | 0.6475 | IGNITION:quin69 |
+| 9 | ELDEN RING | +4.07 | 55 | 8,003 | +99% | +78% | 99 | -1% | 0.4677 | IGNITION:c_a_k_e |
+| 10 | Grand Theft Auto V | +3.62 | 4 | 85,923 | +322% | +75% | 99 | +5% | 0.0725 |  |
+| 11 | Teamfight Tactics | +3.58 | 53 | 8,883 | -35% | +107% | 95 | -2% | 0.2183 | IGNITION:dantes,loltyler1 |
+| 12 | Deadlock | +3.57 | 23 | 27,529 | +126% | -1% | 100 | +0% | 0.2388 | IGNITION:recrent,jamside |
+| 13 | Genshin Impact | +3.51 | 95 | 3,746 | +132% | - | 100 | +5% | 0.1399 | ENTRY IGNITION:murderofbirds |
+| 14 | Microsoft Flight Simulator 2024 | +3.25 | 65 | 5,818 | - | - | 75 | - | 0.6667 | ENTRY IGNITION:asnowwolf |
+| 15 | Forbidden Solitaire | +3.25 | 76 | 4,915 | - | - | 4 | - | 0.9927 | ENTRY IGNITION:dansgaming |
 
 ## Ignition alerts
 
@@ -30,31 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Pokémon Shield | confused_dude | 8,007 | 8,007 | 100% | 38 |
-| Planet Zoo 2 | yaritaiji | 14,917 | 6,957 | 64% | 28 |
-| Street Fighter 6 | ikoma_dogura | 4,832 | 4,832 | 55% | 33 |
-| Age of War | sterzik | 4,206 | 4,206 | 100% | 59 |
-| RESIDENT EVIL 7 biohazard | dansgaming | 7,837 | 3,612 | 75% | 54 |
-| Pokémon Champions | gutitubo | 7,834 | 3,309 | 58% | 48 |
-| Resident Evil 3: Nemesis | blusewilly_retry | 3,983 | 3,255 | 99% | 70 |
-| Alien: Isolation | shibuya_kaho | 3,182 | 3,182 | 90% | 66 |
-| Maitre des Fleurs | ponce | 4,952 | 3,101 | 100% | 73 |
-| Super Mario World | barbarousking | 4,665 | 2,696 | 90% | 75 |
+| Clash Royale | jynxzi | 208,367 | 22,699 | 63% | 21 |
+| Fears to Fathom: Woodbury Getaway | domingo | 274,199 | 14,064 | 99% | 38 |
+| Tape to Tape | northernlion | 14,748 | 12,868 | 98% | 40 |
+| Rocket League | itachi | 38,034 | 8,458 | 53% | 30 |
+| Valheim | quin69 | 12,132 | 6,660 | 65% | 43 |
+| Rainbow Six Siege | itsspoit | 6,184 | 5,420 | 60% | 44 |
+| Mario Kart World | batora324 | 21,701 | 5,007 | 93% | 68 |
+| Forbidden Solitaire | dansgaming | 7,837 | 4,879 | 99% | 76 |
+| Metal Gear Solid V: The Phantom Pain | forsen | 10,577 | 4,397 | 96% | 87 |
+| Desert Bus | desertbus | 4,330 | 3,889 | 100% | 99 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 0.387 | Planet Zoo 2 | 10,798 | 27,913 |
-| 0.34 | Hunt: Showdown 1896 | 10,200 | 29,968 |
-| 0.259 | Grand Theft Auto V | 20,358 | 78,666 |
-| 0.239 | Street Fighter 6 | 8,719 | 36,503 |
-| 0.238 | EA Sports FC 27 | 18,656 | 78,354 |
-| 0.029 | DayZ | 1,997 | 68,051 |
-| 0.028 | Rainbow Six Siege | 2,526 | 90,722 |
-| 0.027 | PUBG: BATTLEGROUNDS | 21,883 | 812,708 |
-| 0.021 | Valheim | 2,786 | 129,594 |
-| 0.019 | Warframe | 1,711 | 89,441 |
+| 1.168 | Hunt: Showdown 1896 | 35,003 | 29,968 |
+| 1.092 | Grand Theft Auto V | 85,923 | 78,666 |
+| 0.674 | Phasmophobia | 13,706 | 20,348 |
+| 0.607 | EA Sports FC 27 | 47,595 | 78,354 |
+| 0.51 | Rocket League | 15,946 | 31,247 |
+| 0.057 | Counter-Strike | 75,881 | 1,338,829 |
+| 0.042 | Warframe | 3,746 | 89,441 |
+| 0.041 | Delta Force | 4,849 | 119,128 |
+| 0.029 | Apex Legends | 6,255 | 219,343 |
+| 0.01 | PUBG: BATTLEGROUNDS | 8,485 | 812,708 |
 
 ---
 
