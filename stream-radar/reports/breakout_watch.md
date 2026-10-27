@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-10-26T23` (UTC). History: 254 snapshots spanning 1338h.
-Reference windows: short = `2026-10-26T19`, day = `2026-10-25T22`.
+Generated from snapshot `2026-10-27T05` (UTC). History: 255 snapshots spanning 1344h.
+Reference windows: short = `2026-10-26T23`, day = `2026-10-26T04`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | The Legend of Zelda: Ocarina of Time | +4.25 | 76 | 4,560 | - | - | 80 | - | 0.5336 | ENTRY IGNITION:barbarousking,zfg1 |
-| 2 | Invokyr | +4.25 | 23 | 20,128 | - | - | 47 | - | 0.3968 | ENTRY IGNITION:jerma985,vinesauce |
-| 3 | Heroes of the Storm | +3.37 | 73 | 4,847 | - | +2% | 51 | - | 0.7865 | ENTRY IGNITION:grubby,mewnfare |
-| 4 | BALL x PIT | +3.25 | 86 | 3,673 | - | - | 3 | - | 0.9989 | ENTRY IGNITION:shylily |
-| 5 | Grand Theft Auto: San Andreas | +3.25 | 74 | 4,702 | - | - | 64 | - | 0.6601 | ENTRY IGNITION:nikolarn |
-| 6 | Killer Frequency | +3.25 | 89 | 3,578 | - | - | 8 | - | 0.9905 | ENTRY IGNITION:dansgaming |
-| 7 | Look Outside | +3.25 | 35 | 11,818 | - | - | 22 | - | 0.9821 | ENTRY IGNITION:moonmoon |
-| 8 | Giggleland | +3.25 | 53 | 6,423 | - | - | 100 | - | 0.5273 | ENTRY IGNITION:distortion2 |
-| 9 | Bloodborne | +3.25 | 98 | 3,268 | - | - | 88 | - | 0.7791 | ENTRY IGNITION:avoidingthepuddle |
-| 10 | Five Nights at Freddy's 3 | +3.25 | 88 | 3,596 | - | - | 6 | - | 0.9889 | ENTRY IGNITION:yugi |
-| 11 | Game Dev Tycoon | +3.25 | 63 | 5,682 | - | - | 2 | - | 0.9998 | ENTRY IGNITION:squeex |
-| 12 | Terraria | +3.22 | 30 | 14,101 | - | - | 94 | - | 0.9409 | ENTRY IGNITION:emiru |
-| 13 | Teamfight Tactics | +3.03 | 33 | 13,274 | +49% | +2% | 100 | +5% | 0.4431 | IGNITION:loltyler1,wasianiverson |
-| 14 | Apex Legends | +2.93 | 32 | 10,429 | +67% | +54% | 96 | +0% | 0.3978 | IGNITION:imperialhal__ |
-| 15 | Rocket League | +2.84 | 21 | 21,174 | +33% | +13% | 100 | +4% | 0.7228 | IGNITION:kamet0,kaydop |
+| 1 | I'm Only Sleeping | +3.69 | 31 | 8,026 | +192% | +30% | 100 | +0% | 0.1918 | IGNITION:2okos |
+| 2 | Aniimo | +3.58 | 55 | 3,794 | - | +114% | 92 | - | 0.7209 | ENTRY |
+| 3 | Five Nights at Freddy's 4 | +3.25 | 66 | 3,210 | - | - | 4 | - | 0.9826 | ENTRY IGNITION:yugi |
+| 4 | TEKKEN 8 | +3.25 | 91 | 1,913 | - | - | 59 | - | 0.5254 | ENTRY IGNITION:kokujintv |
+| 5 | Chess | +3.25 | 37 | 6,387 | - | - | 2 | - | 0.9998 | ENTRY IGNITION:fanum |
+| 6 | Nintendo Switch Sports Resort | +3.25 | 60 | 3,631 | - | - | 18 | - | 0.537 | ENTRY IGNITION:39daph |
+| 7 | NBA 2K27 | +3.16 | 32 | 6,100 | +72% | +70% | 100 | +1% | 0.2361 | IGNITION:joeknowsyt |
+| 8 | MapleStory | +3.03 | 35 | 6,594 | +96% | +29% | 100 | +5% | 0.1635 | IGNITION:yulihong22 |
+| 9 | Pokémon Champions | +2.75 | 79 | 2,448 | - | +46% | 44 | - | 0.3072 | ENTRY |
+| 10 | Geometry Dash | +2.44 | 48 | 4,711 | -1% | +92% | 80 | -14% | 0.9159 | IGNITION:emilsdream |
+| 11 | Dead Space | +2.31 | 83 | 2,234 | - | -12% | 49 | - | 0.8142 | ENTRY IGNITION:bawkbasoup |
+| 12 | Fall Guys | +2.25 | 72 | 2,825 | - | - | 37 | - | 0.297 | ENTRY |
+| 13 | Pokémon Emerald Version | +2.25 | 85 | 2,194 | - | - | 14 | - | 0.9084 | ENTRY |
+| 14 | Clive Barker's Hellraiser: Revival | +2.25 | 93 | 1,897 | - | - | 83 | - | 0.3716 | ENTRY |
+| 15 | Silver Pines | +2.25 | 75 | 2,727 | - | - | 41 | - | 0.3443 | ENTRY |
 
 ## Ignition alerts
 
@@ -30,31 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Rocket League | kamet0 | 108,478 | 15,304 | 72% | 21 |
-| Terraria | emiru | 14,104 | 13,268 | 94% | 30 |
-| Look Outside | moonmoon | 14,354 | 11,606 | 98% | 35 |
-| DayZ | summit1g | 16,669 | 10,693 | 74% | 29 |
-| Game Dev Tycoon | squeex | 10,291 | 5,681 | 100% | 63 |
-| Mario Kart World | batora324 | 21,701 | 5,025 | 94% | 67 |
-| Desert Bus | desertbus | 4,330 | 4,197 | 100% | 83 |
-| Heroes of the Storm | grubby | 9,492 | 3,812 | 79% | 73 |
-| BALL x PIT | shylily | 5,249 | 3,669 | 100% | 86 |
-| Five Nights at Freddy's 3 | yugi | 5,799 | 3,556 | 99% | 88 |
+| Look Outside | moonmoon | 14,354 | 9,753 | 99% | 26 |
+| DayZ | summit1g | 16,669 | 7,929 | 73% | 25 |
+| Chess | fanum | 11,401 | 6,386 | 100% | 37 |
+| Geometry Dash | emilsdream | 4,315 | 4,315 | 92% | 48 |
+| Desert Bus | desertbus | 4,330 | 3,214 | 100% | 65 |
+| Five Nights at Freddy's 4 | yugi | 5,799 | 3,154 | 98% | 66 |
+| Tenebris Somnia | willneff | 10,753 | 2,424 | 67% | 59 |
+| Dead Space | bawkbasoup | 3,517 | 1,819 | 81% | 83 |
+| Mist Survival | gronkhtv | 4,125 | 1,626 | 100% | 99 |
+| TEKKEN 8 | kokujintv | 26,498 | 1,005 | 53% | 91 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 1.532 | Grand Theft Auto V | 120,543 | 78,666 |
-| 0.725 | Hunt: Showdown 1896 | 21,719 | 29,968 |
-| 0.678 | Rocket League | 21,174 | 31,247 |
-| 0.623 | EA Sports FC 27 | 48,806 | 78,354 |
-| 0.418 | Phasmophobia | 8,514 | 20,348 |
-| 0.04 | Rainbow Six Siege | 3,660 | 90,722 |
-| 0.032 | Counter-Strike | 42,306 | 1,338,829 |
-| 0.029 | Cyberpunk 2077 | 5,422 | 187,215 |
-| 0.027 | Dota 2 | 29,416 | 1,097,854 |
-| 0.01 | PUBG: BATTLEGROUNDS | 7,898 | 812,708 |
+| 0.864 | Grand Theft Auto V | 58,636 | 67,829 |
+| 0.552 | Hunt: Showdown 1896 | 13,130 | 23,787 |
+| 0.226 | Phasmophobia | 3,729 | 16,485 |
+| 0.193 | DayZ | 10,823 | 56,098 |
+| 0.19 | Marvel Rivals | 11,975 | 62,930 |
+| 0.021 | Enshrouded | 1,831 | 88,034 |
+| 0.019 | Warframe | 1,517 | 79,806 |
+| 0.018 | Dota 2 | 18,902 | 1,046,553 |
+| 0.017 | Counter-Strike | 17,560 | 1,064,089 |
+| 0.002 | PUBG: BATTLEGROUNDS | 1,750 | 718,899 |
 
 ---
 
