@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-10-28T01` (UTC). History: 259 snapshots spanning 1364h.
-Reference windows: short = `2026-10-27T17`, day = `2026-10-26T23`.
+Generated from snapshot `2026-10-28T08` (UTC). History: 260 snapshots spanning 1371h.
+Reference windows: short = `2026-10-28T01`, day = `2026-10-27T05`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Madden NFL 27 | +7.33 | 22 | 15,712 | - | +601% | 94 | - | 0.8037 | ENTRY IGNITION:plaqueboymax |
-| 2 | Once Human | +5.40 | 38 | 8,176 | +145% | +127% | 98 | +4% | 0.2639 | IGNITION:asmongold247 |
-| 3 | Castlevania: Belmont's Curse | +4.84 | 50 | 6,089 | - | +99% | 95 | - | 0.5305 | ENTRY IGNITION:mistermv |
-| 4 | Terraria | +3.78 | 23 | 16,574 | - | +18% | 87 | - | 0.7465 | ENTRY IGNITION:emiru,squeex |
-| 5 | Tomodachi Life: Living the Dream | +3.25 | 61 | 5,195 | - | - | 17 | - | 0.9553 | ENTRY IGNITION:vinesauce |
-| 6 | RESIDENT EVIL: requiem | +3.25 | 60 | 5,660 | - | - | 100 | - | 0.7712 | ENTRY IGNITION:dansgaming |
-| 7 | The Cabin Factory | +3.25 | 81 | 3,620 | - | - | 3 | - | 0.9923 | ENTRY IGNITION:erobb221 |
-| 8 | Bills Must Be Paid | +3.25 | 77 | 3,770 | - | - | 3 | - | 0.9923 | ENTRY IGNITION:jermaslavalamp |
-| 9 | We Were Here | +3.25 | 88 | 3,152 | - | - | 2 | - | 0.9994 | ENTRY IGNITION:henyathegenius |
-| 10 | Grand Theft Auto IV | +3.25 | 80 | 3,666 | - | - | 82 | - | 0.7133 | ENTRY IGNITION:stormfall33 |
-| 11 | Moon Sweepers | +3.22 | 26 | 15,473 | -40% | +178% | 97 | -3% | 0.3883 | IGNITION:locklear,t2x2 |
-| 12 | Warframe | +3.19 | 85 | 2,980 | - | - | 100 | - | 0.2416 | ENTRY IGNITION:brozime |
-| 13 | Look Outside | +2.87 | 32 | 11,759 | - | -0% | 31 | - | 0.9637 | ENTRY IGNITION:moonmoon |
-| 14 | Virtual Casino | +2.85 | 31 | 12,150 | +84% | +47% | 36 | +50% | 0.1886 |  |
-| 15 | DayZ | +2.75 | 24 | 16,139 | +1% | +11% | 98 | +2% | 0.7992 | BREADTH IGNITION:summit1g,senimj |
+| 1 | Enshrouded | +5.44 | 31 | 5,899 | +65% | +222% | 99 | -1% | 0.5469 | IGNITION:maxim |
+| 2 | PUBG: BATTLEGROUNDS | +4.12 | 44 | 3,875 | - | +121% | 98 | - | 0.2929 | ENTRY |
+| 3 | SILENT HILL: townfall | +4.08 | 22 | 8,934 | - | +515% | 45 | - | 0.874 | ENTRY IGNITION:stylishnoob4 |
+| 4 | Diablo IV | +3.25 | 69 | 2,249 | - | - | 58 | - | 0.6367 | ENTRY IGNITION:datmodz |
+| 5 | Papers, Please | +3.25 | 72 | 2,110 | - | - | 1 | - | 1.0 | ENTRY IGNITION:zy0xxx |
+| 6 | Torchlight: Infinite | +3.25 | 91 | 1,540 | - | - | 46 | - | 0.2227 | ENTRY IGNITION:bendurry |
+| 7 | KORRIDOR | +3.25 | 62 | 2,699 | - | - | 1 | - | 1.0 | ENTRY IGNITION:mynthos |
+| 8 | Teamfight Tactics | +3.19 | 29 | 6,783 | +13% | +73% | 63 | -30% | 0.296 | IGNITION:setsuko,greentea |
+| 9 | I'm Only Sleeping | +3.07 | 17 | 11,413 | +194% | +42% | 100 | +0% | 0.1322 |  |
+| 10 | World of Tanks | +2.59 | 51 | 3,498 | +22% | +15% | 84 | -1% | 0.3316 | IGNITION:dakillzor |
+| 11 | Slay the Spire II | +2.26 | 83 | 1,774 | - | - | 37 | - | 0.2525 | ENTRY |
+| 12 | Delta Force | +2.25 | 77 | 1,853 | - | - | 100 | - | 0.1846 | ENTRY |
+| 13 | Monster Hunter Generations Ultimate | +2.25 | 15 | 13,233 | - | - | 4 | - | 0.9989 | ENTRY |
+| 14 | South Park: The Fractured But Whole | +2.25 | 81 | 1,845 | - | - | 4 | - | 0.9984 | ENTRY |
+| 15 | Black Russia | +2.25 | 70 | 2,245 | - | - | 9 | - | 0.6053 | ENTRY |
 
 ## Ignition alerts
 
@@ -30,31 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| DayZ | summit1g | 16,669 | 12,899 | 80% | 24 |
-| Madden NFL 27 | plaqueboymax | 17,411 | 12,627 | 80% | 22 |
-| Terraria | emiru | 14,104 | 12,372 | 75% | 23 |
-| Look Outside | moonmoon | 14,354 | 11,332 | 96% | 32 |
-| Remothered: Red Nun's Legacy | laynalazar | 5,650 | 5,379 | 76% | 46 |
-| Tomodachi Life: Living the Dream | vinesauce | 10,589 | 4,963 | 96% | 61 |
-| RESIDENT EVIL: requiem | dansgaming | 9,949 | 4,365 | 77% | 60 |
-| Desert Bus | desertbus | 4,330 | 3,882 | 100% | 75 |
-| Bills Must Be Paid | jermaslavalamp | 3,741 | 3,741 | 99% | 77 |
-| The Cabin Factory | erobb221 | 4,330 | 3,592 | 99% | 81 |
+| SILENT HILL: townfall | stylishnoob4 | 28,294 | 7,808 | 87% | 22 |
+| Enshrouded | maxim | 9,360 | 3,226 | 55% | 31 |
+| KORRIDOR | mynthos | 6,422 | 2,699 | 100% | 62 |
+| CRACK | shinjifromjapanxd | 6,318 | 2,365 | 79% | 55 |
+| Desert Bus | desertbus | 4,330 | 2,233 | 100% | 71 |
+| Papers, Please | zy0xxx | 10,507 | 2,110 | 100% | 72 |
+| Once Human | asmongold247 | 5,262 | 2,018 | 53% | 43 |
+| Diablo IV | datmodz | 6,680 | 1,432 | 64% | 69 |
+| Silver Pines | smoke | 3,718 | 1,416 | 81% | 84 |
+| Medieval Dynasty | gronkhtv | 4,125 | 1,322 | 99% | 98 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 1.531 | Grand Theft Auto V | 103,850 | 67,829 |
-| 0.512 | Rocket League | 15,588 | 30,448 |
-| 0.433 | Hunt: Showdown 1896 | 10,304 | 23,787 |
-| 0.381 | Terraria | 16,574 | 43,476 |
-| 0.327 | Phasmophobia | 5,385 | 16,485 |
-| 0.037 | Warframe | 2,980 | 79,806 |
-| 0.037 | Rust | 4,215 | 113,830 |
-| 0.028 | Apex Legends | 5,510 | 195,480 |
-| 0.027 | Dota 2 | 28,411 | 1,046,553 |
-| 0.023 | Counter-Strike | 24,490 | 1,064,089 |
+| 0.566 | Grand Theft Auto V | 38,346 | 67,719 |
+| 0.232 | Hunt: Showdown 1896 | 6,356 | 27,429 |
+| 0.216 | Overwatch | 12,662 | 58,495 |
+| 0.194 | DayZ | 10,672 | 55,124 |
+| 0.15 | Dead by Daylight | 9,121 | 60,875 |
+| 0.02 | Slay the Spire II | 1,774 | 90,930 |
+| 0.02 | AION 2 | 4,364 | 213,102 |
+| 0.018 | Valheim | 1,633 | 88,668 |
+| 0.017 | Delta Force | 1,853 | 109,668 |
+| 0.005 | PUBG: BATTLEGROUNDS | 3,875 | 781,404 |
 
 ---
 
