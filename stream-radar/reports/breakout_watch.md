@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-10-28T16` (UTC). History: 261 snapshots spanning 1379h.
-Reference windows: short = `2026-10-28T08`, day = `2026-10-27T17`.
+Generated from snapshot `2026-10-28T22` (UTC). History: 262 snapshots spanning 1385h.
+Reference windows: short = `2026-10-28T16`, day = `2026-10-27T22`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | AION 2 | +7.40 | 10 | 53,159 | +1118% | +232% | 100 | +67% | 0.2142 |  |
-| 2 | Rocket League | +6.75 | 30 | 12,040 | +458% | +72% | 97 | -1% | 0.4295 | IGNITION:zenrll,alphakep |
-| 3 | Gray Zone Warfare | +6.61 | 33 | 13,051 | +344% | +105% | 99 | +77% | 0.1327 | IGNITION:willerz |
-| 4 | Rust | +6.42 | 31 | 13,328 | +389% | +57% | 99 | +6% | 0.2142 | IGNITION:gutitubo,kenki521 |
-| 5 | Rainbow Six Siege | +6.06 | 36 | 10,024 | +489% | +24% | 98 | -2% | 0.425 | IGNITION:itsspoit,mingo |
-| 6 | Dead by Daylight | +5.80 | 7 | 68,511 | +651% | +313% | 98 | -2% | 0.127 |  |
-| 7 | Once Human | +5.18 | 47 | 8,204 | +114% | +146% | 99 | -1% | 0.2049 | IGNITION:asmongold247 |
-| 8 | Counter-Strike | +4.94 | 2 | 260,348 | +950% | +19% | 100 | +0% | 0.1887 |  |
-| 9 | CRACK | +4.74 | 42 | 10,167 | +241% | +16% | 63 | +117% | 0.225 | IGNITION:hennie2001 |
-| 10 | Star Citizen | +4.72 | 79 | 4,387 | +212% | - | 86 | +59% | 0.426 | ENTRY IGNITION:knebeltv |
-| 11 | Escape from Tarkov | +4.62 | 28 | 11,766 | +166% | +21% | 99 | +1% | 0.1593 | IGNITION:cr_vanilla,trey24k |
-| 12 | Teamfight Tactics | +4.35 | 40 | 10,184 | +50% | +16% | 98 | +56% | 0.2548 | BREADTH IGNITION:gearbaby1010,kiyoon |
-| 13 | World of Tanks | +4.35 | 15 | 24,707 | +606% | +10% | 98 | +17% | 0.2111 |  |
-| 14 | Call of Duty: Black Ops | +4.25 | 52 | 7,980 | - | - | 26 | - | 0.4832 | ENTRY IGNITION:cr_arisakaaa,hiiragitsurugi |
-| 15 | Probably Stolen | +4.25 | 25 | 15,725 | - | - | 96 | - | 0.4347 | ENTRY IGNITION:knekro,saruei |
+| 1 | CRACK | +7.86 | 21 | 20,735 | +104% | +308% | 97 | +54% | 0.2964 | IGNITION:wankilstudio,locklear |
+| 2 | League of Legends | +5.21 | 1 | 611,027 | +388% | +589% | 97 | -2% | 0.4543 |  |
+| 3 | Project Zomboid | +4.35 | 66 | 5,001 | - | +8% | 99 | - | 0.3869 | ENTRY IGNITION:edopeh,zchum |
+| 4 | Moon Sweepers | +4.26 | 27 | 16,088 | +318% | -34% | 98 | -2% | 0.3602 | IGNITION:h2p_gucio,phunkroyal |
+| 5 | R.E.P.O. | +4.26 | 81 | 4,391 | - | - | 100 | - | 0.4776 | ENTRY IGNITION:foolish,xchocobars |
+| 6 | Pokémon | +4.25 | 70 | 5,035 | - | - | 75 | - | 0.3088 | ENTRY IGNITION:smallant,pointcrow |
+| 7 | AION 2 | +3.83 | 5 | 91,815 | +73% | +624% | 99 | -1% | 0.1342 |  |
+| 8 | Red Dead Redemption II | +3.58 | 55 | 5,121 | - | +64% | 99 | - | 0.2388 | ENTRY |
+| 9 | Resident Evil 4 | +3.27 | 52 | 7,124 | - | - | 100 | - | 0.7406 | ENTRY IGNITION:baitybait |
+| 10 | Desert Bus | +3.25 | 98 | 3,669 | - | - | 1 | - | 1.0 | ENTRY IGNITION:desertbus |
+| 11 | Gridlords | +3.25 | 71 | 5,046 | - | - | 1 | - | 1.0 | ENTRY IGNITION:bonjwa |
+| 12 | Game Dev Tycoon | +3.25 | 76 | 4,856 | - | - | 1 | - | 1.0 | ENTRY IGNITION:squeex |
+| 13 | Mouthwashing | +3.25 | 94 | 3,774 | - | - | 11 | - | 0.9746 | ENTRY IGNITION:dansgaming |
+| 14 | The Legend of Zelda: Ocarina of Time | +3.25 | 73 | 4,962 | - | - | 67 | - | 0.4426 | ENTRY IGNITION:zfg1 |
+| 15 | Grand Theft Auto IV | +3.25 | 90 | 4,127 | - | - | 76 | - | 0.6952 | ENTRY IGNITION:stormfall33 |
 
 ## Ignition alerts
 
@@ -30,31 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Monster Hunter Generations Ultimate | indegnasen0706 | 35,632 | 15,346 | 100% | 26 |
-| Bloodborne | elajjaz | 13,191 | 9,819 | 93% | 39 |
-| Hariti | shlorox | 9,179 | 9,179 | 98% | 45 |
-| Enshrouded | cohhcarnage | 15,088 | 9,116 | 61% | 24 |
-| Tape to Tape | northernlion | 14,748 | 7,657 | 66% | 35 |
-| DayZ | hutchmf | 30,579 | 7,586 | 58% | 32 |
-| Planet Zoo 2 | yaritaiji | 14,917 | 5,684 | 59% | 44 |
-| Amanda the Adventurer 3 | dansgaming | 9,949 | 5,216 | 100% | 68 |
-| TEKKEN 8 | forsen | 10,577 | 5,068 | 84% | 59 |
-| Valheim | quin69 | 12,132 | 4,515 | 65% | 55 |
+| Bloodborne | elajjaz | 13,191 | 7,750 | 91% | 43 |
+| Resident Evil 4 | baitybait | 6,872 | 5,276 | 74% | 52 |
+| Road to Empress II | antoinedaniel | 15,073 | 5,096 | 100% | 69 |
+| Gridlords | bonjwa | 12,174 | 5,046 | 100% | 71 |
+| DayZ | summit1g | 16,669 | 4,860 | 59% | 45 |
+| Game Dev Tycoon | squeex | 10,291 | 4,856 | 100% | 76 |
+| Geometry Dash | zoinkgd | 4,190 | 4,190 | 76% | 64 |
+| Mouthwashing | dansgaming | 9,949 | 3,678 | 97% | 94 |
+| Pokémon GO | trishahershberger | 3,678 | 3,678 | 60% | 60 |
+| Desert Bus | desertbus | 4,330 | 3,669 | 100% | 98 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 1.157 | Grand Theft Auto V | 78,345 | 67,719 |
-| 1.125 | Dead by Daylight | 68,511 | 60,875 |
-| 0.431 | Hunt: Showdown 1896 | 11,814 | 27,429 |
-| 0.397 | Rocket League | 12,040 | 30,342 |
-| 0.339 | Escape from Tarkov | 11,766 | 34,693 |
-| 0.06 | The Witcher 3: Wild Hunt | 3,061 | 51,027 |
-| 0.052 | Apex Legends | 10,474 | 200,803 |
-| 0.043 | Cyberpunk 2077 | 6,435 | 148,563 |
-| 0.029 | Delta Force | 3,220 | 109,668 |
-| 0.008 | PUBG: BATTLEGROUNDS | 6,624 | 781,404 |
+| 1.744 | Grand Theft Auto V | 118,098 | 67,719 |
+| 0.776 | Rocket League | 23,551 | 30,342 |
+| 0.466 | Rainbow Six Siege | 33,421 | 71,690 |
+| 0.443 | Resident Evil 4 | 7,124 | 16,074 |
+| 0.436 | Dead by Daylight | 26,549 | 60,875 |
+| 0.041 | Warframe | 3,097 | 75,985 |
+| 0.041 | Counter-Strike | 46,781 | 1,136,832 |
+| 0.035 | Apex Legends | 7,114 | 200,803 |
+| 0.033 | Valheim | 2,966 | 88,668 |
+| 0.012 | PUBG: BATTLEGROUNDS | 8,991 | 781,404 |
 
 ---
 
