@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-10-29T05` (UTC). History: 263 snapshots spanning 1392h.
-Reference windows: short = `2026-10-28T22`, day = `2026-10-28T08`.
+Generated from snapshot `2026-10-29T12` (UTC). History: 264 snapshots spanning 1399h.
+Reference windows: short = `2026-10-29T05`, day = `2026-10-28T08`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | ARC Raiders | +4.39 | 6 | 42,348 | +178% | +415% | 100 | +6% | 0.8288 |  |
-| 2 | Halloween: The Game | +3.71 | 35 | 5,568 | +61% | +102% | 99 | +1% | 0.3348 | IGNITION:bawkbasoup |
-| 3 | I'm Only Sleeping | +3.35 | 22 | 12,289 | +244% | +8% | 100 | +0% | 0.4204 | IGNITION:mastu |
-| 4 | Super Mario Party Jamboree | +3.25 | 91 | 1,651 | - | - | 6 | - | 0.9649 | ENTRY IGNITION:lospollostv |
-| 5 | Happy Propaganda | +3.25 | 72 | 2,203 | - | - | 1 | - | 1.0 | ENTRY IGNITION:sumomo_x |
-| 6 | POOLS | +3.25 | 90 | 1,700 | - | - | 2 | - | 0.9982 | ENTRY IGNITION:dansgaming |
-| 7 | Amanda the Adventurer | +3.25 | 99 | 1,508 | - | - | 2 | - | 0.9934 | ENTRY IGNITION:arckon |
-| 8 | AION 2 | +2.88 | 5 | 46,474 | -49% | +965% | 100 | +1% | 0.2813 |  |
-| 9 | Probably Stolen | +2.48 | 39 | 5,354 | +16% | - | 53 | -31% | 0.6311 | ENTRY IGNITION:shinjifromjapanxd,obormentv |
-| 10 | Project Zomboid | +2.26 | 51 | 3,924 | -22% | +161% | 100 | +1% | 0.2923 |  |
-| 11 | Phantom Blade Ø | +2.25 | 2 | 50,981 | - | - | 100 | - | 0.2274 | ENTRY |
-| 12 | STAR WARS: Galactic Racer | +2.25 | 78 | 2,007 | - | - | 51 | - | 0.3797 | ENTRY |
-| 13 | Marbles on Stream | +2.25 | 71 | 2,257 | - | - | 84 | - | 0.1325 | ENTRY |
-| 14 | The Death Game Report | +2.25 | 97 | 1,533 | - | - | 2 | - | 0.9706 | ENTRY |
-| 15 | Playable Archive | +2.25 | 88 | 1,724 | - | - | 6 | - | 0.9037 | ENTRY |
+| 1 | Street Fighter 6 | +8.60 | 24 | 13,193 | +733% | +265% | 99 | +12% | 0.3147 | IGNITION:ren_kisaragi__,cr_vanilla |
+| 2 | Counter-Strike | +7.44 | 1 | 238,266 | +1064% | +861% | 98 | -1% | 0.2113 |  |
+| 3 | PUBG: BATTLEGROUNDS | +6.96 | 19 | 15,481 | +862% | +300% | 100 | +1% | 0.2569 |  |
+| 4 | World of Tanks | +6.51 | 35 | 8,004 | +188% | +129% | 92 | +77% | 0.2534 | IGNITION:dakillzor,dezgamez |
+| 5 | AION 2 | +5.62 | 6 | 74,987 | +61% | +1618% | 100 | +0% | 0.2302 |  |
+| 6 | Aniimo | +5.43 | 34 | 6,914 | - | +261% | 100 | - | 0.2828 | ENTRY IGNITION:gtimetv |
+| 7 | Escape from Tarkov | +4.57 | 29 | 11,816 | +109% | +167% | 87 | -9% | 0.4786 | IGNITION:glorious_e,verybadscav |
+| 8 | Dota 2 | +4.46 | 4 | 90,750 | +430% | +225% | 99 | +2% | 0.2137 |  |
+| 9 | Albion Online | +4.38 | 51 | 5,029 | +116% | +169% | 86 | +28% | 0.2201 |  |
+| 10 | BanG Dream! Our Notes | +4.25 | 55 | 4,722 | - | - | 4 | - | 0.8202 | ENTRY IGNITION:kr1stw,mrekk |
+| 11 | Kimodameshi Online | +4.25 | 26 | 12,925 | - | - | 13 | - | 0.3851 | ENTRY IGNITION:mobilmobil,gutitubo |
+| 12 | Minecraft | +4.15 | 7 | 70,104 | +275% | +309% | 99 | -1% | 0.3225 |  |
+| 13 | Gray Zone Warfare | +4.14 | 50 | 5,300 | +33% | +80% | 91 | +21% | 0.2085 | IGNITION:damnitbennett,iiizwerg |
+| 14 | Teamfight Tactics | +4.09 | 33 | 9,234 | +181% | +36% | 99 | +43% | 0.2517 | IGNITION:greentea |
+| 15 | Call of Duty: Warzone | +4.02 | 47 | 4,905 | +103% | +141% | 100 | +2% | 0.5774 | IGNITION:camy |
 
 ## Ignition alerts
 
@@ -30,30 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| DayZ | summit1g | 16,669 | 8,843 | 84% | 24 |
-| SILENT HILL: townfall | supertf | 14,663 | 6,384 | 92% | 28 |
-| Probably Stolen | shinjifromjapanxd | 6,318 | 3,379 | 63% | 39 |
-| Desert Bus | desertbus | 4,330 | 2,933 | 100% | 59 |
-| Happy Propaganda | sumomo_x | 9,547 | 2,203 | 100% | 72 |
-| Teamfight Tactics | greentea | 4,815 | 1,838 | 56% | 55 |
-| POOLS | dansgaming | 9,949 | 1,697 | 100% | 90 |
-| Super Mario Party Jamboree | lospollostv | 9,275 | 1,593 | 96% | 91 |
-| Amanda the Adventurer | arckon | 4,443 | 1,498 | 99% | 99 |
+| Family Feud | cdawg | 16,095 | 12,363 | 100% | 27 |
+| Monster Hunter Outlanders | metashi12 | 19,418 | 4,988 | 85% | 43 |
+| RimWorld | melharucos | 6,614 | 4,275 | 55% | 38 |
+| BanG Dream! Our Notes | kr1stw | 7,031 | 3,873 | 82% | 55 |
+| Poop Killer | dansgaming | 9,949 | 3,538 | 100% | 63 |
+| Teach My Little Sister How to Drive | p1lepe1el1 | 3,260 | 3,260 | 99% | 68 |
+| Japanese Ramen Simulator | akarindao | 4,105 | 3,218 | 75% | 59 |
+| Probably Stolen | shinjifromjapanxd | 6,318 | 3,058 | 62% | 53 |
+| CRACK | sterzik | 4,206 | 2,900 | 54% | 48 |
+| Call of Duty: Warzone | camy | 4,302 | 2,832 | 58% | 47 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 0.723 | Grand Theft Auto V | 48,701 | 67,393 |
-| 0.521 | ARC Raiders | 42,348 | 81,288 |
-| 0.212 | Phasmophobia | 3,533 | 16,648 |
-| 0.201 | AION 2 | 46,474 | 231,472 |
-| 0.197 | DayZ | 10,576 | 53,776 |
-| 0.017 | Delta Force | 1,836 | 109,599 |
-| 0.016 | Counter-Strike | 20,468 | 1,281,353 |
-| 0.015 | Cyberpunk 2077 | 2,210 | 144,460 |
-| 0.005 | Geometry Dash | 308 | 57,123 |
-| 0.002 | PUBG: BATTLEGROUNDS | 1,610 | 808,962 |
+| 0.605 | Grand Theft Auto V | 40,781 | 67,393 |
+| 0.375 | Street Fighter 6 | 13,193 | 35,153 |
+| 0.357 | Hunt: Showdown 1896 | 9,395 | 26,284 |
+| 0.348 | Escape from Tarkov | 11,816 | 33,959 |
+| 0.324 | AION 2 | 74,987 | 231,472 |
+| 0.029 | WARDOGS | 3,869 | 133,257 |
+| 0.028 | Stardew Valley | 2,308 | 81,956 |
+| 0.022 | Delta Force | 2,418 | 109,599 |
+| 0.021 | Cyberpunk 2077 | 3,077 | 144,460 |
+| 0.019 | PUBG: BATTLEGROUNDS | 15,481 | 808,962 |
 
 ---
 
