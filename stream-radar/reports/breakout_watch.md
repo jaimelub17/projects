@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-10-29T12` (UTC). History: 264 snapshots spanning 1399h.
-Reference windows: short = `2026-10-29T05`, day = `2026-10-28T08`.
+Generated from snapshot `2026-10-29T19` (UTC). History: 265 snapshots spanning 1406h.
+Reference windows: short = `2026-10-29T12`, day = `2026-10-28T16`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Street Fighter 6 | +8.60 | 24 | 13,193 | +733% | +265% | 99 | +12% | 0.3147 | IGNITION:ren_kisaragi__,cr_vanilla |
-| 2 | Counter-Strike | +7.44 | 1 | 238,266 | +1064% | +861% | 98 | -1% | 0.2113 |  |
-| 3 | PUBG: BATTLEGROUNDS | +6.96 | 19 | 15,481 | +862% | +300% | 100 | +1% | 0.2569 |  |
-| 4 | World of Tanks | +6.51 | 35 | 8,004 | +188% | +129% | 92 | +77% | 0.2534 | IGNITION:dakillzor,dezgamez |
-| 5 | AION 2 | +5.62 | 6 | 74,987 | +61% | +1618% | 100 | +0% | 0.2302 |  |
-| 6 | Aniimo | +5.43 | 34 | 6,914 | - | +261% | 100 | - | 0.2828 | ENTRY IGNITION:gtimetv |
-| 7 | Escape from Tarkov | +4.57 | 29 | 11,816 | +109% | +167% | 87 | -9% | 0.4786 | IGNITION:glorious_e,verybadscav |
-| 8 | Dota 2 | +4.46 | 4 | 90,750 | +430% | +225% | 99 | +2% | 0.2137 |  |
-| 9 | Albion Online | +4.38 | 51 | 5,029 | +116% | +169% | 86 | +28% | 0.2201 |  |
-| 10 | BanG Dream! Our Notes | +4.25 | 55 | 4,722 | - | - | 4 | - | 0.8202 | ENTRY IGNITION:kr1stw,mrekk |
-| 11 | Kimodameshi Online | +4.25 | 26 | 12,925 | - | - | 13 | - | 0.3851 | ENTRY IGNITION:mobilmobil,gutitubo |
-| 12 | Minecraft | +4.15 | 7 | 70,104 | +275% | +309% | 99 | -1% | 0.3225 |  |
-| 13 | Gray Zone Warfare | +4.14 | 50 | 5,300 | +33% | +80% | 91 | +21% | 0.2085 | IGNITION:damnitbennett,iiizwerg |
-| 14 | Teamfight Tactics | +4.09 | 33 | 9,234 | +181% | +36% | 99 | +43% | 0.2517 | IGNITION:greentea |
-| 15 | Call of Duty: Warzone | +4.02 | 47 | 4,905 | +103% | +141% | 100 | +2% | 0.5774 | IGNITION:camy |
+| 1 | ROBLOX | +8.94 | 34 | 9,582 | +749% | +452% | 88 | -3% | 0.4497 | IGNITION:realzbluewater,jactha |
+| 2 | Apex Legends | +7.58 | 6 | 110,927 | +775% | +959% | 97 | -1% | 0.2157 |  |
+| 3 | Rocket League | +5.89 | 25 | 15,048 | +488% | +25% | 95 | -3% | 0.2818 | IGNITION:agustin51,mawkzy_ |
+| 4 | Clash Royale | +5.32 | 54 | 8,662 | - | +141% | 50 | - | 0.6085 | ENTRY IGNITION:narek_cr |
+| 5 | Arena Breakout: Infinite | +4.46 | 41 | 10,909 | +196% | +155% | 100 | +0% | 0.1233 |  |
+| 6 | Football Manager 27 | +4.25 | 23 | 21,961 | - | - | 99 | - | 0.1209 | ENTRY IGNITION:kurt0411,zeaiand |
+| 7 | R.E.P.O. | +4.25 | 28 | 15,233 | - | - | 98 | - | 0.6073 | ENTRY IGNITION:edison,chatterbox |
+| 8 | Star Citizen | +4.13 | 71 | 5,736 | +159% | +31% | 98 | +44% | 0.3999 | IGNITION:knebeltv |
+| 9 | Kingdom Come: Deliverance II | +3.64 | 49 | 9,196 | - | +54% | 98 | - | 0.5092 | ENTRY IGNITION:gagik |
+| 10 | Rainbow Six Siege | +3.50 | 16 | 11,225 | +262% | +12% | 100 | +0% | 0.5366 |  |
+| 11 | Escape from Tarkov | +3.38 | 17 | 29,348 | +148% | +149% | 100 | +15% | 0.2058 |  |
+| 12 | The Zibbo Show | +3.25 | 47 | 8,788 | - | - | 2 | - | 0.9998 | ENTRY IGNITION:northernlion |
+| 13 | Heroes of Might and Magic III: The Restoration of Erathia | +3.25 | 62 | 7,040 | - | - | 54 | - | 0.3911 | ENTRY IGNITION:voodoosh |
+| 14 | Super Mario Odyssey | +3.25 | 95 | 3,940 | - | - | 29 | - | 0.4645 | ENTRY IGNITION:smallant |
+| 15 | Demonologist | +3.25 | 93 | 4,090 | - | - | 37 | - | 0.8171 | ENTRY IGNITION:lyonwgflive |
 
 ## Ignition alerts
 
@@ -30,31 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Family Feud | cdawg | 16,095 | 12,363 | 100% | 27 |
-| Monster Hunter Outlanders | metashi12 | 19,418 | 4,988 | 85% | 43 |
-| RimWorld | melharucos | 6,614 | 4,275 | 55% | 38 |
-| BanG Dream! Our Notes | kr1stw | 7,031 | 3,873 | 82% | 55 |
-| Poop Killer | dansgaming | 9,949 | 3,538 | 100% | 63 |
-| Teach My Little Sister How to Drive | p1lepe1el1 | 3,260 | 3,260 | 99% | 68 |
-| Japanese Ramen Simulator | akarindao | 4,105 | 3,218 | 75% | 59 |
-| Probably Stolen | shinjifromjapanxd | 6,318 | 3,058 | 62% | 53 |
-| CRACK | sterzik | 4,206 | 2,900 | 54% | 48 |
-| Call of Duty: Warzone | camy | 4,302 | 2,832 | 58% | 47 |
+| Grand Theft Auto: Vice City - The Definitive Edition | zarbex | 33,531 | 15,184 | 100% | 29 |
+| R.E.P.O. | edison | 9,802 | 9,251 | 61% | 28 |
+| The Zibbo Show | northernlion | 14,748 | 8,786 | 100% | 47 |
+| The Isle | hutchmf | 30,579 | 6,530 | 78% | 55 |
+| Dub Together | 5opka | 6,819 | 6,053 | 97% | 67 |
+| Clash Royale | narek_cr | 5,916 | 5,271 | 61% | 54 |
+| ROUTINE | dansgaming | 9,949 | 4,799 | 99% | 85 |
+| Kingdom Come: Deliverance II | gagik | 4,683 | 4,683 | 51% | 49 |
+| Playable Archive | gom4rt | 5,587 | 4,241 | 90% | 87 |
+| How to Make an Atomic Bomb in Your Garden | phunkroyal | 5,242 | 4,188 | 100% | 91 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 0.605 | Grand Theft Auto V | 40,781 | 67,393 |
-| 0.375 | Street Fighter 6 | 13,193 | 35,153 |
-| 0.357 | Hunt: Showdown 1896 | 9,395 | 26,284 |
-| 0.348 | Escape from Tarkov | 11,816 | 33,959 |
-| 0.324 | AION 2 | 74,987 | 231,472 |
-| 0.029 | WARDOGS | 3,869 | 133,257 |
-| 0.028 | Stardew Valley | 2,308 | 81,956 |
-| 0.022 | Delta Force | 2,418 | 109,599 |
-| 0.021 | Cyberpunk 2077 | 3,077 | 144,460 |
-| 0.019 | PUBG: BATTLEGROUNDS | 15,481 | 808,962 |
+| 0.878 | Grand Theft Auto V | 59,159 | 67,393 |
+| 0.864 | Escape from Tarkov | 29,348 | 33,959 |
+| 0.697 | R.E.P.O. | 15,233 | 21,857 |
+| 0.553 | Apex Legends | 110,927 | 200,500 |
+| 0.505 | Rocket League | 15,048 | 29,788 |
+| 0.058 | Probably Stolen | 5,023 | 86,099 |
+| 0.049 | Counter-Strike | 63,220 | 1,281,353 |
+| 0.042 | Cyberpunk 2077 | 6,033 | 144,460 |
+| 0.041 | Valheim | 3,481 | 84,863 |
+| 0.01 | PUBG: BATTLEGROUNDS | 8,110 | 808,962 |
 
 ---
 
