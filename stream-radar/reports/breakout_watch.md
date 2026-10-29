@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-10-28T22` (UTC). History: 262 snapshots spanning 1385h.
-Reference windows: short = `2026-10-28T16`, day = `2026-10-27T22`.
+Generated from snapshot `2026-10-29T05` (UTC). History: 263 snapshots spanning 1392h.
+Reference windows: short = `2026-10-28T22`, day = `2026-10-28T08`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | CRACK | +7.86 | 21 | 20,735 | +104% | +308% | 97 | +54% | 0.2964 | IGNITION:wankilstudio,locklear |
-| 2 | League of Legends | +5.21 | 1 | 611,027 | +388% | +589% | 97 | -2% | 0.4543 |  |
-| 3 | Project Zomboid | +4.35 | 66 | 5,001 | - | +8% | 99 | - | 0.3869 | ENTRY IGNITION:edopeh,zchum |
-| 4 | Moon Sweepers | +4.26 | 27 | 16,088 | +318% | -34% | 98 | -2% | 0.3602 | IGNITION:h2p_gucio,phunkroyal |
-| 5 | R.E.P.O. | +4.26 | 81 | 4,391 | - | - | 100 | - | 0.4776 | ENTRY IGNITION:foolish,xchocobars |
-| 6 | Pokémon | +4.25 | 70 | 5,035 | - | - | 75 | - | 0.3088 | ENTRY IGNITION:smallant,pointcrow |
-| 7 | AION 2 | +3.83 | 5 | 91,815 | +73% | +624% | 99 | -1% | 0.1342 |  |
-| 8 | Red Dead Redemption II | +3.58 | 55 | 5,121 | - | +64% | 99 | - | 0.2388 | ENTRY |
-| 9 | Resident Evil 4 | +3.27 | 52 | 7,124 | - | - | 100 | - | 0.7406 | ENTRY IGNITION:baitybait |
-| 10 | Desert Bus | +3.25 | 98 | 3,669 | - | - | 1 | - | 1.0 | ENTRY IGNITION:desertbus |
-| 11 | Gridlords | +3.25 | 71 | 5,046 | - | - | 1 | - | 1.0 | ENTRY IGNITION:bonjwa |
-| 12 | Game Dev Tycoon | +3.25 | 76 | 4,856 | - | - | 1 | - | 1.0 | ENTRY IGNITION:squeex |
-| 13 | Mouthwashing | +3.25 | 94 | 3,774 | - | - | 11 | - | 0.9746 | ENTRY IGNITION:dansgaming |
-| 14 | The Legend of Zelda: Ocarina of Time | +3.25 | 73 | 4,962 | - | - | 67 | - | 0.4426 | ENTRY IGNITION:zfg1 |
-| 15 | Grand Theft Auto IV | +3.25 | 90 | 4,127 | - | - | 76 | - | 0.6952 | ENTRY IGNITION:stormfall33 |
+| 1 | ARC Raiders | +4.39 | 6 | 42,348 | +178% | +415% | 100 | +6% | 0.8288 |  |
+| 2 | Halloween: The Game | +3.71 | 35 | 5,568 | +61% | +102% | 99 | +1% | 0.3348 | IGNITION:bawkbasoup |
+| 3 | I'm Only Sleeping | +3.35 | 22 | 12,289 | +244% | +8% | 100 | +0% | 0.4204 | IGNITION:mastu |
+| 4 | Super Mario Party Jamboree | +3.25 | 91 | 1,651 | - | - | 6 | - | 0.9649 | ENTRY IGNITION:lospollostv |
+| 5 | Happy Propaganda | +3.25 | 72 | 2,203 | - | - | 1 | - | 1.0 | ENTRY IGNITION:sumomo_x |
+| 6 | POOLS | +3.25 | 90 | 1,700 | - | - | 2 | - | 0.9982 | ENTRY IGNITION:dansgaming |
+| 7 | Amanda the Adventurer | +3.25 | 99 | 1,508 | - | - | 2 | - | 0.9934 | ENTRY IGNITION:arckon |
+| 8 | AION 2 | +2.88 | 5 | 46,474 | -49% | +965% | 100 | +1% | 0.2813 |  |
+| 9 | Probably Stolen | +2.48 | 39 | 5,354 | +16% | - | 53 | -31% | 0.6311 | ENTRY IGNITION:shinjifromjapanxd,obormentv |
+| 10 | Project Zomboid | +2.26 | 51 | 3,924 | -22% | +161% | 100 | +1% | 0.2923 |  |
+| 11 | Phantom Blade Ø | +2.25 | 2 | 50,981 | - | - | 100 | - | 0.2274 | ENTRY |
+| 12 | STAR WARS: Galactic Racer | +2.25 | 78 | 2,007 | - | - | 51 | - | 0.3797 | ENTRY |
+| 13 | Marbles on Stream | +2.25 | 71 | 2,257 | - | - | 84 | - | 0.1325 | ENTRY |
+| 14 | The Death Game Report | +2.25 | 97 | 1,533 | - | - | 2 | - | 0.9706 | ENTRY |
+| 15 | Playable Archive | +2.25 | 88 | 1,724 | - | - | 6 | - | 0.9037 | ENTRY |
 
 ## Ignition alerts
 
@@ -30,31 +30,30 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Bloodborne | elajjaz | 13,191 | 7,750 | 91% | 43 |
-| Resident Evil 4 | baitybait | 6,872 | 5,276 | 74% | 52 |
-| Road to Empress II | antoinedaniel | 15,073 | 5,096 | 100% | 69 |
-| Gridlords | bonjwa | 12,174 | 5,046 | 100% | 71 |
-| DayZ | summit1g | 16,669 | 4,860 | 59% | 45 |
-| Game Dev Tycoon | squeex | 10,291 | 4,856 | 100% | 76 |
-| Geometry Dash | zoinkgd | 4,190 | 4,190 | 76% | 64 |
-| Mouthwashing | dansgaming | 9,949 | 3,678 | 97% | 94 |
-| Pokémon GO | trishahershberger | 3,678 | 3,678 | 60% | 60 |
-| Desert Bus | desertbus | 4,330 | 3,669 | 100% | 98 |
+| DayZ | summit1g | 16,669 | 8,843 | 84% | 24 |
+| SILENT HILL: townfall | supertf | 14,663 | 6,384 | 92% | 28 |
+| Probably Stolen | shinjifromjapanxd | 6,318 | 3,379 | 63% | 39 |
+| Desert Bus | desertbus | 4,330 | 2,933 | 100% | 59 |
+| Happy Propaganda | sumomo_x | 9,547 | 2,203 | 100% | 72 |
+| Teamfight Tactics | greentea | 4,815 | 1,838 | 56% | 55 |
+| POOLS | dansgaming | 9,949 | 1,697 | 100% | 90 |
+| Super Mario Party Jamboree | lospollostv | 9,275 | 1,593 | 96% | 91 |
+| Amanda the Adventurer | arckon | 4,443 | 1,498 | 99% | 99 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 1.744 | Grand Theft Auto V | 118,098 | 67,719 |
-| 0.776 | Rocket League | 23,551 | 30,342 |
-| 0.466 | Rainbow Six Siege | 33,421 | 71,690 |
-| 0.443 | Resident Evil 4 | 7,124 | 16,074 |
-| 0.436 | Dead by Daylight | 26,549 | 60,875 |
-| 0.041 | Warframe | 3,097 | 75,985 |
-| 0.041 | Counter-Strike | 46,781 | 1,136,832 |
-| 0.035 | Apex Legends | 7,114 | 200,803 |
-| 0.033 | Valheim | 2,966 | 88,668 |
-| 0.012 | PUBG: BATTLEGROUNDS | 8,991 | 781,404 |
+| 0.723 | Grand Theft Auto V | 48,701 | 67,393 |
+| 0.521 | ARC Raiders | 42,348 | 81,288 |
+| 0.212 | Phasmophobia | 3,533 | 16,648 |
+| 0.201 | AION 2 | 46,474 | 231,472 |
+| 0.197 | DayZ | 10,576 | 53,776 |
+| 0.017 | Delta Force | 1,836 | 109,599 |
+| 0.016 | Counter-Strike | 20,468 | 1,281,353 |
+| 0.015 | Cyberpunk 2077 | 2,210 | 144,460 |
+| 0.005 | Geometry Dash | 308 | 57,123 |
+| 0.002 | PUBG: BATTLEGROUNDS | 1,610 | 808,962 |
 
 ---
 
