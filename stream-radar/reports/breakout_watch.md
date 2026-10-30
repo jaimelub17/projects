@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-10-30T19` (UTC). History: 269 snapshots spanning 1430h.
-Reference windows: short = `2026-10-30T12`, day = `2026-10-29T19`.
+Generated from snapshot `2026-10-30T23` (UTC). History: 270 snapshots spanning 1434h.
+Reference windows: short = `2026-10-30T19`, day = `2026-10-29T23`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Probably Stolen | +6.43 | 42 | 12,563 | +146% | +150% | 100 | +5% | 0.5628 | IGNITION:knekro,shinjifromjapanxd |
-| 2 | Hunt: Showdown 1896 | +5.18 | 25 | 21,453 | +175% | +109% | 100 | +0% | 0.1999 | IGNITION:rachtaz,psychoghost |
-| 3 | Rocket League | +4.89 | 37 | 13,204 | +451% | -12% | 96 | +5% | 0.2958 | IGNITION:paache_,agustin51 |
-| 4 | Trackmania | +4.86 | 53 | 9,027 | - | +142% | 100 | - | 0.2042 | ENTRY |
-| 5 | Clash Royale | +4.62 | 17 | 46,292 | - | +434% | 48 | - | 0.3469 | ENTRY |
-| 6 | EA Sports FC 27 | +4.35 | 13 | 58,243 | +404% | +148% | 98 | -2% | 0.1143 |  |
-| 7 | Rat Game | +4.25 | 38 | 13,942 | - | - | 12 | - | 0.8015 | ENTRY IGNITION:northernlion,ray |
-| 8 | ROB RUN | +4.25 | 23 | 27,542 | - | - | 41 | - | 0.282 | ENTRY IGNITION:recrent,elwycco |
-| 9 | Terrible Lizards | +4.25 | 66 | 7,296 | - | - | 100 | - | 0.46 | ENTRY IGNITION:tomato,buffpup |
-| 10 | Soulframe | +4.25 | 30 | 17,974 | - | - | 14 | - | 0.9217 | ENTRY IGNITION:playsoulframe,brozime |
-| 11 | MARVEL Contest of Champions | +4.25 | 27 | 24,266 | - | - | 29 | - | 0.5596 | ENTRY IGNITION:pepe,cesgod |
-| 12 | Apex Legends | +4.11 | 9 | 84,144 | +849% | -24% | 100 | +1% | 0.2094 |  |
-| 13 | World of Tanks | +4.04 | 20 | 34,271 | +358% | +101% | 100 | +1% | 0.2164 |  |
-| 14 | Phasmophobia | +3.98 | 44 | 9,904 | +263% | +89% | 100 | +0% | 0.1509 |  |
-| 15 | Overwatch | +3.75 | 11 | 68,950 | +210% | +216% | 100 | +0% | 0.4106 |  |
+| 1 | Moon Sweepers | +7.94 | 22 | 22,493 | +439% | +453% | 99 | -1% | 0.8016 | IGNITION:gronkh |
+| 2 | Teamfight Tactics | +6.05 | 26 | 16,024 | - | +204% | 100 | - | 0.3396 | ENTRY IGNITION:k3soju,frodan |
+| 3 | FINAL FANTASY XIV ONLINE | +5.19 | 35 | 11,554 | +16% | +339% | 100 | +1% | 0.1566 | IGNITION:streamdatabase |
+| 4 | Grand Theft Auto IV | +4.98 | 48 | 7,960 | - | +765% | 59 | - | 0.6598 | ENTRY IGNITION:roier,ray |
+| 5 | Dead by Daylight | +4.35 | 9 | 54,498 | +295% | +303% | 95 | -5% | 0.4394 |  |
+| 6 | Fears to Fathom: Home Alone | +4.25 | 21 | 23,719 | - | - | 9 | - | 0.8119 | ENTRY IGNITION:zarbex,dansgaming |
+| 7 | DayZ | +3.85 | 24 | 16,638 | +89% | +42% | 96 | -4% | 0.5613 | IGNITION:summit1g,smoke |
+| 8 | Rainbow Six Siege | +3.54 | 17 | 31,483 | +227% | +124% | 97 | +0% | 0.8063 |  |
+| 9 | Halloween | +3.25 | 38 | 11,087 | - | - | 12 | - | 0.9972 | ENTRY IGNITION:unboxholics |
+| 10 | Heroes of the Storm | +3.25 | 89 | 3,519 | - | - | 57 | - | 0.8457 | ENTRY IGNITION:grubby |
+| 11 | Pokémon | +3.25 | 92 | 3,361 | - | - | 84 | - | 0.6674 | ENTRY IGNITION:smallant |
+| 12 | Queen's Domain | +3.25 | 78 | 3,847 | - | - | 70 | - | 0.5675 | ENTRY IGNITION:avoidingthepuddle |
+| 13 | MADiSON | +3.25 | 93 | 3,278 | - | - | 29 | - | 0.9405 | ENTRY IGNITION:tminnzy |
+| 14 | Pumpkin Jack | +3.25 | 74 | 4,068 | - | - | 14 | - | 0.988 | ENTRY IGNITION:vargskelethor |
+| 15 | Where Winds Meet | +3.25 | 70 | 4,618 | - | - | 56 | - | 0.6133 | ENTRY IGNITION:shylily |
 
 ## Ignition alerts
 
@@ -30,31 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Tom the Postgirl | gronkh | 24,579 | 18,549 | 99% | 29 |
-| Soulframe | playsoulframe | 16,566 | 16,566 | 92% | 30 |
-| Nomad Drive | sasavot | 31,051 | 15,776 | 100% | 36 |
-| MARVEL Contest of Champions | pepe | 13,579 | 13,579 | 56% | 27 |
-| Monster Hunter Generations Ultimate | indegnasen0706 | 35,632 | 13,405 | 100% | 40 |
-| Rat Game | northernlion | 14,748 | 11,174 | 80% | 38 |
-| Welcome to Kowloon | shlorox | 9,179 | 7,604 | 100% | 63 |
-| Probably Stolen | knekro | 13,933 | 7,071 | 56% | 42 |
-| Photomaly | dansgaming | 9,949 | 5,684 | 95% | 77 |
-| How to Fish | vedal987 | 9,747 | 5,403 | 98% | 82 |
+| Fears to Fathom: Home Alone | zarbex | 33,531 | 19,258 | 81% | 21 |
+| Moon Sweepers | gronkh | 24,579 | 18,031 | 80% | 22 |
+| Halloween | unboxholics | 17,726 | 11,056 | 100% | 38 |
+| DayZ | summit1g | 16,669 | 9,339 | 56% | 24 |
+| Look Outside | moonmoon | 14,354 | 8,015 | 99% | 47 |
+| MARVEL Contest of Champions | pepe | 13,579 | 5,788 | 55% | 40 |
+| Grand Theft Auto IV | roier | 8,194 | 5,252 | 66% | 48 |
+| Desert Bus | desertbus | 4,995 | 4,995 | 100% | 65 |
+| Pumpkin Jack | vargskelethor | 4,765 | 4,019 | 99% | 74 |
+| Voices of the Void | limealicious | 3,905 | 3,109 | 63% | 67 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 1.136 | Overwatch | 68,950 | 60,695 |
-| 1.002 | EA Sports FC 27 | 58,243 | 58,137 |
-| 0.987 | Grand Theft Auto V | 67,915 | 68,789 |
-| 0.91 | Hunt: Showdown 1896 | 21,453 | 23,576 |
-| 0.6 | Phasmophobia | 9,904 | 16,507 |
-| 0.051 | Aniimo | 3,664 | 71,742 |
-| 0.05 | WARDOGS | 6,298 | 126,449 |
-| 0.042 | Delta Force | 4,467 | 107,261 |
-| 0.028 | Cyberpunk 2077 | 3,877 | 136,942 |
-| 0.007 | PUBG: BATTLEGROUNDS | 5,329 | 785,066 |
+| 1.831 | Grand Theft Auto V | 125,979 | 68,789 |
+| 0.825 | Dead by Daylight | 54,498 | 66,033 |
+| 0.79 | EA Sports FC 27 | 45,922 | 58,137 |
+| 0.772 | Overwatch | 46,872 | 60,695 |
+| 0.594 | Hunt: Showdown 1896 | 14,013 | 23,576 |
+| 0.045 | Dota 2 | 32,216 | 708,985 |
+| 0.036 | Valheim | 2,921 | 80,346 |
+| 0.033 | Aniimo | 2,370 | 71,742 |
+| 0.02 | Cyberpunk 2077 | 2,725 | 136,942 |
+| 0.007 | PUBG: BATTLEGROUNDS | 5,647 | 785,066 |
 
 ---
 
