@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-10-30T05` (UTC). History: 267 snapshots spanning 1416h.
-Reference windows: short = `2026-10-29T23`, day = `2026-10-29T05`.
+Generated from snapshot `2026-10-30T12` (UTC). History: 268 snapshots spanning 1423h.
+Reference windows: short = `2026-10-30T05`, day = `2026-10-29T12`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Invokyr | +4.25 | 32 | 6,943 | - | - | 40 | - | 0.5297 | ENTRY IGNITION:crystalmolly,pattymeza |
-| 2 | I'm Only Sleeping | +3.96 | 26 | 11,305 | +200% | -8% | 100 | +0% | 0.3812 | IGNITION:mastu,exsl95 |
-| 3 | Apex Legends | +3.93 | 2 | 74,481 | +22% | +1219% | 100 | +3% | 0.1795 |  |
-| 4 | Street Fighter 6 | +3.52 | 60 | 2,909 | - | +84% | 100 | - | 0.5019 | ENTRY |
-| 5 | The Binding of Isaac | +3.25 | 91 | 1,804 | - | - | 4 | - | 0.9812 | ENTRY IGNITION:pge4 |
-| 6 | Highguard | +3.25 | 68 | 2,629 | - | - | 1 | - | 1.0 | ENTRY IGNITION:asmongold247 |
-| 7 | Remothered: Red Nun's Legacy | +3.25 | 54 | 3,370 | - | - | 10 | - | 0.4997 | ENTRY IGNITION:bawkbasoup |
-| 8 | Scratches | +3.25 | 70 | 2,573 | - | - | 1 | - | 1.0 | ENTRY IGNITION:dansgaming |
-| 9 | Probably Stolen | +2.91 | 31 | 7,533 | +99% | +41% | 58 | -19% | 0.6709 | IGNITION:sasatikk |
-| 10 | SILENT HILL: townfall | +2.70 | 16 | 16,627 | - | +139% | 49 | - | 0.5318 | ENTRY |
-| 11 | Minecraft | +2.48 | 3 | 70,369 | +56% | +277% | 100 | +1% | 0.8352 |  |
-| 12 | EA Sports College Football 27 | +2.25 | 66 | 2,621 | - | - | 100 | - | 0.5639 | ENTRY |
-| 13 | Finals Week  | +2.25 | 84 | 1,974 | - | - | 23 | - | 0.4742 | ENTRY |
-| 14 | Age of Empires IV | +2.25 | 6 | 37,236 | - | - | 27 | - | 0.9421 | ENTRY |
-| 15 | Night Call | +2.25 | 98 | 1,557 | - | - | 1 | - | 1.0 | ENTRY |
+| 1 | Moon Sweepers | +5.54 | 41 | 6,797 | - | +195% | 99 | - | 0.7683 | ENTRY IGNITION:mynthos |
+| 2 | Street Fighter 6 | +5.08 | 14 | 23,159 | +696% | +76% | 100 | +0% | 0.2499 |  |
+| 3 | PUBG: BATTLEGROUNDS | +4.66 | 17 | 17,707 | +786% | +14% | 100 | +6% | 0.2185 |  |
+| 4 | Counter-Strike | +4.63 | 2 | 180,934 | +1129% | -24% | 96 | -2% | 0.2138 |  |
+| 5 | World of Tanks | +4.50 | 37 | 7,477 | +267% | -7% | 99 | +94% | 0.3037 | IGNITION:dakillzor |
+| 6 | Star Citizen | +4.29 | 58 | 3,988 | +173% | +80% | 65 | +25% | 0.3581 |  |
+| 7 | Cyberpunk 2077 | +4.21 | 35 | 8,052 | +174% | +162% | 99 | -1% | 0.3005 |  |
+| 8 | Hearthstone | +4.00 | 30 | 11,902 | +77% | +15% | 100 | +52% | 0.1527 | IGNITION:jeefhs,godjj |
+| 9 | GODDESS OF VICTORY: NIKKE | +3.74 | 49 | 5,163 | +67% | +113% | 62 | -10% | 0.5816 | IGNITION:kr1stw |
+| 10 | Dota 2 | +3.64 | 3 | 111,611 | +469% | +23% | 96 | -4% | 0.2512 |  |
+| 11 | STALZONE | +3.62 | 48 | 5,438 | +92% | - | 81 | +102% | 0.5318 | BREADTH ENTRY |
+| 12 | Alien: Isolation | +3.39 | 76 | 2,881 | - | +1126% | 28 | - | 0.7834 | ENTRY |
+| 13 | Football Manager 27 | +3.25 | 47 | 5,256 | - | - | 87 | - | 0.2694 | ENTRY IGNITION:brucegrannec |
+| 14 | Fire Emblem: Fortune's Weave | +3.25 | 99 | 2,052 | - | - | 51 | - | 0.7753 | ENTRY IGNITION:minoru04160 |
+| 15 | Valor Mortis | +3.25 | 88 | 2,447 | - | - | 30 | - | 0.8606 | ENTRY IGNITION:blackufa |
 
 ## Ignition alerts
 
@@ -30,30 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| DayZ | summit1g | 16,669 | 10,024 | 81% | 25 |
-| Probably Stolen | sasatikk | 22,217 | 5,054 | 67% | 31 |
-| Invokyr | crystalmolly | 4,704 | 3,678 | 53% | 32 |
-| Desert Bus | desertbus | 4,330 | 2,884 | 100% | 61 |
-| Highguard | asmongold247 | 5,262 | 2,629 | 100% | 68 |
-| Scratches | dansgaming | 9,949 | 2,573 | 100% | 70 |
-| The Binding of Isaac | pge4 | 3,936 | 1,770 | 98% | 91 |
-| Rocket League | kaydop | 6,055 | 1,611 | 54% | 52 |
-| RESIDENT EVIL 7 biohazard | penta | 7,075 | 1,449 | 73% | 86 |
+| Monster Hunter Generations Ultimate | indegnasen0706 | 35,632 | 12,486 | 100% | 25 |
+| Moon Sweepers | mynthos | 6,422 | 5,222 | 77% | 41 |
+| Five Nights at Freddy's: Secret of the Mimic | dansgaming | 9,949 | 3,563 | 100% | 62 |
+| GODDESS OF VICTORY: NIKKE | kr1stw | 7,031 | 3,003 | 58% | 49 |
+| Desert Bus | desertbus | 4,330 | 2,895 | 100% | 75 |
+| Dragon Quest V: Tenkuu no Hanayome | akamikarubi | 5,999 | 2,806 | 99% | 79 |
+| Valor Mortis | blackufa | 5,540 | 2,106 | 86% | 88 |
+| Monster Hunter Outlanders | hennie2001 | 3,433 | 1,897 | 87% | 91 |
+| Fire Emblem: Fortune's Weave | minoru04160 | 3,343 | 1,591 | 78% | 99 |
+| Castlevania: Belmont's Curse | mistermv | 8,131 | 1,353 | 65% | 96 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 0.804 | Grand Theft Auto V | 55,338 | 68,789 |
-| 0.401 | Apex Legends | 74,481 | 185,865 |
-| 0.342 | Escape from Tarkov | 12,108 | 35,446 |
-| 0.236 | DayZ | 12,360 | 52,457 |
-| 0.209 | Phasmophobia | 3,442 | 16,507 |
-| 0.022 | Enshrouded | 1,629 | 74,791 |
-| 0.021 | Cyberpunk 2077 | 2,939 | 136,942 |
-| 0.017 | Delta Force | 1,839 | 107,261 |
-| 0.012 | Counter-Strike | 14,722 | 1,207,353 |
-| 0.003 | PUBG: BATTLEGROUNDS | 1,998 | 785,066 |
+| 0.714 | Street Fighter 6 | 23,159 | 32,432 |
+| 0.594 | Escape from Tarkov | 21,043 | 35,446 |
+| 0.57 | Grand Theft Auto V | 39,230 | 68,789 |
+| 0.367 | Overwatch | 22,263 | 60,695 |
+| 0.331 | Hunt: Showdown 1896 | 7,807 | 23,576 |
+| 0.036 | Valheim | 2,919 | 80,346 |
+| 0.036 | Enshrouded | 2,675 | 74,791 |
+| 0.031 | WARDOGS | 3,980 | 126,449 |
+| 0.028 | Delta Force | 3,002 | 107,261 |
+| 0.023 | PUBG: BATTLEGROUNDS | 17,707 | 785,066 |
 
 ---
 
