@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-10-29T23` (UTC). History: 266 snapshots spanning 1410h.
-Reference windows: short = `2026-10-29T19`, day = `2026-10-28T22`.
+Generated from snapshot `2026-10-30T05` (UTC). History: 267 snapshots spanning 1416h.
+Reference windows: short = `2026-10-29T23`, day = `2026-10-29T05`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Project Zomboid | +8.15 | 21 | 20,827 | +332% | +316% | 100 | +0% | 0.1694 | IGNITION:twitchrivals,erobb221 |
-| 2 | Crimson Desert | +4.25 | 22 | 20,275 | - | - | 100 | - | 0.3696 | ENTRY IGNITION:shroud,xarola_ |
-| 3 | The Outlast Trials | +4.24 | 74 | 4,434 | - | - | 99 | - | 0.4468 | ENTRY IGNITION:aspen,froggerow |
-| 4 | GODDESS OF VICTORY: NIKKE | +3.73 | 48 | 6,376 | - | +59% | 95 | - | 0.2324 | ENTRY |
-| 5 | Desert Bus | +3.31 | 79 | 3,874 | - | +6% | 1 | - | 1.0 | ENTRY IGNITION:desertbus |
-| 6 | RESIDENT EVIL 7 biohazard | +3.25 | 89 | 3,412 | - | - | 99 | - | 0.6448 | ENTRY IGNITION:penta |
-| 7 | Look Outside | +3.25 | 36 | 9,465 | - | - | 23 | - | 0.9821 | ENTRY IGNITION:moonmoon |
-| 8 | Terrible Lizards | +3.25 | 53 | 6,166 | - | - | 100 | - | 0.4942 | ENTRY IGNITION:kingwoolz |
-| 9 | Granny 3 | +3.25 | 93 | 3,201 | - | - | 1 | - | 1.0 | ENTRY IGNITION:dansgaming |
-| 10 | Castlevania: Belmont's Curse | +3.25 | 73 | 4,049 | - | - | 99 | - | 0.6041 | ENTRY IGNITION:mistermv |
-| 11 | Call of Duty | +3.18 | 72 | 1,520 | - | +105% | 100 | - | 0.2046 | ENTRY |
-| 12 | Halloween: The Game | +3.00 | 66 | 4,575 | - | +32% | 100 | - | 0.1867 | ENTRY |
-| 13 | Marvel Rivals | +2.88 | 28 | 11,715 | +25% | +35% | 97 | +0% | 0.2648 | IGNITION:jay3,kingsman265_twitch |
-| 14 | Escape from Tarkov | +2.88 | 11 | 44,058 | +50% | +296% | 95 | -5% | 0.6415 |  |
-| 15 | The Legend of Zelda: Ocarina of Time | +2.80 | 70 | 4,336 | - | -13% | 102 | - | 0.4366 | ENTRY IGNITION:zfg1 |
+| 1 | Invokyr | +4.25 | 32 | 6,943 | - | - | 40 | - | 0.5297 | ENTRY IGNITION:crystalmolly,pattymeza |
+| 2 | I'm Only Sleeping | +3.96 | 26 | 11,305 | +200% | -8% | 100 | +0% | 0.3812 | IGNITION:mastu,exsl95 |
+| 3 | Apex Legends | +3.93 | 2 | 74,481 | +22% | +1219% | 100 | +3% | 0.1795 |  |
+| 4 | Street Fighter 6 | +3.52 | 60 | 2,909 | - | +84% | 100 | - | 0.5019 | ENTRY |
+| 5 | The Binding of Isaac | +3.25 | 91 | 1,804 | - | - | 4 | - | 0.9812 | ENTRY IGNITION:pge4 |
+| 6 | Highguard | +3.25 | 68 | 2,629 | - | - | 1 | - | 1.0 | ENTRY IGNITION:asmongold247 |
+| 7 | Remothered: Red Nun's Legacy | +3.25 | 54 | 3,370 | - | - | 10 | - | 0.4997 | ENTRY IGNITION:bawkbasoup |
+| 8 | Scratches | +3.25 | 70 | 2,573 | - | - | 1 | - | 1.0 | ENTRY IGNITION:dansgaming |
+| 9 | Probably Stolen | +2.91 | 31 | 7,533 | +99% | +41% | 58 | -19% | 0.6709 | IGNITION:sasatikk |
+| 10 | SILENT HILL: townfall | +2.70 | 16 | 16,627 | - | +139% | 49 | - | 0.5318 | ENTRY |
+| 11 | Minecraft | +2.48 | 3 | 70,369 | +56% | +277% | 100 | +1% | 0.8352 |  |
+| 12 | EA Sports College Football 27 | +2.25 | 66 | 2,621 | - | - | 100 | - | 0.5639 | ENTRY |
+| 13 | Finals Week  | +2.25 | 84 | 1,974 | - | - | 23 | - | 0.4742 | ENTRY |
+| 14 | Age of Empires IV | +2.25 | 6 | 37,236 | - | - | 27 | - | 0.9421 | ENTRY |
+| 15 | Night Call | +2.25 | 98 | 1,557 | - | - | 1 | - | 1.0 | ENTRY |
 
 ## Ignition alerts
 
@@ -30,30 +30,30 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Look Outside | moonmoon | 14,354 | 9,296 | 98% | 36 |
-| DayZ | summit1g | 16,669 | 7,848 | 67% | 32 |
-| Heroes of Might and Magic III: The Restoration of Erathia | voodoosh | 5,303 | 4,429 | 82% | 59 |
-| Desert Bus | desertbus | 4,330 | 3,874 | 100% | 79 |
-| Geometry Dash | zoinkgd | 4,190 | 3,243 | 60% | 58 |
-| Granny 3 | dansgaming | 9,949 | 3,201 | 100% | 93 |
-| Castlevania: Belmont's Curse | mistermv | 8,131 | 2,446 | 60% | 73 |
-| RESIDENT EVIL 7 biohazard | penta | 7,075 | 2,200 | 64% | 89 |
-| World of Tanks | dakillzor | 25,594 | 2,145 | 53% | 78 |
+| DayZ | summit1g | 16,669 | 10,024 | 81% | 25 |
+| Probably Stolen | sasatikk | 22,217 | 5,054 | 67% | 31 |
+| Invokyr | crystalmolly | 4,704 | 3,678 | 53% | 32 |
+| Desert Bus | desertbus | 4,330 | 2,884 | 100% | 61 |
+| Highguard | asmongold247 | 5,262 | 2,629 | 100% | 68 |
+| Scratches | dansgaming | 9,949 | 2,573 | 100% | 70 |
+| The Binding of Isaac | pge4 | 3,936 | 1,770 | 98% | 91 |
+| Rocket League | kaydop | 6,055 | 1,611 | 54% | 52 |
+| RESIDENT EVIL 7 biohazard | penta | 7,075 | 1,449 | 73% | 86 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 2.187 | Grand Theft Auto V | 147,420 | 67,393 |
-| 1.297 | Escape from Tarkov | 44,058 | 33,959 |
-| 1.107 | Rocket League | 32,965 | 29,788 |
-| 0.429 | Project Zomboid | 20,827 | 48,533 |
-| 0.319 | Phasmophobia | 5,303 | 16,648 |
-| 0.041 | Warframe | 3,027 | 73,220 |
-| 0.04 | WARDOGS | 5,308 | 133,257 |
-| 0.025 | Counter-Strike | 32,426 | 1,281,353 |
-| 0.023 | Cyberpunk 2077 | 3,375 | 144,460 |
-| 0.006 | PUBG: BATTLEGROUNDS | 4,528 | 808,962 |
+| 0.804 | Grand Theft Auto V | 55,338 | 68,789 |
+| 0.401 | Apex Legends | 74,481 | 185,865 |
+| 0.342 | Escape from Tarkov | 12,108 | 35,446 |
+| 0.236 | DayZ | 12,360 | 52,457 |
+| 0.209 | Phasmophobia | 3,442 | 16,507 |
+| 0.022 | Enshrouded | 1,629 | 74,791 |
+| 0.021 | Cyberpunk 2077 | 2,939 | 136,942 |
+| 0.017 | Delta Force | 1,839 | 107,261 |
+| 0.012 | Counter-Strike | 14,722 | 1,207,353 |
+| 0.003 | PUBG: BATTLEGROUNDS | 1,998 | 785,066 |
 
 ---
 
