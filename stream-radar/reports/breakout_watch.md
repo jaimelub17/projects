@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-10-30T23` (UTC). History: 270 snapshots spanning 1434h.
-Reference windows: short = `2026-10-30T19`, day = `2026-10-29T23`.
+Generated from snapshot `2026-10-31T05` (UTC). History: 271 snapshots spanning 1440h.
+Reference windows: short = `2026-10-30T23`, day = `2026-10-30T05`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Moon Sweepers | +7.94 | 22 | 22,493 | +439% | +453% | 99 | -1% | 0.8016 | IGNITION:gronkh |
-| 2 | Teamfight Tactics | +6.05 | 26 | 16,024 | - | +204% | 100 | - | 0.3396 | ENTRY IGNITION:k3soju,frodan |
-| 3 | FINAL FANTASY XIV ONLINE | +5.19 | 35 | 11,554 | +16% | +339% | 100 | +1% | 0.1566 | IGNITION:streamdatabase |
-| 4 | Grand Theft Auto IV | +4.98 | 48 | 7,960 | - | +765% | 59 | - | 0.6598 | ENTRY IGNITION:roier,ray |
-| 5 | Dead by Daylight | +4.35 | 9 | 54,498 | +295% | +303% | 95 | -5% | 0.4394 |  |
-| 6 | Fears to Fathom: Home Alone | +4.25 | 21 | 23,719 | - | - | 9 | - | 0.8119 | ENTRY IGNITION:zarbex,dansgaming |
-| 7 | DayZ | +3.85 | 24 | 16,638 | +89% | +42% | 96 | -4% | 0.5613 | IGNITION:summit1g,smoke |
-| 8 | Rainbow Six Siege | +3.54 | 17 | 31,483 | +227% | +124% | 97 | +0% | 0.8063 |  |
-| 9 | Halloween | +3.25 | 38 | 11,087 | - | - | 12 | - | 0.9972 | ENTRY IGNITION:unboxholics |
-| 10 | Heroes of the Storm | +3.25 | 89 | 3,519 | - | - | 57 | - | 0.8457 | ENTRY IGNITION:grubby |
-| 11 | Pokémon | +3.25 | 92 | 3,361 | - | - | 84 | - | 0.6674 | ENTRY IGNITION:smallant |
-| 12 | Queen's Domain | +3.25 | 78 | 3,847 | - | - | 70 | - | 0.5675 | ENTRY IGNITION:avoidingthepuddle |
-| 13 | MADiSON | +3.25 | 93 | 3,278 | - | - | 29 | - | 0.9405 | ENTRY IGNITION:tminnzy |
-| 14 | Pumpkin Jack | +3.25 | 74 | 4,068 | - | - | 14 | - | 0.988 | ENTRY IGNITION:vargskelethor |
-| 15 | Where Winds Meet | +3.25 | 70 | 4,618 | - | - | 56 | - | 0.6133 | ENTRY IGNITION:shylily |
+| 1 | FINAL FANTASY XIV ONLINE | +6.01 | 13 | 21,686 | +88% | +869% | 100 | +0% | 0.6378 |  |
+| 2 | Clash Royale | +3.76 | 41 | 5,465 | - | +122% | 46 | - | 0.4772 | ENTRY |
+| 3 | Slay the Spire II | +3.29 | 66 | 3,272 | - | - | 52 | - | 0.7222 | ENTRY IGNITION:asmongold247 |
+| 4 | Mist Survival | +3.25 | 68 | 3,142 | - | - | 1 | - | 1.0 | ENTRY IGNITION:gronkhtv |
+| 5 | Fears to Fathom: Ironbark Lookout | +3.25 | 71 | 2,991 | - | - | 7 | - | 0.9418 | ENTRY IGNITION:dansgaming |
+| 6 | Riruri Tachibana: Reincarnated | +3.25 | 35 | 7,029 | - | - | 1 | - | 1.0 | ENTRY IGNITION:batora324 |
+| 7 | Bloodborne | +3.25 | 36 | 6,766 | - | - | 68 | - | 0.943 | ENTRY IGNITION:maximilian_dood |
+| 8 | Tenebris Somnia | +3.25 | 63 | 3,572 | - | - | 48 | - | 0.6302 | ENTRY IGNITION:willneff |
+| 9 | ARC Raiders | +3.01 | 22 | 10,698 | +1% | +23% | 100 | +4% | 0.1749 | BREADTH IGNITION:cloakzy,sequisha |
+| 10 | Final Fantasy Resonance | +2.61 | 76 | 2,490 | - | +54% | 99 | - | 0.3956 | ENTRY |
+| 11 | Look Outside | +2.49 | 27 | 8,425 | +4% | - | 20 | +11% | 0.9769 | BREADTH ENTRY IGNITION:moonmoon |
+| 12 | Delta Force | +2.28 | 78 | 2,638 | - | +43% | 100 | - | 0.1221 | ENTRY |
+| 13 | Silver Pines | +2.25 | 89 | 1,905 | - | - | 25 | - | 0.6777 | ENTRY |
+| 14 | Clive Barker's Hellraiser: Revival | +2.25 | 92 | 1,839 | - | - | 85 | - | 0.5704 | ENTRY |
+| 15 | Epic Seven | +2.25 | 64 | 3,408 | - | - | 31 | - | 0.3169 | ENTRY |
 
 ## Ignition alerts
 
@@ -30,31 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Fears to Fathom: Home Alone | zarbex | 33,531 | 19,258 | 81% | 21 |
-| Moon Sweepers | gronkh | 24,579 | 18,031 | 80% | 22 |
-| Halloween | unboxholics | 17,726 | 11,056 | 100% | 38 |
-| DayZ | summit1g | 16,669 | 9,339 | 56% | 24 |
-| Look Outside | moonmoon | 14,354 | 8,015 | 99% | 47 |
-| MARVEL Contest of Champions | pepe | 13,579 | 5,788 | 55% | 40 |
-| Grand Theft Auto IV | roier | 8,194 | 5,252 | 66% | 48 |
-| Desert Bus | desertbus | 4,995 | 4,995 | 100% | 65 |
-| Pumpkin Jack | vargskelethor | 4,765 | 4,019 | 99% | 74 |
-| Voices of the Void | limealicious | 3,905 | 3,109 | 63% | 67 |
+| DayZ | summit1g | 16,669 | 11,445 | 80% | 21 |
+| Look Outside | moonmoon | 14,354 | 8,230 | 98% | 27 |
+| Riruri Tachibana: Reincarnated | batora324 | 21,701 | 7,029 | 100% | 35 |
+| Bloodborne | maximilian_dood | 11,595 | 6,380 | 94% | 36 |
+| Probably Stolen | sasatikk | 22,217 | 4,713 | 70% | 37 |
+| Mist Survival | gronkhtv | 4,125 | 3,142 | 100% | 68 |
+| MADiSON | tminnzy | 3,172 | 2,963 | 90% | 67 |
+| Fears to Fathom: Ironbark Lookout | dansgaming | 9,949 | 2,817 | 94% | 71 |
+| MARVEL Contest of Champions | cesgod | 3,241 | 2,681 | 56% | 55 |
+| Slay the Spire II | asmongold247 | 5,262 | 2,363 | 72% | 66 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 1.831 | Grand Theft Auto V | 125,979 | 68,789 |
-| 0.825 | Dead by Daylight | 54,498 | 66,033 |
-| 0.79 | EA Sports FC 27 | 45,922 | 58,137 |
-| 0.772 | Overwatch | 46,872 | 60,695 |
-| 0.594 | Hunt: Showdown 1896 | 14,013 | 23,576 |
-| 0.045 | Dota 2 | 32,216 | 708,985 |
-| 0.036 | Valheim | 2,921 | 80,346 |
-| 0.033 | Aniimo | 2,370 | 71,742 |
-| 0.02 | Cyberpunk 2077 | 2,725 | 136,942 |
-| 0.007 | PUBG: BATTLEGROUNDS | 5,647 | 785,066 |
+| 0.869 | Grand Theft Auto V | 59,651 | 68,626 |
+| 0.538 | Apex Legends | 107,166 | 199,183 |
+| 0.462 | Overwatch | 28,077 | 60,719 |
+| 0.268 | Hunt: Showdown 1896 | 6,663 | 24,840 |
+| 0.259 | DayZ | 14,379 | 55,416 |
+| 0.022 | Rust | 2,768 | 127,338 |
+| 0.02 | Warframe | 1,579 | 79,749 |
+| 0.019 | Cyberpunk 2077 | 2,637 | 141,887 |
+| 0.013 | Counter-Strike | 15,760 | 1,245,206 |
+| 0.002 | PUBG: BATTLEGROUNDS | 1,909 | 778,369 |
 
 ---
 
