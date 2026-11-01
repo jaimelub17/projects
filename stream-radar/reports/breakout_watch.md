@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-10-31T23` (UTC). History: 274 snapshots spanning 1458h.
-Reference windows: short = `2026-10-31T18`, day = `2026-10-30T23`.
+Generated from snapshot `2026-11-01T06` (UTC). History: 132 snapshots spanning 749h.
+Reference windows: short = `2026-10-31T23`, day = `2026-10-31T05`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | $cam With Your Friends | +4.80 | 57 | 6,121 | - | +101% | 66 | - | 0.8334 | ENTRY IGNITION:locklear |
-| 2 | Cyberpunk 2077 | +4.46 | 52 | 6,013 | - | +121% | 99 | - | 0.324 | ENTRY IGNITION:luality |
-| 3 | Species: Unknown | +4.25 | 40 | 8,835 | - | - | 100 | - | 0.5925 | ENTRY IGNITION:elajjaz,distortion2 |
-| 4 | Voices of the Void | +4.09 | 49 | 6,864 | - | +40% | 92 | - | 0.5205 | ENTRY IGNITION:limealicious |
-| 5 | Heroes of the Storm | +3.67 | 67 | 4,593 | - | +31% | 59 | - | 0.8108 | ENTRY IGNITION:grubby |
-| 6 | CH13: Rest Stop | +3.37 | 37 | 9,582 | +150% | - | 13 | -13% | 0.9553 | ENTRY IGNITION:h2p_gucio |
-| 7 | The Outlast Trials | +3.29 | 72 | 3,124 | - | - | 97 | - | 0.2013 | ENTRY IGNITION:mukluk |
-| 8 | Nomad Drive | +3.25 | 81 | 3,621 | - | - | 15 | - | 0.9851 | ENTRY IGNITION:letsgameitout |
-| 9 | Night Plane | +3.25 | 62 | 5,223 | - | - | 10 | - | 0.9709 | ENTRY IGNITION:xpandorya |
-| 10 | The Dark Pictures Anthology: Little Hope | +3.25 | 91 | 2,944 | - | - | 45 | - | 0.6865 | ENTRY IGNITION:exsl95 |
-| 11 | The Legend of Zelda: Ocarina of Time | +3.25 | 88 | 3,119 | - | - | 82 | - | 0.7124 | ENTRY IGNITION:zfg1 |
-| 12 | Visage | +3.25 | 61 | 5,392 | - | - | 73 | - | 0.7793 | ENTRY IGNITION:dansgaming |
-| 13 | Rainbow Six Siege | +3.09 | 12 | 35,549 | +294% | +13% | 99 | -1% | 0.7283 |  |
-| 14 | Resident Evil 2 | +2.25 | 94 | 2,765 | - | - | 100 | - | 0.5722 | ENTRY |
-| 15 | SILENT HILL: townfall | +2.25 | 77 | 3,815 | - | - | 100 | - | 0.0878 | ENTRY |
+| 1 | Until Dawn | +4.25 | 66 | 3,139 | - | - | 21 | - | 0.8436 | ENTRY IGNITION:pge4,middleagedstream |
+| 2 | I'm Only Sleeping | +3.81 | 27 | 10,631 | - | +104% | 100 | - | 0.3753 | ENTRY IGNITION:leva2k |
+| 3 | Shift at Midnight | +3.25 | 65 | 3,190 | - | - | 100 | - | 0.5624 | ENTRY IGNITION:esfandtv |
+| 4 | Project Zomboid | +3.20 | 71 | 2,676 | - | +63% | 100 | - | 0.3804 | ENTRY |
+| 5 | Probably Stolen | +3.13 | 32 | 7,822 | - | +17% | 83 | - | 0.7533 | ENTRY IGNITION:zrush |
+| 6 | DayZ | +3.06 | 20 | 16,373 | +310% | +14% | 98 | +0% | 0.6721 |  |
+| 7 | Genshin Impact | +2.50 | 41 | 5,449 | +41% | - | 100 | +4% | 0.5096 | ENTRY IGNITION:zy0xxx |
+| 8 | ELDEN RING | +2.34 | 80 | 1,853 | - | - | 95 | - | 0.3562 | ENTRY |
+| 9 | Halloween: The Game | +2.33 | 38 | 5,527 | +80% | +39% | 97 | -2% | 0.3427 |  |
+| 10 | PEAK | +2.31 | 84 | 1,604 | - | - | 100 | - | 0.1658 | ENTRY |
+| 11 | Shadowverse: Worlds Beyond | +2.25 | 8 | 23,128 | - | - | 38 | - | 0.8233 | ENTRY |
+| 12 | Age of Empires IV | +2.25 | 4 | 45,808 | - | - | 27 | - | 0.87 | ENTRY |
+| 13 | Super Mario Maker 2 | +2.25 | 93 | 1,651 | - | - | 11 | - | 0.8274 | ENTRY |
+| 14 | GODDESS OF VICTORY: NIKKE | +2.25 | 54 | 3,629 | - | - | 53 | - | 0.7936 | ENTRY |
+| 15 | Five Nights at Freddy's 2 | +2.25 | 100 | 1,542 | - | - | 10 | - | 0.9799 | ENTRY |
 
 ## Ignition alerts
 
@@ -30,31 +30,27 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| CH13: Rest Stop | h2p_gucio | 9,154 | 9,154 | 96% | 37 |
-| Species: Unknown | elajjaz | 13,191 | 5,235 | 59% | 40 |
-| $cam With Your Friends | locklear | 6,891 | 5,101 | 83% | 57 |
-| Night Plane | xpandorya | 5,071 | 5,071 | 97% | 62 |
-| Visage | dansgaming | 9,949 | 4,202 | 78% | 61 |
-| Heroes of the Storm | grubby | 9,492 | 3,724 | 81% | 67 |
-| Voices of the Void | limealicious | 3,905 | 3,573 | 52% | 49 |
-| Nomad Drive | letsgameitout | 3,945 | 3,567 | 99% | 81 |
-| The Legend of Zelda: Ocarina of Time | zfg1 | 3,118 | 2,222 | 71% | 88 |
-| The Dark Pictures Anthology: Little Hope | exsl95 | 12,190 | 2,021 | 69% | 91 |
+| Probably Stolen | zrush | 5,892 | 5,892 | 75% | 32 |
+| Teamfight Tactics | greentea | 4,391 | 2,814 | 53% | 46 |
+| Genshin Impact | zy0xxx | 4,353 | 2,777 | 51% | 41 |
+| Until Dawn | pge4 | 4,473 | 2,648 | 84% | 66 |
+| Shift at Midnight | esfandtv | 12,890 | 1,794 | 56% | 65 |
+| Mist Survival | gronkhtv | 4,125 | 1,780 | 100% | 90 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 1.644 | Grand Theft Auto V | 112,789 | 68,626 |
-| 1.109 | Overwatch | 67,311 | 60,719 |
-| 0.616 | Apex Legends | 122,755 | 199,183 |
-| 0.465 | Rainbow Six Siege | 35,549 | 76,481 |
-| 0.457 | Hunt: Showdown 1896 | 11,350 | 24,840 |
-| 0.038 | Counter-Strike | 47,431 | 1,245,206 |
-| 0.035 | Dota 2 | 25,510 | 731,393 |
-| 0.035 | Aniimo | 2,224 | 63,784 |
-| 0.03 | Enshrouded | 2,350 | 79,265 |
-| 0.006 | PUBG: BATTLEGROUNDS | 4,952 | 778,369 |
+| 0.708 | Grand Theft Auto V | 52,310 | 73,902 |
+| 0.379 | Overwatch | 24,658 | 65,041 |
+| 0.378 | Hunt: Showdown 1896 | 10,540 | 27,852 |
+| 0.272 | DayZ | 16,373 | 60,258 |
+| 0.144 | Dead by Daylight | 11,027 | 76,826 |
+| 0.018 | Rust | 2,247 | 128,364 |
+| 0.017 | Cyberpunk 2077 | 2,817 | 166,678 |
+| 0.016 | Delta Force | 1,760 | 111,437 |
+| 0.015 | Counter-Strike | 19,176 | 1,270,982 |
+| 0.004 | PUBG: BATTLEGROUNDS | 3,181 | 781,257 |
 
 ---
 
