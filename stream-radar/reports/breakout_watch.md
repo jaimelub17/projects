@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-11-01T13` (UTC). History: 133 snapshots spanning 756h.
-Reference windows: short = `2026-11-01T06`, day = `2026-10-31T12`.
+Generated from snapshot `2026-11-01T18` (UTC). History: 134 snapshots spanning 761h.
+Reference windows: short = `2026-11-01T13`, day = `2026-10-31T18`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Final Fantasy Resonance | +8.05 | 33 | 9,938 | +576% | +157% | 100 | +0% | 0.5555 | IGNITION:peter,blusewilly_retry |
-| 2 | CH13: Rest Stop | +8.00 | 77 | 3,317 | +5083% | - | 2 | -67% | 0.9894 | ENTRY IGNITION:rostikfacekid |
-| 3 | The Witcher 3: Wild Hunt | +6.91 | 46 | 7,175 | - | +216% | 84 | - | 0.4438 | ENTRY IGNITION:asiagirl_,gronkhtv |
-| 4 | Dota 2 | +5.10 | 3 | 112,413 | +584% | +177% | 97 | -1% | 0.2782 |  |
-| 5 | Hearthstone | +4.42 | 21 | 15,329 | +208% | -30% | 100 | +69% | 0.1705 | IGNITION:jeefhs,xqn_thesad |
-| 6 | Cyberpunk 2077 | +4.20 | 39 | 8,170 | +190% | +142% | 98 | +0% | 0.1841 |  |
-| 7 | Probably Stolen | +3.87 | 29 | 12,212 | +56% | +43% | 100 | +20% | 0.5129 | IGNITION:mobilmobil,kspksp |
-| 8 | EA Sports FC 27 | +3.71 | 14 | 25,781 | +448% | +27% | 100 | +3% | 0.1769 |  |
-| 9 | Old School RuneScape | +3.40 | 43 | 8,072 | +149% | +45% | 99 | +2% | 0.2071 | IGNITION:gnomonkey |
-| 10 | Escape from Tarkov | +3.31 | 28 | 11,832 | +112% | +67% | 97 | -3% | 0.5038 | IGNITION:glorious_e |
-| 11 | Farming Simulator 25 | +3.29 | 100 | 2,319 | - | - | 100 | - | 0.1091 | ENTRY IGNITION:holladiewaldfee |
-| 12 | Jinro Metropolis | +3.25 | 74 | 3,435 | - | - | 12 | - | 0.7328 | ENTRY IGNITION:xhalli4x |
-| 13 | Monster Hunter Outlanders | +3.25 | 59 | 4,903 | - | - | 33 | - | 0.4913 | ENTRY IGNITION:ennaouii |
-| 14 | Zeepkist | +3.25 | 73 | 3,542 | - | - | 7 | - | 0.7818 | ENTRY IGNITION:dhalucard |
-| 15 | Gartic Phone | +3.25 | 36 | 9,209 | - | - | 19 | - | 0.9764 | ENTRY IGNITION:n_masteroff |
+| 1 | Minecraft | +5.30 | 2 | 319,130 | +594% | +269% | 100 | +0% | 0.1355 |  |
+| 2 | VALORANT | +4.39 | 3 | 168,394 | +341% | +217% | 97 | +0% | 0.4637 |  |
+| 3 | ROBLOX | +4.03 | 37 | 8,264 | +182% | +77% | 99 | +5% | 0.4471 | IGNITION:marco_scm |
+| 4 | Knight Online | +3.75 | 65 | 6,397 | - | +41% | 61 | - | 0.1898 | ENTRY IGNITION:pwnage |
+| 5 | Virtual Casino | +3.65 | 38 | 10,904 | +26% | +159% | 28 | +4% | 0.2486 |  |
+| 6 | Rainbow Six Siege | +3.41 | 40 | 8,583 | +229% | -5% | 100 | +3% | 0.4782 | IGNITION:itsspoit |
+| 7 | Crypto | +3.30 | 58 | 7,132 | - | +68% | 100 | - | 0.236 | ENTRY |
+| 8 | Playrooms | +3.25 | 76 | 4,482 | - | - | 1 | - | 1.0 | ENTRY IGNITION:insym |
+| 9 | S.O.N.A.R.: Submarine Operators Not Actually Ready | +3.25 | 62 | 6,661 | - | - | 14 | - | 0.6163 | ENTRY IGNITION:tomato |
+| 10 | Can 'Em All | +3.25 | 46 | 9,156 | - | - | 31 | - | 0.9741 | ENTRY IGNITION:knekro |
+| 11 | Origins Trading Card Game | +3.25 | 95 | 4,077 | - | - | 8 | - | 0.9799 | ENTRY IGNITION:xop0 |
+| 12 | COP BASTARD  | +3.25 | 22 | 18,770 | - | - | 4 | - | 0.9574 | ENTRY IGNITION:lirik |
+| 13 | Kingdom Come: Deliverance II | +3.25 | 71 | 5,723 | - | - | 97 | - | 0.4136 | ENTRY IGNITION:gagik |
+| 14 | Metro 2033 Redux | +3.25 | 92 | 4,216 | - | - | 41 | - | 0.7574 | ENTRY IGNITION:altair |
+| 15 | Nomad Drive | +3.25 | 27 | 16,832 | - | - | 27 | - | 0.9144 | ENTRY IGNITION:sasavot |
 
 ## Ignition alerts
 
@@ -30,31 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Monster Hunter Generations Ultimate | indegnasen0706 | 35,632 | 14,612 | 100% | 23 |
-| Gartic Phone | n_masteroff | 8,992 | 8,992 | 98% | 36 |
-| Moon Sweepers | mynthos | 6,624 | 6,624 | 71% | 35 |
-| Far Far West | sam1268 | 6,680 | 6,438 | 99% | 49 |
-| Probably Stolen | mobilmobil | 6,264 | 6,264 | 51% | 29 |
-| Escape from Tarkov | glorious_e | 10,841 | 5,961 | 50% | 28 |
-| Final Fantasy Resonance | peter | 5,521 | 5,521 | 56% | 33 |
-| Pokémon Champions | pokemon | 37,799 | 4,776 | 50% | 34 |
-| CH13: Rest Stop | rostikfacekid | 3,620 | 3,282 | 99% | 77 |
-| GODDESS OF VICTORY: NIKKE | failverde | 3,169 | 3,169 | 83% | 70 |
+| COP BASTARD  | lirik | 17,970 | 17,970 | 96% | 22 |
+| Nomad Drive | sasavot | 31,051 | 15,392 | 91% | 27 |
+| War Thunder | warthunder_esports | 22,562 | 9,803 | 63% | 28 |
+| Can 'Em All | knekro | 8,919 | 8,919 | 97% | 46 |
+| EVE Online | fenriscreations | 5,033 | 5,033 | 86% | 68 |
+| Jinro Metropolis | xhalli4x | 4,609 | 4,609 | 96% | 86 |
+| Playrooms | insym | 6,739 | 4,482 | 100% | 76 |
+| S.O.N.A.R.: Submarine Operators Not Actually Ready | tomato | 4,105 | 4,105 | 62% | 62 |
+| Clash Royale | narek_cr | 5,916 | 4,047 | 62% | 64 |
+| Origins Trading Card Game | xop0 | 4,334 | 3,995 | 98% | 95 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 0.804 | Grand Theft Auto V | 59,394 | 73,902 |
-| 0.423 | EA Sports FC 27 | 25,781 | 60,880 |
-| 0.345 | Overwatch | 22,451 | 65,041 |
-| 0.318 | Final Fantasy Resonance | 9,938 | 31,208 |
-| 0.312 | Hunt: Showdown 1896 | 8,687 | 27,852 |
-| 0.035 | Rainbow Six Siege | 2,610 | 75,550 |
-| 0.026 | Delta Force | 2,893 | 111,437 |
-| 0.025 | R.E.P.O. | 1,793 | 72,051 |
-| 0.024 | Valheim | 2,213 | 92,424 |
-| 0.013 | PUBG: BATTLEGROUNDS | 10,210 | 781,257 |
+| 1.027 | Overwatch | 66,804 | 65,041 |
+| 0.897 | Grand Theft Auto V | 66,296 | 73,902 |
+| 0.525 | EA Sports FC 27 | 31,966 | 60,880 |
+| 0.393 | Hunt: Showdown 1896 | 10,948 | 27,852 |
+| 0.322 | Arena Breakout: Infinite | 11,434 | 35,500 |
+| 0.05 | Cyberpunk 2077 | 8,353 | 166,678 |
+| 0.049 | Apex Legends | 9,947 | 204,446 |
+| 0.045 | Moon Sweepers | 3,475 | 77,045 |
+| 0.035 | Delta Force | 3,951 | 111,437 |
+| 0.009 | PUBG: BATTLEGROUNDS | 6,829 | 781,257 |
 
 ---
 
