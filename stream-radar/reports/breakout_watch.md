@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-11-01T18` (UTC). History: 134 snapshots spanning 761h.
-Reference windows: short = `2026-11-01T13`, day = `2026-10-31T18`.
+Generated from snapshot `2026-11-01T23` (UTC). History: 135 snapshots spanning 766h.
+Reference windows: short = `2026-11-01T18`, day = `2026-10-31T23`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Minecraft | +5.30 | 2 | 319,130 | +594% | +269% | 100 | +0% | 0.1355 |  |
-| 2 | VALORANT | +4.39 | 3 | 168,394 | +341% | +217% | 97 | +0% | 0.4637 |  |
-| 3 | ROBLOX | +4.03 | 37 | 8,264 | +182% | +77% | 99 | +5% | 0.4471 | IGNITION:marco_scm |
-| 4 | Knight Online | +3.75 | 65 | 6,397 | - | +41% | 61 | - | 0.1898 | ENTRY IGNITION:pwnage |
-| 5 | Virtual Casino | +3.65 | 38 | 10,904 | +26% | +159% | 28 | +4% | 0.2486 |  |
-| 6 | Rainbow Six Siege | +3.41 | 40 | 8,583 | +229% | -5% | 100 | +3% | 0.4782 | IGNITION:itsspoit |
-| 7 | Crypto | +3.30 | 58 | 7,132 | - | +68% | 100 | - | 0.236 | ENTRY |
-| 8 | Playrooms | +3.25 | 76 | 4,482 | - | - | 1 | - | 1.0 | ENTRY IGNITION:insym |
-| 9 | S.O.N.A.R.: Submarine Operators Not Actually Ready | +3.25 | 62 | 6,661 | - | - | 14 | - | 0.6163 | ENTRY IGNITION:tomato |
-| 10 | Can 'Em All | +3.25 | 46 | 9,156 | - | - | 31 | - | 0.9741 | ENTRY IGNITION:knekro |
-| 11 | Origins Trading Card Game | +3.25 | 95 | 4,077 | - | - | 8 | - | 0.9799 | ENTRY IGNITION:xop0 |
-| 12 | COP BASTARD  | +3.25 | 22 | 18,770 | - | - | 4 | - | 0.9574 | ENTRY IGNITION:lirik |
-| 13 | Kingdom Come: Deliverance II | +3.25 | 71 | 5,723 | - | - | 97 | - | 0.4136 | ENTRY IGNITION:gagik |
-| 14 | Metro 2033 Redux | +3.25 | 92 | 4,216 | - | - | 41 | - | 0.7574 | ENTRY IGNITION:altair |
-| 15 | Nomad Drive | +3.25 | 27 | 16,832 | - | - | 27 | - | 0.9144 | ENTRY IGNITION:sasavot |
+| 1 | DayZ | +5.44 | 27 | 14,933 | +112% | +274% | 100 | +0% | 0.6524 | IGNITION:summit1g |
+| 2 | Teamfight Tactics | +5.27 | 22 | 19,621 | +303% | +29% | 100 | +0% | 0.2884 | IGNITION:mistermv,frodan |
+| 3 | Apex Legends | +4.92 | 3 | 115,640 | +1063% | -6% | 98 | +2% | 0.2465 |  |
+| 4 | CRACK | +4.25 | 21 | 19,576 | - | - | 61 | - | 0.8141 | ENTRY IGNITION:gronkh,phunkroyal |
+| 5 | PUBG: BATTLEGROUNDS | +3.92 | 33 | 11,974 | +75% | +142% | 95 | -5% | 0.5749 | IGNITION:weeeny_ |
+| 6 | Can 'Em All | +3.47 | 25 | 16,107 | +76% | - | 46 | +48% | 0.8223 | ENTRY IGNITION:lirik |
+| 7 | Baldur's Gate 3 | +3.31 | 93 | 2,964 | - | - | 94 | - | 0.6019 | ENTRY IGNITION:shisheyu |
+| 8 | KOTÁMON: My Sis Found A Super-Rare Card In Her Cereal Box, So I Became A Garbage Man To Find The Entire Collection And Earn $1,000,000 | +3.25 | 30 | 13,886 | - | - | 3 | - | 0.9997 | ENTRY IGNITION:emiru |
+| 9 | Night Trap | +3.25 | 67 | 4,388 | - | - | 1 | - | 1.0 | ENTRY IGNITION:baitybait |
+| 10 | Refund This Game | +3.25 | 40 | 8,550 | - | - | 1 | - | 1.0 | ENTRY IGNITION:papaplatte |
+| 11 | Never Be Alone | +3.25 | 66 | 4,521 | - | - | 1 | - | 1.0 | ENTRY IGNITION:locklear |
+| 12 | Super Smash Bros. Melee | +3.25 | 41 | 12,944 | - | - | 33 | - | 0.7806 | ENTRY IGNITION:vgbootcamp |
+| 13 | Yu-Gi-Oh! Master Duel | +3.22 | 77 | 3,883 | - | - | 56 | - | 0.8499 | ENTRY IGNITION:dkayed |
+| 14 | Voices of the Void | +3.04 | 45 | 7,971 | - | +16% | 33 | - | 0.4924 | ENTRY IGNITION:vargskelethor,limealicious |
+| 15 | Deadlock | +2.66 | 13 | 35,744 | +114% | +104% | 99 | +2% | 0.2301 |  |
 
 ## Ignition alerts
 
@@ -30,31 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| COP BASTARD  | lirik | 17,970 | 17,970 | 96% | 22 |
-| Nomad Drive | sasavot | 31,051 | 15,392 | 91% | 27 |
-| War Thunder | warthunder_esports | 22,562 | 9,803 | 63% | 28 |
-| Can 'Em All | knekro | 8,919 | 8,919 | 97% | 46 |
-| EVE Online | fenriscreations | 5,033 | 5,033 | 86% | 68 |
-| Jinro Metropolis | xhalli4x | 4,609 | 4,609 | 96% | 86 |
-| Playrooms | insym | 6,739 | 4,482 | 100% | 76 |
-| S.O.N.A.R.: Submarine Operators Not Actually Ready | tomato | 4,105 | 4,105 | 62% | 62 |
-| Clash Royale | narek_cr | 5,916 | 4,047 | 62% | 64 |
-| Origins Trading Card Game | xop0 | 4,334 | 3,995 | 98% | 95 |
+| CRACK | gronkh | 24,579 | 15,937 | 81% | 21 |
+| KOTÁMON: My Sis Found A Super-Rare Card In Her Cereal Box, So I Became A Garbage Man To Find The Entire Collection And Earn $1,000,000 | emiru | 14,200 | 13,882 | 100% | 30 |
+| Can 'Em All | lirik | 17,970 | 13,244 | 82% | 25 |
+| Super Smash Bros. Melee | vgbootcamp | 10,104 | 10,104 | 78% | 41 |
+| DayZ | summit1g | 13,652 | 9,742 | 65% | 27 |
+| Refund This Game | papaplatte | 52,940 | 8,550 | 100% | 40 |
+| PUBG: BATTLEGROUNDS | weeeny_ | 6,884 | 6,884 | 57% | 33 |
+| Rocket League | kaydop | 6,055 | 5,231 | 59% | 35 |
+| Never Be Alone | locklear | 6,582 | 4,521 | 100% | 66 |
+| Night Trap | baitybait | 6,412 | 4,388 | 100% | 67 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 1.027 | Overwatch | 66,804 | 65,041 |
-| 0.897 | Grand Theft Auto V | 66,296 | 73,902 |
-| 0.525 | EA Sports FC 27 | 31,966 | 60,880 |
-| 0.393 | Hunt: Showdown 1896 | 10,948 | 27,852 |
-| 0.322 | Arena Breakout: Infinite | 11,434 | 35,500 |
-| 0.05 | Cyberpunk 2077 | 8,353 | 166,678 |
-| 0.049 | Apex Legends | 9,947 | 204,446 |
-| 0.045 | Moon Sweepers | 3,475 | 77,045 |
-| 0.035 | Delta Force | 3,951 | 111,437 |
-| 0.009 | PUBG: BATTLEGROUNDS | 6,829 | 781,257 |
+| 1.043 | Grand Theft Auto V | 77,100 | 73,902 |
+| 0.895 | Overwatch | 58,209 | 65,041 |
+| 0.603 | EA Sports FC 27 | 36,730 | 60,880 |
+| 0.566 | Apex Legends | 115,640 | 204,446 |
+| 0.451 | Rainbow Six Siege | 34,068 | 75,550 |
+| 0.04 | Moon Sweepers | 3,061 | 77,045 |
+| 0.036 | Enshrouded | 3,166 | 88,101 |
+| 0.036 | Counter-Strike | 45,807 | 1,270,982 |
+| 0.025 | Valheim | 2,353 | 92,424 |
+| 0.015 | PUBG: BATTLEGROUNDS | 11,974 | 781,257 |
 
 ---
 
