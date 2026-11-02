@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-11-02T05` (UTC). History: 136 snapshots spanning 772h.
-Reference windows: short = `2026-11-01T23`, day = `2026-11-01T06`.
+Generated from snapshot `2026-11-02T15` (UTC). History: 137 snapshots spanning 782h.
+Reference windows: short = `2026-11-02T05`, day = `2026-11-01T13`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | R.E.P.O. | +5.41 | 23 | 10,393 | - | +291% | 97 | - | 0.5852 | ENTRY IGNITION:ironmouse,rainhoe |
-| 2 | Marbles on Stream | +3.46 | 61 | 2,553 | - | +55% | 93 | - | 0.1226 | ENTRY |
-| 3 | The Boba Teashop | +3.25 | 77 | 1,938 | - | - | 1 | - | 1.0 | ENTRY IGNITION:sumomo_x |
-| 4 | Frostpunk | +3.25 | 43 | 4,516 | - | - | 1 | - | 1.0 | ENTRY IGNITION:cdawg |
-| 5 | RESIDENT EVIL: requiem | +3.25 | 57 | 2,911 | - | - | 75 | - | 0.6149 | ENTRY IGNITION:warn |
-| 6 | CH13: Rest Stop | +3.21 | 70 | 2,197 | - | +3333% | 1 | - | 1.0 | ENTRY IGNITION:penta |
-| 7 | Mist Survival | +3.18 | 66 | 2,270 | - | +27% | 1 | - | 1.0 | ENTRY IGNITION:gronkhtv |
-| 8 | Final Fantasy Resonance | +3.13 | 67 | 2,130 | - | +45% | 97 | - | 0.4521 | ENTRY |
-| 9 | Counter-Strike | +2.56 | 3 | 69,444 | +52% | +262% | 98 | +8% | 0.1223 |  |
-| 10 | Wuthering Waves | +2.26 | 91 | 1,630 | - | - | 46 | - | 0.8693 | ENTRY |
-| 11 | Fear & Hunger 2: Termina | +2.25 | 73 | 2,061 | - | - | 8 | - | 0.7186 | ENTRY |
-| 12 | The Warriors | +2.25 | 87 | 1,700 | - | - | 4 | - | 0.9924 | ENTRY |
-| 13 | As Long as She Forgot | +2.25 | 92 | 1,629 | - | - | 1 | - | 1.0 | ENTRY |
-| 14 | $cam With Your Friends | +2.25 | 68 | 2,215 | - | - | 43 | - | 0.7946 | ENTRY |
-| 15 | The Quinfall | +2.25 | 69 | 2,167 | - | - | 9 | - | 0.97 | ENTRY |
+| 1 | Rocket League | +7.45 | 35 | 9,389 | +248% | +237% | 98 | +3% | 0.2714 | IGNITION:atowwwww,mawkzy_ |
+| 2 | World of Tanks | +7.14 | 29 | 11,949 | +555% | +13% | 96 | +118% | 0.2589 | IGNITION:dakillzor,skill4ltu |
+| 3 | Call of Duty: Warzone | +7.04 | 38 | 7,910 | +231% | +338% | 98 | -1% | 0.4188 | IGNITION:camy |
+| 4 | Football Manager 27 | +6.18 | 43 | 7,585 | - | +148% | 97 | - | 0.1728 | ENTRY IGNITION:brucegrannec,runthefutmarket |
+| 5 | Rust | +5.41 | 36 | 9,413 | +443% | +53% | 99 | +3% | 0.1979 | IGNITION:oilrats |
+| 6 | Hunt: Showdown 1896 | +5.24 | 23 | 15,910 | +174% | +83% | 100 | +2% | 0.1233 | IGNITION:rachtaz,psychoghost |
+| 7 | ELDEN RING | +4.79 | 55 | 5,817 | +192% | +152% | 100 | +2% | 0.0939 |  |
+| 8 | Probably Stolen | +4.72 | 25 | 16,135 | +178% | +32% | 98 | +15% | 0.391 | IGNITION:mobilmobil,shinjifromjapanxd |
+| 9 | The Legend of Zelda: Ocarina of Time | +4.35 | 61 | 5,637 | +287% | - | 57 | -7% | 0.8547 | ENTRY IGNITION:peter |
+| 10 | Kingdom Come: Deliverance II | +4.25 | 49 | 6,874 | - | - | 64 | - | 0.3903 | ENTRY IGNITION:sunglitters,gagik |
+| 11 | Goose Goose Duck | +4.25 | 27 | 13,215 | - | - | 15 | - | 0.2943 | ENTRY IGNITION:bbbb87,guanweiboy |
+| 12 | Escape from Tarkov | +3.38 | 26 | 11,803 | +92% | -0% | 98 | +0% | 0.3902 | IGNITION:glorious_e,alle |
+| 13 | Winx Club | +3.25 | 50 | 6,806 | - | - | 2 | - | 0.9993 | ENTRY IGNITION:skywhywalker |
+| 14 | Castlevania: Belmont's Curse | +3.25 | 63 | 5,504 | - | - | 86 | - | 0.5652 | ENTRY IGNITION:mistermv |
+| 15 | Giggleland | +3.25 | 94 | 2,989 | - | - | 5 | - | 0.9866 | ENTRY IGNITION:shxtou |
 
 ## Ignition alerts
 
@@ -30,29 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| R.E.P.O. | ironmouse | 14,687 | 6,082 | 59% | 23 |
-| Frostpunk | cdawg | 16,095 | 4,516 | 100% | 43 |
-| Probably Stolen | zrush | 5,892 | 3,980 | 68% | 36 |
-| Until Dawn | pge4 | 4,473 | 2,471 | 98% | 64 |
-| Mist Survival | gronkhtv | 4,125 | 2,270 | 100% | 66 |
-| CH13: Rest Stop | penta | 3,284 | 2,197 | 100% | 70 |
-| The Boba Teashop | sumomo_x | 9,547 | 1,938 | 100% | 77 |
-| RESIDENT EVIL: requiem | warn | 4,482 | 1,790 | 61% | 57 |
+| DARK SOULS III | recrent | 12,115 | 10,047 | 95% | 32 |
+| Planet Zoo 2 | yaritaiji | 14,917 | 8,047 | 77% | 33 |
+| Winx Club | skywhywalker | 17,529 | 6,801 | 100% | 50 |
+| Tape to Tape | northernlion | 13,812 | 5,970 | 98% | 58 |
+| The Legend of Zelda: Ocarina of Time | peter | 5,521 | 4,818 | 85% | 61 |
+| Mouthwashing | gutitubo | 5,161 | 3,855 | 98% | 78 |
+| Tom Clancy's The Division 2 | thedivisiongame | 3,831 | 3,831 | 59% | 53 |
+| Jinro Metropolis | xhalli4x | 4,609 | 3,593 | 67% | 67 |
+| Maitre des Fleurs | ponce | 4,952 | 3,170 | 100% | 90 |
+| Castlevania: Belmont's Curse | mistermv | 8,131 | 3,111 | 57% | 63 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 0.312 | Grand Theft Auto V | 23,675 | 75,795 |
-| 0.266 | Overwatch | 17,492 | 65,807 |
-| 0.255 | DayZ | 16,900 | 66,239 |
-| 0.207 | Marvel Rivals | 11,148 | 53,727 |
-| 0.198 | Hunt: Showdown 1896 | 5,816 | 29,399 |
-| 0.017 | Moon Sweepers | 1,413 | 83,138 |
-| 0.016 | Valheim | 1,712 | 106,724 |
-| 0.016 | Slay the Spire II | 1,443 | 89,859 |
-| 0.014 | Rust | 1,735 | 120,346 |
-| 0.003 | PUBG: BATTLEGROUNDS | 2,502 | 802,207 |
+| 0.661 | Grand Theft Auto V | 50,091 | 75,795 |
+| 0.541 | Hunt: Showdown 1896 | 15,910 | 29,399 |
+| 0.298 | Rocket League | 9,389 | 31,473 |
+| 0.28 | Escape from Tarkov | 11,803 | 42,170 |
+| 0.278 | Overwatch | 18,313 | 65,807 |
+| 0.039 | Moon Sweepers | 3,278 | 83,138 |
+| 0.031 | WARDOGS | 4,504 | 146,252 |
+| 0.025 | Valheim | 2,671 | 106,724 |
+| 0.016 | Cyberpunk 2077 | 2,721 | 168,742 |
+| 0.007 | PUBG: BATTLEGROUNDS | 5,602 | 802,207 |
 
 ---
 
