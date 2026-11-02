@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-11-01T23` (UTC). History: 135 snapshots spanning 766h.
-Reference windows: short = `2026-11-01T18`, day = `2026-10-31T23`.
+Generated from snapshot `2026-11-02T05` (UTC). History: 136 snapshots spanning 772h.
+Reference windows: short = `2026-11-01T23`, day = `2026-11-01T06`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | DayZ | +5.44 | 27 | 14,933 | +112% | +274% | 100 | +0% | 0.6524 | IGNITION:summit1g |
-| 2 | Teamfight Tactics | +5.27 | 22 | 19,621 | +303% | +29% | 100 | +0% | 0.2884 | IGNITION:mistermv,frodan |
-| 3 | Apex Legends | +4.92 | 3 | 115,640 | +1063% | -6% | 98 | +2% | 0.2465 |  |
-| 4 | CRACK | +4.25 | 21 | 19,576 | - | - | 61 | - | 0.8141 | ENTRY IGNITION:gronkh,phunkroyal |
-| 5 | PUBG: BATTLEGROUNDS | +3.92 | 33 | 11,974 | +75% | +142% | 95 | -5% | 0.5749 | IGNITION:weeeny_ |
-| 6 | Can 'Em All | +3.47 | 25 | 16,107 | +76% | - | 46 | +48% | 0.8223 | ENTRY IGNITION:lirik |
-| 7 | Baldur's Gate 3 | +3.31 | 93 | 2,964 | - | - | 94 | - | 0.6019 | ENTRY IGNITION:shisheyu |
-| 8 | KOTÁMON: My Sis Found A Super-Rare Card In Her Cereal Box, So I Became A Garbage Man To Find The Entire Collection And Earn $1,000,000 | +3.25 | 30 | 13,886 | - | - | 3 | - | 0.9997 | ENTRY IGNITION:emiru |
-| 9 | Night Trap | +3.25 | 67 | 4,388 | - | - | 1 | - | 1.0 | ENTRY IGNITION:baitybait |
-| 10 | Refund This Game | +3.25 | 40 | 8,550 | - | - | 1 | - | 1.0 | ENTRY IGNITION:papaplatte |
-| 11 | Never Be Alone | +3.25 | 66 | 4,521 | - | - | 1 | - | 1.0 | ENTRY IGNITION:locklear |
-| 12 | Super Smash Bros. Melee | +3.25 | 41 | 12,944 | - | - | 33 | - | 0.7806 | ENTRY IGNITION:vgbootcamp |
-| 13 | Yu-Gi-Oh! Master Duel | +3.22 | 77 | 3,883 | - | - | 56 | - | 0.8499 | ENTRY IGNITION:dkayed |
-| 14 | Voices of the Void | +3.04 | 45 | 7,971 | - | +16% | 33 | - | 0.4924 | ENTRY IGNITION:vargskelethor,limealicious |
-| 15 | Deadlock | +2.66 | 13 | 35,744 | +114% | +104% | 99 | +2% | 0.2301 |  |
+| 1 | R.E.P.O. | +5.41 | 23 | 10,393 | - | +291% | 97 | - | 0.5852 | ENTRY IGNITION:ironmouse,rainhoe |
+| 2 | Marbles on Stream | +3.46 | 61 | 2,553 | - | +55% | 93 | - | 0.1226 | ENTRY |
+| 3 | The Boba Teashop | +3.25 | 77 | 1,938 | - | - | 1 | - | 1.0 | ENTRY IGNITION:sumomo_x |
+| 4 | Frostpunk | +3.25 | 43 | 4,516 | - | - | 1 | - | 1.0 | ENTRY IGNITION:cdawg |
+| 5 | RESIDENT EVIL: requiem | +3.25 | 57 | 2,911 | - | - | 75 | - | 0.6149 | ENTRY IGNITION:warn |
+| 6 | CH13: Rest Stop | +3.21 | 70 | 2,197 | - | +3333% | 1 | - | 1.0 | ENTRY IGNITION:penta |
+| 7 | Mist Survival | +3.18 | 66 | 2,270 | - | +27% | 1 | - | 1.0 | ENTRY IGNITION:gronkhtv |
+| 8 | Final Fantasy Resonance | +3.13 | 67 | 2,130 | - | +45% | 97 | - | 0.4521 | ENTRY |
+| 9 | Counter-Strike | +2.56 | 3 | 69,444 | +52% | +262% | 98 | +8% | 0.1223 |  |
+| 10 | Wuthering Waves | +2.26 | 91 | 1,630 | - | - | 46 | - | 0.8693 | ENTRY |
+| 11 | Fear & Hunger 2: Termina | +2.25 | 73 | 2,061 | - | - | 8 | - | 0.7186 | ENTRY |
+| 12 | The Warriors | +2.25 | 87 | 1,700 | - | - | 4 | - | 0.9924 | ENTRY |
+| 13 | As Long as She Forgot | +2.25 | 92 | 1,629 | - | - | 1 | - | 1.0 | ENTRY |
+| 14 | $cam With Your Friends | +2.25 | 68 | 2,215 | - | - | 43 | - | 0.7946 | ENTRY |
+| 15 | The Quinfall | +2.25 | 69 | 2,167 | - | - | 9 | - | 0.97 | ENTRY |
 
 ## Ignition alerts
 
@@ -30,31 +30,29 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| CRACK | gronkh | 24,579 | 15,937 | 81% | 21 |
-| KOTÁMON: My Sis Found A Super-Rare Card In Her Cereal Box, So I Became A Garbage Man To Find The Entire Collection And Earn $1,000,000 | emiru | 14,200 | 13,882 | 100% | 30 |
-| Can 'Em All | lirik | 17,970 | 13,244 | 82% | 25 |
-| Super Smash Bros. Melee | vgbootcamp | 10,104 | 10,104 | 78% | 41 |
-| DayZ | summit1g | 13,652 | 9,742 | 65% | 27 |
-| Refund This Game | papaplatte | 52,940 | 8,550 | 100% | 40 |
-| PUBG: BATTLEGROUNDS | weeeny_ | 6,884 | 6,884 | 57% | 33 |
-| Rocket League | kaydop | 6,055 | 5,231 | 59% | 35 |
-| Never Be Alone | locklear | 6,582 | 4,521 | 100% | 66 |
-| Night Trap | baitybait | 6,412 | 4,388 | 100% | 67 |
+| R.E.P.O. | ironmouse | 14,687 | 6,082 | 59% | 23 |
+| Frostpunk | cdawg | 16,095 | 4,516 | 100% | 43 |
+| Probably Stolen | zrush | 5,892 | 3,980 | 68% | 36 |
+| Until Dawn | pge4 | 4,473 | 2,471 | 98% | 64 |
+| Mist Survival | gronkhtv | 4,125 | 2,270 | 100% | 66 |
+| CH13: Rest Stop | penta | 3,284 | 2,197 | 100% | 70 |
+| The Boba Teashop | sumomo_x | 9,547 | 1,938 | 100% | 77 |
+| RESIDENT EVIL: requiem | warn | 4,482 | 1,790 | 61% | 57 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 1.043 | Grand Theft Auto V | 77,100 | 73,902 |
-| 0.895 | Overwatch | 58,209 | 65,041 |
-| 0.603 | EA Sports FC 27 | 36,730 | 60,880 |
-| 0.566 | Apex Legends | 115,640 | 204,446 |
-| 0.451 | Rainbow Six Siege | 34,068 | 75,550 |
-| 0.04 | Moon Sweepers | 3,061 | 77,045 |
-| 0.036 | Enshrouded | 3,166 | 88,101 |
-| 0.036 | Counter-Strike | 45,807 | 1,270,982 |
-| 0.025 | Valheim | 2,353 | 92,424 |
-| 0.015 | PUBG: BATTLEGROUNDS | 11,974 | 781,257 |
+| 0.312 | Grand Theft Auto V | 23,675 | 75,795 |
+| 0.266 | Overwatch | 17,492 | 65,807 |
+| 0.255 | DayZ | 16,900 | 66,239 |
+| 0.207 | Marvel Rivals | 11,148 | 53,727 |
+| 0.198 | Hunt: Showdown 1896 | 5,816 | 29,399 |
+| 0.017 | Moon Sweepers | 1,413 | 83,138 |
+| 0.016 | Valheim | 1,712 | 106,724 |
+| 0.016 | Slay the Spire II | 1,443 | 89,859 |
+| 0.014 | Rust | 1,735 | 120,346 |
+| 0.003 | PUBG: BATTLEGROUNDS | 2,502 | 802,207 |
 
 ---
 
