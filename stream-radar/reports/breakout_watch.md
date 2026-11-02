@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-11-02T15` (UTC). History: 137 snapshots spanning 782h.
-Reference windows: short = `2026-11-02T05`, day = `2026-11-01T13`.
+Generated from snapshot `2026-11-02T23` (UTC). History: 138 snapshots spanning 790h.
+Reference windows: short = `2026-11-02T15`, day = `2026-11-01T23`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Rocket League | +7.45 | 35 | 9,389 | +248% | +237% | 98 | +3% | 0.2714 | IGNITION:atowwwww,mawkzy_ |
-| 2 | World of Tanks | +7.14 | 29 | 11,949 | +555% | +13% | 96 | +118% | 0.2589 | IGNITION:dakillzor,skill4ltu |
-| 3 | Call of Duty: Warzone | +7.04 | 38 | 7,910 | +231% | +338% | 98 | -1% | 0.4188 | IGNITION:camy |
-| 4 | Football Manager 27 | +6.18 | 43 | 7,585 | - | +148% | 97 | - | 0.1728 | ENTRY IGNITION:brucegrannec,runthefutmarket |
-| 5 | Rust | +5.41 | 36 | 9,413 | +443% | +53% | 99 | +3% | 0.1979 | IGNITION:oilrats |
-| 6 | Hunt: Showdown 1896 | +5.24 | 23 | 15,910 | +174% | +83% | 100 | +2% | 0.1233 | IGNITION:rachtaz,psychoghost |
-| 7 | ELDEN RING | +4.79 | 55 | 5,817 | +192% | +152% | 100 | +2% | 0.0939 |  |
-| 8 | Probably Stolen | +4.72 | 25 | 16,135 | +178% | +32% | 98 | +15% | 0.391 | IGNITION:mobilmobil,shinjifromjapanxd |
-| 9 | The Legend of Zelda: Ocarina of Time | +4.35 | 61 | 5,637 | +287% | - | 57 | -7% | 0.8547 | ENTRY IGNITION:peter |
-| 10 | Kingdom Come: Deliverance II | +4.25 | 49 | 6,874 | - | - | 64 | - | 0.3903 | ENTRY IGNITION:sunglitters,gagik |
-| 11 | Goose Goose Duck | +4.25 | 27 | 13,215 | - | - | 15 | - | 0.2943 | ENTRY IGNITION:bbbb87,guanweiboy |
-| 12 | Escape from Tarkov | +3.38 | 26 | 11,803 | +92% | -0% | 98 | +0% | 0.3902 | IGNITION:glorious_e,alle |
-| 13 | Winx Club | +3.25 | 50 | 6,806 | - | - | 2 | - | 0.9993 | ENTRY IGNITION:skywhywalker |
-| 14 | Castlevania: Belmont's Curse | +3.25 | 63 | 5,504 | - | - | 86 | - | 0.5652 | ENTRY IGNITION:mistermv |
-| 15 | Giggleland | +3.25 | 94 | 2,989 | - | - | 5 | - | 0.9866 | ENTRY IGNITION:shxtou |
+| 1 | Moon Sweepers | +4.85 | 40 | 9,078 | +177% | +197% | 94 | -5% | 0.2166 |  |
+| 2 | Rainbow Six Siege | +4.45 | 12 | 33,965 | +768% | -0% | 98 | -1% | 0.8284 |  |
+| 3 | MARVEL Contest of Champions | +4.25 | 34 | 10,190 | - | - | 24 | - | 0.6158 | ENTRY IGNITION:pepe,cesgod |
+| 4 | Geometry Dash | +4.23 | 41 | 8,898 | - | - | 100 | - | 0.4762 | ENTRY IGNITION:wpopoff,zoinkgd |
+| 5 | Queen's Domain | +3.89 | 64 | 5,596 | +96% | - | 92 | +70% | 0.4643 | ENTRY IGNITION:avoidingthepuddle |
+| 6 | Project Zomboid | +3.82 | 70 | 4,748 | - | +61% | 94 | - | 0.3852 | ENTRY IGNITION:elwycco |
+| 7 | Terrible Lizards | +3.78 | 54 | 6,581 | - | +62% | 100 | - | 0.5922 | ENTRY IGNITION:laynalazar |
+| 8 | Marvel Rivals | +3.54 | 25 | 12,637 | +83% | +19% | 99 | +0% | 0.2326 | IGNITION:tminnzy,jay3 |
+| 9 | Hunt: Showdown 1896 | +3.52 | 22 | 15,162 | -5% | +110% | 95 | -5% | 0.179 | IGNITION:rachtaz,psychoghost |
+| 10 | PUBG: BATTLEGROUNDS | +3.49 | 24 | 14,992 | +168% | +25% | 95 | -5% | 0.4674 | IGNITION:weeeny_ |
+| 11 | Heroes of Might and Magic III: The Restoration of Erathia | +3.40 | 63 | 5,716 | +62% | +104% | 21 | -42% | 0.6972 | IGNITION:voodoosh |
+| 12 | DressMaker | +3.25 | 79 | 4,007 | - | - | 8 | - | 0.9082 | ENTRY IGNITION:erobb221 |
+| 13 | Finals Week  | +3.25 | 84 | 3,828 | - | - | 23 | - | 0.4984 | ENTRY IGNITION:suetam1v4 |
+| 14 | FTL: Faster Than Light | +3.25 | 67 | 5,376 | - | - | 3 | - | 0.9985 | ENTRY IGNITION:bonjwa |
+| 15 | Backseat | +3.25 | 28 | 13,807 | - | - | 1 | - | 1.0 | ENTRY IGNITION:papaplatte |
 
 ## Ignition alerts
 
@@ -30,31 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| DARK SOULS III | recrent | 12,115 | 10,047 | 95% | 32 |
-| Planet Zoo 2 | yaritaiji | 14,917 | 8,047 | 77% | 33 |
-| Winx Club | skywhywalker | 17,529 | 6,801 | 100% | 50 |
-| Tape to Tape | northernlion | 13,812 | 5,970 | 98% | 58 |
-| The Legend of Zelda: Ocarina of Time | peter | 5,521 | 4,818 | 85% | 61 |
-| Mouthwashing | gutitubo | 5,161 | 3,855 | 98% | 78 |
-| Tom Clancy's The Division 2 | thedivisiongame | 3,831 | 3,831 | 59% | 53 |
-| Jinro Metropolis | xhalli4x | 4,609 | 3,593 | 67% | 67 |
-| Maitre des Fleurs | ponce | 4,952 | 3,170 | 100% | 90 |
-| Castlevania: Belmont's Curse | mistermv | 8,131 | 3,111 | 57% | 63 |
+| Can 'Em All | sodapoppin | 92,859 | 13,825 | 85% | 23 |
+| Backseat | papaplatte | 52,940 | 13,807 | 100% | 28 |
+| BONELAB | jltomy | 18,409 | 13,676 | 100% | 29 |
+| DayZ | summit1g | 14,444 | 10,877 | 73% | 26 |
+| Clash of Clans | schlatt | 14,149 | 9,690 | 98% | 35 |
+| PlateUp! | bonsaibroz | 9,632 | 9,632 | 99% | 37 |
+| MARVEL Contest of Champions | pepe | 13,579 | 6,275 | 62% | 34 |
+| FTL: Faster Than Light | bonjwa | 7,925 | 5,368 | 100% | 67 |
+| Grand Theft Auto IV | roier | 8,194 | 5,224 | 86% | 59 |
+| Rat Game | locklear | 6,582 | 5,038 | 99% | 69 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 0.661 | Grand Theft Auto V | 50,091 | 75,795 |
-| 0.541 | Hunt: Showdown 1896 | 15,910 | 29,399 |
-| 0.298 | Rocket League | 9,389 | 31,473 |
-| 0.28 | Escape from Tarkov | 11,803 | 42,170 |
-| 0.278 | Overwatch | 18,313 | 65,807 |
-| 0.039 | Moon Sweepers | 3,278 | 83,138 |
-| 0.031 | WARDOGS | 4,504 | 146,252 |
-| 0.025 | Valheim | 2,671 | 106,724 |
-| 0.016 | Cyberpunk 2077 | 2,721 | 168,742 |
-| 0.007 | PUBG: BATTLEGROUNDS | 5,602 | 802,207 |
+| 1.332 | Grand Theft Auto V | 100,966 | 75,795 |
+| 0.516 | Hunt: Showdown 1896 | 15,162 | 29,399 |
+| 0.393 | Rainbow Six Siege | 33,965 | 86,360 |
+| 0.392 | EA Sports FC 27 | 26,296 | 67,129 |
+| 0.268 | Overwatch | 17,605 | 65,807 |
+| 0.038 | Dota 2 | 30,815 | 802,613 |
+| 0.035 | Enshrouded | 3,460 | 98,272 |
+| 0.034 | WARDOGS | 4,951 | 146,252 |
+| 0.03 | Cyberpunk 2077 | 5,055 | 168,742 |
+| 0.019 | PUBG: BATTLEGROUNDS | 14,992 | 802,207 |
 
 ---
 
