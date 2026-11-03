@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-11-03T06` (UTC). History: 139 snapshots spanning 797h.
-Reference windows: short = `2026-11-02T23`, day = `2026-11-02T05`.
+Generated from snapshot `2026-11-03T16` (UTC). History: 140 snapshots spanning 807h.
+Reference windows: short = `2026-11-03T06`, day = `2026-11-02T15`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Slay the Spire II | +6.99 | 28 | 8,283 | - | +474% | 47 | - | 0.8456 | ENTRY IGNITION:supertf |
-| 2 | NBA 2K27 | +4.51 | 19 | 11,378 | +250% | +199% | 100 | +0% | 0.3805 |  |
-| 3 | Street Fighter 6 | +3.73 | 59 | 2,752 | - | +89% | 100 | - | 0.1417 | ENTRY |
-| 4 | Look Outside | +3.25 | 27 | 8,552 | - | - | 10 | - | 0.9937 | ENTRY IGNITION:moonmoon |
-| 5 | STAR WARS: Galactic Racer | +3.25 | 40 | 4,389 | - | - | 49 | - | 0.9264 | ENTRY IGNITION:vinesauce |
-| 6 | Woman Simulator | +3.25 | 72 | 2,236 | - | - | 4 | - | 0.8703 | ENTRY IGNITION:sumomo_x |
-| 7 | Nintendo Switch Sports Resort | +3.25 | 24 | 10,129 | - | - | 6 | - | 0.9898 | ENTRY IGNITION:batora324 |
-| 8 | Escape from Tarkov | +2.64 | 26 | 8,840 | +4% | +44% | 100 | +3% | 0.4334 | IGNITION:bobito217,desmondpilak |
-| 9 | Message From Aliens | +2.25 | 77 | 1,824 | - | - | 2 | - | 0.9978 | ENTRY |
-| 10 | Halloween: The Game | +2.25 | 88 | 1,604 | - | - | 100 | - | 0.3086 | ENTRY |
-| 11 | Onimusha: Way of the Sword | +2.25 | 86 | 1,632 | - | - | 45 | - | 0.6091 | ENTRY |
-| 12 | FINAL FANTASY VII | +2.25 | 95 | 1,505 | - | - | 16 | - | 0.901 | ENTRY |
-| 13 | Age of Empires IV | +2.25 | 6 | 44,214 | - | - | 17 | - | 0.9193 | ENTRY |
-| 14 | Madden NFL 27 | +2.25 | 79 | 1,517 | - | - | 90 | - | 0.3454 | ENTRY |
-| 15 | Over The Top: WWI | +2.25 | 75 | 2,044 | - | - | 1 | - | 1.0 | ENTRY |
+| 1 | Gray Zone Warfare | +7.35 | 29 | 12,201 | +349% | +146% | 100 | +67% | 0.1306 | IGNITION:willerz |
+| 2 | Enshrouded | +7.01 | 28 | 11,568 | +780% | +174% | 99 | -1% | 0.14 |  |
+| 3 | Queen's Domain | +6.91 | 56 | 6,353 | +314% | +122% | 64 | +36% | 0.5955 | IGNITION:barbarousking |
+| 4 | Delta Force | +6.22 | 37 | 8,982 | +439% | +79% | 100 | +4% | 0.2116 | IGNITION:qq7925168 |
+| 5 | World of Tanks | +6.19 | 35 | 10,652 | +494% | -11% | 100 | +89% | 0.2707 | IGNITION:dakillzor,fr3ddy |
+| 6 | Rocket League | +6.15 | 25 | 13,974 | +423% | +49% | 100 | +3% | 0.5019 | IGNITION:zenrll,mawkzy_ |
+| 7 | Anno 117: Pax Romana | +4.25 | 24 | 14,974 | - | - | 26 | - | 0.5795 | ENTRY IGNITION:handofblood,mauriceweber |
+| 8 | ARC Raiders | +4.16 | 13 | 29,283 | +394% | +92% | 98 | +4% | 0.2188 |  |
+| 9 | Tom Clancy's The Division 2 | +4.13 | 18 | 22,270 | - | +246% | 99 | - | 0.1353 | ENTRY |
+| 10 | EA Sports FC 27 | +3.93 | 22 | 17,772 | +186% | -0% | 98 | -1% | 0.2053 | IGNITION:dannyaarons,auziomf |
+| 11 | PUBG: BATTLEGROUNDS | +3.80 | 41 | 8,033 | +180% | +43% | 95 | -5% | 0.3172 | IGNITION:des0ut |
+| 12 | Grand Theft Auto | +3.25 | 73 | 4,384 | - | - | 4 | - | 0.9977 | ENTRY IGNITION:welovegames |
+| 13 | Pokémon Champions | +3.25 | 49 | 7,274 | - | - | 55 | - | 0.3796 | ENTRY IGNITION:gutitubo |
+| 14 | Potato Please | +3.25 | 61 | 5,432 | - | - | 25 | - | 0.4696 | ENTRY IGNITION:sterzik |
+| 15 | Inkblood | +3.25 | 63 | 5,251 | - | - | 1 | - | 1.0 | ENTRY IGNITION:mistermv |
 
 ## Ignition alerts
 
@@ -30,29 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Nintendo Switch Sports Resort | batora324 | 10,026 | 10,026 | 99% | 24 |
-| Look Outside | moonmoon | 13,202 | 8,498 | 99% | 27 |
-| Slay the Spire II | supertf | 11,441 | 7,004 | 85% | 28 |
-| STAR WARS: Galactic Racer | vinesauce | 10,589 | 4,066 | 93% | 40 |
-| Probably Stolen | zrush | 5,892 | 3,869 | 54% | 30 |
-| Woman Simulator | sumomo_x | 9,547 | 1,946 | 87% | 72 |
-| MARVEL Contest of Champions | cesgod | 3,241 | 1,901 | 52% | 47 |
-| Mist Survival | gronkhtv | 4,125 | 1,396 | 100% | 98 |
+| Anno 117: Pax Romana | handofblood | 16,986 | 8,678 | 58% | 24 |
+| DARK SOULS III | recrent | 12,115 | 7,837 | 87% | 40 |
+| Rocket League | zenrll | 10,218 | 7,013 | 50% | 25 |
+| Planet Zoo 2 | yaritaiji | 14,917 | 6,653 | 71% | 36 |
+| Inkblood | mistermv | 8,131 | 5,251 | 100% | 63 |
+| Tape to Tape | northernlion | 13,812 | 4,705 | 100% | 70 |
+| Grand Theft Auto | welovegames | 4,374 | 4,374 | 100% | 73 |
+| Jinro Metropolis | xhalli4x | 4,609 | 4,337 | 75% | 60 |
+| Selkie's Salvage&Co. | alexelcapo | 6,424 | 3,814 | 100% | 76 |
+| Queen's Domain | barbarousking | 4,096 | 3,783 | 60% | 56 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 0.635 | Grand Theft Auto V | 43,685 | 68,778 |
-| 0.267 | Hunt: Showdown 1896 | 6,096 | 22,842 |
-| 0.239 | Escape from Tarkov | 8,840 | 37,020 |
-| 0.209 | DayZ | 12,091 | 57,811 |
-| 0.151 | Dead by Daylight | 10,141 | 66,940 |
-| 0.019 | Valheim | 1,543 | 81,331 |
-| 0.018 | Enshrouded | 1,315 | 74,069 |
-| 0.018 | Cyberpunk 2077 | 2,360 | 134,129 |
-| 0.016 | Delta Force | 1,667 | 101,110 |
-| 0.004 | PUBG: BATTLEGROUNDS | 2,873 | 764,045 |
+| 1.007 | Grand Theft Auto V | 69,253 | 68,778 |
+| 0.518 | Hunt: Showdown 1896 | 11,839 | 22,842 |
+| 0.456 | Rocket League | 13,974 | 30,615 |
+| 0.371 | ARC Raiders | 29,283 | 78,956 |
+| 0.349 | Escape from Tarkov | 12,913 | 37,020 |
+| 0.041 | Moon Sweepers | 2,652 | 65,199 |
+| 0.036 | Valheim | 2,946 | 81,331 |
+| 0.035 | Phantom Blade Zero | 29,251 | 827,122 |
+| 0.028 | Cyberpunk 2077 | 3,804 | 134,129 |
+| 0.011 | PUBG: BATTLEGROUNDS | 8,033 | 764,045 |
 
 ---
 
