@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-11-04T12` (UTC). History: 143 snapshots spanning 827h.
-Reference windows: short = `2026-11-04T02`, day = `2026-11-03T16`.
+Generated from snapshot `2026-11-04T19` (UTC). History: 144 snapshots spanning 834h.
+Reference windows: short = `2026-11-04T12`, day = `2026-11-03T21`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Old School RuneScape | +6.08 | 14 | 23,476 | +600% | +179% | 100 | +0% | 0.17 |  |
-| 2 | Counter-Strike | +4.88 | 1 | 230,715 | +420% | +294% | 97 | -2% | 0.2325 |  |
-| 3 | Escape from Tarkov | +4.79 | 21 | 14,934 | +232% | +16% | 100 | +3% | 0.3331 | IGNITION:cr_arisakaaa,glorious_e |
-| 4 | Potato Please | +4.63 | 20 | 15,681 | +86% | +189% | 56 | +6% | 0.3277 |  |
-| 5 | AION 2 | +3.89 | 4 | 54,719 | +365% | +70% | 100 | +3% | 0.1237 |  |
-| 6 | Genshin Impact | +3.44 | 24 | 11,644 | -47% | +288% | 100 | +0% | 0.1939 | IGNITION:failverde |
-| 7 | I'm Only Sleeping | +3.40 | 35 | 7,200 | +128% | +8% | 100 | +0% | 0.3171 | IGNITION:humzh |
-| 8 | Teamfight Tactics | +3.25 | 32 | 8,217 | +233% | -10% | 88 | -12% | 0.2283 | IGNITION:greentea |
-| 9 | Grand Theft Auto III: The Definitive Edition | +3.25 | 38 | 6,776 | - | - | 3 | - | 0.9997 | ENTRY IGNITION:welovegames |
-| 10 | MARVEL TŌKON: Fighting Souls | +3.25 | 53 | 4,096 | - | - | 8 | - | 0.9597 | ENTRY IGNITION:maximilian_dood |
-| 11 | Monster Rancher 2 DX | +3.25 | 34 | 7,476 | - | - | 1 | - | 1.0 | ENTRY IGNITION:batora324 |
-| 12 | Fatal Fury: City of the Wolves | +3.25 | 79 | 2,444 | - | - | 6 | - | 0.8797 | ENTRY IGNITION:naru0419045 |
-| 13 | Stardew Valley | +3.24 | 90 | 2,113 | - | - | 53 | - | 0.806 | ENTRY IGNITION:alderiate |
-| 14 | The Witcher 3: Wild Hunt | +3.16 | 52 | 4,131 | - | - | 73 | - | 0.4979 | ENTRY IGNITION:gronkhtv |
-| 15 | R2 Online: Reign of Revolution | +3.11 | 70 | 2,817 | +21% | +2% | 61 | +135% | 0.3905 | BREADTH |
+| 1 | The Legend of Zelda: Ocarina of Time | +8.37 | 11 | 61,692 | +1732% | - | 100 | +233% | 0.4799 | ENTRY |
+| 2 | World of Tanks | +7.78 | 19 | 31,175 | +614% | +464% | 98 | -2% | 0.2728 |  |
+| 3 | Rocket League | +7.61 | 16 | 47,104 | +2144% | +176% | 99 | -1% | 0.8692 |  |
+| 4 | Anno 117: Pax Romana | +5.48 | 37 | 12,879 | +151% | - | 29 | +81% | 0.5288 | ENTRY IGNITION:zerator,mauriceweber |
+| 5 | World of Warcraft | +5.46 | 3 | 150,966 | +527% | +317% | 100 | +0% | 0.1205 |  |
+| 6 | Project Zomboid | +5.31 | 45 | 9,444 | +360% | +5% | 100 | +15% | 0.2266 | IGNITION:edopeh,elwycco |
+| 7 | Hunt: Showdown 1896 | +5.14 | 25 | 18,450 | +170% | +82% | 100 | +0% | 0.2081 | IGNITION:rachtaz,psychoghost |
+| 8 | Terrible Lizards | +4.69 | 53 | 7,394 | - | +36% | 100 | - | 0.4767 | ENTRY IGNITION:silvervale,dmitry_bale |
+| 9 | Star Citizen | +4.44 | 69 | 5,877 | +181% | - | 100 | +52% | 0.3767 | ENTRY IGNITION:knebeltv |
+| 10 | Old School RuneScape | +4.29 | 21 | 26,503 | +13% | +294% | 100 | +0% | 0.1912 | IGNITION:b0aty |
+| 11 | Queen's Domain | +4.25 | 43 | 10,232 | - | - | 100 | - | 0.3466 | ENTRY IGNITION:shisheyu,barbarousking |
+| 12 | EA Sports FC 27 | +4.22 | 33 | 12,706 | +68% | +94% | 98 | -2% | 0.1758 | IGNITION:auziomf,zanoxvii |
+| 13 | Potato Please | +3.25 | 26 | 19,673 | +25% | -8% | 78 | +39% | 0.2964 | BREADTH IGNITION:h2p_gucio,mazellovvv |
+| 14 | Grand Theft Auto: Vice City - The Definitive Edition | +3.25 | 73 | 5,629 | - | - | 14 | - | 0.9746 | ENTRY IGNITION:welovegames |
+| 15 | S.O.N.A.R.: Submarine Operators Not Actually Ready | +3.25 | 39 | 10,645 | - | - | 13 | - | 0.9835 | ENTRY IGNITION:northernlion |
 
 ## Ignition alerts
 
@@ -30,27 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Monster Rancher 2 DX | batora324 | 10,026 | 7,476 | 100% | 34 |
-| Grand Theft Auto III: The Definitive Edition | welovegames | 6,774 | 6,774 | 100% | 38 |
-| MARVEL TŌKON: Fighting Souls | maximilian_dood | 11,595 | 3,931 | 96% | 53 |
-| Fatal Fury: City of the Wolves | naru0419045 | 5,979 | 2,150 | 88% | 79 |
-| Stardew Valley | alderiate | 3,460 | 1,703 | 81% | 90 |
-| Pokémon Champions | ren_kisaragi__ | 10,800 | 1,615 | 52% | 64 |
+| S.O.N.A.R.: Submarine Operators Not Actually Ready | northernlion | 13,812 | 10,469 | 98% | 39 |
+| WendyQuest: Legend of the Four Corner Stones | bonsaibroz | 9,632 | 9,193 | 96% | 46 |
+| DARK SOULS III | recrent | 12,115 | 7,849 | 76% | 42 |
+| Anno 117: Pax Romana | zerator | 16,701 | 6,810 | 53% | 37 |
+| Grand Theft Auto: Vice City - The Definitive Edition | welovegames | 6,774 | 5,486 | 97% | 73 |
+| RV There Yet? | frametamer666 | 6,899 | 5,411 | 82% | 63 |
+| Otherside Tapes: Favela | insym | 6,739 | 4,107 | 100% | 89 |
+| Mafia: Definitive Edition | slimenkpac | 3,784 | 3,784 | 100% | 93 |
+| War Thunder | warthunder_esports | 22,562 | 3,525 | 66% | 75 |
+| Mycelium: The Silent Contract | thetremba | 3,479 | 3,433 | 100% | 100 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 0.805 | Grand Theft Auto V | 49,176 | 61,108 |
-| 0.535 | Overwatch | 29,051 | 54,265 |
-| 0.418 | Escape from Tarkov | 14,934 | 35,725 |
-| 0.286 | AION 2 | 54,719 | 191,390 |
-| 0.277 | Hunt: Showdown 1896 | 6,828 | 24,629 |
-| 0.027 | Stardew Valley | 2,113 | 79,001 |
-| 0.027 | Rainbow Six Siege | 1,778 | 66,396 |
-| 0.021 | Phantom Blade Zero | 16,563 | 790,954 |
-| 0.017 | Rust | 1,743 | 102,759 |
-| 0.008 | PUBG: BATTLEGROUNDS | 5,757 | 763,018 |
+| 1.641 | Rocket League | 47,104 | 28,708 |
+| 1.083 | Grand Theft Auto V | 67,495 | 62,314 |
+| 0.777 | Overwatch | 42,152 | 54,265 |
+| 0.749 | Hunt: Showdown 1896 | 18,450 | 24,629 |
+| 0.42 | AION 2 | 80,651 | 191,908 |
+| 0.051 | Rust | 5,286 | 103,524 |
+| 0.042 | Delta Force | 4,177 | 98,614 |
+| 0.037 | Cyberpunk 2077 | 4,517 | 123,041 |
+| 0.035 | Probably Stolen | 5,804 | 164,471 |
+| 0.012 | PUBG: BATTLEGROUNDS | 9,029 | 763,018 |
 
 ---
 
