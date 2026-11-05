@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-11-04T19` (UTC). History: 144 snapshots spanning 834h.
-Reference windows: short = `2026-11-04T12`, day = `2026-11-03T21`.
+Generated from snapshot `2026-11-05T00` (UTC). History: 145 snapshots spanning 839h.
+Reference windows: short = `2026-11-04T19`, day = `2026-11-04T02`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | The Legend of Zelda: Ocarina of Time | +8.37 | 11 | 61,692 | +1732% | - | 100 | +233% | 0.4799 | ENTRY |
-| 2 | World of Tanks | +7.78 | 19 | 31,175 | +614% | +464% | 98 | -2% | 0.2728 |  |
-| 3 | Rocket League | +7.61 | 16 | 47,104 | +2144% | +176% | 99 | -1% | 0.8692 |  |
-| 4 | Anno 117: Pax Romana | +5.48 | 37 | 12,879 | +151% | - | 29 | +81% | 0.5288 | ENTRY IGNITION:zerator,mauriceweber |
-| 5 | World of Warcraft | +5.46 | 3 | 150,966 | +527% | +317% | 100 | +0% | 0.1205 |  |
-| 6 | Project Zomboid | +5.31 | 45 | 9,444 | +360% | +5% | 100 | +15% | 0.2266 | IGNITION:edopeh,elwycco |
-| 7 | Hunt: Showdown 1896 | +5.14 | 25 | 18,450 | +170% | +82% | 100 | +0% | 0.2081 | IGNITION:rachtaz,psychoghost |
-| 8 | Terrible Lizards | +4.69 | 53 | 7,394 | - | +36% | 100 | - | 0.4767 | ENTRY IGNITION:silvervale,dmitry_bale |
-| 9 | Star Citizen | +4.44 | 69 | 5,877 | +181% | - | 100 | +52% | 0.3767 | ENTRY IGNITION:knebeltv |
-| 10 | Old School RuneScape | +4.29 | 21 | 26,503 | +13% | +294% | 100 | +0% | 0.1912 | IGNITION:b0aty |
-| 11 | Queen's Domain | +4.25 | 43 | 10,232 | - | - | 100 | - | 0.3466 | ENTRY IGNITION:shisheyu,barbarousking |
-| 12 | EA Sports FC 27 | +4.22 | 33 | 12,706 | +68% | +94% | 98 | -2% | 0.1758 | IGNITION:auziomf,zanoxvii |
-| 13 | Potato Please | +3.25 | 26 | 19,673 | +25% | -8% | 78 | +39% | 0.2964 | BREADTH IGNITION:h2p_gucio,mazellovvv |
-| 14 | Grand Theft Auto: Vice City - The Definitive Edition | +3.25 | 73 | 5,629 | - | - | 14 | - | 0.9746 | ENTRY IGNITION:welovegames |
-| 15 | S.O.N.A.R.: Submarine Operators Not Actually Ready | +3.25 | 39 | 10,645 | - | - | 13 | - | 0.9835 | ENTRY IGNITION:northernlion |
+| 1 | World of Warcraft | +6.35 | 1 | 548,241 | +263% | +2594% | 99 | -1% | 0.191 |  |
+| 2 | ROB RUN | +4.75 | 9 | 46,022 | +643% | - | 99 | -1% | 0.6907 | ENTRY |
+| 3 | Geometry Dash | +4.28 | 52 | 5,095 | - | - | 97 | - | 0.5523 | ENTRY IGNITION:zoinkgd,wpopoff |
+| 4 | Roco Kingdom | +4.25 | 68 | 3,618 | - | - | 26 | - | 0.4397 | ENTRY IGNITION:fuslie,kkatamina |
+| 5 | World of Warships | +4.25 | 65 | 3,865 | - | - | 27 | - | 0.8241 | ENTRY IGNITION:worldofwarships,overlordbou |
+| 6 | Grand Theft Auto IV | +3.33 | 51 | 5,522 | - | +43% | 78 | - | 0.9095 | ENTRY IGNITION:roier |
+| 7 | MapleStory Worlds | +3.25 | 75 | 3,069 | - | - | 4 | - | 0.9857 | ENTRY IGNITION:never_loses |
+| 8 | Can 'Em All | +3.25 | 25 | 12,476 | - | - | 36 | - | 0.8282 | ENTRY IGNITION:joe_bartolozzi |
+| 9 | Old School RuneScape | +2.75 | 24 | 13,245 | -50% | +295% | 100 | +0% | 0.2181 | IGNITION:b0aty |
+| 10 | Mimic Party | +2.25 | 10 | 36,082 | - | - | 7 | - | 0.9808 | ENTRY |
+| 11 | Finals Week  | +2.25 | 42 | 6,239 | - | - | 27 | - | 0.3509 | ENTRY |
+| 12 | Mario Party Superstars | +2.25 | 94 | 2,130 | - | - | 2 | - | 0.9995 | ENTRY |
+| 13 | Phasmophobia | +2.23 | 73 | 3,043 | - | - | 96 | - | 0.3027 | ENTRY |
+| 14 | AION 2 | +2.22 | 7 | 68,725 | -15% | +484% | 100 | +0% | 0.2594 |  |
+| 15 | ROBLOX | +2.22 | 36 | 5,060 | +96% | +63% | 99 | -1% | 0.547 |  |
 
 ## Ignition alerts
 
@@ -30,31 +30,28 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| S.O.N.A.R.: Submarine Operators Not Actually Ready | northernlion | 13,812 | 10,469 | 98% | 39 |
-| WendyQuest: Legend of the Four Corner Stones | bonsaibroz | 9,632 | 9,193 | 96% | 46 |
-| DARK SOULS III | recrent | 12,115 | 7,849 | 76% | 42 |
-| Anno 117: Pax Romana | zerator | 16,701 | 6,810 | 53% | 37 |
-| Grand Theft Auto: Vice City - The Definitive Edition | welovegames | 6,774 | 5,486 | 97% | 73 |
-| RV There Yet? | frametamer666 | 6,899 | 5,411 | 82% | 63 |
-| Otherside Tapes: Favela | insym | 6,739 | 4,107 | 100% | 89 |
-| Mafia: Definitive Edition | slimenkpac | 3,784 | 3,784 | 100% | 93 |
-| War Thunder | warthunder_esports | 22,562 | 3,525 | 66% | 75 |
-| Mycelium: The Silent Contract | thetremba | 3,479 | 3,433 | 100% | 100 |
+| Can 'Em All | joe_bartolozzi | 18,196 | 10,333 | 83% | 25 |
+| Grand Theft Auto IV | roier | 8,194 | 5,022 | 91% | 51 |
+| World of Warships | worldofwarships | 6,801 | 3,185 | 82% | 65 |
+| MapleStory Worlds | never_loses | 4,904 | 3,025 | 99% | 75 |
+| Geometry Dash | zoinkgd | 4,190 | 2,814 | 55% | 52 |
+| ArcheAge Chronicles | skipnho | 3,126 | 2,429 | 68% | 67 |
+| Delta Force | bbbb87 | 3,889 | 1,706 | 53% | 72 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 1.641 | Rocket League | 47,104 | 28,708 |
-| 1.083 | Grand Theft Auto V | 67,495 | 62,314 |
-| 0.777 | Overwatch | 42,152 | 54,265 |
-| 0.749 | Hunt: Showdown 1896 | 18,450 | 24,629 |
-| 0.42 | AION 2 | 80,651 | 191,908 |
-| 0.051 | Rust | 5,286 | 103,524 |
-| 0.042 | Delta Force | 4,177 | 98,614 |
-| 0.037 | Cyberpunk 2077 | 4,517 | 123,041 |
-| 0.035 | Probably Stolen | 5,804 | 164,471 |
-| 0.012 | PUBG: BATTLEGROUNDS | 9,029 | 763,018 |
+| 1.525 | Grand Theft Auto V | 95,027 | 62,314 |
+| 0.568 | Overwatch | 30,813 | 54,265 |
+| 0.398 | Hunt: Showdown 1896 | 9,798 | 24,629 |
+| 0.358 | AION 2 | 68,725 | 191,908 |
+| 0.286 | Rocket League | 8,207 | 28,708 |
+| 0.032 | WARDOGS | 3,379 | 106,557 |
+| 0.031 | Dota 2 | 21,672 | 704,324 |
+| 0.024 | Cyberpunk 2077 | 2,985 | 123,041 |
+| 0.017 | Phantom Blade Zero | 13,570 | 790,954 |
+| 0.007 | PUBG: BATTLEGROUNDS | 5,346 | 763,018 |
 
 ---
 
