@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-11-05T00` (UTC). History: 145 snapshots spanning 839h.
-Reference windows: short = `2026-11-04T19`, day = `2026-11-04T02`.
+Generated from snapshot `2026-11-05T09` (UTC). History: 146 snapshots spanning 848h.
+Reference windows: short = `2026-11-05T00`, day = `2026-11-04T12`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | World of Warcraft | +6.35 | 1 | 548,241 | +263% | +2594% | 99 | -1% | 0.191 |  |
-| 2 | ROB RUN | +4.75 | 9 | 46,022 | +643% | - | 99 | -1% | 0.6907 | ENTRY |
-| 3 | Geometry Dash | +4.28 | 52 | 5,095 | - | - | 97 | - | 0.5523 | ENTRY IGNITION:zoinkgd,wpopoff |
-| 4 | Roco Kingdom | +4.25 | 68 | 3,618 | - | - | 26 | - | 0.4397 | ENTRY IGNITION:fuslie,kkatamina |
-| 5 | World of Warships | +4.25 | 65 | 3,865 | - | - | 27 | - | 0.8241 | ENTRY IGNITION:worldofwarships,overlordbou |
-| 6 | Grand Theft Auto IV | +3.33 | 51 | 5,522 | - | +43% | 78 | - | 0.9095 | ENTRY IGNITION:roier |
-| 7 | MapleStory Worlds | +3.25 | 75 | 3,069 | - | - | 4 | - | 0.9857 | ENTRY IGNITION:never_loses |
-| 8 | Can 'Em All | +3.25 | 25 | 12,476 | - | - | 36 | - | 0.8282 | ENTRY IGNITION:joe_bartolozzi |
-| 9 | Old School RuneScape | +2.75 | 24 | 13,245 | -50% | +295% | 100 | +0% | 0.2181 | IGNITION:b0aty |
-| 10 | Mimic Party | +2.25 | 10 | 36,082 | - | - | 7 | - | 0.9808 | ENTRY |
-| 11 | Finals Week  | +2.25 | 42 | 6,239 | - | - | 27 | - | 0.3509 | ENTRY |
-| 12 | Mario Party Superstars | +2.25 | 94 | 2,130 | - | - | 2 | - | 0.9995 | ENTRY |
-| 13 | Phasmophobia | +2.23 | 73 | 3,043 | - | - | 96 | - | 0.3027 | ENTRY |
-| 14 | AION 2 | +2.22 | 7 | 68,725 | -15% | +484% | 100 | +0% | 0.2594 |  |
-| 15 | ROBLOX | +2.22 | 36 | 5,060 | +96% | +63% | 99 | -1% | 0.547 |  |
+| 1 | The Legend of Zelda: Ocarina of Time | +5.97 | 6 | 40,888 | +19% | +1114% | 98 | +0% | 0.1714 |  |
+| 2 | PUBG: BATTLEGROUNDS | +5.39 | 11 | 21,884 | +309% | +280% | 100 | +3% | 0.739 |  |
+| 3 | Crimson Desert | +4.47 | 46 | 3,669 | - | +62% | 76 | - | 0.2584 | ENTRY IGNITION:clutch_fii |
+| 4 | We Were Here Tomorrow | +4.25 | 43 | 4,496 | - | - | 11 | - | 0.7898 | ENTRY IGNITION:cdawg,rainhoe |
+| 5 | I'm Only Sleeping | +3.78 | 26 | 6,641 | - | -8% | 100 | - | 0.1301 | ENTRY IGNITION:coachlim,rumathra |
+| 6 | Grand Theft Auto: Vice City - The Definitive Edition | +3.25 | 45 | 4,225 | - | - | 4 | - | 0.9988 | ENTRY IGNITION:welovegames |
+| 7 | Tales Runner | +3.25 | 63 | 2,424 | - | - | 1 | - | 1.0 | ENTRY IGNITION:zrush |
+| 8 | World of Tanks | +3.11 | 36 | 6,001 | -6% | +37% | 93 | +27% | 0.2976 | IGNITION:dakillzor,dezgamez |
+| 9 | Escape from Tarkov | +3.03 | 23 | 8,922 | +119% | -40% | 100 | +3% | 0.2044 | IGNITION:cr_arisakaaa,glorious_e |
+| 10 | Once Human | +2.65 | 55 | 2,803 | - | +18% | 100 | - | 0.4249 | ENTRY |
+| 11 | Fatal Fury: City of the Wolves | +2.45 | 77 | 1,731 | - | -29% | 8 | - | 0.9821 | ENTRY IGNITION:naru0419045 |
+| 12 | MapleStory | +2.44 | 68 | 2,180 | - | +1% | 93 | - | 0.1133 | ENTRY |
+| 13 | DayZ | +2.39 | 51 | 3,195 | +21% | +56% | 100 | +1% | 0.1941 |  |
+| 14 | Total War: WARHAMMER III | +2.29 | 56 | 2,775 | - | - | 14 | - | 0.5532 | ENTRY |
+| 15 | Epic Seven | +2.25 | 84 | 1,546 | - | - | 15 | - | 0.5162 | ENTRY |
 
 ## Ignition alerts
 
@@ -30,28 +30,28 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Can 'Em All | joe_bartolozzi | 18,196 | 10,333 | 83% | 25 |
-| Grand Theft Auto IV | roier | 8,194 | 5,022 | 91% | 51 |
-| World of Warships | worldofwarships | 6,801 | 3,185 | 82% | 65 |
-| MapleStory Worlds | never_loses | 4,904 | 3,025 | 99% | 75 |
-| Geometry Dash | zoinkgd | 4,190 | 2,814 | 55% | 52 |
-| ArcheAge Chronicles | skipnho | 3,126 | 2,429 | 68% | 67 |
-| Delta Force | bbbb87 | 3,889 | 1,706 | 53% | 72 |
+| VRChat | k4sen | 15,999 | 5,012 | 77% | 33 |
+| Grand Theft Auto: Vice City - The Definitive Edition | welovegames | 6,774 | 4,220 | 100% | 45 |
+| Potato Please | shinjifromjapanxd | 4,657 | 3,825 | 56% | 29 |
+| We Were Here Tomorrow | cdawg | 16,095 | 3,551 | 79% | 43 |
+| Genshin Impact | zy0xxx | 4,886 | 2,746 | 55% | 37 |
+| Tales Runner | zrush | 5,892 | 2,424 | 100% | 63 |
+| Fatal Fury: City of the Wolves | naru0419045 | 5,979 | 1,700 | 98% | 77 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 1.525 | Grand Theft Auto V | 95,027 | 62,314 |
-| 0.568 | Overwatch | 30,813 | 54,265 |
-| 0.398 | Hunt: Showdown 1896 | 9,798 | 24,629 |
-| 0.358 | AION 2 | 68,725 | 191,908 |
-| 0.286 | Rocket League | 8,207 | 28,708 |
-| 0.032 | WARDOGS | 3,379 | 106,557 |
-| 0.031 | Dota 2 | 21,672 | 704,324 |
-| 0.024 | Cyberpunk 2077 | 2,985 | 123,041 |
-| 0.017 | Phantom Blade Zero | 13,570 | 790,954 |
-| 0.007 | PUBG: BATTLEGROUNDS | 5,346 | 763,018 |
+| 0.309 | AION 2 | 59,823 | 193,796 |
+| 0.306 | Overwatch | 15,996 | 52,330 |
+| 0.258 | Hunt: Showdown 1896 | 6,507 | 25,229 |
+| 0.245 | Escape from Tarkov | 8,922 | 36,348 |
+| 0.237 | Grand Theft Auto V | 15,528 | 65,477 |
+| 0.02 | Rainbow Six Siege | 1,323 | 64,871 |
+| 0.02 | Probably Stolen | 3,478 | 174,382 |
+| 0.018 | Counter-Strike | 23,213 | 1,268,241 |
+| 0.017 | Valheim | 1,178 | 68,630 |
+| 0.01 | Phantom Blade Zero | 7,145 | 687,823 |
 
 ---
 
