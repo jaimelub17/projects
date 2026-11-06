@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-11-06T06` (UTC). History: 149 snapshots spanning 869h.
-Reference windows: short = `2026-11-05T23`, day = `2026-11-05T09`.
+Generated from snapshot `2026-11-06T15` (UTC). History: 150 snapshots spanning 878h.
+Reference windows: short = `2026-11-06T06`, day = `2026-11-05T18`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Rainbow Six Siege | +9.05 | 13 | 29,840 | +428% | +2155% | 100 | +1% | 0.5173 |  |
-| 2 | Call of Duty: Warzone | +8.20 | 11 | 30,568 | +345% | +1682% | 96 | +1% | 0.1101 |  |
-| 3 | ROB RUN | +8.05 | 10 | 45,649 | +502% | +1422% | 100 | +1% | 0.8853 |  |
-| 4 | CH13: Rest Stop | +4.25 | 33 | 6,283 | - | - | 3 | - | 0.6481 | ENTRY IGNITION:zrush,sumomo_x |
-| 5 | I'm Only Sleeping | +3.35 | 30 | 7,211 | +236% | +9% | 100 | +0% | 0.1774 | IGNITION:coachlim |
-| 6 | Counter-Strike | +3.32 | 3 | 84,702 | +147% | +265% | 98 | +3% | 0.2144 |  |
-| 7 | Resident Evil 2 | +3.25 | 82 | 1,518 | - | - | 35 | - | 0.7806 | ENTRY IGNITION:smoke |
-| 8 | VRChat | +2.83 | 28 | 8,128 | +63% | +24% | 89 | -2% | 0.3848 | IGNITION:burn |
-| 9 | Star Citizen | +2.42 | 83 | 1,519 | - | +29% | 64 | - | 0.1771 | ENTRY |
-| 10 | Phantom Blade Zero | +2.42 | 19 | 15,831 | +100% | +122% | 97 | +3% | 0.6859 |  |
-| 11 | Gray Zone Warfare | +2.37 | 55 | 2,702 | -24% | +14% | 72 | -28% | 0.2576 | IGNITION:iiizwerg,willerz |
-| 12 | Clash Royale | +2.25 | 20 | 16,007 | - | - | 55 | - | 0.2063 | ENTRY |
-| 13 | Pokémon GO | +2.25 | 59 | 2,490 | - | - | 31 | - | 0.5972 | ENTRY |
-| 14 | Where Winds Meet | +2.25 | 81 | 1,540 | - | - | 42 | - | 0.7682 | ENTRY |
-| 15 | Marvel Rivals | +2.23 | 27 | 7,926 | +12% | +68% | 100 | +4% | 0.1819 | IGNITION:kingsman265_twitch |
+| 1 | Probably Stolen | +8.25 | 40 | 10,221 | +468% | +254% | 100 | +32% | 0.2236 | IGNITION:p1lepe1el1 |
+| 2 | World of Tanks | +6.48 | 25 | 18,506 | +629% | -17% | 100 | +85% | 0.2201 | IGNITION:worldoftanks,quickybaby |
+| 3 | Delta Force | +5.32 | 32 | 14,007 | +429% | +2% | 100 | +0% | 0.199 | IGNITION:bbbb87,kannachan524 |
+| 4 | Escape from Tarkov | +5.23 | 19 | 21,562 | +390% | +186% | 100 | +3% | 0.1926 |  |
+| 5 | Star Citizen | +4.93 | 63 | 5,955 | +292% | +31% | 88 | +38% | 0.359 | IGNITION:knebeltv |
+| 6 | Hunt: Showdown 1896 | +4.83 | 30 | 14,846 | +248% | +37% | 100 | +0% | 0.1541 | IGNITION:psychoghost,rachtaz |
+| 7 | Anno 117: Pax Romana | +4.61 | 76 | 4,253 | +88% | -12% | 38 | +375% | 0.395 | BREADTH IGNITION:lilsimsie |
+| 8 | Super Mario Maker 2 | +4.38 | 57 | 5,570 | +327% | - | 10 | -17% | 0.9777 | ENTRY IGNITION:batora324 |
+| 9 | Call of Duty: Warzone | +4.38 | 10 | 59,337 | +94% | +637% | 100 | +4% | 0.1741 |  |
+| 10 | Fatal Fury: City of the Wolves | +4.25 | 55 | 6,639 | - | - | 13 | - | 0.4493 | ENTRY IGNITION:hiiragitsurugi,naru0419045 |
+| 11 | Albion Online | +4.17 | 69 | 4,990 | +258% | +16% | 92 | +119% | 0.222 |  |
+| 12 | Dota 2 | +4.16 | 7 | 70,783 | +476% | +52% | 99 | +2% | 0.1288 |  |
+| 13 | The Outlast Trials | +4.16 | 52 | 7,732 | - | - | 75 | - | 0.482 | ENTRY IGNITION:cr_arisakaaa,cr_vanilla |
+| 14 | Grand Theft Auto: San Andreas | +3.25 | 24 | 19,484 | - | - | 71 | - | 0.9269 | ENTRY IGNITION:peereira7 |
+| 15 | Finals Week  | +3.25 | 70 | 4,863 | - | - | 14 | - | 0.7798 | ENTRY IGNITION:iceicell |
 
 ## Ignition alerts
 
@@ -30,27 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Rust | sasatikk | 9,017 | 5,148 | 51% | 26 |
-| CH13: Rest Stop | zrush | 5,892 | 4,072 | 65% | 33 |
-| Genshin Impact | zy0xxx | 4,886 | 2,614 | 54% | 38 |
-| World of Tanks | dakillzor | 25,594 | 1,390 | 55% | 57 |
-| Mist Survival | gronkhtv | 4,125 | 1,361 | 100% | 91 |
-| Resident Evil 2 | smoke | 3,718 | 1,185 | 78% | 82 |
+| Grand Theft Auto: San Andreas | peereira7 | 235,604 | 18,060 | 93% | 24 |
+| How to Fish | barnigameplay | 11,423 | 11,423 | 98% | 37 |
+| ROB RUN | hutchmf | 15,318 | 10,405 | 52% | 22 |
+| SILENT HILL 2 | indegnasen0706 | 35,632 | 7,671 | 98% | 51 |
+| Rainbow Six Siege | rainbow6 | 18,704 | 7,119 | 63% | 35 |
+| Grand Theft Auto: San Andreas - The Definitive Edition | welovegames | 6,774 | 5,921 | 98% | 61 |
+| Super Mario Maker 2 | batora324 | 10,026 | 5,446 | 98% | 57 |
+| $cam With Your Friends | mobilmobil | 6,308 | 5,362 | 56% | 42 |
+| Perfect World | bupsiep | 4,896 | 4,896 | 89% | 65 |
+| Finals Week  | iceicell | 3,967 | 3,792 | 78% | 70 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 1.044 | ROB RUN | 45,649 | 43,745 |
-| 0.706 | Grand Theft Auto V | 43,327 | 61,376 |
-| 0.472 | Rainbow Six Siege | 29,840 | 63,286 |
-| 0.293 | Overwatch | 15,026 | 51,259 |
-| 0.197 | NBA 2K27 | 3,968 | 20,115 |
-| 0.02 | Cyberpunk 2077 | 2,097 | 104,577 |
-| 0.018 | Dota 2 | 12,281 | 677,454 |
-| 0.017 | Warframe | 1,163 | 67,279 |
-| 0.011 | Probably Stolen | 1,800 | 167,250 |
-| 0.002 | PUBG: BATTLEGROUNDS | 1,771 | 789,217 |
+| 0.872 | Grand Theft Auto V | 53,523 | 61,376 |
+| 0.669 | Hunt: Showdown 1896 | 14,846 | 22,204 |
+| 0.652 | Escape from Tarkov | 21,562 | 33,073 |
+| 0.524 | Overwatch | 26,857 | 51,259 |
+| 0.458 | ROB RUN | 20,053 | 43,745 |
+| 0.052 | Counter-Strike | 58,433 | 1,128,175 |
+| 0.043 | Cyberpunk 2077 | 4,480 | 104,577 |
+| 0.039 | WARDOGS | 3,278 | 84,255 |
+| 0.027 | Phantom Blade Zero | 16,992 | 635,161 |
+| 0.007 | PUBG: BATTLEGROUNDS | 5,507 | 789,217 |
 
 ---
 
