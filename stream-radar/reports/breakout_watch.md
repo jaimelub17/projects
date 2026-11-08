@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-11-08T16` (UTC). History: 158 snapshots spanning 927h.
-Reference windows: short = `2026-11-08T08`, day = `2026-11-07T16`.
+Generated from snapshot `2026-11-08T22` (UTC). History: 159 snapshots spanning 933h.
+Reference windows: short = `2026-11-08T16`, day = `2026-11-07T21`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | PUBG: BATTLEGROUNDS | +6.24 | 39 | 10,757 | +324% | +101% | 100 | +0% | 0.1587 | IGNITION:hannn0501_,des0ut |
-| 2 | Minecraft | +4.94 | 3 | 164,128 | +749% | +87% | 98 | -2% | 0.1174 |  |
-| 3 | Probably Stolen | +4.75 | 44 | 9,594 | +202% | +69% | 100 | +18% | 0.2578 | IGNITION:ilame |
-| 4 | R.E.P.O. | +4.35 | 37 | 12,828 | - | - | 100 | - | 0.3093 | ENTRY IGNITION:sleduck,dmitry_bale |
-| 5 | Pokémon Community Game | +4.25 | 73 | 4,775 | - | - | 70 | - | 0.5148 | ENTRY IGNITION:pokealexvgc,sekiam |
-| 6 | Baby Steps | +4.25 | 34 | 16,114 | - | - | 10 | - | 0.7461 | ENTRY IGNITION:dawgonosik,barbarousking |
-| 7 | Potato Please | +4.25 | 36 | 14,527 | - | - | 70 | - | 0.7489 | ENTRY IGNITION:fps_shaka,rumathra |
-| 8 | Stonewards | +4.25 | 48 | 8,656 | - | - | 4 | - | 0.5842 | ENTRY IGNITION:cr_arisakaaa,cr_vanilla |
-| 9 | ELDEN RING | +4.25 | 55 | 7,105 | +210% | +51% | 99 | +0% | 0.3655 | IGNITION:c_a_k_e |
-| 10 | Deadlock | +4.12 | 23 | 21,449 | +104% | +51% | 98 | -2% | 0.1531 | IGNITION:jamside,zerggyyyy |
-| 11 | osu! | +3.85 | 69 | 4,866 | - | +15% | 100 | - | 0.4346 | ENTRY IGNITION:osulive,chicony |
-| 12 | Jinro Metropolis | +3.49 | 70 | 4,936 | - | +31% | 10 | - | 0.8171 | ENTRY IGNITION:xhalli4x |
-| 13 | Star Citizen | +3.42 | 75 | 4,685 | +135% | +14% | 90 | +27% | 0.4267 | IGNITION:knebeltv |
-| 14 | Playrooms | +3.25 | 40 | 11,390 | - | - | 37 | - | 0.8422 | ENTRY IGNITION:elajjaz |
-| 15 | Finnish Cottage Simulator | +3.25 | 81 | 4,254 | - | - | 1 | - | 1.0 | ENTRY IGNITION:kr1stw |
+| 1 | Rocket League | +8.66 | 13 | 47,808 | +1313% | +629% | 99 | -1% | 0.38 |  |
+| 2 | nanos world | +4.84 | 29 | 14,497 | +285% | +27% | 100 | +28% | 0.2127 | IGNITION:mehditdonc |
+| 3 | Call of Duty: Modern Warfare 4 | +4.13 | 7 | 84,297 | +567% | +23% | 100 | +0% | 0.5432 |  |
+| 4 | League of Legends | +3.92 | 1 | 532,830 | +392% | +113% | 93 | -5% | 0.4415 |  |
+| 5 | EA Sports FC 27 | +3.78 | 10 | 65,969 | +213% | +166% | 100 | +3% | 0.4926 |  |
+| 6 | ROBLOX | +3.75 | 43 | 6,011 | +182% | +159% | 100 | +0% | 0.4234 |  |
+| 7 | MapleStory | +3.25 | 79 | 3,973 | - | - | 85 | - | 0.3851 | ENTRY IGNITION:ereklo_game |
+| 8 | Anno 117: Pax Romana | +3.25 | 27 | 19,082 | - | - | 39 | - | 0.9279 | ENTRY IGNITION:gronkh |
+| 9 | Wielders of the Essence | +3.25 | 53 | 5,929 | - | - | 1 | - | 1.0 | ENTRY IGNITION:bonjwa |
+| 10 | Rounds | +3.25 | 58 | 6,897 | - | - | 4 | - | 0.8502 | ENTRY IGNITION:jerma985 |
+| 11 | Leviathan: Rhino | +3.25 | 30 | 15,094 | - | - | 5 | - | 0.995 | ENTRY IGNITION:lirik |
+| 12 | The Binding of Isaac: Repentance | +3.25 | 66 | 4,731 | - | - | 54 | - | 0.7172 | ENTRY IGNITION:shisheyu |
+| 13 | CRACK | +3.25 | 44 | 8,692 | - | - | 30 | - | 0.958 | ENTRY IGNITION:elajjaz |
+| 14 | Theos: Cities of Myth | +3.25 | 83 | 3,791 | - | - | 3 | - | 0.9924 | ENTRY IGNITION:limealicious |
+| 15 | Stream Train | +3.25 | 73 | 4,179 | - | - | 10 | - | 0.9842 | ENTRY IGNITION:xop0 |
 
 ## Ignition alerts
 
@@ -30,31 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Detroit: Become Human | ohnepixel | 47,277 | 24,472 | 99% | 21 |
-| Grand Theft Auto: San Andreas | peereira7 | 235,604 | 15,571 | 88% | 29 |
-| Baby Steps | dawgonosik | 12,022 | 12,022 | 75% | 34 |
-| War Thunder | warthunder_esports | 30,042 | 11,620 | 63% | 30 |
-| Potato Please | fps_shaka | 41,135 | 10,879 | 75% | 36 |
-| Playrooms | elajjaz | 10,447 | 9,593 | 84% | 40 |
-| Rainbow Six Siege | rainbow6 | 27,281 | 8,548 | 50% | 31 |
-| Baldur's Gate 3 | vedal987 | 9,747 | 5,759 | 86% | 58 |
-| Stonewards | cr_arisakaaa | 6,950 | 5,057 | 58% | 48 |
-| Welcome to Elderfield | nephora | 4,798 | 4,798 | 98% | 71 |
+| Anno 117: Pax Romana | gronkh | 25,472 | 17,706 | 93% | 27 |
+| Leviathan: Rhino | lirik | 17,970 | 15,019 | 100% | 30 |
+| Potato Please | h2p_gucio | 9,154 | 8,859 | 82% | 37 |
+| CRACK | elajjaz | 10,447 | 8,327 | 96% | 44 |
+| Baldur's Gate 3 | vedal987 | 9,747 | 6,973 | 85% | 46 |
+| World of Tanks | dakillzor | 25,594 | 5,974 | 56% | 38 |
+| Wielders of the Essence | bonjwa | 7,925 | 5,929 | 100% | 53 |
+| Rounds | jerma985 | 14,610 | 5,864 | 85% | 58 |
+| Stream Train | xop0 | 4,334 | 4,113 | 98% | 73 |
+| Theos: Cities of Myth | limealicious | 3,776 | 3,762 | 99% | 83 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 1.091 | Grand Theft Auto V | 76,461 | 70,082 |
-| 0.61 | Escape from Tarkov | 22,593 | 37,034 |
-| 0.554 | Overwatch | 32,794 | 59,200 |
-| 0.384 | EA Sports FC 27 | 21,043 | 54,840 |
-| 0.298 | Hunt: Showdown 1896 | 8,147 | 27,345 |
-| 0.046 | Slay the Spire II | 4,141 | 89,230 |
-| 0.041 | Counter-Strike | 53,304 | 1,300,237 |
-| 0.021 | Cyberpunk 2077 | 2,798 | 130,267 |
-| 0.013 | Phantom Blade Zero | 7,423 | 558,352 |
-| 0.013 | PUBG: BATTLEGROUNDS | 10,757 | 800,114 |
+| 1.824 | Grand Theft Auto V | 127,821 | 70,082 |
+| 1.655 | Rocket League | 47,808 | 28,880 |
+| 1.203 | EA Sports FC 27 | 65,969 | 54,840 |
+| 0.677 | Overwatch | 40,093 | 59,200 |
+| 0.58 | Escape from Tarkov | 21,486 | 37,034 |
+| 0.026 | Rust | 4,058 | 156,861 |
+| 0.026 | Delta Force | 3,445 | 132,584 |
+| 0.023 | Probably Stolen | 4,282 | 184,461 |
+| 0.018 | Phantom Blade Zero | 10,078 | 558,352 |
+| 0.006 | PUBG: BATTLEGROUNDS | 5,030 | 800,114 |
 
 ---
 
