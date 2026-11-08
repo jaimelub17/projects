@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-11-08T08` (UTC). History: 157 snapshots spanning 919h.
-Reference windows: short = `2026-11-08T01`, day = `2026-11-07T08`.
+Generated from snapshot `2026-11-08T16` (UTC). History: 158 snapshots spanning 927h.
+Reference windows: short = `2026-11-08T08`, day = `2026-11-07T16`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | The Legend of Zelda: Ocarina of Time | +4.62 | 38 | 6,508 | - | +151% | 100 | - | 0.8579 | ENTRY IGNITION:maximilian_dood |
-| 2 | Loftia | +3.81 | 56 | 3,956 | - | +131% | 50 | - | 0.7401 | ENTRY |
-| 3 | Eternal Palace Sakura | +3.25 | 91 | 1,749 | - | - | 2 | - | 0.9994 | ENTRY IGNITION:sumomo_x |
-| 4 | Skewer Squad | +3.25 | 23 | 13,547 | - | - | 1 | - | 1.0 | ENTRY IGNITION:fps_shaka |
-| 5 | Resident Evil 2 | +3.25 | 73 | 2,239 | - | - | 26 | - | 0.8821 | ENTRY IGNITION:smoke |
-| 6 | ROB RUN | +3.20 | 5 | 54,888 | -12% | +686% | 100 | +0% | 0.6306 |  |
-| 7 | Airport Contraband | +2.93 | 55 | 4,053 | +81% | - | 1 | +0% | 1.0 | ENTRY IGNITION:mynthos |
-| 8 | Counter-Strike | +2.92 | 3 | 124,227 | +371% | -30% | 100 | +11% | 0.2152 |  |
-| 9 | Eternal Return | +2.64 | 52 | 4,799 | - | +7% | 22 | - | 0.4347 | ENTRY IGNITION:failverde |
-| 10 | Monster Rancher 2 DX | +2.54 | 29 | 9,467 | - | +9% | 1 | - | 1.0 | ENTRY IGNITION:batora324 |
-| 11 | Brotato | +2.47 | 76 | 2,115 | - | +29% | 8 | - | 0.7712 | ENTRY |
-| 12 | Delta Force | +2.36 | 44 | 5,492 | - | -8% | 100 | - | 0.3999 | ENTRY IGNITION:qq7925168 |
-| 13 | Farming Simulator 25 | +2.29 | 88 | 1,785 | - | - | 100 | - | 0.1059 | ENTRY |
-| 14 | Anno 117: Pax Romana | +2.25 | 82 | 1,980 | - | - | 18 | - | 0.8899 | ENTRY |
-| 15 | Touhou Artificial Dream in Arcadia | +2.25 | 92 | 1,716 | - | - | 1 | - | 1.0 | ENTRY |
+| 1 | PUBG: BATTLEGROUNDS | +6.24 | 39 | 10,757 | +324% | +101% | 100 | +0% | 0.1587 | IGNITION:hannn0501_,des0ut |
+| 2 | Minecraft | +4.94 | 3 | 164,128 | +749% | +87% | 98 | -2% | 0.1174 |  |
+| 3 | Probably Stolen | +4.75 | 44 | 9,594 | +202% | +69% | 100 | +18% | 0.2578 | IGNITION:ilame |
+| 4 | R.E.P.O. | +4.35 | 37 | 12,828 | - | - | 100 | - | 0.3093 | ENTRY IGNITION:sleduck,dmitry_bale |
+| 5 | Pokémon Community Game | +4.25 | 73 | 4,775 | - | - | 70 | - | 0.5148 | ENTRY IGNITION:pokealexvgc,sekiam |
+| 6 | Baby Steps | +4.25 | 34 | 16,114 | - | - | 10 | - | 0.7461 | ENTRY IGNITION:dawgonosik,barbarousking |
+| 7 | Potato Please | +4.25 | 36 | 14,527 | - | - | 70 | - | 0.7489 | ENTRY IGNITION:fps_shaka,rumathra |
+| 8 | Stonewards | +4.25 | 48 | 8,656 | - | - | 4 | - | 0.5842 | ENTRY IGNITION:cr_arisakaaa,cr_vanilla |
+| 9 | ELDEN RING | +4.25 | 55 | 7,105 | +210% | +51% | 99 | +0% | 0.3655 | IGNITION:c_a_k_e |
+| 10 | Deadlock | +4.12 | 23 | 21,449 | +104% | +51% | 98 | -2% | 0.1531 | IGNITION:jamside,zerggyyyy |
+| 11 | osu! | +3.85 | 69 | 4,866 | - | +15% | 100 | - | 0.4346 | ENTRY IGNITION:osulive,chicony |
+| 12 | Jinro Metropolis | +3.49 | 70 | 4,936 | - | +31% | 10 | - | 0.8171 | ENTRY IGNITION:xhalli4x |
+| 13 | Star Citizen | +3.42 | 75 | 4,685 | +135% | +14% | 90 | +27% | 0.4267 | IGNITION:knebeltv |
+| 14 | Playrooms | +3.25 | 40 | 11,390 | - | - | 37 | - | 0.8422 | ENTRY IGNITION:elajjaz |
+| 15 | Finnish Cottage Simulator | +3.25 | 81 | 4,254 | - | - | 1 | - | 1.0 | ENTRY IGNITION:kr1stw |
 
 ## Ignition alerts
 
@@ -30,31 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Skewer Squad | fps_shaka | 41,135 | 13,547 | 100% | 23 |
-| Monster Rancher 2 DX | batora324 | 10,026 | 9,467 | 100% | 29 |
-| The Legend of Zelda: Ocarina of Time | maximilian_dood | 11,595 | 5,583 | 86% | 38 |
-| Airport Contraband | mynthos | 6,624 | 4,053 | 100% | 55 |
-| World of Tanks | dakillzor | 25,594 | 3,257 | 55% | 42 |
-| Teamfight Tactics | greentea | 4,391 | 2,791 | 65% | 53 |
-| Resident Evil 2 | smoke | 3,718 | 1,975 | 88% | 73 |
-| Eternal Palace Sakura | sumomo_x | 9,547 | 1,748 | 100% | 91 |
-| Medieval Dynasty | gronkhtv | 4,125 | 1,561 | 100% | 96 |
-| MARVEL Contest of Champions | cesgod | 3,241 | 1,427 | 81% | 90 |
+| Detroit: Become Human | ohnepixel | 47,277 | 24,472 | 99% | 21 |
+| Grand Theft Auto: San Andreas | peereira7 | 235,604 | 15,571 | 88% | 29 |
+| Baby Steps | dawgonosik | 12,022 | 12,022 | 75% | 34 |
+| War Thunder | warthunder_esports | 30,042 | 11,620 | 63% | 30 |
+| Potato Please | fps_shaka | 41,135 | 10,879 | 75% | 36 |
+| Playrooms | elajjaz | 10,447 | 9,593 | 84% | 40 |
+| Rainbow Six Siege | rainbow6 | 27,281 | 8,548 | 50% | 31 |
+| Baldur's Gate 3 | vedal987 | 9,747 | 5,759 | 86% | 58 |
+| Stonewards | cr_arisakaaa | 6,950 | 5,057 | 58% | 48 |
+| Welcome to Elderfield | nephora | 4,798 | 4,798 | 98% | 71 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 0.739 | Overwatch | 43,729 | 59,200 |
-| 0.658 | Rainbow Six Siege | 51,428 | 78,163 |
-| 0.576 | ROB RUN | 54,888 | 95,342 |
-| 0.452 | Grand Theft Auto V | 31,693 | 70,082 |
-| 0.403 | Escape from Tarkov | 14,928 | 37,034 |
-| 0.024 | Warframe | 2,000 | 83,144 |
-| 0.018 | Cyberpunk 2077 | 2,388 | 130,267 |
-| 0.017 | Probably Stolen | 3,175 | 184,461 |
-| 0.011 | Phantom Blade Zero | 5,977 | 558,352 |
-| 0.003 | PUBG: BATTLEGROUNDS | 2,535 | 800,114 |
+| 1.091 | Grand Theft Auto V | 76,461 | 70,082 |
+| 0.61 | Escape from Tarkov | 22,593 | 37,034 |
+| 0.554 | Overwatch | 32,794 | 59,200 |
+| 0.384 | EA Sports FC 27 | 21,043 | 54,840 |
+| 0.298 | Hunt: Showdown 1896 | 8,147 | 27,345 |
+| 0.046 | Slay the Spire II | 4,141 | 89,230 |
+| 0.041 | Counter-Strike | 53,304 | 1,300,237 |
+| 0.021 | Cyberpunk 2077 | 2,798 | 130,267 |
+| 0.013 | Phantom Blade Zero | 7,423 | 558,352 |
+| 0.013 | PUBG: BATTLEGROUNDS | 10,757 | 800,114 |
 
 ---
 
