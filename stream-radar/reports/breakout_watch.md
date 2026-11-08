@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-11-08T01` (UTC). History: 156 snapshots spanning 912h.
-Reference windows: short = `2026-11-07T21`, day = `2026-11-07T01`.
+Generated from snapshot `2026-11-08T08` (UTC). History: 157 snapshots spanning 919h.
+Reference windows: short = `2026-11-08T01`, day = `2026-11-07T08`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Rainbow Six Siege | +4.89 | 11 | 47,051 | +759% | +40% | 100 | +4% | 0.3838 |  |
-| 2 | Street Fighter 6 | +4.21 | 36 | 11,440 | - | +45% | 99 | - | 0.2178 | ENTRY IGNITION:shinjifromjapanxd,capcomfighters_jp |
-| 3 | Phantom Blade Zero | +3.68 | 15 | 31,891 | +287% | +90% | 99 | +1% | 0.8256 |  |
-| 4 | Halloween: The Game | +3.25 | 42 | 7,104 | - | - | 100 | - | 0.3757 | ENTRY IGNITION:burn |
-| 5 | We Were Here Tomorrow | +3.25 | 59 | 4,883 | - | - | 25 | - | 0.8048 | ENTRY IGNITION:therealmarzaa |
-| 6 | Hogwarts Legacy | +3.25 | 55 | 4,958 | - | - | 93 | - | 0.7122 | ENTRY IGNITION:manuuxo |
-| 7 | Luigi's Mansion | +3.25 | 86 | 2,656 | - | - | 6 | - | 0.9864 | ENTRY IGNITION:stephengeorg |
-| 8 | DayZ | +3.22 | 60 | 4,476 | +3% | +51% | 98 | -2% | 0.5898 | IGNITION:smoke,senimj |
-| 9 | ELDEN RING | +2.86 | 43 | 6,499 | +7% | +172% | 100 | +2% | 0.4761 |  |
-| 10 | Rocket League | +2.53 | 34 | 10,765 | +64% | +33% | 95 | +3% | 0.3028 | IGNITION:widow |
-| 11 | Dead by Daylight | +2.50 | 22 | 14,168 | +5% | +44% | 98 | +1% | 0.1618 | IGNITION:xhalli4x,zerbs |
-| 12 | Super Mario Bros. | +2.46 | 87 | 2,709 | - | +3% | 5 | - | 0.8276 | ENTRY |
-| 13 | Warframe | +2.31 | 93 | 2,027 | - | - | 99 | - | 0.0829 | ENTRY |
-| 14 | Project Zomboid | +2.29 | 97 | 2,045 | - | - | 100 | - | 0.2714 | ENTRY |
-| 15 | Crimson Desert | +2.27 | 98 | 2,174 | - | - | 98 | - | 0.2415 | ENTRY |
+| 1 | The Legend of Zelda: Ocarina of Time | +4.62 | 38 | 6,508 | - | +151% | 100 | - | 0.8579 | ENTRY IGNITION:maximilian_dood |
+| 2 | Loftia | +3.81 | 56 | 3,956 | - | +131% | 50 | - | 0.7401 | ENTRY |
+| 3 | Eternal Palace Sakura | +3.25 | 91 | 1,749 | - | - | 2 | - | 0.9994 | ENTRY IGNITION:sumomo_x |
+| 4 | Skewer Squad | +3.25 | 23 | 13,547 | - | - | 1 | - | 1.0 | ENTRY IGNITION:fps_shaka |
+| 5 | Resident Evil 2 | +3.25 | 73 | 2,239 | - | - | 26 | - | 0.8821 | ENTRY IGNITION:smoke |
+| 6 | ROB RUN | +3.20 | 5 | 54,888 | -12% | +686% | 100 | +0% | 0.6306 |  |
+| 7 | Airport Contraband | +2.93 | 55 | 4,053 | +81% | - | 1 | +0% | 1.0 | ENTRY IGNITION:mynthos |
+| 8 | Counter-Strike | +2.92 | 3 | 124,227 | +371% | -30% | 100 | +11% | 0.2152 |  |
+| 9 | Eternal Return | +2.64 | 52 | 4,799 | - | +7% | 22 | - | 0.4347 | ENTRY IGNITION:failverde |
+| 10 | Monster Rancher 2 DX | +2.54 | 29 | 9,467 | - | +9% | 1 | - | 1.0 | ENTRY IGNITION:batora324 |
+| 11 | Brotato | +2.47 | 76 | 2,115 | - | +29% | 8 | - | 0.7712 | ENTRY |
+| 12 | Delta Force | +2.36 | 44 | 5,492 | - | -8% | 100 | - | 0.3999 | ENTRY IGNITION:qq7925168 |
+| 13 | Farming Simulator 25 | +2.29 | 88 | 1,785 | - | - | 100 | - | 0.1059 | ENTRY |
+| 14 | Anno 117: Pax Romana | +2.25 | 82 | 1,980 | - | - | 18 | - | 0.8899 | ENTRY |
+| 15 | Touhou Artificial Dream in Arcadia | +2.25 | 92 | 1,716 | - | - | 1 | - | 1.0 | ENTRY |
 
 ## Ignition alerts
 
@@ -30,26 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| We Were Here Tomorrow | therealmarzaa | 6,887 | 3,930 | 80% | 59 |
-| Hogwarts Legacy | manuuxo | 6,024 | 3,531 | 71% | 55 |
-| World of Tanks | dakillzor | 25,594 | 3,316 | 55% | 49 |
-| DayZ | smoke | 3,718 | 2,640 | 59% | 60 |
-| Luigi's Mansion | stephengeorg | 4,026 | 2,620 | 99% | 86 |
+| Skewer Squad | fps_shaka | 41,135 | 13,547 | 100% | 23 |
+| Monster Rancher 2 DX | batora324 | 10,026 | 9,467 | 100% | 29 |
+| The Legend of Zelda: Ocarina of Time | maximilian_dood | 11,595 | 5,583 | 86% | 38 |
+| Airport Contraband | mynthos | 6,624 | 4,053 | 100% | 55 |
+| World of Tanks | dakillzor | 25,594 | 3,257 | 55% | 42 |
+| Teamfight Tactics | greentea | 4,391 | 2,791 | 65% | 53 |
+| Resident Evil 2 | smoke | 3,718 | 1,975 | 88% | 73 |
+| Eternal Palace Sakura | sumomo_x | 9,547 | 1,748 | 100% | 91 |
+| Medieval Dynasty | gronkhtv | 4,125 | 1,561 | 100% | 96 |
+| MARVEL Contest of Champions | cesgod | 3,241 | 1,427 | 81% | 90 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 0.961 | ROB RUN | 62,283 | 64,828 |
-| 0.917 | Grand Theft Auto V | 58,803 | 64,138 |
-| 0.68 | Rainbow Six Siege | 47,051 | 69,209 |
-| 0.531 | Escape from Tarkov | 18,094 | 34,061 |
-| 0.445 | Overwatch | 23,488 | 52,770 |
-| 0.027 | Dota 2 | 19,917 | 737,873 |
-| 0.025 | Rust | 3,864 | 153,853 |
-| 0.024 | Probably Stolen | 3,997 | 166,537 |
-| 0.022 | Counter-Strike | 26,356 | 1,191,330 |
-| 0.004 | PUBG: BATTLEGROUNDS | 3,194 | 778,966 |
+| 0.739 | Overwatch | 43,729 | 59,200 |
+| 0.658 | Rainbow Six Siege | 51,428 | 78,163 |
+| 0.576 | ROB RUN | 54,888 | 95,342 |
+| 0.452 | Grand Theft Auto V | 31,693 | 70,082 |
+| 0.403 | Escape from Tarkov | 14,928 | 37,034 |
+| 0.024 | Warframe | 2,000 | 83,144 |
+| 0.018 | Cyberpunk 2077 | 2,388 | 130,267 |
+| 0.017 | Probably Stolen | 3,175 | 184,461 |
+| 0.011 | Phantom Blade Zero | 5,977 | 558,352 |
+| 0.003 | PUBG: BATTLEGROUNDS | 2,535 | 800,114 |
 
 ---
 
