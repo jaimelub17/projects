@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-11-07T21` (UTC). History: 155 snapshots spanning 908h.
-Reference windows: short = `2026-11-07T16`, day = `2026-11-06T21`.
+Generated from snapshot `2026-11-08T01` (UTC). History: 156 snapshots spanning 912h.
+Reference windows: short = `2026-11-07T21`, day = `2026-11-07T01`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Call of Duty: Modern Warfare 4 | +3.83 | 10 | 68,597 | +605% | -9% | 99 | -1% | 0.3452 |  |
-| 2 | nanos world | +3.34 | 42 | 11,379 | - | +50% | 99 | - | 0.3106 | ENTRY IGNITION:mehditdonc |
-| 3 | Kinect Sports | +3.25 | 31 | 15,383 | - | - | 1 | - | 1.0 | ENTRY IGNITION:anyme023 |
-| 4 | Alterum | +3.25 | 36 | 12,556 | - | - | 1 | - | 1.0 | ENTRY IGNITION:bratishkinoff |
-| 5 | CH13: Rest Stop | +3.25 | 54 | 7,101 | - | - | 2 | - | 0.9994 | ENTRY IGNITION:elajjaz |
-| 6 | Monster Hunter Outlanders | +3.25 | 49 | 8,468 | - | - | 33 | - | 0.4015 | ENTRY IGNITION:henyathegenius |
-| 7 | Spectrobes: Origins | +3.25 | 84 | 4,026 | - | - | 1 | - | 1.0 | ENTRY IGNITION:stephengeorg |
-| 8 | Poop Killer | +3.25 | 92 | 3,585 | - | - | 1 | - | 1.0 | ENTRY IGNITION:agraelus |
-| 9 | Geometry Dash | +3.24 | 86 | 3,673 | - | -8% | 95 | - | 0.5543 | ENTRY IGNITION:zoinkgd,wpopoff |
-| 10 | Pokémon Community Game | +3.11 | 80 | 4,492 | - | -6% | 61 | - | 0.6411 | ENTRY IGNITION:pokealexvgc,sekiam |
-| 11 | MARVEL SNAP | +2.50 | 87 | 3,913 | - | +10% | 30 | - | 0.5395 | ENTRY |
-| 12 | Escape from Tarkov | +2.46 | 24 | 23,144 | +1% | -10% | 100 | +3% | 0.1221 | BREADTH IGNITION:verybadscav,lvndmark |
-| 13 | Overwatch | +2.45 | 13 | 46,756 | +71% | +139% | 98 | +4% | 0.4759 |  |
-| 14 | Valheim | +2.29 | 94 | 3,022 | - | - | 99 | - | 0.1903 | ENTRY |
-| 15 | Battlefield REDSEC | +2.25 | 88 | 3,658 | - | - | 100 | - | 0.2023 | ENTRY |
+| 1 | Rainbow Six Siege | +4.89 | 11 | 47,051 | +759% | +40% | 100 | +4% | 0.3838 |  |
+| 2 | Street Fighter 6 | +4.21 | 36 | 11,440 | - | +45% | 99 | - | 0.2178 | ENTRY IGNITION:shinjifromjapanxd,capcomfighters_jp |
+| 3 | Phantom Blade Zero | +3.68 | 15 | 31,891 | +287% | +90% | 99 | +1% | 0.8256 |  |
+| 4 | Halloween: The Game | +3.25 | 42 | 7,104 | - | - | 100 | - | 0.3757 | ENTRY IGNITION:burn |
+| 5 | We Were Here Tomorrow | +3.25 | 59 | 4,883 | - | - | 25 | - | 0.8048 | ENTRY IGNITION:therealmarzaa |
+| 6 | Hogwarts Legacy | +3.25 | 55 | 4,958 | - | - | 93 | - | 0.7122 | ENTRY IGNITION:manuuxo |
+| 7 | Luigi's Mansion | +3.25 | 86 | 2,656 | - | - | 6 | - | 0.9864 | ENTRY IGNITION:stephengeorg |
+| 8 | DayZ | +3.22 | 60 | 4,476 | +3% | +51% | 98 | -2% | 0.5898 | IGNITION:smoke,senimj |
+| 9 | ELDEN RING | +2.86 | 43 | 6,499 | +7% | +172% | 100 | +2% | 0.4761 |  |
+| 10 | Rocket League | +2.53 | 34 | 10,765 | +64% | +33% | 95 | +3% | 0.3028 | IGNITION:widow |
+| 11 | Dead by Daylight | +2.50 | 22 | 14,168 | +5% | +44% | 98 | +1% | 0.1618 | IGNITION:xhalli4x,zerbs |
+| 12 | Super Mario Bros. | +2.46 | 87 | 2,709 | - | +3% | 5 | - | 0.8276 | ENTRY |
+| 13 | Warframe | +2.31 | 93 | 2,027 | - | - | 99 | - | 0.0829 | ENTRY |
+| 14 | Project Zomboid | +2.29 | 97 | 2,045 | - | - | 100 | - | 0.2714 | ENTRY |
+| 15 | Crimson Desert | +2.27 | 98 | 2,174 | - | - | 98 | - | 0.2415 | ENTRY |
 
 ## Ignition alerts
 
@@ -30,31 +30,26 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| War Thunder | warthunder_esports | 30,042 | 20,964 | 68% | 21 |
-| Kinect Sports | anyme023 | 22,153 | 15,383 | 100% | 31 |
-| Alterum | bratishkinoff | 12,766 | 12,556 | 100% | 36 |
-| World of Tanks | dakillzor | 25,594 | 7,827 | 54% | 32 |
-| Baldur's Gate 3 | vedal987 | 9,747 | 7,637 | 85% | 45 |
-| CH13: Rest Stop | elajjaz | 10,447 | 7,097 | 100% | 54 |
-| Spectrobes: Origins | stephengeorg | 4,026 | 4,026 | 100% | 84 |
-| Find The Needle | insym | 6,739 | 3,775 | 73% | 67 |
-| Poop Killer | agraelus | 4,208 | 3,585 | 100% | 92 |
-| Jinro Metropolis | xhalli4x | 4,609 | 3,233 | 99% | 100 |
+| We Were Here Tomorrow | therealmarzaa | 6,887 | 3,930 | 80% | 59 |
+| Hogwarts Legacy | manuuxo | 6,024 | 3,531 | 71% | 55 |
+| World of Tanks | dakillzor | 25,594 | 3,316 | 55% | 49 |
+| DayZ | smoke | 3,718 | 2,640 | 59% | 60 |
+| Luigi's Mansion | stephengeorg | 4,026 | 2,620 | 99% | 86 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 1.177 | Grand Theft Auto V | 75,473 | 64,138 |
-| 0.886 | Overwatch | 46,756 | 52,770 |
-| 0.679 | Escape from Tarkov | 23,144 | 34,061 |
-| 0.448 | Hunt: Showdown 1896 | 10,359 | 23,103 |
-| 0.447 | EA Sports FC 27 | 24,800 | 55,471 |
-| 0.038 | Cyberpunk 2077 | 4,184 | 108,949 |
-| 0.032 | Probably Stolen | 5,250 | 166,537 |
-| 0.027 | Rust | 4,152 | 153,853 |
-| 0.014 | Phantom Blade Zero | 8,240 | 578,265 |
-| 0.01 | PUBG: BATTLEGROUNDS | 7,577 | 778,966 |
+| 0.961 | ROB RUN | 62,283 | 64,828 |
+| 0.917 | Grand Theft Auto V | 58,803 | 64,138 |
+| 0.68 | Rainbow Six Siege | 47,051 | 69,209 |
+| 0.531 | Escape from Tarkov | 18,094 | 34,061 |
+| 0.445 | Overwatch | 23,488 | 52,770 |
+| 0.027 | Dota 2 | 19,917 | 737,873 |
+| 0.025 | Rust | 3,864 | 153,853 |
+| 0.024 | Probably Stolen | 3,997 | 166,537 |
+| 0.022 | Counter-Strike | 26,356 | 1,191,330 |
+| 0.004 | PUBG: BATTLEGROUNDS | 3,194 | 778,966 |
 
 ---
 
