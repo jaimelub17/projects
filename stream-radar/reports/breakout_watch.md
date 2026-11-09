@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-11-08T22` (UTC). History: 159 snapshots spanning 933h.
-Reference windows: short = `2026-11-08T16`, day = `2026-11-07T21`.
+Generated from snapshot `2026-11-09T01` (UTC). History: 160 snapshots spanning 936h.
+Reference windows: short = `2026-11-08T16`, day = `2026-11-08T01`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Rocket League | +8.66 | 13 | 47,808 | +1313% | +629% | 99 | -1% | 0.38 |  |
-| 2 | nanos world | +4.84 | 29 | 14,497 | +285% | +27% | 100 | +28% | 0.2127 | IGNITION:mehditdonc |
-| 3 | Call of Duty: Modern Warfare 4 | +4.13 | 7 | 84,297 | +567% | +23% | 100 | +0% | 0.5432 |  |
-| 4 | League of Legends | +3.92 | 1 | 532,830 | +392% | +113% | 93 | -5% | 0.4415 |  |
-| 5 | EA Sports FC 27 | +3.78 | 10 | 65,969 | +213% | +166% | 100 | +3% | 0.4926 |  |
-| 6 | ROBLOX | +3.75 | 43 | 6,011 | +182% | +159% | 100 | +0% | 0.4234 |  |
-| 7 | MapleStory | +3.25 | 79 | 3,973 | - | - | 85 | - | 0.3851 | ENTRY IGNITION:ereklo_game |
-| 8 | Anno 117: Pax Romana | +3.25 | 27 | 19,082 | - | - | 39 | - | 0.9279 | ENTRY IGNITION:gronkh |
-| 9 | Wielders of the Essence | +3.25 | 53 | 5,929 | - | - | 1 | - | 1.0 | ENTRY IGNITION:bonjwa |
-| 10 | Rounds | +3.25 | 58 | 6,897 | - | - | 4 | - | 0.8502 | ENTRY IGNITION:jerma985 |
-| 11 | Leviathan: Rhino | +3.25 | 30 | 15,094 | - | - | 5 | - | 0.995 | ENTRY IGNITION:lirik |
-| 12 | The Binding of Isaac: Repentance | +3.25 | 66 | 4,731 | - | - | 54 | - | 0.7172 | ENTRY IGNITION:shisheyu |
-| 13 | CRACK | +3.25 | 44 | 8,692 | - | - | 30 | - | 0.958 | ENTRY IGNITION:elajjaz |
-| 14 | Theos: Cities of Myth | +3.25 | 83 | 3,791 | - | - | 3 | - | 0.9924 | ENTRY IGNITION:limealicious |
-| 15 | Stream Train | +3.25 | 73 | 4,179 | - | - | 10 | - | 0.9842 | ENTRY IGNITION:xop0 |
+| 1 | League of Legends | +5.38 | 1 | 622,293 | +474% | +501% | 99 | +1% | 0.4014 |  |
+| 2 | Virtual Casino | +3.62 | 13 | 29,461 | +229% | +87% | 26 | -10% | 0.7196 |  |
+| 3 | Madden NFL 27 | +3.48 | 65 | 2,422 | - | +80% | 100 | - | 0.275 | ENTRY |
+| 4 | Grand Theft Auto: San Andreas - The Definitive Edition | +3.25 | 87 | 2,389 | - | - | 26 | - | 0.9418 | ENTRY IGNITION:welovegames |
+| 5 | Can I Come In? | +3.25 | 66 | 3,348 | - | - | 1 | - | 1.0 | ENTRY IGNITION:cursexo |
+| 6 | Punch The Walls | +3.25 | 76 | 2,652 | - | - | 2 | - | 0.9989 | ENTRY IGNITION:shinjifromjapanxd |
+| 7 | Wii Party | +3.25 | 33 | 9,674 | - | - | 1 | - | 1.0 | ENTRY IGNITION:peereira7 |
+| 8 | DARK SOULS III | +3.25 | 41 | 6,554 | - | - | 54 | - | 0.3914 | ENTRY IGNITION:limealicious |
+| 9 | Amanda the Adventurer | +3.25 | 28 | 13,447 | - | - | 4 | - | 0.9919 | ENTRY IGNITION:emiru |
+| 10 | Marvel Rivals | +3.24 | 23 | 14,281 | +108% | +32% | 100 | +4% | 0.2071 | IGNITION:kingsman265_twitch |
+| 11 | Street Fighter 6 | +3.21 | 32 | 10,152 | +205% | -11% | 97 | -3% | 0.2346 | IGNITION:capcomfighters_jp |
+| 12 | Yu-Gi-Oh! Master Duel | +3.20 | 55 | 4,376 | - | - | 46 | - | 0.8309 | ENTRY IGNITION:dkayed |
+| 13 | Grand Theft Auto IV | +2.87 | 11 | 40,514 | +50% | - | 91 | +72% | 0.9874 | BREADTH ENTRY |
+| 14 | Rocket League | +2.77 | 31 | 9,037 | +167% | -16% | 93 | -7% | 0.3965 | IGNITION:kaydop |
+| 15 | Call of Duty | +2.75 | 51 | 1,644 | - | +64% | 99 | - | 0.5456 | ENTRY |
 
 ## Ignition alerts
 
@@ -30,31 +30,30 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Anno 117: Pax Romana | gronkh | 25,472 | 17,706 | 93% | 27 |
-| Leviathan: Rhino | lirik | 17,970 | 15,019 | 100% | 30 |
-| Potato Please | h2p_gucio | 9,154 | 8,859 | 82% | 37 |
-| CRACK | elajjaz | 10,447 | 8,327 | 96% | 44 |
-| Baldur's Gate 3 | vedal987 | 9,747 | 6,973 | 85% | 46 |
-| World of Tanks | dakillzor | 25,594 | 5,974 | 56% | 38 |
-| Wielders of the Essence | bonjwa | 7,925 | 5,929 | 100% | 53 |
-| Rounds | jerma985 | 14,610 | 5,864 | 85% | 58 |
-| Stream Train | xop0 | 4,334 | 4,113 | 98% | 73 |
-| Theos: Cities of Myth | limealicious | 3,776 | 3,762 | 99% | 83 |
+| Amanda the Adventurer | emiru | 14,200 | 13,338 | 99% | 28 |
+| Wii Party | peereira7 | 235,604 | 9,674 | 100% | 33 |
+| Can 'Em All | h2p_gucio | 9,154 | 3,772 | 98% | 59 |
+| Yu-Gi-Oh! Master Duel | dkayed | 3,862 | 3,636 | 83% | 55 |
+| Can I Come In? | cursexo | 3,348 | 3,348 | 100% | 66 |
+| Kingdom Come: Deliverance II | penta | 3,284 | 3,097 | 84% | 63 |
+| World of Tanks | dakillzor | 25,594 | 2,750 | 72% | 60 |
+| Punch The Walls | shinjifromjapanxd | 4,657 | 2,649 | 100% | 76 |
+| Grand Theft Auto: San Andreas - The Definitive Edition | welovegames | 6,774 | 2,250 | 94% | 87 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 1.824 | Grand Theft Auto V | 127,821 | 70,082 |
-| 1.655 | Rocket League | 47,808 | 28,880 |
-| 1.203 | EA Sports FC 27 | 65,969 | 54,840 |
-| 0.677 | Overwatch | 40,093 | 59,200 |
-| 0.58 | Escape from Tarkov | 21,486 | 37,034 |
-| 0.026 | Rust | 4,058 | 156,861 |
-| 0.026 | Delta Force | 3,445 | 132,584 |
-| 0.023 | Probably Stolen | 4,282 | 184,461 |
-| 0.018 | Phantom Blade Zero | 10,078 | 558,352 |
-| 0.006 | PUBG: BATTLEGROUNDS | 5,030 | 800,114 |
+| 0.69 | Grand Theft Auto V | 48,353 | 70,082 |
+| 0.546 | Rainbow Six Siege | 42,673 | 78,163 |
+| 0.407 | ROB RUN | 38,828 | 95,342 |
+| 0.403 | Escape from Tarkov | 14,934 | 37,034 |
+| 0.338 | Street Fighter 6 | 10,152 | 30,002 |
+| 0.018 | Counter-Strike | 23,944 | 1,300,237 |
+| 0.014 | Rust | 2,266 | 156,861 |
+| 0.011 | Probably Stolen | 1,968 | 184,461 |
+| 0.008 | Phantom Blade Zero | 4,718 | 558,352 |
+| 0.004 | PUBG: BATTLEGROUNDS | 3,557 | 800,114 |
 
 ---
 
