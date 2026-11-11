@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-11-10T20` (UTC). History: 165 snapshots spanning 979h.
-Reference windows: short = `2026-11-10T12`, day = `2026-11-09T20`.
+Generated from snapshot `2026-11-11T01` (UTC). History: 166 snapshots spanning 984h.
+Reference windows: short = `2026-11-10T20`, day = `2026-11-10T04`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Path of Exile | +8.94 | 25 | 22,141 | +714% | +157% | 87 | +64% | 0.3582 | IGNITION:fubgun,pathofexilebota |
-| 2 | Warhammer Survivors | +7.18 | 30 | 18,671 | +740% | - | 100 | +12% | 0.395 | ENTRY IGNITION:bonjwa,xop0 |
-| 3 | Among Us | +6.93 | 44 | 10,267 | - | +190% | 100 | - | 0.1979 | ENTRY IGNITION:pangi,jeremyfrieser |
-| 4 | Tom Clancy's The Division 2 | +6.46 | 54 | 7,455 | +320% | - | 100 | +376% | 0.2122 | BREADTH ENTRY |
-| 5 | ROBLOX | +6.21 | 39 | 10,066 | - | +244% | 99 | - | 0.6054 | ENTRY IGNITION:gotaga,melhssn_ |
-| 6 | Playrooms | +5.82 | 50 | 8,615 | +156% | - | 68 | +209% | 0.4547 | BREADTH ENTRY IGNITION:tomato |
-| 7 | Rainbow Six Siege | +5.69 | 15 | 29,724 | +610% | +168% | 100 | +0% | 0.6991 |  |
-| 8 | Phantom Blade Zero | +5.56 | 23 | 20,514 | +327% | +60% | 98 | -2% | 0.3815 | IGNITION:alanzoka,zentreya |
-| 9 | The Binding of Isaac: Repentance | +4.99 | 90 | 3,927 | +89% | - | 72 | +167% | 0.5923 | BREADTH ENTRY IGNITION:shisheyu |
-| 10 | Marvel Rivals | +4.94 | 32 | 14,459 | +152% | +85% | 98 | -2% | 0.1748 | IGNITION:necros,kingsman265_twitch |
-| 11 | Rocket League | +4.93 | 14 | 35,407 | +1328% | -24% | 100 | +1% | 0.892 |  |
-| 12 | Heroes of Might and Magic III: The Restoration of Erathia | +4.54 | 52 | 7,954 | +183% | +73% | 39 | +11% | 0.5406 | IGNITION:voodoosh |
-| 13 | Minecraft | +4.23 | 4 | 152,597 | +604% | +28% | 100 | +0% | 0.2516 |  |
-| 14 | Call of Duty: Modern Warfare 4 | +4.22 | 22 | 19,300 | +188% | -0% | 99 | +4% | 0.1981 | IGNITION:zoomaa,shotzzy |
-| 15 | ROB RUN | +3.96 | 6 | 81,763 | +448% | +42% | 100 | +0% | 0.203 |  |
+| 1 | DayZ | +4.74 | 52 | 4,583 | -3% | +198% | 100 | +0% | 0.5904 | IGNITION:smoke,senimj |
+| 2 | Street Fighter 6 | +3.36 | 57 | 4,382 | - | +137% | 99 | - | 0.2252 | ENTRY |
+| 3 | The Sims 4 | +3.25 | 48 | 4,992 | - | - | 94 | - | 0.8958 | ENTRY IGNITION:arigameplays |
+| 4 | Hogwarts Legacy | +3.25 | 41 | 6,321 | - | - | 100 | - | 0.6755 | ENTRY IGNITION:manuuxo |
+| 5 | Donkey Kong 64 | +3.25 | 78 | 3,066 | - | - | 10 | - | 0.9269 | ENTRY IGNITION:vargskelethor |
+| 6 | Dark Souls: Remastered | +3.25 | 86 | 2,675 | - | - | 68 | - | 0.9013 | ENTRY IGNITION:lilaggy |
+| 7 | SILENT HILL 2 | +3.25 | 76 | 3,148 | - | - | 30 | - | 0.8758 | ENTRY IGNITION:tminnzy |
+| 8 | Poop Killer | +3.25 | 28 | 12,417 | - | - | 2 | - | 0.9999 | ENTRY IGNITION:bisteconee |
+| 9 | Honkai: Star Rail | +3.25 | 27 | 13,559 | - | - | 93 | - | 0.1923 | ENTRY IGNITION:zy0xxx |
+| 10 | Dragon Age™: Origins | +3.25 | 100 | 2,386 | - | - | 9 | - | 0.9518 | ENTRY IGNITION:barbarousking |
+| 11 | Potato Please | +3.25 | 50 | 4,807 | - | - | 39 | - | 0.7747 | ENTRY IGNITION:henyathegenius |
+| 12 | Deadlock | +3.15 | 9 | 51,508 | +253% | +61% | 100 | +6% | 0.1678 |  |
+| 13 | Path of Exile | +2.32 | 21 | 18,343 | -17% | - | 84 | -3% | 0.377 | ENTRY IGNITION:fubgun,ruetoo |
+| 14 | R.E.P.O. | +2.25 | 59 | 3,799 | - | - | 100 | - | 0.2569 | ENTRY |
+| 15 | Species: Unknown | +2.25 | 94 | 1,721 | - | - | 34 | - | 0.8669 | ENTRY |
 
 ## Ignition alerts
 
@@ -30,31 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Grand Theft Auto: San Andreas | peereira7 | 235,604 | 20,603 | 94% | 26 |
-| ABSOLUTELY NOTHING GOOD | dangerlyoha | 34,317 | 16,340 | 100% | 34 |
-| Until Dawn | michou | 12,249 | 12,249 | 99% | 38 |
-| DreamWorks Shrek 2 Remastered | elajjaz | 10,447 | 7,238 | 59% | 40 |
-| ROBLOX | gotaga | 47,448 | 6,094 | 61% | 39 |
-| War Thunder | warthunder_esports | 30,042 | 6,073 | 81% | 55 |
-| The Elder Scrolls V: Skyrim | vedal987 | 9,747 | 4,581 | 93% | 77 |
-| Moon Sweepers | 5opka | 6,161 | 4,543 | 57% | 51 |
-| Heroes of Might and Magic III: The Restoration of Erathia | voodoosh | 5,303 | 4,300 | 54% | 52 |
-| Alterum | legendaafk | 4,251 | 4,251 | 66% | 63 |
+| Poop Killer | bisteconee | 12,416 | 12,416 | 100% | 28 |
+| Until Dawn | michou | 12,249 | 6,307 | 97% | 34 |
+| The Sims 4 | arigameplays | 6,275 | 4,472 | 90% | 48 |
+| Hogwarts Legacy | manuuxo | 6,024 | 4,270 | 68% | 41 |
+| Potato Please | henyathegenius | 4,591 | 3,724 | 77% | 50 |
+| Rocket League | kaydop | 6,055 | 3,712 | 54% | 33 |
+| Heroes of Might and Magic III: The Restoration of Erathia | voodoosh | 5,303 | 3,266 | 77% | 61 |
+| Donkey Kong 64 | vargskelethor | 4,765 | 2,842 | 93% | 78 |
+| SILENT HILL 2 | tminnzy | 3,172 | 2,757 | 88% | 76 |
+| DayZ | smoke | 3,718 | 2,706 | 59% | 52 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 3.225 | Grand Theft Auto V | 195,715 | 60,696 |
-| 1.541 | Rocket League | 35,407 | 22,970 |
-| 0.608 | Dead by Daylight | 29,864 | 49,095 |
-| 0.573 | ROB RUN | 81,763 | 142,725 |
-| 0.447 | Rainbow Six Siege | 29,724 | 66,430 |
-| 0.046 | Rust | 5,773 | 124,865 |
-| 0.044 | Phantom Blade Zero | 20,514 | 463,190 |
-| 0.041 | Cyberpunk 2077 | 4,001 | 98,716 |
-| 0.033 | Probably Stolen | 5,581 | 167,948 |
-| 0.012 | PUBG: BATTLEGROUNDS | 8,787 | 755,226 |
+| 1.988 | Grand Theft Auto V | 120,654 | 60,696 |
+| 0.827 | Rainbow Six Siege | 54,967 | 66,430 |
+| 0.556 | ROB RUN | 84,032 | 151,032 |
+| 0.302 | Overwatch | 15,130 | 50,144 |
+| 0.272 | Dead by Daylight | 13,561 | 49,911 |
+| 0.029 | Counter-Strike | 30,862 | 1,080,352 |
+| 0.028 | WARDOGS | 2,049 | 74,286 |
+| 0.023 | Rust | 2,895 | 124,865 |
+| 0.011 | Phantom Blade Zero | 5,279 | 463,190 |
+| 0.003 | PUBG: BATTLEGROUNDS | 2,284 | 755,226 |
 
 ---
 
