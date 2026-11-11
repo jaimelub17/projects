@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-11-11T09` (UTC). History: 167 snapshots spanning 992h.
-Reference windows: short = `2026-11-11T01`, day = `2026-11-10T12`.
+Generated from snapshot `2026-11-11T17` (UTC). History: 168 snapshots spanning 1000h.
+Reference windows: short = `2026-11-11T09`, day = `2026-11-10T20`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Mahjong Soul | +7.37 | 28 | 7,546 | - | +353% | 17 | - | 0.2138 | ENTRY IGNITION:takayaspecial,tototmix |
-| 2 | Counter-Strike | +3.89 | 3 | 112,877 | +266% | +216% | 100 | +0% | 0.2091 |  |
-| 3 | Tom Clancy's The Division 2 | +3.50 | 48 | 3,591 | -15% | +102% | 100 | +2% | 0.3734 |  |
-| 4 | Overwatch | +2.63 | 8 | 26,459 | +75% | +166% | 100 | +0% | 0.3896 |  |
-| 5 | Super Mario Maker 2 | +2.25 | 86 | 1,567 | - | - | 7 | - | 0.6733 | ENTRY |
-| 6 | Black Russia | +2.25 | 75 | 1,959 | - | - | 5 | - | 0.6442 | ENTRY |
-| 7 | NTE: Neverness to Everness | +2.25 | 70 | 2,330 | - | - | 100 | - | 0.1811 | ENTRY |
-| 8 | SILENT HILL: townfall | +2.25 | 60 | 2,767 | - | - | 15 | - | 0.5681 | ENTRY |
-| 9 | Shadowverse: Worlds Beyond | +2.25 | 74 | 2,060 | - | - | 22 | - | 0.3917 | ENTRY |
-| 10 | Marbles on Stream | +2.25 | 67 | 2,454 | - | - | 70 | - | 0.3716 | ENTRY |
-| 11 | Crimson Desert | +2.23 | 72 | 2,241 | - | - | 72 | - | 0.3592 | ENTRY |
-| 12 | World of Tanks | +2.19 | 40 | 5,202 | +32% | -32% | 83 | +30% | 0.3341 | IGNITION:dakillzor,dezgamez |
-| 13 | Path of Exile | +1.94 | 27 | 8,273 | -55% | +204% | 63 | -25% | 0.333 | IGNITION:madarapoe |
-| 14 | Hunt: Showdown 1896 | +1.57 | 83 | 1,689 | - | -19% | 100 | - | 0.1918 | ENTRY |
-| 15 | Delta Force | +1.42 | 32 | 6,451 | +58% | -26% | 98 | -1% | 0.253 | IGNITION:qq7925168 |
+| 1 | Moon Sweepers | +8.73 | 17 | 31,117 | +1041% | +290% | 99 | +120% | 0.5844 |  |
+| 2 | Enshrouded | +6.02 | 36 | 10,008 | +294% | +64% | 96 | -4% | 0.495 | IGNITION:cohhcarnage,totallyaveragegamer |
+| 3 | Path of Exile | +5.55 | 21 | 27,644 | +234% | +25% | 98 | +56% | 0.2648 | IGNITION:quin69,fubgun |
+| 4 | Escape from Tarkov | +5.09 | 31 | 12,837 | +120% | +89% | 100 | +0% | 0.3052 | IGNITION:bobito217,alle |
+| 5 | Albion Online | +4.83 | 69 | 4,900 | +205% | +28% | 100 | +150% | 0.2547 |  |
+| 6 | Delta Force | +4.71 | 29 | 13,817 | +114% | +55% | 100 | +2% | 0.1526 | IGNITION:bbbb87,kannachan524 |
+| 7 | Grand Theft Auto IV | +4.70 | 24 | 21,561 | - | +88% | 82 | - | 0.6869 | ENTRY IGNITION:peereira7,welovegames |
+| 8 | Crypto | +4.64 | 51 | 7,224 | +424% | +45% | 100 | +0% | 0.2104 |  |
+| 9 | World of Tanks | +4.64 | 18 | 29,482 | +467% | +63% | 100 | +20% | 0.1868 |  |
+| 10 | Star Citizen | +4.63 | 60 | 5,784 | - | +79% | 94 | - | 0.4521 | ENTRY IGNITION:knebeltv |
+| 11 | Old School RuneScape | +4.63 | 30 | 13,982 | +228% | -8% | 100 | +10% | 0.1963 | IGNITION:b0aty,faux |
+| 12 | Genshin Impact | +4.59 | 42 | 7,962 | +364% | +62% | 100 | +0% | 0.2111 |  |
+| 13 | Probably Stolen | +4.15 | 54 | 6,711 | +133% | +20% | 100 | +59% | 0.2894 | IGNITION:ilame |
+| 14 | Trackmania | +4.09 | 49 | 7,489 | - | +97% | 47 | - | 0.3251 | ENTRY |
+| 15 | Knight Online | +3.81 | 72 | 4,701 | +290% | -21% | 54 | +200% | 0.2576 |  |
 
 ## Ignition alerts
 
@@ -30,25 +30,27 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Playrooms | mynthos | 6,624 | 5,094 | 93% | 38 |
-| Queen's Domain | maxim | 9,360 | 2,773 | 80% | 50 |
-| DayZ | smoke | 3,718 | 2,048 | 70% | 55 |
-| Medieval Dynasty | gronkhtv | 4,125 | 1,249 | 99% | 96 |
+| Grand Theft Auto IV | peereira7 | 235,604 | 14,810 | 69% | 24 |
+| Silver Pines | elajjaz | 10,447 | 7,829 | 96% | 47 |
+| Monster Hunter Wilds | angbata11 | 4,285 | 4,285 | 82% | 65 |
+| Super Mario World | barbarousking | 4,265 | 3,937 | 91% | 75 |
+| Jinro Metropolis | xhalli4x | 4,609 | 3,419 | 96% | 87 |
+| Heroes of the Storm | grubby | 7,537 | 1,835 | 62% | 98 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 0.553 | Overwatch | 26,459 | 47,843 |
-| 0.228 | Rainbow Six Siege | 14,115 | 61,791 |
-| 0.21 | Grand Theft Auto V | 12,688 | 60,446 |
-| 0.19 | Escape from Tarkov | 5,823 | 30,696 |
-| 0.149 | ROB RUN | 28,121 | 188,386 |
-| 0.019 | Rust | 2,211 | 114,247 |
-| 0.019 | Cyberpunk 2077 | 1,736 | 91,917 |
-| 0.018 | Probably Stolen | 2,875 | 160,740 |
-| 0.008 | Phantom Blade Zero | 3,466 | 430,004 |
-| 0.005 | PUBG: BATTLEGROUNDS | 3,791 | 732,614 |
+| 1.341 | Grand Theft Auto V | 81,058 | 60,446 |
+| 0.931 | Moon Sweepers | 31,117 | 33,428 |
+| 0.469 | EA Sports FC 27 | 21,785 | 46,446 |
+| 0.433 | Rocket League | 10,443 | 24,127 |
+| 0.418 | Escape from Tarkov | 12,837 | 30,696 |
+| 0.045 | Apex Legends | 10,369 | 228,661 |
+| 0.042 | Probably Stolen | 6,711 | 160,740 |
+| 0.039 | Cyberpunk 2077 | 3,575 | 91,917 |
+| 0.024 | Phantom Blade Zero | 10,121 | 430,004 |
+| 0.01 | PUBG: BATTLEGROUNDS | 7,316 | 732,614 |
 
 ---
 
