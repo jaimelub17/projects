@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-11-12T09` (UTC). History: 170 snapshots spanning 1016h.
-Reference windows: short = `2026-11-12T00`, day = `2026-11-11T09`.
+Generated from snapshot `2026-11-12T18` (UTC). History: 171 snapshots spanning 1025h.
+Reference windows: short = `2026-11-12T09`, day = `2026-11-11T17`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Wuthering Waves | +6.13 | 22 | 10,381 | +182% | - | 100 | +170% | 0.2387 | ENTRY IGNITION:zy0xxx,failverde |
-| 2 | Knight Online | +4.37 | 55 | 2,665 | - | +121% | 26 | - | 0.2735 | ENTRY |
-| 3 | Street Fighter 6 | +3.80 | 41 | 4,681 | - | +18% | 96 | - | 0.4196 | ENTRY IGNITION:naru0419045,ikoma_dogura |
-| 4 | Counter-Strike | +3.71 | 3 | 111,837 | +489% | -1% | 100 | +8% | 0.1927 |  |
-| 5 | World of Tanks | +2.92 | 31 | 6,239 | +14% | +20% | 91 | +3% | 0.3023 | IGNITION:dakillzor,dezgamez |
-| 6 | Hearthstone | +2.36 | 24 | 8,320 | +50% | +40% | 64 | -19% | 0.2305 | IGNITION:jeefhs |
-| 7 | Satisfactory | +2.25 | 76 | 1,718 | - | - | 32 | - | 0.883 | ENTRY |
-| 8 | Mir Tankov | +2.25 | 69 | 2,049 | - | - | 64 | - | 0.4919 | ENTRY |
-| 9 | Europa Universalis V | +2.25 | 82 | 1,504 | - | - | 3 | - | 0.986 | ENTRY |
-| 10 | Stormforge | +2.25 | 73 | 1,838 | - | - | 7 | - | 0.9668 | ENTRY |
-| 11 | Put Your Toys Away Together! | +2.25 | 14 | 15,707 | - | - | 3 | - | 0.9129 | ENTRY |
-| 12 | Old School RuneScape | +1.81 | 32 | 6,221 | -2% | +46% | 100 | +0% | 0.2702 | IGNITION:gnomonkey |
-| 13 | Overwatch | +1.48 | 7 | 30,255 | +86% | +14% | 100 | +4% | 0.3662 |  |
-| 14 | WARDOGS | +1.38 | 53 | 2,860 | -3% | +53% | 100 | +0% | 0.4052 |  |
-| 15 | Dota 2 | +0.93 | 5 | 34,668 | +23% | +45% | 95 | -4% | 0.1302 |  |
+| 1 | Queen's Domain | +11.53 | 37 | 12,441 | +855% | +302% | 88 | +126% | 0.691 | IGNITION:handofblood,h0llylp |
+| 2 | Knight Online | +11.19 | 19 | 28,891 | +984% | +515% | 100 | +285% | 0.2015 |  |
+| 3 | WARDOGS | +9.00 | 13 | 36,405 | +1173% | +607% | 98 | -2% | 0.0754 |  |
+| 4 | Rocket League | +7.63 | 25 | 19,360 | +880% | +85% | 99 | +0% | 0.5414 | IGNITION:slash_ftv,paache_ |
+| 5 | Minecraft | +5.80 | 3 | 126,629 | +1222% | +76% | 96 | -4% | 0.4204 |  |
+| 6 | Mobile Legends: Bang Bang | +5.42 | 52 | 7,924 | +434% | +36% | 100 | +37% | 0.2577 | IGNITION:tpabomah |
+| 7 | Star Citizen | +5.33 | 50 | 8,018 | +284% | +39% | 100 | +79% | 0.3796 | IGNITION:knebeltv |
+| 8 | PUBG: BATTLEGROUNDS | +5.28 | 33 | 12,681 | +201% | +73% | 100 | +0% | 0.3869 | IGNITION:batora324,des0ut |
+| 9 | Path of Exile | +4.49 | 18 | 32,179 | +442% | +16% | 100 | +72% | 0.2079 |  |
+| 10 | EA Sports FC 27 | +4.30 | 15 | 36,793 | +460% | +69% | 100 | +0% | 0.1784 |  |
+| 11 | Virtual Casino | +4.07 | 24 | 18,443 | +133% | +100% | 38 | +65% | 0.1385 |  |
+| 12 | Playrooms | +3.97 | 67 | 5,905 | +38% | - | 45 | +105% | 0.7927 | BREADTH ENTRY IGNITION:laink |
+| 13 | Enshrouded | +3.93 | 34 | 11,953 | +270% | +19% | 99 | -1% | 0.4794 | IGNITION:cohhcarnage |
+| 14 | Delta Force | +3.87 | 35 | 11,975 | +234% | -13% | 94 | -6% | 0.1683 | IGNITION:bbbb87,krapycoco |
+| 15 | Tom Clancy's The Division 2 | +3.79 | 79 | 4,298 | +159% | -31% | 99 | +519% | 0.2897 | BREADTH |
 
 ## Ignition alerts
 
@@ -30,23 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Playrooms | mynthos | 6,624 | 3,832 | 90% | 45 |
-| Medieval Dynasty | gronkhtv | 4,125 | 1,257 | 99% | 99 |
+| Potato Please | t2x2 | 17,005 | 13,207 | 91% | 30 |
+| Megabonk | indegnasen0706 | 35,632 | 12,224 | 99% | 36 |
+| Rocket League | slash_ftv | 40,941 | 10,481 | 54% | 25 |
+| R.E.P.O. | edison | 29,841 | 9,816 | 86% | 40 |
+| Queen's Domain | handofblood | 16,986 | 8,597 | 69% | 37 |
+| Silver Pines | elajjaz | 10,447 | 7,150 | 96% | 54 |
+| Grand Theft Auto IV | welovegames | 6,808 | 6,020 | 73% | 49 |
+| World of Warships | worldofwarships | 8,883 | 5,927 | 83% | 57 |
+| Where Winds Meet | xop0 | 5,530 | 5,530 | 84% | 62 |
+| Clash Royale | narek_cr | 7,662 | 5,134 | 85% | 65 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 1.277 | Wuthering Waves | 10,381 | 8,131 |
-| 0.623 | Overwatch | 30,255 | 48,541 |
-| 0.225 | Grand Theft Auto V | 13,953 | 62,049 |
-| 0.16 | Street Fighter 6 | 4,681 | 29,242 |
-| 0.148 | Dead by Daylight | 7,659 | 51,785 |
-| 0.019 | Football Manager 27 | 1,419 | 76,444 |
-| 0.017 | Slay the Spire II | 1,263 | 72,697 |
-| 0.01 | Phantom Blade Zero | 4,089 | 390,329 |
-| 0.009 | Probably Stolen | 1,332 | 152,708 |
-| 0.006 | PUBG: BATTLEGROUNDS | 4,210 | 728,370 |
+| 1.25 | Grand Theft Auto V | 77,579 | 62,049 |
+| 0.766 | EA Sports FC 27 | 36,793 | 48,019 |
+| 0.67 | Rocket League | 19,360 | 28,878 |
+| 0.581 | WARDOGS | 36,405 | 62,651 |
+| 0.446 | Wuthering Waves | 3,629 | 8,131 |
+| 0.052 | Football Manager 27 | 3,994 | 76,444 |
+| 0.04 | Apex Legends | 9,978 | 247,758 |
+| 0.038 | Cyberpunk 2077 | 3,696 | 97,688 |
+| 0.019 | Phantom Blade Zero | 7,402 | 390,329 |
+| 0.017 | PUBG: BATTLEGROUNDS | 12,681 | 728,370 |
 
 ---
 
