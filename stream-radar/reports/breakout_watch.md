@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-11-13T09` (UTC). History: 173 snapshots spanning 1040h.
-Reference windows: short = `2026-11-13T01`, day = `2026-11-12T09`.
+Generated from snapshot `2026-11-13T17` (UTC). History: 174 snapshots spanning 1048h.
+Reference windows: short = `2026-11-13T09`, day = `2026-11-12T18`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Rainbow Six Siege | +6.41 | 4 | 54,375 | +30% | +2963% | 100 | +1% | 0.5373 |  |
-| 2 | Slay the Spire II | +5.70 | 34 | 6,028 | +28% | +377% | 99 | -1% | 0.3014 |  |
-| 3 | Counter-Strike | +4.73 | 1 | 169,113 | +738% | +51% | 99 | +2% | 0.2103 |  |
-| 4 | Total War: WARHAMMER III | +4.44 | 53 | 3,140 | - | +142% | 19 | - | 0.5006 | ENTRY |
-| 5 | Knight Online | +4.29 | 18 | 13,926 | +8% | +423% | 100 | +0% | 0.2054 |  |
-| 6 | RoadCraft | +3.25 | 64 | 2,343 | - | - | 11 | - | 0.7636 | ENTRY IGNITION:pietsmiet |
-| 7 | Resident Evil 2 | +3.25 | 75 | 1,964 | - | - | 21 | - | 0.8849 | ENTRY IGNITION:smoke |
-| 8 | World of Tanks | +2.99 | 41 | 4,551 | +88% | -27% | 95 | +32% | 0.2973 | IGNITION:dakillzor,dezgamez |
-| 9 | Overwatch | +2.86 | 6 | 45,608 | +234% | +51% | 98 | +2% | 0.464 |  |
-| 10 | WARDOGS | +2.68 | 11 | 22,415 | -54% | +684% | 100 | +0% | 0.1442 |  |
-| 11 | Street Fighter 6 | +2.47 | 27 | 7,460 | +22% | +59% | 100 | +1% | 0.6382 | IGNITION:yaritaiji |
-| 12 | That's Not My Neighbor | +2.25 | 65 | 2,280 | - | - | 2 | - | 0.9996 | ENTRY |
-| 13 | Jump King | +2.25 | 66 | 2,196 | - | - | 4 | - | 0.985 | ENTRY |
-| 14 | Judgment | +2.25 | 71 | 2,013 | - | - | 1 | - | 1.0 | ENTRY |
-| 15 | CONTROL Resonant | +2.25 | 82 | 1,688 | - | - | 19 | - | 0.9781 | ENTRY |
+| 1 | ELDEN RING | +8.69 | 35 | 13,184 | +369% | +305% | 98 | -2% | 0.6738 | IGNITION:krokoboss,c_a_k_e |
+| 2 | Star Citizen | +7.77 | 19 | 25,288 | +907% | +215% | 100 | +67% | 0.2219 |  |
+| 3 | Marvel Rivals | +6.95 | 14 | 32,033 | +658% | +381% | 100 | +0% | 0.1391 |  |
+| 4 | Rocket League | +6.94 | 27 | 17,687 | +1196% | -9% | 100 | +1% | 0.1803 | IGNITION:kaydop,mawkzy_ |
+| 5 | Path of Exile | +6.76 | 10 | 66,917 | +869% | +108% | 100 | +117% | 0.1336 |  |
+| 6 | Booster Pack Heroes | +5.66 | 49 | 9,375 | +157% | - | 11 | +175% | 0.9973 | BREADTH ENTRY IGNITION:handofblood |
+| 7 | Delta Force | +4.82 | 29 | 18,538 | +206% | +55% | 94 | -6% | 0.2297 | IGNITION:recrent,bbbb87 |
+| 8 | VRChat | +4.59 | 79 | 4,390 | +270% | +21% | 78 | +117% | 0.2702 |  |
+| 9 | STALZONE | +4.53 | 86 | 4,021 | +132% | - | 99 | +191% | 0.3522 | BREADTH ENTRY |
+| 10 | Heroes of Might and Magic III: The Restoration of Erathia | +4.47 | 72 | 4,745 | +252% | +18% | 39 | +34% | 0.628 | IGNITION:heroes_hub |
+| 11 | MARVEL Contest of Champions | +4.25 | 39 | 12,296 | - | - | 29 | - | 0.5824 | ENTRY IGNITION:pepe,cesgod |
+| 12 | RV There Yet? | +4.25 | 24 | 21,247 | - | - | 46 | - | 0.8907 | ENTRY IGNITION:trymacs,rumathra |
+| 13 | War Thunder | +4.23 | 30 | 18,115 | - | - | 98 | - | 0.5669 | ENTRY IGNITION:warthunder_esports,warthunder_esports_ru |
+| 14 | Escape from Tarkov | +4.22 | 44 | 9,396 | +200% | +6% | 100 | +0% | 0.1635 | IGNITION:trey24k,alle |
+| 15 | World of Tanks | +4.15 | 20 | 24,661 | +442% | +51% | 100 | +5% | 0.244 |  |
 
 ## Ignition alerts
 
@@ -30,28 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Street Fighter 6 | yaritaiji | 14,917 | 4,761 | 64% | 27 |
-| Path of Exile | jungroan | 3,695 | 3,695 | 54% | 28 |
-| Booster Pack Heroes | mynthos | 6,624 | 3,584 | 98% | 49 |
-| Teamfight Tactics | greentea | 4,391 | 2,055 | 50% | 45 |
-| RoadCraft | pietsmiet | 5,140 | 1,789 | 76% | 64 |
-| Resident Evil 2 | smoke | 3,718 | 1,738 | 88% | 75 |
-| Medieval Dynasty | gronkhtv | 4,125 | 1,203 | 99% | 98 |
+| RV There Yet? | trymacs | 52,224 | 18,925 | 89% | 24 |
+| War Thunder | warthunder_esports | 30,042 | 10,269 | 57% | 30 |
+| MADiSON | sasavot | 31,051 | 10,165 | 100% | 46 |
+| Booster Pack Heroes | handofblood | 16,986 | 9,350 | 100% | 49 |
+| ELDEN RING | krokoboss | 20,057 | 8,884 | 67% | 35 |
+| MARVEL Contest of Champions | pepe | 13,579 | 7,161 | 58% | 39 |
+| Gakuen iDOLM@STER | yuyuta0702 | 15,307 | 5,029 | 100% | 68 |
+| Clash Royale | narek_cr | 7,662 | 4,163 | 85% | 69 |
+| Valheim | kspksp | 4,061 | 3,733 | 61% | 57 |
+| Jinro Metropolis | xhalli4x | 4,609 | 3,274 | 96% | 95 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 0.967 | Overwatch | 45,608 | 47,156 |
-| 0.854 | Rainbow Six Siege | 54,375 | 63,691 |
-| 0.254 | Street Fighter 6 | 7,460 | 29,320 |
-| 0.21 | Grand Theft Auto V | 12,395 | 58,885 |
-| 0.207 | Zenless Zone Zero | 1,497 | 7,225 |
-| 0.023 | VRChat | 1,187 | 51,125 |
-| 0.022 | Rust | 2,451 | 113,171 |
-| 0.021 | Cyberpunk 2077 | 1,839 | 85,995 |
-| 0.015 | Phantom Blade Zero | 5,437 | 361,429 |
-| 0.004 | PUBG: BATTLEGROUNDS | 2,739 | 718,335 |
+| 1.058 | Grand Theft Auto V | 62,300 | 58,885 |
+| 0.811 | EA Sports FC 27 | 37,358 | 46,079 |
+| 0.656 | Rocket League | 17,687 | 26,970 |
+| 0.583 | Marvel Rivals | 32,033 | 54,901 |
+| 0.545 | ELDEN RING | 13,184 | 24,172 |
+| 0.046 | Apex Legends | 11,224 | 242,809 |
+| 0.038 | Cyberpunk 2077 | 3,301 | 85,995 |
+| 0.03 | Probably Stolen | 4,161 | 140,552 |
+| 0.023 | Phantom Blade Zero | 8,293 | 361,429 |
+| 0.008 | PUBG: BATTLEGROUNDS | 6,062 | 718,335 |
 
 ---
 
