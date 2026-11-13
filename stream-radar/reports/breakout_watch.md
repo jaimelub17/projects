@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-11-13T01` (UTC). History: 172 snapshots spanning 1032h.
-Reference windows: short = `2026-11-12T18`, day = `2026-11-12T00`.
+Generated from snapshot `2026-11-13T09` (UTC). History: 173 snapshots spanning 1040h.
+Reference windows: short = `2026-11-13T01`, day = `2026-11-12T09`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Playrooms | +8.22 | 22 | 18,915 | +220% | +447% | 58 | +29% | 0.6651 | IGNITION:bisteconee,h2p_gucio |
-| 2 | Rainbow Six Siege | +7.66 | 9 | 41,849 | +993% | +426% | 99 | +0% | 0.4788 |  |
-| 3 | WARDOGS | +6.25 | 7 | 48,941 | +34% | +1564% | 100 | +2% | 0.6855 |  |
-| 4 | Street Fighter 6 | +4.25 | 46 | 6,120 | - | - | 99 | - | 0.723 | ENTRY IGNITION:yaritaiji,801strider |
-| 5 | Dark Souls: Remastered | +3.60 | 65 | 3,854 | - | +39% | 77 | - | 0.897 | ENTRY IGNITION:lilaggy |
-| 6 | Terrible Lizards | +3.25 | 59 | 4,550 | - | - | 76 | - | 0.7771 | ENTRY IGNITION:chibidoki |
-| 7 | Control | +3.25 | 43 | 6,382 | - | - | 13 | - | 0.9873 | ENTRY IGNITION:realzbluewater |
-| 8 | MARVEL TŌKON: Fighting Souls | +3.25 | 78 | 3,088 | - | - | 30 | - | 0.8883 | ENTRY IGNITION:henyathegenius |
-| 9 | SILENT HILL 2 | +3.25 | 82 | 2,947 | - | - | 34 | - | 0.9101 | ENTRY IGNITION:tminnzy |
-| 10 | Hogwarts Legacy | +3.25 | 58 | 5,042 | - | - | 100 | - | 0.661 | ENTRY IGNITION:penta |
-| 11 | Booster Pack Heroes | +2.96 | 89 | 2,641 | - | +8% | 5 | - | 0.6895 | ENTRY IGNITION:agraelus |
-| 12 | I'm Only Sleeping | +2.89 | 66 | 3,763 | - | +12% | 100 | - | 0.2137 | ENTRY IGNITION:preachlfw |
-| 13 | Call of Duty: Modern Warfare 4 | +2.52 | 11 | 33,491 | +230% | +10% | 100 | +0% | 0.2491 |  |
-| 14 | Slay the Spire II | +2.25 | 57 | 4,711 | - | - | 100 | - | 0.2199 | ENTRY |
-| 15 | Trash Day | +2.25 | 71 | 3,430 | - | - | 7 | - | 0.4052 | ENTRY |
+| 1 | Rainbow Six Siege | +6.41 | 4 | 54,375 | +30% | +2963% | 100 | +1% | 0.5373 |  |
+| 2 | Slay the Spire II | +5.70 | 34 | 6,028 | +28% | +377% | 99 | -1% | 0.3014 |  |
+| 3 | Counter-Strike | +4.73 | 1 | 169,113 | +738% | +51% | 99 | +2% | 0.2103 |  |
+| 4 | Total War: WARHAMMER III | +4.44 | 53 | 3,140 | - | +142% | 19 | - | 0.5006 | ENTRY |
+| 5 | Knight Online | +4.29 | 18 | 13,926 | +8% | +423% | 100 | +0% | 0.2054 |  |
+| 6 | RoadCraft | +3.25 | 64 | 2,343 | - | - | 11 | - | 0.7636 | ENTRY IGNITION:pietsmiet |
+| 7 | Resident Evil 2 | +3.25 | 75 | 1,964 | - | - | 21 | - | 0.8849 | ENTRY IGNITION:smoke |
+| 8 | World of Tanks | +2.99 | 41 | 4,551 | +88% | -27% | 95 | +32% | 0.2973 | IGNITION:dakillzor,dezgamez |
+| 9 | Overwatch | +2.86 | 6 | 45,608 | +234% | +51% | 98 | +2% | 0.464 |  |
+| 10 | WARDOGS | +2.68 | 11 | 22,415 | -54% | +684% | 100 | +0% | 0.1442 |  |
+| 11 | Street Fighter 6 | +2.47 | 27 | 7,460 | +22% | +59% | 100 | +1% | 0.6382 | IGNITION:yaritaiji |
+| 12 | That's Not My Neighbor | +2.25 | 65 | 2,280 | - | - | 2 | - | 0.9996 | ENTRY |
+| 13 | Jump King | +2.25 | 66 | 2,196 | - | - | 4 | - | 0.985 | ENTRY |
+| 14 | Judgment | +2.25 | 71 | 2,013 | - | - | 1 | - | 1.0 | ENTRY |
+| 15 | CONTROL Resonant | +2.25 | 82 | 1,688 | - | - | 19 | - | 0.9781 | ENTRY |
 
 ## Ignition alerts
 
@@ -30,31 +30,28 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Playrooms | bisteconee | 12,580 | 12,580 | 67% | 22 |
-| Control | realzbluewater | 8,293 | 6,301 | 99% | 43 |
-| Street Fighter 6 | yaritaiji | 14,917 | 4,425 | 72% | 46 |
-| Rocket League | kaydop | 6,055 | 4,021 | 54% | 34 |
-| Terrible Lizards | chibidoki | 3,554 | 3,536 | 78% | 59 |
-| Queen's Domain | bonjwachill | 3,517 | 3,517 | 59% | 48 |
-| Dark Souls: Remastered | lilaggy | 3,457 | 3,457 | 90% | 65 |
-| Hogwarts Legacy | penta | 3,333 | 3,333 | 66% | 58 |
-| MARVEL TŌKON: Fighting Souls | henyathegenius | 4,591 | 2,743 | 89% | 78 |
-| SILENT HILL 2 | tminnzy | 3,172 | 2,682 | 91% | 82 |
+| Street Fighter 6 | yaritaiji | 14,917 | 4,761 | 64% | 27 |
+| Path of Exile | jungroan | 3,695 | 3,695 | 54% | 28 |
+| Booster Pack Heroes | mynthos | 6,624 | 3,584 | 98% | 49 |
+| Teamfight Tactics | greentea | 4,391 | 2,055 | 50% | 45 |
+| RoadCraft | pietsmiet | 5,140 | 1,789 | 76% | 64 |
+| Resident Evil 2 | smoke | 3,718 | 1,738 | 88% | 75 |
+| Medieval Dynasty | gronkhtv | 4,125 | 1,203 | 99% | 98 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 0.887 | Grand Theft Auto V | 55,059 | 62,049 |
-| 0.781 | WARDOGS | 48,941 | 62,651 |
-| 0.613 | Rainbow Six Siege | 41,849 | 68,254 |
-| 0.281 | Overwatch | 13,664 | 48,541 |
-| 0.268 | Wuthering Waves | 2,178 | 8,131 |
-| 0.022 | Dota 2 | 15,544 | 716,944 |
-| 0.017 | Counter-Strike | 20,185 | 1,217,867 |
-| 0.016 | Probably Stolen | 2,483 | 152,708 |
-| 0.014 | Phantom Blade Zero | 5,372 | 390,329 |
-| 0.006 | PUBG: BATTLEGROUNDS | 4,636 | 728,370 |
+| 0.967 | Overwatch | 45,608 | 47,156 |
+| 0.854 | Rainbow Six Siege | 54,375 | 63,691 |
+| 0.254 | Street Fighter 6 | 7,460 | 29,320 |
+| 0.21 | Grand Theft Auto V | 12,395 | 58,885 |
+| 0.207 | Zenless Zone Zero | 1,497 | 7,225 |
+| 0.023 | VRChat | 1,187 | 51,125 |
+| 0.022 | Rust | 2,451 | 113,171 |
+| 0.021 | Cyberpunk 2077 | 1,839 | 85,995 |
+| 0.015 | Phantom Blade Zero | 5,437 | 361,429 |
+| 0.004 | PUBG: BATTLEGROUNDS | 2,739 | 718,335 |
 
 ---
 
