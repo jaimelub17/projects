@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-11-13T23` (UTC). History: 175 snapshots spanning 1054h.
-Reference windows: short = `2026-11-13T17`, day = `2026-11-13T01`.
+Generated from snapshot `2026-11-14T06` (UTC). History: 176 snapshots spanning 1061h.
+Reference windows: short = `2026-11-13T23`, day = `2026-11-13T09`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Marvel Rivals | +6.36 | 3 | 139,097 | +334% | +1154% | 97 | -3% | 0.2022 |  |
-| 2 | Path of Exile | +5.12 | 5 | 124,233 | +86% | +1226% | 100 | +0% | 0.1073 |  |
-| 3 | Where Winds Meet | +4.60 | 14 | 40,838 | +582% | - | 100 | +1% | 0.3076 | ENTRY |
-| 4 | Brawlhalla | +4.10 | 42 | 9,537 | +132% | - | 89 | +56% | 0.5715 | ENTRY IGNITION:brawlhalla |
-| 5 | nanos world | +3.95 | 34 | 12,769 | +187% | +51% | 100 | +28% | 0.2541 | IGNITION:mehditdonc |
-| 6 | Red Dead Redemption II | +3.81 | 71 | 3,145 | - | +63% | 95 | - | 0.1523 | ENTRY IGNITION:yurapivo |
-| 7 | Otherside Tapes: Favela | +3.25 | 29 | 17,199 | - | - | 3 | - | 0.9992 | ENTRY IGNITION:unboxholics |
-| 8 | Parasite Eve | +3.25 | 52 | 6,405 | - | - | 4 | - | 0.9891 | ENTRY IGNITION:alanzoka |
-| 9 | Bodycam | +3.25 | 60 | 6,000 | - | - | 100 | - | 0.7438 | ENTRY IGNITION:lvndmark |
-| 10 | Football Manager 27 | +3.21 | 86 | 3,407 | - | - | 90 | - | 0.388 | ENTRY IGNITION:diehahn |
-| 11 | Fortnite | +3.20 | 6 | 102,730 | +171% | +238% | 98 | +0% | 0.3492 |  |
-| 12 | Geometry Dash | +3.19 | 88 | 3,232 | - | - | 100 | - | 0.7243 | ENTRY IGNITION:zoinkgd |
-| 13 | Rocket League | +2.68 | 17 | 26,824 | +52% | +261% | 96 | -4% | 0.4289 |  |
-| 14 | Star Citizen | +2.46 | 28 | 17,339 | -31% | +375% | 100 | +0% | 0.1163 |  |
-| 15 | Dark Souls: Remastered | +2.39 | 68 | 4,329 | - | +12% | 67 | - | 0.6101 | ENTRY IGNITION:lilaggy |
+| 1 | Escape from Tarkov | +4.65 | 29 | 7,768 | +54% | +148% | 98 | -2% | 0.5077 | IGNITION:bobito217,desmondpilak |
+| 2 | NBA 2K27 | +4.38 | 36 | 5,148 | +98% | +220% | 100 | +6% | 0.2574 |  |
+| 3 | TEKKEN 8 | +4.20 | 50 | 4,777 | - | +189% | 99 | - | 0.3582 | ENTRY |
+| 4 | Minecraft | +4.04 | 4 | 68,584 | +106% | +623% | 97 | +1% | 0.8438 |  |
+| 5 | Crossing Souls | +3.25 | 72 | 2,487 | - | - | 1 | - | 1.0 | ENTRY IGNITION:gronkhtv |
+| 6 | ACE COMBAT 8: WINGS OF THEVE | +3.25 | 59 | 3,650 | - | - | 36 | - | 0.9534 | ENTRY IGNITION:zrush |
+| 7 | Slotbound | +3.25 | 71 | 2,501 | - | - | 4 | - | 0.8709 | ENTRY IGNITION:shinjifromjapanxd |
+| 8 | I'm Only Sleeping | +2.63 | 42 | 5,560 | - | +24% | 100 | - | 0.2437 | ENTRY IGNITION:coachlim |
+| 9 | ROB RUN | +2.58 | 3 | 105,292 | +53% | +314% | 99 | -1% | 0.5392 |  |
+| 10 | Path of Exile | +2.38 | 5 | 64,406 | -48% | +833% | 98 | -2% | 0.1342 |  |
+| 11 | Teamfight Tactics | +2.36 | 54 | 4,214 | - | +3% | 99 | - | 0.5394 | ENTRY IGNITION:greentea |
+| 12 | Rainbow Six Siege | +2.30 | 7 | 43,373 | +259% | -20% | 100 | +4% | 0.5087 |  |
+| 13 | The Legend of Zelda: Breath of the Wild | +2.25 | 78 | 2,179 | - | - | 24 | - | 0.9247 | ENTRY |
+| 14 | Resident Evil 4 | +2.25 | 75 | 2,338 | - | - | 41 | - | 0.4735 | ENTRY |
+| 15 | Summoners War: Sky Arena | +2.25 | 81 | 2,072 | - | - | 24 | - | 0.236 | ENTRY |
 
 ## Ignition alerts
 
@@ -30,30 +30,28 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Otherside Tapes: Favela | unboxholics | 17,726 | 17,185 | 100% | 29 |
-| Parasite Eve | alanzoka | 20,484 | 6,335 | 99% | 52 |
-| MARVEL Contest of Champions | pepe | 13,579 | 6,083 | 54% | 39 |
-| Brawlhalla | brawlhalla | 5,450 | 5,450 | 57% | 42 |
-| Bodycam | lvndmark | 13,859 | 4,463 | 74% | 60 |
-| Heroes of Might and Magic III: The Restoration of Erathia | voodoosh | 5,303 | 4,327 | 72% | 55 |
-| Dark Souls: Remastered | lilaggy | 3,457 | 2,641 | 61% | 68 |
-| MapleStory | ereklo_game | 5,813 | 2,396 | 61% | 78 |
-| Geometry Dash | zoinkgd | 4,190 | 2,341 | 72% | 88 |
+| Escape from Tarkov | bobito217 | 4,702 | 3,944 | 51% | 29 |
+| ACE COMBAT 8: WINGS OF THEVE | zrush | 5,892 | 3,480 | 95% | 59 |
+| MARVEL Contest of Champions | cesgod | 3,350 | 3,350 | 53% | 37 |
+| DayZ | smoke | 3,718 | 2,800 | 69% | 55 |
+| Crossing Souls | gronkhtv | 4,125 | 2,487 | 100% | 72 |
+| Teamfight Tactics | greentea | 4,391 | 2,273 | 54% | 54 |
+| Slotbound | shinjifromjapanxd | 4,657 | 2,178 | 87% | 71 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 2.534 | Marvel Rivals | 139,097 | 54,901 |
-| 1.921 | Grand Theft Auto V | 113,090 | 58,885 |
-| 0.995 | Rocket League | 26,824 | 26,970 |
-| 0.834 | Brawlhalla | 9,537 | 11,439 |
-| 0.701 | EA Sports FC 27 | 32,323 | 46,079 |
-| 0.034 | Counter-Strike | 38,699 | 1,122,168 |
-| 0.034 | Apex Legends | 8,200 | 242,809 |
-| 0.03 | Delta Force | 3,457 | 113,944 |
-| 0.021 | Phantom Blade Zero | 7,760 | 361,429 |
-| 0.011 | PUBG: BATTLEGROUNDS | 7,660 | 718,335 |
+| 0.645 | Rainbow Six Siege | 43,373 | 67,240 |
+| 0.424 | Path of Exile | 64,406 | 152,021 |
+| 0.288 | ROB RUN | 105,292 | 365,092 |
+| 0.283 | Grand Theft Auto V | 17,847 | 63,138 |
+| 0.268 | Marvel Rivals | 22,035 | 82,149 |
+| 0.021 | Phantom Blade Zero | 7,061 | 340,136 |
+| 0.019 | Delta Force | 2,208 | 116,847 |
+| 0.012 | Rust | 1,599 | 129,684 |
+| 0.012 | Counter-Strike | 14,667 | 1,207,070 |
+| 0.002 | PUBG: BATTLEGROUNDS | 1,497 | 733,915 |
 
 ---
 
