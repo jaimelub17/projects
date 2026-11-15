@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-11-15T09` (UTC). History: 180 snapshots spanning 1088h.
-Reference windows: short = `2026-11-15T01`, day = `2026-11-14T06`.
+Generated from snapshot `2026-11-15T17` (UTC). History: 181 snapshots spanning 1096h.
+Reference windows: short = `2026-11-15T09`, day = `2026-11-14T15`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Counter-Strike | +8.09 | 1 | 248,035 | +858% | +1591% | 100 | +1% | 0.2104 |  |
-| 2 | ELDEN RING | +6.42 | 37 | 6,227 | +125% | +326% | 95 | -4% | 0.7811 | IGNITION:krokoboss |
-| 3 | World of Tanks | +4.19 | 45 | 5,092 | +61% | +41% | 100 | +8% | 0.315 | IGNITION:dakillzor,dezgamez |
-| 4 | Street Fighter 6 | +3.31 | 47 | 4,785 | - | +107% | 100 | - | 0.2911 | ENTRY |
-| 5 | AION 2 | +3.30 | 12 | 26,106 | +113% | +211% | 100 | +0% | 0.442 |  |
-| 6 | I'm Only Sleeping | +3.30 | 31 | 7,523 | +118% | +35% | 100 | +0% | 0.1243 | IGNITION:coachlim |
-| 7 | One More Lawn | +3.25 | 71 | 2,669 | - | - | 21 | - | 0.9093 | ENTRY IGNITION:penta |
-| 8 | Microsoft Flight Simulator 2024 | +3.25 | 65 | 3,301 | - | - | 45 | - | 0.9279 | ENTRY IGNITION:vargskelethor |
-| 9 | Quarantine Zone: The Last Check | +3.25 | 33 | 7,570 | - | - | 5 | - | 0.9976 | ENTRY IGNITION:ironmouse |
-| 10 | Deep Rock Galactic: Survivor | +3.25 | 96 | 1,506 | - | - | 1 | - | 1.0 | ENTRY IGNITION:gtimetv |
-| 11 | Medieval Dynasty | +3.25 | 88 | 1,725 | - | - | 9 | - | 0.9884 | ENTRY IGNITION:gronkhtv |
-| 12 | MapleStory Worlds | +3.25 | 60 | 3,652 | - | - | 13 | - | 0.8384 | ENTRY IGNITION:liang_0714 |
-| 13 | PUBG: BATTLEGROUNDS | +3.23 | 57 | 3,859 | +52% | +158% | 100 | +3% | 0.3752 |  |
-| 14 | Arena Breakout: Infinite | +3.21 | 70 | 2,681 | - | +73% | 100 | - | 0.2984 | ENTRY |
-| 15 | TEKKEN 8 | +2.59 | 32 | 7,762 | - | +62% | 85 | - | 0.3061 | ENTRY |
+| 1 | PUBG: BATTLEGROUNDS | +8.11 | 9 | 60,120 | +1458% | +383% | 100 | +0% | 0.5287 |  |
+| 2 | HANDS OVER | +7.75 | 67 | 5,749 | - | +15869% | 16 | - | 0.53 | ENTRY |
+| 3 | Enshrouded | +6.52 | 32 | 14,221 | +204% | +280% | 100 | +0% | 0.611 | IGNITION:cohhcarnage |
+| 4 | Teamfight Tactics | +5.68 | 15 | 43,071 | +1009% | +48% | 99 | +41% | 0.1787 |  |
+| 5 | Heroes of Might and Magic III: The Restoration of Erathia | +5.12 | 60 | 6,371 | +300% | +39% | 45 | +45% | 0.5382 | IGNITION:heroes_hub |
+| 6 | Old School RuneScape | +5.05 | 34 | 14,130 | +232% | +31% | 99 | -1% | 0.1734 | IGNITION:sick_nerd,b0aty |
+| 7 | Knight Online | +4.47 | 33 | 14,325 | +145% | +7% | 100 | +39% | 0.2045 | IGNITION:yaheljr,levo |
+| 8 | Delta Force | +4.36 | 21 | 20,359 | +536% | -10% | 100 | +0% | 0.3996 | IGNITION:hutchmf |
+| 9 | Probably Stolen | +4.26 | 55 | 7,960 | - | - | 100 | - | 0.309 | ENTRY IGNITION:edopeh,ilame |
+| 10 | Rocket League | +4.26 | 19 | 20,120 | +368% | +75% | 100 | +2% | 0.2492 |  |
+| 11 | Escape from Tarkov | +4.26 | 39 | 10,652 | +97% | +57% | 100 | +0% | 0.3979 | IGNITION:bobito217,alle |
+| 12 | Suzy Says! | +4.25 | 79 | 4,547 | - | - | 4 | - | 0.5355 | ENTRY IGNITION:agustin51,aslanshukasha |
+| 13 | Minecraft | +4.19 | 10 | 43,057 | +411% | +126% | 100 | +1% | 0.105 |  |
+| 14 | Grand Theft Auto V | +3.90 | 4 | 92,122 | +396% | +63% | 98 | +3% | 0.1737 |  |
+| 15 | Star Citizen | +3.76 | 35 | 12,796 | +102% | +17% | 98 | -2% | 0.2473 | IGNITION:knebeltv,arkvenger_tv |
 
 ## Ignition alerts
 
@@ -30,31 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Quarantine Zone: The Last Check | ironmouse | 14,687 | 7,552 | 100% | 33 |
-| Rainbow Six Siege | rainbow6 | 29,213 | 7,437 | 64% | 23 |
-| Playrooms | mynthos | 6,624 | 4,949 | 89% | 42 |
-| ELDEN RING | krokoboss | 20,057 | 4,864 | 78% | 37 |
-| ACE COMBAT 8: WINGS OF THEVE | zrush | 5,892 | 3,763 | 95% | 58 |
-| Microsoft Flight Simulator 2024 | vargskelethor | 4,765 | 3,063 | 93% | 65 |
-| MapleStory Worlds | liang_0714 | 5,124 | 3,062 | 84% | 60 |
-| Teamfight Tactics | greentea | 4,391 | 2,590 | 67% | 59 |
-| One More Lawn | penta | 3,333 | 2,427 | 91% | 71 |
-| Medieval Dynasty | gronkhtv | 4,125 | 1,705 | 99% | 88 |
+| Magical Girl Witch Trials | stylishnoob4 | 26,093 | 10,876 | 100% | 41 |
+| Enshrouded | cohhcarnage | 12,605 | 8,689 | 61% | 32 |
+| World of Warships | worldsp0wn | 6,924 | 6,924 | 63% | 40 |
+| Grand Theft Auto III | missmikkaa | 6,369 | 5,330 | 91% | 65 |
+| F1 25 | nooreax | 31,109 | 4,984 | 66% | 54 |
+| War Thunder | warthunder_esports | 30,042 | 4,642 | 55% | 51 |
+| Poop Killer: The Golden Fart | blackufa | 5,540 | 4,458 | 100% | 78 |
+| Xenoblade Chronicles | yuyuta0702 | 15,307 | 3,594 | 100% | 95 |
+| Heroes of Might and Magic III: The Restoration of Erathia | heroes_hub | 4,728 | 3,429 | 54% | 60 |
+| False Echo | saruei | 3,585 | 3,346 | 100% | 99 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 0.357 | Path of Exile | 44,398 | 124,458 |
-| 0.266 | Grand Theft Auto V | 18,557 | 69,885 |
-| 0.257 | Overwatch | 14,199 | 55,227 |
-| 0.198 | ELDEN RING | 6,227 | 31,495 |
-| 0.19 | Counter-Strike | 248,035 | 1,304,292 |
-| 0.022 | Rust | 2,871 | 133,413 |
-| 0.018 | Slay the Spire II | 3,576 | 200,329 |
-| 0.016 | Cyberpunk 2077 | 1,786 | 108,396 |
-| 0.008 | Phantom Blade Zero | 2,802 | 333,108 |
-| 0.005 | PUBG: BATTLEGROUNDS | 3,859 | 739,272 |
+| 1.318 | Grand Theft Auto V | 92,122 | 69,885 |
+| 0.724 | Rocket League | 20,120 | 27,797 |
+| 0.711 | Brawlhalla | 8,901 | 12,523 |
+| 0.596 | EA Sports FC 27 | 30,407 | 50,985 |
+| 0.519 | Path of Exile | 64,600 | 124,458 |
+| 0.055 | Rust | 7,317 | 133,413 |
+| 0.054 | Apex Legends | 13,827 | 253,967 |
+| 0.042 | Rainbow Six Siege | 3,170 | 75,012 |
+| 0.037 | Cyberpunk 2077 | 4,044 | 108,396 |
+| 0.012 | Phantom Blade Zero | 4,085 | 333,108 |
 
 ---
 
