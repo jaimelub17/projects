@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-11-15T22` (UTC). History: 182 snapshots spanning 1101h.
-Reference windows: short = `2026-11-15T17`, day = `2026-11-14T20`.
+Generated from snapshot `2026-11-16T06` (UTC). History: 183 snapshots spanning 1109h.
+Reference windows: short = `2026-11-15T22`, day = `2026-11-15T09`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | nanos world | +5.81 | 21 | 23,799 | +415% | +106% | 100 | +1% | 0.2079 | IGNITION:mehditdonc |
-| 2 | Rainbow Six Siege | +5.68 | 43 | 8,908 | +181% | +126% | 100 | +4% | 0.4905 | IGNITION:itsspoit,ricci |
-| 3 | Project Zomboid | +4.64 | 63 | 4,995 | - | +69% | 100 | - | 0.3686 | ENTRY IGNITION:edopeh |
-| 4 | A Weird Game About Sausage | +4.25 | 30 | 14,437 | - | - | 8 | - | 0.6805 | ENTRY IGNITION:wankilstudio,laink |
-| 5 | ELDEN RING | +3.81 | 32 | 13,593 | +85% | +19% | 100 | +0% | 0.5809 | IGNITION:krokoboss,mahluna |
-| 6 | Moon Sweepers | +3.42 | 51 | 7,933 | +122% | - | 100 | +0% | 0.5376 | ENTRY IGNITION:mertabimula |
-| 7 | Baldur's Gate 3 | +3.35 | 77 | 3,732 | - | - | 100 | - | 0.6316 | ENTRY IGNITION:shisheyu |
-| 8 | MapleStory | +3.33 | 79 | 3,792 | - | +10% | 96 | - | 0.5425 | ENTRY IGNITION:ereklo_game |
-| 9 | Moldwasher | +3.25 | 35 | 14,147 | - | - | 1 | - | 1.0 | ENTRY IGNITION:emiru |
-| 10 | Grand Theft Auto IV | +3.25 | 59 | 5,627 | - | - | 99 | - | 0.6023 | ENTRY IGNITION:stormfall33 |
-| 11 | Signal Simulator | +3.25 | 71 | 4,315 | - | - | 2 | - | 0.9993 | ENTRY IGNITION:vargskelethor |
-| 12 | Mechabellum | +3.25 | 52 | 7,051 | - | - | 6 | - | 0.9881 | ENTRY IGNITION:bonjwa |
-| 13 | TCG Card Shop Simulator | +3.25 | 27 | 17,218 | - | - | 33 | - | 0.9938 | ENTRY IGNITION:trymacs |
-| 14 | Clash Royale | +3.25 | 85 | 3,570 | - | - | 42 | - | 0.293 | ENTRY IGNITION:bigspincr |
-| 15 | Darkest Dungeon | +3.25 | 100 | 2,914 | - | - | 11 | - | 0.9835 | ENTRY IGNITION:marex |
+| 1 | Slay the Spire II | +6.32 | 21 | 13,200 | +269% | +269% | 87 | -13% | 0.8228 | IGNITION:indegnasen0706 |
+| 2 | Playrooms | +5.19 | 23 | 12,005 | - | +116% | 36 | - | 0.6596 | ENTRY IGNITION:ironmouse,grimmi |
+| 3 | Resident Evil 2 | +3.25 | 65 | 2,417 | - | - | 22 | - | 0.8937 | ENTRY IGNITION:smoke |
+| 4 | Crossing Souls | +3.25 | 69 | 2,012 | - | - | 1 | - | 1.0 | ENTRY IGNITION:gronkhtv |
+| 5 | Dark Souls: Remastered | +3.25 | 47 | 3,956 | - | - | 26 | - | 0.9168 | ENTRY IGNITION:lilaggy |
+| 6 | Species: Unknown | +3.25 | 34 | 6,333 | - | - | 11 | - | 0.9607 | ENTRY IGNITION:maximilian_dood |
+| 7 | Where Winds Meet | +3.09 | 66 | 2,178 | - | +5% | 59 | - | 0.7277 | ENTRY IGNITION:kenki521 |
+| 8 | Diablo IV | +2.85 | 55 | 3,114 | - | +40% | 47 | - | 0.8863 | ENTRY |
+| 9 | Minecraft | +2.77 | 3 | 72,210 | -8% | +757% | 100 | +4% | 0.9017 |  |
+| 10 | One More Lawn | +2.65 | 64 | 2,522 | - | -6% | 19 | - | 0.8727 | ENTRY IGNITION:penta |
+| 11 | NBA 2K27 | +2.33 | 42 | 3,559 | +4% | +106% | 100 | +0% | 0.0995 |  |
+| 12 | Super Mario Maker 2 | +2.25 | 82 | 1,571 | - | - | 10 | - | 0.9204 | ENTRY |
+| 13 | JOHN GLEEP | +2.25 | 84 | 1,503 | - | - | 5 | - | 0.8703 | ENTRY |
+| 14 | Grand Theft Auto: Vice City | +2.25 | 71 | 1,902 | - | - | 21 | - | 0.9322 | ENTRY |
+| 15 | Marbles on Stream | +2.21 | 77 | 1,725 | - | +10% | 68 | - | 0.1699 | ENTRY |
 
 ## Ignition alerts
 
@@ -30,31 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| TCG Card Shop Simulator | trymacs | 52,224 | 17,111 | 99% | 27 |
-| Moldwasher | emiru | 14,200 | 14,147 | 100% | 35 |
-| A Weird Game About Sausage | wankilstudio | 9,825 | 9,825 | 68% | 30 |
-| ELDEN RING | krokoboss | 20,057 | 7,896 | 58% | 32 |
-| Brawlhalla | brawlhalla | 7,468 | 7,468 | 60% | 37 |
-| Mechabellum | bonjwa | 9,950 | 6,967 | 99% | 52 |
-| Signal Simulator | vargskelethor | 4,765 | 4,312 | 100% | 71 |
-| Moon Sweepers | mertabimula | 8,796 | 4,265 | 54% | 51 |
-| Emberville | cohhcarnage | 12,605 | 3,399 | 100% | 92 |
-| Grand Theft Auto IV | stormfall33 | 3,949 | 3,389 | 60% | 59 |
+| Slay the Spire II | indegnasen0706 | 35,632 | 10,861 | 82% | 21 |
+| Playrooms | ironmouse | 14,687 | 7,918 | 66% | 23 |
+| Species: Unknown | maximilian_dood | 11,595 | 6,084 | 96% | 34 |
+| Escape from Tarkov | bobito217 | 4,702 | 3,832 | 57% | 32 |
+| Dark Souls: Remastered | lilaggy | 4,408 | 3,627 | 92% | 47 |
+| One More Lawn | penta | 3,333 | 2,201 | 87% | 64 |
+| Resident Evil 2 | smoke | 3,718 | 2,160 | 89% | 65 |
+| Crossing Souls | gronkhtv | 4,125 | 2,012 | 100% | 69 |
+| Teamfight Tactics | greentea | 4,391 | 1,870 | 50% | 49 |
+| Queen's Domain | surefour | 3,663 | 1,725 | 52% | 51 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 3.387 | Grand Theft Auto V | 236,686 | 69,885 |
-| 1.838 | Rocket League | 51,098 | 27,797 |
-| 1.213 | EA Sports FC 27 | 61,833 | 50,985 |
-| 0.996 | Brawlhalla | 12,474 | 12,523 |
-| 0.73 | Overwatch | 40,328 | 55,227 |
-| 0.027 | Counter-Strike | 35,604 | 1,304,292 |
-| 0.024 | Cyberpunk 2077 | 2,642 | 108,396 |
-| 0.018 | Slay the Spire II | 3,581 | 200,329 |
-| 0.015 | PUBG: BATTLEGROUNDS | 11,258 | 739,272 |
-| 0.014 | Phantom Blade Zero | 4,766 | 333,108 |
+| 0.303 | Overwatch | 16,191 | 53,405 |
+| 0.21 | Grand Theft Auto V | 15,333 | 73,084 |
+| 0.207 | Dead by Daylight | 12,220 | 58,926 |
+| 0.195 | Escape from Tarkov | 6,726 | 34,473 |
+| 0.159 | Path of Exile | 19,051 | 119,674 |
+| 0.014 | Delta Force | 1,649 | 114,782 |
+| 0.011 | Phantom Blade Zero | 3,474 | 307,720 |
+| 0.01 | Rust | 1,143 | 119,615 |
+| 0.01 | Counter-Strike | 12,370 | 1,299,141 |
+| 0.002 | PUBG: BATTLEGROUNDS | 1,728 | 734,283 |
 
 ---
 
