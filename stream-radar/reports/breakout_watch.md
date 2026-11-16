@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-11-16T06` (UTC). History: 183 snapshots spanning 1109h.
-Reference windows: short = `2026-11-15T22`, day = `2026-11-15T09`.
+Generated from snapshot `2026-11-16T18` (UTC). History: 184 snapshots spanning 1121h.
+Reference windows: short = `2026-11-16T06`, day = `2026-11-15T17`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Slay the Spire II | +6.32 | 21 | 13,200 | +269% | +269% | 87 | -13% | 0.8228 | IGNITION:indegnasen0706 |
-| 2 | Playrooms | +5.19 | 23 | 12,005 | - | +116% | 36 | - | 0.6596 | ENTRY IGNITION:ironmouse,grimmi |
-| 3 | Resident Evil 2 | +3.25 | 65 | 2,417 | - | - | 22 | - | 0.8937 | ENTRY IGNITION:smoke |
-| 4 | Crossing Souls | +3.25 | 69 | 2,012 | - | - | 1 | - | 1.0 | ENTRY IGNITION:gronkhtv |
-| 5 | Dark Souls: Remastered | +3.25 | 47 | 3,956 | - | - | 26 | - | 0.9168 | ENTRY IGNITION:lilaggy |
-| 6 | Species: Unknown | +3.25 | 34 | 6,333 | - | - | 11 | - | 0.9607 | ENTRY IGNITION:maximilian_dood |
-| 7 | Where Winds Meet | +3.09 | 66 | 2,178 | - | +5% | 59 | - | 0.7277 | ENTRY IGNITION:kenki521 |
-| 8 | Diablo IV | +2.85 | 55 | 3,114 | - | +40% | 47 | - | 0.8863 | ENTRY |
-| 9 | Minecraft | +2.77 | 3 | 72,210 | -8% | +757% | 100 | +4% | 0.9017 |  |
-| 10 | One More Lawn | +2.65 | 64 | 2,522 | - | -6% | 19 | - | 0.8727 | ENTRY IGNITION:penta |
-| 11 | NBA 2K27 | +2.33 | 42 | 3,559 | +4% | +106% | 100 | +0% | 0.0995 |  |
-| 12 | Super Mario Maker 2 | +2.25 | 82 | 1,571 | - | - | 10 | - | 0.9204 | ENTRY |
-| 13 | JOHN GLEEP | +2.25 | 84 | 1,503 | - | - | 5 | - | 0.8703 | ENTRY |
-| 14 | Grand Theft Auto: Vice City | +2.25 | 71 | 1,902 | - | - | 21 | - | 0.9322 | ENTRY |
-| 15 | Marbles on Stream | +2.21 | 77 | 1,725 | - | +10% | 68 | - | 0.1699 | ENTRY |
+| 1 | Knight Online | +9.61 | 32 | 14,475 | +461% | +1% | 100 | +1011% | 0.209 | BREADTH IGNITION:domenicowaccoo,levo |
+| 2 | World of Tanks | +8.44 | 19 | 30,579 | +1704% | +151% | 100 | +96% | 0.2822 |  |
+| 3 | Clash of Clans | +6.62 | 29 | 16,148 | - | +379% | 35 | - | 0.9488 | ENTRY IGNITION:trymacs |
+| 4 | Crypto | +6.13 | 42 | 10,431 | +499% | +148% | 100 | +0% | 0.1915 |  |
+| 5 | ELDEN RING | +5.40 | 53 | 6,592 | +443% | -10% | 100 | +0% | 0.3422 | IGNITION:mahluna,anaaja |
+| 6 | Escape from Tarkov | +5.23 | 17 | 33,667 | +401% | +216% | 98 | +0% | 0.0998 |  |
+| 7 | Rust | +5.01 | 52 | 7,661 | +570% | +5% | 96 | -3% | 0.2849 | IGNITION:oilrats |
+| 8 | Mobile Legends: Bang Bang | +4.79 | 67 | 5,458 | +344% | +33% | 100 | +61% | 0.2739 |  |
+| 9 | Counter-Strike | +4.39 | 3 | 109,817 | +788% | +2% | 97 | +1% | 0.2395 |  |
+| 10 | Dota 2 | +4.36 | 6 | 100,684 | +457% | +96% | 100 | +0% | 0.2611 |  |
+| 11 | RV There Yet? | +4.25 | 51 | 8,095 | - | - | 46 | - | 0.5408 | ENTRY IGNITION:nooreax,gleggmire |
+| 12 | Trees Hate You | +4.25 | 34 | 12,641 | - | - | 98 | - | 0.3225 | ENTRY IGNITION:insym,tomato |
+| 13 | Call of Duty: Warzone | +4.04 | 18 | 29,718 | +245% | +178% | 99 | -1% | 0.1532 |  |
+| 14 | EA Sports FC 27 | +4.01 | 15 | 39,549 | +546% | +30% | 97 | -1% | 0.1141 |  |
+| 15 | Star Citizen | +3.94 | 41 | 10,584 | +218% | -17% | 100 | +3% | 0.3165 | IGNITION:knebeltv,arkvenger_tv |
 
 ## Ignition alerts
 
@@ -30,31 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Slay the Spire II | indegnasen0706 | 35,632 | 10,861 | 82% | 21 |
-| Playrooms | ironmouse | 14,687 | 7,918 | 66% | 23 |
-| Species: Unknown | maximilian_dood | 11,595 | 6,084 | 96% | 34 |
-| Escape from Tarkov | bobito217 | 4,702 | 3,832 | 57% | 32 |
-| Dark Souls: Remastered | lilaggy | 4,408 | 3,627 | 92% | 47 |
-| One More Lawn | penta | 3,333 | 2,201 | 87% | 64 |
-| Resident Evil 2 | smoke | 3,718 | 2,160 | 89% | 65 |
-| Crossing Souls | gronkhtv | 4,125 | 2,012 | 100% | 69 |
-| Teamfight Tactics | greentea | 4,391 | 1,870 | 50% | 49 |
-| Queen's Domain | surefour | 3,663 | 1,725 | 52% | 51 |
+| Clash of Clans | trymacs | 52,224 | 15,322 | 95% | 29 |
+| Func Key | northernlion | 13,812 | 12,901 | 100% | 36 |
+| Dub Together | imdankar | 9,650 | 9,650 | 99% | 45 |
+| Kuizu! Batounea! | yuyuta0702 | 15,307 | 6,937 | 100% | 55 |
+| Mistfall Hunter | xop0 | 5,617 | 4,399 | 92% | 73 |
+| RV There Yet? | nooreax | 31,109 | 4,378 | 54% | 51 |
+| Karnov | burst_error | 3,721 | 3,721 | 100% | 87 |
+| Jinro Metropolis | xhalli4x | 4,609 | 3,500 | 93% | 83 |
+| Hades II | lumenti | 3,499 | 3,499 | 97% | 88 |
+| Waterpark Simulator | zoewrenmusic | 3,494 | 3,494 | 99% | 89 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 0.303 | Overwatch | 16,191 | 53,405 |
-| 0.21 | Grand Theft Auto V | 15,333 | 73,084 |
-| 0.207 | Dead by Daylight | 12,220 | 58,926 |
-| 0.195 | Escape from Tarkov | 6,726 | 34,473 |
-| 0.159 | Path of Exile | 19,051 | 119,674 |
-| 0.014 | Delta Force | 1,649 | 114,782 |
-| 0.011 | Phantom Blade Zero | 3,474 | 307,720 |
-| 0.01 | Rust | 1,143 | 119,615 |
-| 0.01 | Counter-Strike | 12,370 | 1,299,141 |
-| 0.002 | PUBG: BATTLEGROUNDS | 1,728 | 734,283 |
+| 1.249 | Grand Theft Auto V | 91,257 | 73,084 |
+| 0.977 | Escape from Tarkov | 33,667 | 34,473 |
+| 0.748 | EA Sports FC 27 | 39,549 | 52,851 |
+| 0.411 | Path of Exile | 49,142 | 119,674 |
+| 0.316 | Overwatch | 16,860 | 53,405 |
+| 0.042 | War Thunder | 3,993 | 95,729 |
+| 0.033 | Probably Stolen | 4,205 | 129,332 |
+| 0.032 | Slay the Spire II | 5,850 | 182,135 |
+| 0.018 | PUBG: BATTLEGROUNDS | 12,866 | 734,283 |
+| 0.015 | Phantom Blade Zero | 4,600 | 307,720 |
 
 ---
 
