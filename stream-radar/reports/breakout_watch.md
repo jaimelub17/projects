@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-11-17T02` (UTC). History: 185 snapshots spanning 1129h.
-Reference windows: short = `2026-11-16T18`, day = `2026-11-15T22`.
+Generated from snapshot `2026-11-17T13` (UTC). History: 186 snapshots spanning 1140h.
+Reference windows: short = `2026-11-17T02`, day = `2026-11-16T18`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Mistfall Hunter | +5.34 | 24 | 13,495 | +182% | - | 24 | +41% | 0.4696 | ENTRY IGNITION:lvndmark,aztecross |
-| 2 | DayZ | +5.20 | 27 | 11,629 | +194% | +132% | 95 | -5% | 0.8428 | IGNITION:summit1g |
-| 3 | I'm Only Sleeping | +4.25 | 36 | 7,525 | - | - | 100 | - | 0.3059 | ENTRY IGNITION:leva2k,exsl95 |
-| 4 | MapleStory | +3.76 | 53 | 4,596 | - | +21% | 100 | - | 0.2121 | ENTRY IGNITION:duky |
-| 5 |  SEKIRO: SHADOWS DIE TWICE | +3.25 | 84 | 2,401 | - | - | 33 | - | 0.8201 | ENTRY IGNITION:s_chilla |
-| 6 | Drawquarium | +3.25 | 39 | 7,017 | - | - | 8 | - | 0.9882 | ENTRY IGNITION:vinesauce |
-| 7 | Wii Party | +3.25 | 52 | 4,771 | - | - | 1 | - | 1.0 | ENTRY IGNITION:peereira7 |
-| 8 | Bratz: Rock Angelz | +3.25 | 48 | 5,577 | - | - | 1 | - | 1.0 | ENTRY IGNITION:ohitspiper |
-| 9 | Super Mario Party Jamboree | +3.25 | 93 | 2,077 | - | - | 15 | - | 0.6692 | ENTRY IGNITION:bonsaibroz |
-| 10 | SILENT HILL 2 | +3.25 | 73 | 2,913 | - | - | 29 | - | 0.941 | ENTRY IGNITION:tminnzy |
-| 11 | Village in the Shade | +3.25 | 69 | 3,464 | - | - | 7 | - | 0.9922 | ENTRY IGNITION:henyathegenius |
-| 12 | Street Fighter 6 | +3.23 | 97 | 1,900 | - | - | 100 | - | 0.0811 | ENTRY IGNITION:801strider |
-| 13 | Escape from Tarkov | +2.75 | 9 | 38,312 | +14% | +251% | 99 | +1% | 0.156 |  |
-| 14 | Rainbow Six Siege | +2.75 | 35 | 6,112 | +52% | -31% | 100 | +1% | 0.3136 | IGNITION:ricci,mingo |
-| 15 | NBA 2K27 | +2.51 | 46 | 3,745 | - | +9% | 100 | - | 0.0959 | ENTRY |
+| 1 | Street Fighter 6 | +4.35 | 38 | 7,154 | +277% | - | 96 | -4% | 0.2657 | ENTRY IGNITION:godjj |
+| 2 | Delta Force | +3.82 | 37 | 7,765 | - | -8% | 100 | - | 0.325 | ENTRY IGNITION:qq7925168,miri_aetris |
+| 3 | Hearthstone | +3.59 | 25 | 11,063 | +89% | +16% | 93 | +29% | 0.2016 | IGNITION:jeefhs |
+| 4 | Old School RuneScape | +3.29 | 26 | 10,770 | +80% | -18% | 98 | -2% | 0.1799 | IGNITION:sick_nerd,b0aty |
+| 5 | Lycans | +3.25 | 44 | 6,308 | - | - | 15 | - | 0.6535 | ENTRY IGNITION:ponce |
+| 6 | Magical Girl Witch Trials | +3.25 | 23 | 13,949 | - | - | 17 | - | 0.9882 | ENTRY IGNITION:stylishnoob4 |
+| 7 | ACE COMBAT 8: WINGS OF THEVE | +3.25 | 81 | 2,641 | - | - | 24 | - | 0.9572 | ENTRY IGNITION:blusewilly_retry |
+| 8 | Underkeep | +3.25 | 54 | 4,863 | - | - | 5 | - | 0.9973 | ENTRY IGNITION:mistermv |
+| 9 | Playrooms | +3.25 | 61 | 4,024 | - | - | 16 | - | 0.7776 | ENTRY IGNITION:blackufa |
+| 10 | ZED ZONE | +3.25 | 53 | 5,172 | - | - | 19 | - | 0.7949 | ENTRY IGNITION:mobilmobil |
+| 11 | Worst Class Ever | +3.23 | 60 | 4,325 | - | - | 9 | - | 0.4042 | ENTRY IGNITION:orkpod |
+| 12 | PUBG: BATTLEGROUNDS | +3.21 | 30 | 9,238 | +264% | -28% | 93 | -7% | 0.1768 | IGNITION:des0ut |
+| 13 | FINAL FANTASY XIV ONLINE | +3.20 | 41 | 5,780 | +107% | - | 100 | +0% | 0.2597 | ENTRY IGNITION:clutch_fii |
+| 14 | Football Manager 27 | +2.63 | 56 | 4,550 | - | -14% | 73 | - | 0.2554 | ENTRY IGNITION:diehahn |
+| 15 | Mir Tankov | +2.32 | 43 | 6,522 | - | +13% | 98 | - | 0.2406 | ENTRY |
 
 ## Ignition alerts
 
@@ -30,29 +30,27 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| DayZ | summit1g | 14,444 | 9,801 | 84% | 27 |
-| Drawquarium | vinesauce | 10,589 | 6,934 | 99% | 39 |
-| Bratz: Rock Angelz | ohitspiper | 5,577 | 5,577 | 100% | 48 |
-| Wii Party | peereira7 | 235,604 | 4,771 | 100% | 52 |
-| Village in the Shade | henyathegenius | 4,591 | 3,437 | 99% | 69 |
-| SILENT HILL 2 | tminnzy | 3,172 | 2,741 | 94% | 73 |
-| Grand Theft Auto IV | stormfall33 | 3,949 | 2,644 | 62% | 59 |
-|  SEKIRO: SHADOWS DIE TWICE | s_chilla | 12,826 | 1,969 | 82% | 84 |
+| Magical Girl Witch Trials | stylishnoob4 | 26,093 | 13,784 | 99% | 23 |
+| Underkeep | mistermv | 8,131 | 4,850 | 100% | 54 |
+| Lycans | ponce | 4,952 | 4,122 | 65% | 44 |
+| ZED ZONE | mobilmobil | 6,308 | 4,111 | 79% | 53 |
+| Playrooms | blackufa | 5,540 | 3,129 | 78% | 61 |
+| ACE COMBAT 8: WINGS OF THEVE | blusewilly_retry | 3,439 | 2,528 | 96% | 81 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 1.203 | Escape from Tarkov | 38,312 | 31,852 |
-| 1.082 | Grand Theft Auto V | 67,720 | 62,606 |
-| 0.277 | Overwatch | 12,983 | 46,799 |
-| 0.261 | Dead by Daylight | 12,349 | 47,307 |
-| 0.253 | DayZ | 11,629 | 45,991 |
-| 0.022 | Rust | 2,308 | 103,211 |
-| 0.019 | Probably Stolen | 2,287 | 121,248 |
-| 0.018 | Counter-Strike | 19,673 | 1,089,270 |
-| 0.012 | Phantom Blade Zero | 3,506 | 280,692 |
-| 0.004 | PUBG: BATTLEGROUNDS | 2,537 | 707,459 |
+| 1.204 | Escape from Tarkov | 38,348 | 31,852 |
+| 0.41 | Grand Theft Auto V | 25,655 | 62,606 |
+| 0.33 | Dead by Daylight | 15,603 | 47,307 |
+| 0.277 | Path of Exile | 27,399 | 98,848 |
+| 0.273 | ELDEN RING | 6,935 | 25,388 |
+| 0.024 | Cyberpunk 2077 | 1,940 | 81,146 |
+| 0.019 | Probably Stolen | 2,296 | 121,248 |
+| 0.013 | Slay the Spire II | 2,205 | 164,877 |
+| 0.013 | Phantom Blade Zero | 3,781 | 280,692 |
+| 0.013 | PUBG: BATTLEGROUNDS | 9,238 | 707,459 |
 
 ---
 
