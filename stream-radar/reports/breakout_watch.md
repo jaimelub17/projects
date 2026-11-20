@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-11-19T20` (UTC). History: 192 snapshots spanning 1195h.
-Reference windows: short = `2026-11-19T10`, day = `2026-11-18T17`.
+Generated from snapshot `2026-11-20T03` (UTC). History: 193 snapshots spanning 1202h.
+Reference windows: short = `2026-11-19T20`, day = `2026-11-19T00`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | ELDEN RING | +7.83 | 26 | 11,072 | +301% | +361% | 98 | +2% | 0.5868 | IGNITION:krokoboss |
-| 2 | Slay the Spire II | +7.27 | 24 | 13,898 | +561% | +42% | 99 | +191% | 0.6143 | IGNITION:northernlion |
-| 3 | Rust | +6.56 | 48 | 5,720 | +340% | +147% | 99 | +0% | 0.2953 | IGNITION:oilrats |
-| 4 | Rocket League | +6.40 | 37 | 7,374 | +493% | +112% | 95 | +1% | 0.295 | IGNITION:mawkzy_ |
-| 5 | Call of Duty: Modern Warfare 4 | +6.12 | 22 | 12,126 | +217% | +132% | 99 | -1% | 0.2236 | IGNITION:zoomaa,shotzzy |
-| 6 | Playrooms | +6.07 | 81 | 3,301 | +162% | - | 46 | +254% | 0.7713 | BREADTH ENTRY IGNITION:buffpup |
-| 7 | Probably Stolen | +5.95 | 56 | 4,830 | +288% | - | 71 | +42% | 0.4135 | ENTRY IGNITION:edopeh,ilame |
-| 8 | PUBG: BATTLEGROUNDS | +5.00 | 41 | 7,394 | +475% | +80% | 99 | +1% | 0.2459 |  |
-| 9 | nanos world | +4.86 | 39 | 8,064 | - | +211% | 98 | - | 0.3089 | ENTRY |
-| 10 | Casino Jackpot | +4.40 | 78 | 3,398 | +112% | - | 6 | +200% | 0.45 | BREADTH ENTRY |
-| 11 | Delta Force | +4.35 | 57 | 4,644 | +167% | +61% | 100 | +4% | 0.2379 | IGNITION:krapycoco |
-| 12 | Fortnite | +4.35 | 5 | 36,753 | +373% | +124% | 100 | +1% | 0.1685 |  |
-| 13 | VRChat | +4.22 | 74 | 3,483 | +89% | +27% | 95 | +171% | 0.2558 | BREADTH |
-| 14 | World of Warships | +4.15 | 51 | 5,194 | - | +117% | 50 | - | 0.339 | ENTRY |
-| 15 | Knight Online | +4.00 | 27 | 11,138 | +181% | -7% | 96 | +85% | 0.1206 | IGNITION:pwnage |
+| 1 | I'm Only Sleeping | +6.72 | 9 | 26,652 | +1223% | +134% | 100 | +0% | 0.4714 |  |
+| 2 | ROB RUN | +3.76 | 6 | 34,333 | +163% | +186% | 100 | +4% | 0.4984 |  |
+| 3 | Dark Souls II | +3.25 | 77 | 2,133 | - | - | 10 | - | 0.9681 | ENTRY IGNITION:lilaggy |
+| 4 | Where Winds Meet | +3.25 | 80 | 1,954 | - | - | 70 | - | 0.2851 | ENTRY IGNITION:overlordbou |
+| 5 | Regression | +3.25 | 86 | 1,834 | - | - | 1 | - | 1.0 | ENTRY IGNITION:kingwoolz |
+| 6 | ELDEN RING | +3.08 | 32 | 6,513 | -41% | +241% | 100 | +2% | 0.7683 | IGNITION:asmongold247 |
+| 7 | Queen's Domain | +3.04 | 56 | 3,241 | - | +7% | 77 | - | 0.3409 | ENTRY IGNITION:surefour |
+| 8 | Playrooms | +2.87 | 49 | 3,884 | +18% | - | 56 | +22% | 0.699 | BREADTH ENTRY IGNITION:chibidoki |
+| 9 | MapleStory | +2.75 | 48 | 3,891 | +27% | -2% | 100 | +43% | 0.2462 | BREADTH IGNITION:duky |
+| 10 | Warframe | +2.34 | 50 | 3,600 | - | +30% | 96 | - | 0.3422 | ENTRY |
+| 11 | Brawl Stars | +2.25 | 10 | 26,276 | - | - | 94 | - | 0.7957 | ENTRY |
+| 12 | Super Mario Bros. | +2.25 | 76 | 2,144 | - | - | 5 | - | 0.9846 | ENTRY |
+| 13 | Street Fighter 6 | +2.23 | 66 | 2,428 | - | - | 100 | - | 0.3188 | ENTRY |
+| 14 | NBA 2K27 | +2.06 | 58 | 2,291 | - | +1% | 100 | - | 0.2759 | ENTRY |
+| 15 | Genshin Impact | +2.05 | 45 | 3,738 | -7% | +95% | 93 | -2% | 0.4058 |  |
 
 ## Ignition alerts
 
@@ -30,28 +30,28 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Slay the Spire II | northernlion | 13,812 | 8,538 | 61% | 24 |
-| ELDEN RING | krokoboss | 20,057 | 6,497 | 59% | 26 |
-| KORRIDOR | admiralbahroo | 4,913 | 3,848 | 99% | 70 |
-| The Binding of Isaac: Repentance | shisheyu | 4,082 | 3,547 | 68% | 53 |
-| Pokémon Platinum Version | redemption | 3,232 | 3,232 | 95% | 80 |
-| Super Mario World | barbarousking | 4,265 | 2,861 | 88% | 75 |
-| Playrooms | buffpup | 3,731 | 2,546 | 77% | 81 |
+| ELDEN RING | asmongold247 | 5,004 | 5,004 | 77% | 32 |
+| Playrooms | chibidoki | 3,554 | 2,715 | 70% | 49 |
+| EA Sports FC 27 | zwebackhd | 4,978 | 2,273 | 63% | 46 |
+| Dark Souls II | lilaggy | 4,408 | 2,065 | 97% | 77 |
+| Probably Stolen | barbarousking | 4,265 | 1,995 | 70% | 61 |
+| Regression | kingwoolz | 3,529 | 1,834 | 100% | 86 |
+| World of Tanks | dakillzor | 25,594 | 1,058 | 58% | 87 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 1.198 | Escape from Tarkov | 37,166 | 31,017 |
-| 0.538 | Overwatch | 23,888 | 44,403 |
-| 0.437 | ELDEN RING | 11,072 | 25,362 |
-| 0.309 | Grand Theft Auto V | 21,296 | 68,897 |
-| 0.303 | Arena Breakout: Infinite | 7,403 | 24,399 |
-| 0.031 | Counter-Strike | 37,672 | 1,221,105 |
-| 0.029 | Stardew Valley | 2,140 | 72,770 |
-| 0.025 | ROB RUN | 13,033 | 518,018 |
-| 0.01 | PUBG: BATTLEGROUNDS | 7,394 | 755,830 |
-| 0.009 | Phantom Blade Zero | 2,141 | 247,261 |
+| 0.969 | Escape from Tarkov | 29,707 | 30,654 |
+| 0.266 | ELDEN RING | 6,513 | 24,449 |
+| 0.248 | Dead by Daylight | 11,299 | 45,563 |
+| 0.232 | Wuthering Waves | 2,526 | 10,901 |
+| 0.178 | Overwatch | 7,535 | 42,381 |
+| 0.018 | Cyberpunk 2077 | 1,271 | 72,271 |
+| 0.016 | Slay the Spire II | 2,394 | 146,368 |
+| 0.014 | Counter-Strike | 15,763 | 1,108,670 |
+| 0.009 | Phantom Blade Zero | 2,093 | 224,327 |
+| 0.004 | PUBG: BATTLEGROUNDS | 2,594 | 729,448 |
 
 ---
 
