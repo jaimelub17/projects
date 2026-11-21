@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-11-21T03` (UTC). History: 196 snapshots spanning 1226h.
-Reference windows: short = `2026-11-20T21`, day = `2026-11-20T03`.
+Generated from snapshot `2026-11-21T12` (UTC). History: 197 snapshots spanning 1235h.
+Reference windows: short = `2026-11-21T03`, day = `2026-11-20T12`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Splatoon 3 | +4.25 | 29 | 9,656 | +75% | - | 79 | +80% | 0.9529 | BREADTH ENTRY IGNITION:batora324 |
-| 2 | I'm Only Sleeping | +4.09 | 10 | 26,737 | +689% | +0% | 99 | +0% | 0.5271 |  |
-| 3 | Red Dead Redemption II | +3.56 | 46 | 4,606 | +135% | - | 97 | +0% | 0.7132 | ENTRY IGNITION:henyathegenius |
-| 4 | Geometry Dash | +3.30 | 72 | 2,537 | - | - | 94 | - | 0.5885 | ENTRY IGNITION:doggie |
-| 5 | Pokémon Champions | +3.25 | 94 | 1,792 | - | - | 51 | - | 0.7545 | ENTRY IGNITION:pokemon |
-| 6 | Super Smash Bros. Ultimate | +3.25 | 90 | 1,917 | - | - | 97 | - | 0.3312 | ENTRY IGNITION:vgbootcamp |
-| 7 | Apex Legends | +3.18 | 13 | 16,608 | +109% | +191% | 98 | -2% | 0.2366 |  |
-| 8 | Marvel Rivals | +2.94 | 21 | 11,269 | +46% | +12% | 100 | +4% | 0.1591 | IGNITION:jay3,iitztimmy |
-| 9 | DayZ | +2.67 | 53 | 4,021 | -17% | +125% | 100 | +0% | 0.5334 | IGNITION:smoke |
-| 10 | Teamfight Tactics | +2.58 | 31 | 8,761 | -14% | +83% | 95 | -3% | 0.2904 | IGNITION:boxbox,mistermv |
-| 11 | VALORANT | +2.26 | 5 | 51,578 | +61% | +266% | 89 | -10% | 0.1589 |  |
-| 12 | SMITE 2 | +2.25 | 88 | 1,981 | - | - | 94 | - | 0.5906 | ENTRY |
-| 13 | Dragon Ball Legends | +2.25 | 44 | 5,201 | - | - | 37 | - | 0.3271 | ENTRY |
-| 14 | Casino Simulator 2024 | +2.25 | 96 | 1,721 | - | - | 5 | - | 0.4079 | ENTRY |
-| 15 | GIRLS' FRONTLINE 2: EXILIUM | +2.25 | 97 | 1,671 | - | - | 8 | - | 0.9916 | ENTRY |
+| 1 | World of Tanks | +7.15 | 13 | 23,044 | +585% | +386% | 99 | +30% | 0.5825 |  |
+| 2 | Delta Force | +4.96 | 30 | 9,656 | +387% | +63% | 98 | +0% | 0.1679 | IGNITION:admiralbulldog |
+| 3 | Trackmania | +4.62 | 56 | 4,266 | - | +76% | 26 | - | 0.3854 | ENTRY IGNITION:etoiles |
+| 4 | Pokémon Champions | +4.62 | 31 | 9,655 | +439% | -33% | 58 | +14% | 0.324 | IGNITION:knekro,pokemon |
+| 5 | EA Sports FC 27 | +4.45 | 18 | 15,468 | +43% | +384% | 98 | +0% | 0.1228 |  |
+| 6 | Overwatch | +4.35 | 6 | 68,638 | +732% | +14% | 95 | -1% | 0.2768 |  |
+| 7 | Knight Online | +4.28 | 46 | 5,437 | +209% | +29% | 65 | +55% | 0.2058 | IGNITION:pwnage |
+| 8 | World of Warships | +3.96 | 68 | 2,954 | - | +67% | 38 | - | 0.5308 | ENTRY IGNITION:ennaouii |
+| 9 | Hearthstone | +3.72 | 27 | 11,343 | +236% | +6% | 76 | +29% | 0.1585 | IGNITION:jeefhs |
+| 10 | The Witcher 3: Wild Hunt | +3.28 | 100 | 1,738 | - | - | 50 | - | 0.6001 | ENTRY IGNITION:gronkhtv |
+| 11 | Rock Band Simulator | +3.25 | 57 | 4,207 | - | - | 4 | - | 0.9988 | ENTRY IGNITION:mynthos |
+| 12 | Rose & Camellia | +3.25 | 93 | 1,904 | - | - | 1 | - | 1.0 | ENTRY IGNITION:p1lepe1el1 |
+| 13 | Escape Simulator 2 | +3.25 | 82 | 2,320 | - | - | 1 | - | 1.0 | ENTRY IGNITION:qq7925168 |
+| 14 | Sleeping: Counting Sheep | +3.25 | 66 | 3,203 | - | - | 3 | - | 0.9994 | ENTRY IGNITION:ludwig |
+| 15 | Football Manager 27 | +3.25 | 80 | 2,358 | - | +34% | 38 | - | 0.3774 | ENTRY IGNITION:brucegrannec |
 
 ## Ignition alerts
 
@@ -30,28 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Splatoon 3 | batora324 | 10,026 | 9,201 | 95% | 29 |
-| Pokémon GO | pokemongo | 38,492 | 3,320 | 75% | 50 |
-| Red Dead Redemption II | henyathegenius | 4,591 | 3,285 | 71% | 46 |
-| DayZ | smoke | 3,718 | 2,145 | 53% | 53 |
-| Geometry Dash | doggie | 4,123 | 1,493 | 59% | 72 |
-| Pokémon Champions | pokemon | 37,799 | 1,352 | 75% | 94 |
-| Queen's Domain | surefour | 3,663 | 1,190 | 51% | 74 |
+| Pokémon GO | pokemongo | 38,492 | 10,405 | 83% | 26 |
+| WWE 2K26 | yuyuta0702 | 15,307 | 6,432 | 100% | 38 |
+| Rock Band Simulator | mynthos | 6,624 | 4,202 | 100% | 57 |
+| Disco Elysium | cdawg | 16,095 | 4,101 | 99% | 58 |
+| Marvel Rivals | iitztimmy | 4,019 | 4,019 | 53% | 34 |
+| Mobile Legends: Bang Bang | tpabomah | 5,984 | 4,011 | 68% | 42 |
+| Sleeping: Counting Sheep | ludwig | 8,163 | 3,201 | 100% | 66 |
+| MARVEL Contest of Champions | cesgod | 3,353 | 2,904 | 59% | 51 |
+| Escape Simulator 2 | qq7925168 | 4,225 | 2,320 | 100% | 82 |
+| Rose & Camellia | p1lepe1el1 | 3,260 | 1,904 | 100% | 93 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 0.858 | Escape from Tarkov | 27,157 | 31,646 |
-| 0.205 | Wuthering Waves | 2,113 | 10,318 |
-| 0.196 | EA Sports FC 27 | 10,835 | 55,388 |
-| 0.187 | Marvel Rivals | 11,269 | 60,140 |
-| 0.184 | Dead by Daylight | 9,115 | 49,458 |
-| 0.019 | Delta Force | 1,983 | 103,135 |
-| 0.016 | Counter-Strike | 19,622 | 1,201,500 |
-| 0.01 | Slay the Spire II | 1,580 | 153,527 |
-| 0.008 | Phantom Blade Zero | 1,772 | 215,570 |
-| 0.003 | PUBG: BATTLEGROUNDS | 2,372 | 747,070 |
+| 1.436 | Overwatch | 68,638 | 47,782 |
+| 0.736 | Escape from Tarkov | 23,292 | 31,646 |
+| 0.495 | Grand Theft Auto V | 41,450 | 83,766 |
+| 0.279 | EA Sports FC 27 | 15,468 | 55,388 |
+| 0.175 | Path of Exile | 14,624 | 83,543 |
+| 0.033 | Rust | 3,808 | 115,995 |
+| 0.03 | Rainbow Six Siege | 1,811 | 60,773 |
+| 0.027 | Counter-Strike | 32,921 | 1,201,500 |
+| 0.024 | ROB RUN | 11,319 | 481,348 |
+| 0.009 | PUBG: BATTLEGROUNDS | 6,932 | 747,070 |
 
 ---
 
