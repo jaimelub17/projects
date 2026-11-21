@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-11-21T12` (UTC). History: 197 snapshots spanning 1235h.
-Reference windows: short = `2026-11-21T03`, day = `2026-11-20T12`.
+Generated from snapshot `2026-11-21T20` (UTC). History: 198 snapshots spanning 1243h.
+Reference windows: short = `2026-11-21T12`, day = `2026-11-20T21`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | World of Tanks | +7.15 | 13 | 23,044 | +585% | +386% | 99 | +30% | 0.5825 |  |
-| 2 | Delta Force | +4.96 | 30 | 9,656 | +387% | +63% | 98 | +0% | 0.1679 | IGNITION:admiralbulldog |
-| 3 | Trackmania | +4.62 | 56 | 4,266 | - | +76% | 26 | - | 0.3854 | ENTRY IGNITION:etoiles |
-| 4 | Pokémon Champions | +4.62 | 31 | 9,655 | +439% | -33% | 58 | +14% | 0.324 | IGNITION:knekro,pokemon |
-| 5 | EA Sports FC 27 | +4.45 | 18 | 15,468 | +43% | +384% | 98 | +0% | 0.1228 |  |
-| 6 | Overwatch | +4.35 | 6 | 68,638 | +732% | +14% | 95 | -1% | 0.2768 |  |
-| 7 | Knight Online | +4.28 | 46 | 5,437 | +209% | +29% | 65 | +55% | 0.2058 | IGNITION:pwnage |
-| 8 | World of Warships | +3.96 | 68 | 2,954 | - | +67% | 38 | - | 0.5308 | ENTRY IGNITION:ennaouii |
-| 9 | Hearthstone | +3.72 | 27 | 11,343 | +236% | +6% | 76 | +29% | 0.1585 | IGNITION:jeefhs |
-| 10 | The Witcher 3: Wild Hunt | +3.28 | 100 | 1,738 | - | - | 50 | - | 0.6001 | ENTRY IGNITION:gronkhtv |
-| 11 | Rock Band Simulator | +3.25 | 57 | 4,207 | - | - | 4 | - | 0.9988 | ENTRY IGNITION:mynthos |
-| 12 | Rose & Camellia | +3.25 | 93 | 1,904 | - | - | 1 | - | 1.0 | ENTRY IGNITION:p1lepe1el1 |
-| 13 | Escape Simulator 2 | +3.25 | 82 | 2,320 | - | - | 1 | - | 1.0 | ENTRY IGNITION:qq7925168 |
-| 14 | Sleeping: Counting Sheep | +3.25 | 66 | 3,203 | - | - | 3 | - | 0.9994 | ENTRY IGNITION:ludwig |
-| 15 | Football Manager 27 | +3.25 | 80 | 2,358 | - | +34% | 38 | - | 0.3774 | ENTRY IGNITION:brucegrannec |
+| 1 | Fortnite | +6.62 | 3 | 92,234 | +819% | +555% | 100 | +1% | 0.1181 |  |
+| 2 | SONIC PICO PARK | +5.62 | 29 | 11,870 | - | +110% | 14 | - | 0.3509 | ENTRY IGNITION:valkyrae,fuslie |
+| 3 | Call of Duty: Modern Warfare 4 | +5.00 | 25 | 12,200 | +224% | +33% | 98 | +0% | 0.2206 | IGNITION:zoomaa,shotzzy |
+| 4 | Pokémon Champions | +3.87 | 32 | 11,090 | +15% | - | 73 | +26% | 0.4759 | BREADTH ENTRY IGNITION:pokemon,sekiam |
+| 5 | Star Citizen | +3.86 | 45 | 7,666 | +114% | +74% | 98 | +3% | 0.4147 | IGNITION:knebeltv |
+| 6 | Deadlock | +3.64 | 21 | 13,724 | +73% | +14% | 98 | +3% | 0.232 | IGNITION:jamside,mikaels1 |
+| 7 | Minecraft | +3.52 | 7 | 42,376 | +328% | +79% | 96 | -2% | 0.2116 |  |
+| 8 | Probably Stolen | +3.39 | 65 | 4,574 | +29% | - | 87 | +55% | 0.7123 | BREADTH ENTRY IGNITION:insym |
+| 9 | VRChat | +3.38 | 52 | 5,893 | +184% | +24% | 100 | +59% | 0.2511 |  |
+| 10 | osu! | +3.25 | 48 | 6,858 | - | - | 100 | - | 0.5819 | ENTRY IGNITION:osulive |
+| 11 | Find the Needle | +3.25 | 59 | 5,042 | - | - | 21 | - | 0.9334 | ENTRY IGNITION:phunkroyal |
+| 12 | Abiotic Factor | +3.25 | 72 | 4,044 | - | - | 25 | - | 0.9688 | ENTRY IGNITION:limealicious |
+| 13 | GeoGuessr | +3.25 | 87 | 3,248 | - | - | 47 | - | 0.7201 | ENTRY IGNITION:kopsteep |
+| 14 | Booster Pack Heroes | +3.25 | 68 | 4,261 | - | - | 9 | - | 0.9894 | ENTRY IGNITION:admiralbahroo |
+| 15 | The Legend of Zelda: The Wind Waker | +3.25 | 78 | 3,973 | - | - | 13 | - | 0.5603 | ENTRY IGNITION:crocodyletv |
 
 ## Ignition alerts
 
@@ -30,31 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Pokémon GO | pokemongo | 38,492 | 10,405 | 83% | 26 |
-| WWE 2K26 | yuyuta0702 | 15,307 | 6,432 | 100% | 38 |
-| Rock Band Simulator | mynthos | 6,624 | 4,202 | 100% | 57 |
-| Disco Elysium | cdawg | 16,095 | 4,101 | 99% | 58 |
-| Marvel Rivals | iitztimmy | 4,019 | 4,019 | 53% | 34 |
-| Mobile Legends: Bang Bang | tpabomah | 5,984 | 4,011 | 68% | 42 |
-| Sleeping: Counting Sheep | ludwig | 8,163 | 3,201 | 100% | 66 |
-| MARVEL Contest of Champions | cesgod | 3,353 | 2,904 | 59% | 51 |
-| Escape Simulator 2 | qq7925168 | 4,225 | 2,320 | 100% | 82 |
-| Rose & Camellia | p1lepe1el1 | 3,260 | 1,904 | 100% | 93 |
+| War Thunder | warthunder_esports | 30,042 | 6,223 | 62% | 36 |
+| Pokémon GO | pokemongo | 38,492 | 5,253 | 71% | 46 |
+| Here Comes the Horde | knekro | 8,919 | 5,008 | 100% | 56 |
+| Find the Needle | phunkroyal | 4,706 | 4,706 | 93% | 59 |
+| Nintendo Switch Sports | zentreya | 5,347 | 4,622 | 100% | 63 |
+| Booster Pack Heroes | admiralbahroo | 4,913 | 4,216 | 99% | 68 |
+| osu! | osulive | 3,991 | 3,991 | 58% | 48 |
+| Abiotic Factor | limealicious | 3,918 | 3,918 | 97% | 72 |
+| Probably Stolen | insym | 6,739 | 3,258 | 71% | 65 |
+| Keepsake County | tomato | 4,666 | 3,151 | 100% | 85 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 1.436 | Overwatch | 68,638 | 47,782 |
-| 0.736 | Escape from Tarkov | 23,292 | 31,646 |
-| 0.495 | Grand Theft Auto V | 41,450 | 83,766 |
-| 0.279 | EA Sports FC 27 | 15,468 | 55,388 |
-| 0.175 | Path of Exile | 14,624 | 83,543 |
-| 0.033 | Rust | 3,808 | 115,995 |
-| 0.03 | Rainbow Six Siege | 1,811 | 60,773 |
-| 0.027 | Counter-Strike | 32,921 | 1,201,500 |
-| 0.024 | ROB RUN | 11,319 | 481,348 |
-| 0.009 | PUBG: BATTLEGROUNDS | 6,932 | 747,070 |
+| 1.091 | Overwatch | 52,151 | 47,782 |
+| 0.983 | Escape from Tarkov | 31,097 | 31,646 |
+| 0.279 | Rocket League | 7,128 | 25,577 |
+| 0.248 | EA Sports FC 27 | 13,757 | 55,388 |
+| 0.236 | Dead by Daylight | 11,669 | 49,458 |
+| 0.037 | Counter-Strike | 44,507 | 1,201,500 |
+| 0.037 | Apex Legends | 8,460 | 228,348 |
+| 0.034 | Rainbow Six Siege | 2,074 | 60,773 |
+| 0.02 | Slay the Spire II | 3,079 | 153,527 |
+| 0.013 | PUBG: BATTLEGROUNDS | 9,740 | 747,070 |
 
 ---
 
