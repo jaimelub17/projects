@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-11-22T09` (UTC). History: 200 snapshots spanning 1256h.
-Reference windows: short = `2026-11-22T02`, day = `2026-11-21T12`.
+Generated from snapshot `2026-11-22T17` (UTC). History: 201 snapshots spanning 1264h.
+Reference windows: short = `2026-11-22T09`, day = `2026-11-21T20`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Apex Legends | +4.69 | 5 | 59,399 | +340% | +278% | 100 | +0% | 0.1758 |  |
-| 2 | Teamfight Tactics | +3.96 | 30 | 8,330 | +243% | +21% | 100 | +0% | 0.3166 | IGNITION:greentea |
-| 3 | World of Tanks | +3.48 | 15 | 15,801 | +533% | -31% | 99 | +18% | 0.5324 |  |
-| 4 | WWE 2K26 | +3.36 | 13 | 17,280 | - | +168% | 16 | - | 0.6386 | ENTRY |
-| 5 | Deep Dish Dungeon | +3.25 | 34 | 6,482 | - | - | 4 | - | 0.9701 | ENTRY IGNITION:ironmouse |
-| 6 | Eternal Return | +3.25 | 61 | 3,051 | - | - | 26 | - | 0.7955 | ENTRY IGNITION:failverde |
-| 7 | Punch The Walls | +3.25 | 39 | 5,146 | - | - | 4 | - | 0.9977 | ENTRY IGNITION:mynthos |
-| 8 | No Asteroids | +3.25 | 53 | 3,633 | - | - | 1 | - | 1.0 | ENTRY IGNITION:maxim |
-| 9 | Satisfactory | +3.25 | 79 | 1,912 | - | - | 40 | - | 0.7071 | ENTRY IGNITION:gronkhtv |
-| 10 | Genshin Impact | +3.08 | 52 | 3,516 | -8% | +99% | 95 | -3% | 0.6214 | IGNITION:zy0xxx |
-| 11 | PUBG: BATTLEGROUNDS | +2.78 | 37 | 5,539 | +161% | -20% | 99 | +6% | 0.4977 | IGNITION:kenki521 |
-| 12 | Disco Elysium | +2.59 | 55 | 3,478 | - | -16% | 6 | - | 0.9971 | ENTRY IGNITION:cdawg |
-| 13 | Arena Breakout: Infinite | +2.38 | 60 | 3,075 | - | +22% | 100 | - | 0.28 | ENTRY |
-| 14 | Battlefield 6 | +2.36 | 88 | 1,603 | - | - | 99 | - | 0.2483 | ENTRY |
-| 15 | Farming Simulator 25 | +2.28 | 87 | 1,627 | - | - | 93 | - | 0.1506 | ENTRY |
+| 1 | Rocket League | +7.88 | 13 | 30,062 | +1271% | +322% | 95 | +3% | 0.4005 |  |
+| 2 | Probably Stolen | +7.28 | 39 | 9,252 | +348% | +102% | 71 | +58% | 0.4082 | IGNITION:admiralbahroo,edopeh |
+| 3 | Delta Force | +6.99 | 25 | 13,654 | +390% | +215% | 100 | +0% | 0.1822 | IGNITION:bbbb87 |
+| 4 | Playrooms | +6.01 | 46 | 7,837 | +461% | - | 31 | +72% | 0.5117 | ENTRY IGNITION:knekro |
+| 5 | Mobile Legends: Bang Bang | +5.93 | 54 | 6,368 | +334% | - | 94 | +18% | 0.2417 | ENTRY IGNITION:stray228,afoninje |
+| 6 | Fortnite | +5.33 | 4 | 101,309 | +1305% | +10% | 97 | +1% | 0.1539 |  |
+| 7 | Heroes of Might and Magic III: The Restoration of Erathia | +5.04 | 64 | 5,264 | +187% | +42% | 52 | +73% | 0.4766 | IGNITION:heroes_hub |
+| 8 | Knight Online | +5.02 | 32 | 10,521 | +156% | +23% | 99 | +55% | 0.2382 | IGNITION:levo,yaheljr |
+| 9 | Rust | +4.84 | 47 | 7,287 | +452% | +27% | 98 | +0% | 0.324 | IGNITION:oilrats |
+| 10 | Old School RuneScape | +4.69 | 26 | 13,002 | +172% | +31% | 95 | +1% | 0.1665 | IGNITION:sick_nerd,b0aty |
+| 11 | Call of Duty: Modern Warfare 4 | +4.09 | 30 | 10,812 | +226% | -11% | 100 | +2% | 0.2602 | IGNITION:zoomaa,methodz |
+| 12 | The Legend of Zelda: Ocarina of Time | +4.05 | 24 | 11,500 | +117% | +33% | 100 | +1% | 0.2456 | IGNITION:alexelcapo,clutch_fii |
+| 13 | osu! | +4.01 | 41 | 8,681 | - | +27% | 99 | - | 0.6255 | ENTRY IGNITION:osulive,chicony |
+| 14 | Grand Theft Auto V | +3.94 | 9 | 31,272 | +350% | +79% | 97 | -1% | 0.0807 |  |
+| 15 | PUBG: BATTLEGROUNDS | +3.81 | 18 | 19,153 | +246% | +97% | 99 | +0% | 0.6583 |  |
 
 ## Ignition alerts
 
@@ -30,31 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| Deep Dish Dungeon | ironmouse | 14,687 | 6,288 | 97% | 34 |
-| Punch The Walls | mynthos | 6,624 | 5,134 | 100% | 39 |
-| No Asteroids | maxim | 9,360 | 3,633 | 100% | 53 |
-| Disco Elysium | cdawg | 16,095 | 3,468 | 100% | 55 |
-| Eternal Return | failverde | 3,169 | 2,427 | 80% | 61 |
-| Genshin Impact | zy0xxx | 4,886 | 2,185 | 62% | 52 |
-| Pokémon Champions | pokemon | 37,799 | 1,975 | 84% | 69 |
-| ELDEN RING | asmongold247 | 6,867 | 1,924 | 62% | 59 |
-| MARVEL Contest of Champions | cesgod | 3,353 | 1,524 | 76% | 77 |
-| Satisfactory | gronkhtv | 4,125 | 1,352 | 71% | 79 |
+| Splatoon 3 | batora324 | 10,026 | 5,711 | 63% | 40 |
+| osu! | osulive | 5,430 | 5,430 | 63% | 41 |
+| Night of the Living Toys | xop0 | 5,617 | 5,381 | 100% | 63 |
+| Pokémon Trading Card Game | pokemon | 37,799 | 5,348 | 64% | 38 |
+| Pokémon GO | pokemongo | 38,492 | 4,714 | 80% | 56 |
+| Moon Sweepers | shlorox | 9,291 | 4,264 | 82% | 68 |
+| Playrooms | knekro | 8,919 | 4,010 | 51% | 46 |
+| Finals Week  | sleduck | 4,242 | 3,628 | 70% | 65 |
+| Valheim | kspksp | 4,061 | 3,379 | 68% | 66 |
+| War Thunder | warthunder_esports | 30,042 | 2,954 | 53% | 60 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 0.743 | Overwatch | 38,586 | 51,957 |
-| 0.25 | Apex Legends | 59,399 | 237,886 |
-| 0.14 | Street Fighter 6 | 4,057 | 28,890 |
-| 0.14 | Dead by Daylight | 7,651 | 54,806 |
-| 0.139 | EA Sports FC 27 | 7,811 | 56,194 |
-| 0.02 | Counter-Strike | 25,504 | 1,259,590 |
-| 0.015 | Slay the Spire II | 2,437 | 158,193 |
-| 0.011 | Rust | 1,321 | 117,962 |
-| 0.007 | PUBG: BATTLEGROUNDS | 5,539 | 770,200 |
-| 0.006 | Phantom Blade Zero | 1,390 | 216,658 |
+| 1.199 | Rocket League | 30,062 | 25,083 |
+| 0.933 | Overwatch | 48,491 | 51,957 |
+| 0.337 | EA Sports FC 27 | 18,954 | 56,194 |
+| 0.323 | Grand Theft Auto V | 31,272 | 96,720 |
+| 0.242 | Arena Breakout: Infinite | 6,626 | 27,396 |
+| 0.036 | Counter-Strike | 45,333 | 1,259,590 |
+| 0.033 | ROB RUN | 16,554 | 495,857 |
+| 0.027 | Rainbow Six Siege | 1,844 | 67,292 |
+| 0.025 | PUBG: BATTLEGROUNDS | 19,153 | 770,200 |
+| 0.013 | Phantom Blade Zero | 2,740 | 216,658 |
 
 ---
 
