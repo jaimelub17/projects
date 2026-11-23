@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-11-22T23` (UTC). History: 202 snapshots spanning 1270h.
-Reference windows: short = `2026-11-22T17`, day = `2026-11-21T20`.
+Generated from snapshot `2026-11-23T07` (UTC). History: 203 snapshots spanning 1278h.
+Reference windows: short = `2026-11-22T23`, day = `2026-11-22T09`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Rainbow Six Siege | +6.49 | 43 | 4,727 | +156% | +128% | 95 | +0% | 0.3038 | IGNITION:mingo,ricci |
-| 2 | Queen's Domain | +5.91 | 38 | 8,603 | - | +200% | 93 | - | 0.5762 | ENTRY IGNITION:bonjwa |
-| 3 | nanos world | +5.44 | 26 | 14,197 | +200% | +80% | 96 | -3% | 0.2648 | IGNITION:onlyjson,mehditdonc |
-| 4 | ELDEN RING | +4.67 | 32 | 10,137 | +220% | +73% | 99 | +0% | 0.7512 | IGNITION:krokoboss |
-| 5 | Apex Legends | +3.64 | 21 | 13,693 | +51% | +62% | 98 | -2% | 0.3768 | IGNITION:nicewigg,faide |
-| 6 | MapleStory | +3.64 | 55 | 4,210 | +66% | +30% | 83 | +1% | 0.4682 | IGNITION:ereklo_game |
-| 7 | Red Dead Redemption II | +3.37 | 50 | 1,995 | - | - | 98 | - | 0.0997 | ENTRY IGNITION:lumenti |
-| 8 | Voices of the Void | +3.25 | 52 | 4,568 | - | - | 22 | - | 0.9731 | ENTRY IGNITION:limealicious |
-| 9 | I'm Only Sleeping | +3.25 | 61 | 3,731 | - | - | 98 | - | 0.1994 | ENTRY IGNITION:samueletienne |
-| 10 | Yu-Gi-Oh! Master Duel | +3.24 | 63 | 3,547 | - | - | 55 | - | 0.839 | ENTRY IGNITION:dkayed |
-| 11 | ARC Raiders | +2.98 | 46 | 4,034 | +13% | +50% | 97 | +4% | 0.122 | IGNITION:cyficy |
-| 12 | Garry's Mod | +2.86 | 78 | 2,572 | - | -13% | 82 | - | 0.3729 | ENTRY IGNITION:zongoled0z0 |
-| 13 | Slay the Spire II | +2.41 | 66 | 3,111 | - | +1% | 94 | - | 0.4513 | ENTRY |
-| 14 | FINAL FANTASY XIV ONLINE | +2.40 | 54 | 3,626 | +15% | +66% | 100 | +3% | 0.179 |  |
-| 15 | Cyberpunk 2077 | +2.35 | 86 | 1,983 | - | - | 100 | - | 0.1014 | ENTRY |
+| 1 | SILENT HILL: townfall | +3.25 | 59 | 2,095 | - | - | 14 | - | 0.9332 | ENTRY IGNITION:grimmi |
+| 2 | Moon Sweepers | +2.28 | 46 | 2,874 | - | - | 59 | - | 0.6402 | ENTRY |
+| 3 | The Witness | +2.25 | 52 | 2,393 | - | - | 5 | - | 0.9929 | ENTRY |
+| 4 | Zombies Aren't Real | +2.25 | 62 | 1,910 | - | - | 4 | - | 0.9948 | ENTRY |
+| 5 | Powerful Pro Yakyuu 2026-2027 | +2.25 | 15 | 14,674 | - | - | 3 | - | 0.7594 | ENTRY |
+| 6 | The Elder Scrolls V: Skyrim | +2.20 | 55 | 2,334 | - | +2% | 48 | - | 0.7763 | ENTRY |
+| 7 | WWE 2K26 | +2.18 | 10 | 18,015 | - | +4% | 32 | - | 0.6383 | ENTRY |
+| 8 | I'm Only Sleeping | +2.00 | 17 | 12,156 | +226% | -24% | 100 | +2% | 0.1901 |  |
+| 9 | Marvel Rivals | +1.75 | 22 | 8,234 | +32% | +3% | 99 | +0% | 0.3096 | IGNITION:arky |
+| 10 | Path of Exile | +1.35 | 25 | 9,545 | -18% | -15% | 100 | +2% | 0.16 | IGNITION:jungroan,avoidingthepuddle |
+| 11 | NBA 2K27 | +1.29 | 51 | 2,149 | +43% | - | 89 | -11% | 0.1456 | ENTRY |
+| 12 | ROB RUN | +1.11 | 6 | 24,498 | -12% | +108% | 99 | +2% | 0.4707 |  |
+| 13 | Rocket League | +1.07 | 43 | 2,736 | -62% | +25% | 91 | -9% | 0.4631 | IGNITION:kaydop,mawkzy_ |
+| 14 | Marbles on Stream | +0.74 | 64 | 1,847 | -24% | +38% | 76 | -21% | 0.1548 |  |
+| 15 | Street Fighter 6 | +0.72 | 50 | 2,048 | - | -50% | 94 | - | 0.3105 | ENTRY |
 
 ## Ignition alerts
 
@@ -30,30 +30,23 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| ELDEN RING | krokoboss | 20,057 | 7,615 | 75% | 32 |
-| Queen's Domain | bonjwa | 10,237 | 4,957 | 58% | 38 |
-| Voices of the Void | limealicious | 4,445 | 4,445 | 97% | 52 |
-| Yu-Gi-Oh! Master Duel | dkayed | 3,862 | 2,976 | 84% | 63 |
-| Probably Stolen | barbarousking | 4,265 | 2,946 | 70% | 56 |
-| Rust | oilrats | 6,398 | 2,173 | 56% | 58 |
-| Pokémon GO | pokemongo | 38,492 | 2,059 | 68% | 67 |
-| World of Tanks | dakillzor | 25,594 | 1,699 | 61% | 74 |
-| Pokémon Champions | pokemon | 37,799 | 1,304 | 69% | 99 |
+| SILENT HILL: townfall | grimmi | 3,269 | 1,955 | 93% | 59 |
+| Bum Simulator | gronkhtv | 4,125 | 1,389 | 100% | 73 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 0.909 | Overwatch | 47,242 | 51,957 |
-| 0.322 | ELDEN RING | 10,137 | 31,433 |
-| 0.288 | Rocket League | 7,229 | 25,083 |
-| 0.277 | EA Sports FC 27 | 15,553 | 56,194 |
-| 0.211 | Dead by Daylight | 11,578 | 54,806 |
-| 0.02 | Slay the Spire II | 3,111 | 158,193 |
-| 0.02 | Cyberpunk 2077 | 1,983 | 97,378 |
-| 0.015 | Counter-Strike | 18,752 | 1,259,590 |
-| 0.012 | PUBG: BATTLEGROUNDS | 9,132 | 770,200 |
-| 0.008 | Phantom Blade Zero | 1,751 | 216,658 |
+| 0.268 | Overwatch | 14,125 | 52,641 |
+| 0.14 | Marvel Rivals | 8,234 | 58,690 |
+| 0.115 | Path of Exile | 9,545 | 83,151 |
+| 0.113 | Dead by Daylight | 6,391 | 56,553 |
+| 0.11 | Moon Sweepers | 2,874 | 26,163 |
+| 0.013 | Warframe | 1,030 | 80,582 |
+| 0.009 | Slay the Spire II | 1,368 | 151,859 |
+| 0.008 | Rust | 860 | 108,041 |
+| 0.007 | Phantom Blade Zero | 1,468 | 204,080 |
+| 0.002 | PUBG: BATTLEGROUNDS | 1,253 | 771,537 |
 
 ---
 
