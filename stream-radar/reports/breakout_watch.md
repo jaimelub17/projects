@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-11-24T17` (UTC). History: 206 snapshots spanning 1312h.
-Reference windows: short = `2026-11-24T04`, day = `2026-11-23T20`.
+Generated from snapshot `2026-11-25T02` (UTC). History: 207 snapshots spanning 1321h.
+Reference windows: short = `2026-11-24T17`, day = `2026-11-24T04`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Hearthstone | +7.20 | 25 | 15,030 | +302% | +79% | 96 | +92% | 0.2321 | IGNITION:playhearthstone,jeefhs |
-| 2 | World of Tanks | +6.99 | 22 | 16,968 | +620% | -21% | 97 | +142% | 0.4291 | IGNITION:dakillzor,mailand |
-| 3 | Dead by Daylight | +5.63 | 6 | 50,203 | +485% | +361% | 100 | +0% | 0.0894 |  |
-| 4 | EA Sports FC 27 | +5.60 | 21 | 16,915 | +498% | +2% | 99 | +3% | 0.2051 | IGNITION:dannyaarons,auziomf |
-| 5 | Dota 2 | +5.52 | 3 | 125,462 | +582% | +259% | 100 | +2% | 0.2741 |  |
-| 6 | Delta Force | +4.96 | 36 | 9,446 | - | +145% | 100 | - | 0.1935 | ENTRY IGNITION:bbbb87 |
-| 7 | Escape from Tarkov | +4.79 | 26 | 12,972 | +253% | +64% | 99 | +1% | 0.2778 | IGNITION:glorious_e |
-| 8 | Rainbow Six Siege | +4.71 | 41 | 7,197 | +72% | +224% | 100 | +0% | 0.5972 | IGNITION:itsspoit |
-| 9 | Trees Hate You | +4.69 | 53 | 6,039 | +130% | +92% | 29 | -34% | 0.7028 | IGNITION:bonjwa,aslanshukasha |
-| 10 | Path of Exile 2 | +4.25 | 73 | 4,244 | - | - | 89 | - | 0.3735 | ENTRY IGNITION:zizaran,rakin |
-| 11 | Hunt: Showdown 1896 | +3.95 | 75 | 3,511 | +109% | +30% | 99 | +3% | 0.1717 | IGNITION:rachtaz,psychoghost |
-| 12 | Splatoon 3 | +3.83 | 27 | 14,019 | - | +5% | 42 | - | 0.6565 | ENTRY IGNITION:batora324,shinjifromjapanxd |
-| 13 | Probably Stolen | +3.66 | 49 | 6,543 | - | +1% | 72 | - | 0.2931 | ENTRY IGNITION:edopeh,piratesoftware |
-| 14 | WARDOGS | +3.41 | 37 | 8,227 | +252% | +42% | 100 | +2% | 0.1198 |  |
-| 15 | Sleeping: Counting Sheep | +3.25 | 82 | 3,518 | - | - | 3 | - | 0.9966 | ENTRY IGNITION:ludwig |
+| 1 | ROBLOX | +7.79 | 11 | 24,469 | +540% | +1296% | 95 | +1% | 0.9259 |  |
+| 2 | Golf With Your Friends | +4.25 | 41 | 5,858 | - | - | 12 | - | 0.7166 | ENTRY IGNITION:valkyrae,arckon |
+| 3 | Teamfight Tactics | +3.47 | 27 | 9,907 | +29% | +82% | 98 | -2% | 0.2232 | IGNITION:boxbox,disguisedtoast |
+| 4 | Million to One | +3.25 | 35 | 6,737 | - | - | 16 | - | 0.8424 | ENTRY IGNITION:pointcrow |
+| 5 | VRChat | +3.06 | 30 | 7,744 | +115% | +46% | 99 | +74% | 0.2044 |  |
+| 6 | Red Dead Redemption II | +2.91 | 45 | 4,900 | +71% | - | 97 | +2% | 0.7859 | ENTRY IGNITION:henyathegenius |
+| 7 | Madden NFL 27 | +2.89 | 67 | 1,840 | - | +92% | 92 | - | 0.2799 | ENTRY |
+| 8 | AION 2 | +2.67 | 33 | 6,647 | -2% | +47% | 100 | +1% | 0.0978 | IGNITION:johnpal,cahos_gaming |
+| 9 | Warframe | +2.67 | 68 | 2,776 | - | +94% | 97 | - | 0.5101 | ENTRY |
+| 10 | MapleStory | +2.37 | 64 | 3,255 | - | +16% | 100 | - | 0.1134 | ENTRY IGNITION:duky |
+| 11 | Slay the Spire II | +2.29 | 52 | 3,976 | +23% | +113% | 96 | +16% | 0.2912 |  |
+| 12 | Rainbow Six Siege | +2.27 | 31 | 6,013 | -16% | +44% | 100 | +0% | 0.3522 | IGNITION:ricci,razah |
+| 13 | SMITE 2 | +2.25 | 81 | 2,080 | - | - | 100 | - | 0.4274 | ENTRY |
+| 14 | The Long Dark | +2.25 | 73 | 2,663 | - | - | 18 | - | 0.2632 | ENTRY |
+| 15 | Milki Delivery | +2.25 | 94 | 1,716 | - | - | 12 | - | 0.891 | ENTRY |
 
 ## Ignition alerts
 
@@ -30,31 +30,28 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| WWE 2K26 | fps_shaka | 41,135 | 12,102 | 99% | 30 |
-| Dungeonbound | handofblood | 16,986 | 10,211 | 100% | 35 |
-| Splatoon 3 | batora324 | 10,026 | 9,204 | 66% | 27 |
-| Rainbow Six Siege | itsspoit | 6,169 | 4,298 | 60% | 41 |
-| Trees Hate You | bonjwa | 10,237 | 4,244 | 70% | 53 |
-| Slotbound | admiralbahroo | 4,913 | 3,549 | 99% | 81 |
-| Sleeping: Counting Sheep | ludwig | 8,163 | 3,506 | 100% | 82 |
-| Star Fox Adventures | barbarousking | 4,265 | 3,415 | 100% | 83 |
-| Jinro Metropolis | xhalli4x | 4,609 | 2,549 | 98% | 95 |
-| Punch Your Way Out | rumathra | 6,726 | 2,274 | 88% | 94 |
+| Million to One | pointcrow | 5,675 | 5,675 | 84% | 35 |
+| Golf With Your Friends | valkyrae | 14,967 | 4,198 | 72% | 41 |
+| Red Dead Redemption II | henyathegenius | 4,591 | 3,851 | 79% | 45 |
+| ELDEN RING | lilaggy | 4,408 | 2,695 | 51% | 43 |
+| Probably Stolen | barbarousking | 4,265 | 2,221 | 73% | 66 |
+| World of Tanks | dakillzor | 25,594 | 1,707 | 66% | 74 |
+| Splatoon 3 | gocchanmikey | 12,744 | 1,528 | 86% | 91 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 1.101 | Dead by Daylight | 50,203 | 45,608 |
-| 0.825 | Overwatch | 36,963 | 44,786 |
-| 0.527 | Marvel Rivals | 31,054 | 58,904 |
-| 0.365 | Phasmophobia | 3,954 | 10,831 |
-| 0.316 | EA Sports FC 27 | 16,915 | 53,533 |
-| 0.043 | ROB RUN | 20,264 | 475,041 |
-| 0.042 | War Thunder | 2,876 | 69,004 |
-| 0.023 | Slay the Spire II | 3,244 | 139,137 |
-| 0.01 | Phantom Blade Zero | 1,868 | 182,732 |
-| 0.006 | PUBG: BATTLEGROUNDS | 4,781 | 751,809 |
+| 0.322 | Marvel Rivals | 18,209 | 56,628 |
+| 0.291 | Dead by Daylight | 21,725 | 74,585 |
+| 0.258 | Overwatch | 10,792 | 41,888 |
+| 0.235 | Grand Theft Auto V | 20,168 | 85,955 |
+| 0.208 | ELDEN RING | 5,317 | 25,534 |
+| 0.023 | Apex Legends | 5,010 | 215,850 |
+| 0.02 | Dota 2 | 15,119 | 742,462 |
+| 0.02 | Cyberpunk 2077 | 1,354 | 69,262 |
+| 0.015 | Counter-Strike | 15,686 | 1,070,714 |
+| 0.014 | Phantom Blade Zero | 2,383 | 169,845 |
 
 ---
 
