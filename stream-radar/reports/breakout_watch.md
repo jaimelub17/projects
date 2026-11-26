@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-11-25T14` (UTC). History: 208 snapshots spanning 1333h.
-Reference windows: short = `2026-11-25T02`, day = `2026-11-24T17`.
+Generated from snapshot `2026-11-26T00` (UTC). History: 209 snapshots spanning 1343h.
+Reference windows: short = `2026-11-25T14`, day = `2026-11-25T02`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Splatoon 3 | +10.57 | 8 | 47,497 | +2588% | +239% | 94 | +154% | 0.3955 |  |
-| 2 | AION 2 | +6.29 | 12 | 35,847 | +439% | +431% | 99 | -1% | 0.0733 |  |
-| 3 | PUBG: BATTLEGROUNDS | +5.69 | 9 | 46,131 | - | +865% | 96 | - | 0.2918 | ENTRY |
-| 4 | Disney Dreamlight Valley | +4.68 | 73 | 2,889 | - | +27% | 91 | - | 0.1651 | ENTRY IGNITION:serroh,lauryn |
-| 5 | Delta Force | +4.53 | 22 | 15,657 | - | +66% | 97 | - | 0.24 | ENTRY IGNITION:krapycoco,qq7925168 |
-| 6 | Path of Exile 2 | +4.28 | 50 | 4,666 | - | +10% | 65 | - | 0.2985 | ENTRY IGNITION:zizaran,rakin |
-| 7 | No Asteroids | +4.25 | 37 | 7,658 | - | - | 46 | - | 0.5759 | ENTRY IGNITION:mynthos,bonjwa |
-| 8 | Phantom Blade Zero | +3.97 | 61 | 3,512 | +47% | +88% | 100 | +3% | 0.5356 | IGNITION:godjj |
-| 9 | Street Fighter 6 | +3.37 | 54 | 3,923 | +136% | - | 93 | -7% | 0.2167 | ENTRY IGNITION:dingding248 |
-| 10 | World of Tanks | +3.35 | 39 | 6,986 | +168% | -59% | 96 | +88% | 0.2372 | IGNITION:dakillzor,dezgamez |
-| 11 | Jinro Metropolis | +3.32 | 78 | 2,749 | - | +5% | 9 | - | 0.7559 | ENTRY IGNITION:xhalli4x |
-| 12 | Suzy Says! | +3.25 | 90 | 2,143 | - | - | 1 | - | 1.0 | ENTRY IGNITION:p1lepe1el1 |
-| 13 | Playrooms | +3.25 | 85 | 2,483 | - | - | 11 | - | 0.9303 | ENTRY IGNITION:yotobi |
-| 14 | Portal | +3.25 | 80 | 2,709 | - | - | 3 | - | 0.9985 | ENTRY IGNITION:barbarousking |
-| 15 | The Witcher 3: Wild Hunt | +3.22 | 94 | 1,647 | - | - | 58 | - | 0.629 | ENTRY IGNITION:gronkhtv |
+| 1 | nanos world | +7.41 | 30 | 10,401 | - | +386% | 100 | - | 0.2976 | ENTRY IGNITION:onlyjson |
+| 2 | Rainbow Six Siege | +7.24 | 17 | 23,269 | +1328% | +287% | 99 | +1% | 0.8239 |  |
+| 3 | Geometry Dash | +4.48 | 63 | 3,029 | - | +87% | 97 | - | 0.7494 | ENTRY IGNITION:zoinkgd |
+| 4 | Rocket League | +4.41 | 34 | 6,924 | +213% | +84% | 98 | -2% | 0.6274 | IGNITION:kaydop |
+| 5 | How They Built the Pyramids | +4.25 | 28 | 11,863 | - | - | 13 | - | 0.5 | ENTRY IGNITION:xrohat,coachlim |
+| 6 | World of Warships | +4.25 | 71 | 2,718 | - | - | 25 | - | 0.7513 | ENTRY IGNITION:worldofwarships,overlordbou |
+| 7 | DayZ | +4.10 | 51 | 4,365 | +91% | +98% | 100 | +1% | 0.5297 | IGNITION:smoke |
+| 8 | AION 2 | +3.91 | 5 | 51,517 | +44% | +675% | 100 | +1% | 0.2023 |  |
+| 9 | ELDEN RING | +3.51 | 32 | 9,188 | +117% | +73% | 99 | -1% | 0.7546 | IGNITION:krokoboss |
+| 10 | Silver Pines | +3.25 | 98 | 1,619 | - | - | 16 | - | 0.9685 | ENTRY IGNITION:dariomocciatwitch |
+| 11 | Pokémon Trading Card Game | +3.25 | 86 | 1,915 | - | - | 33 | - | 0.4167 | ENTRY IGNITION:pokemon |
+| 12 | Sonic Adventure 2 | +3.25 | 72 | 2,714 | - | - | 1 | - | 1.0 | ENTRY IGNITION:chibidoki |
+| 13 | Garry's Mod | +3.25 | 77 | 2,355 | - | - | 60 | - | 0.4671 | ENTRY IGNITION:zongoled0z0 |
+| 14 | Nintendo Switch Sports Resort | +3.25 | 21 | 18,637 | - | - | 2 | - | 0.9997 | ENTRY IGNITION:xqc |
+| 15 | Once Human | +2.86 | 54 | 3,482 | +18% | +135% | 100 | +0% | 0.2995 |  |
 
 ## Ignition alerts
 
@@ -30,28 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| No Asteroids | mynthos | 6,624 | 4,410 | 58% | 37 |
-| Portal | barbarousking | 4,265 | 2,705 | 100% | 80 |
-| Playrooms | yotobi | 3,078 | 2,310 | 93% | 85 |
-| Suzy Says! | p1lepe1el1 | 3,260 | 2,143 | 100% | 90 |
-| Jinro Metropolis | xhalli4x | 4,609 | 2,078 | 76% | 78 |
-| Phantom Blade Zero | godjj | 3,588 | 1,881 | 54% | 61 |
-| The Witcher 3: Wild Hunt | gronkhtv | 4,125 | 1,036 | 63% | 94 |
+| Nintendo Switch Sports Resort | xqc | 36,630 | 18,631 | 100% | 21 |
+| ELDEN RING | krokoboss | 20,057 | 6,933 | 75% | 32 |
+| How They Built the Pyramids | xrohat | 32,437 | 5,931 | 50% | 28 |
+| Escape from Tarkov | lvndmark | 13,859 | 5,369 | 63% | 33 |
+| Rocket League | kaydop | 6,055 | 4,344 | 63% | 34 |
+| Sonic Adventure 2 | chibidoki | 3,554 | 2,714 | 100% | 72 |
+| DayZ | smoke | 3,718 | 2,312 | 53% | 51 |
+| Geometry Dash | zoinkgd | 4,190 | 2,270 | 75% | 63 |
+| World of Warships | worldofwarships | 8,883 | 2,042 | 75% | 71 |
+| World of Tanks | dakillzor | 25,594 | 1,616 | 52% | 61 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 0.671 | Overwatch | 28,101 | 41,888 |
-| 0.472 | Marvel Rivals | 26,710 | 56,628 |
-| 0.378 | Grand Theft Auto V | 32,530 | 85,955 |
-| 0.302 | Dead by Daylight | 22,556 | 74,585 |
-| 0.295 | AION 2 | 35,847 | 121,495 |
-| 0.036 | Football Manager 27 | 2,039 | 56,237 |
-| 0.03 | Rust | 2,573 | 86,129 |
-| 0.029 | Rainbow Six Siege | 1,629 | 57,035 |
-| 0.021 | Phantom Blade Zero | 3,512 | 169,845 |
-| 0.019 | Slay the Spire II | 2,565 | 135,151 |
+| 0.46 | Overwatch | 19,254 | 41,888 |
+| 0.424 | AION 2 | 51,517 | 121,495 |
+| 0.408 | Rainbow Six Siege | 23,269 | 57,035 |
+| 0.36 | ELDEN RING | 9,188 | 25,534 |
+| 0.319 | Grand Theft Auto V | 27,453 | 85,955 |
+| 0.021 | Delta Force | 1,917 | 91,929 |
+| 0.02 | Counter-Strike | 21,586 | 1,070,714 |
+| 0.019 | Rust | 1,598 | 86,129 |
+| 0.014 | Phantom Blade Zero | 2,355 | 169,845 |
+| 0.007 | PUBG: BATTLEGROUNDS | 5,354 | 735,865 |
 
 ---
 
