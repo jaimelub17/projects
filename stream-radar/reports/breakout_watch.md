@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-11-26T21` (UTC). History: 211 snapshots spanning 1364h.
-Reference windows: short = `2026-11-26T10`, day = `2026-11-26T00`.
+Generated from snapshot `2026-11-27T04` (UTC). History: 212 snapshots spanning 1371h.
+Reference windows: short = `2026-11-26T21`, day = `2026-11-26T00`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Rust | +7.41 | 52 | 6,032 | +375% | +277% | 99 | +4% | 0.4166 | IGNITION:oilrats |
-| 2 | Knight Online | +7.02 | 31 | 9,131 | +139% | +173% | 94 | +81% | 0.3678 | IGNITION:domenicowaccoo,pwnage |
-| 3 | Pokémon Trading Card Game | +5.30 | 53 | 6,231 | - | +225% | 49 | - | 0.8058 | ENTRY IGNITION:michou |
-| 4 | Path of Exile 2 | +5.25 | 66 | 4,682 | +228% | +161% | 76 | +65% | 0.4865 |  |
-| 5 | Fortnite | +5.22 | 6 | 54,083 | +626% | +201% | 100 | +5% | 0.2378 |  |
-| 6 | ELDEN RING | +5.15 | 25 | 13,548 | +480% | +47% | 96 | -1% | 0.5119 | IGNITION:krokoboss |
-| 7 | EA Sports FC 27 | +4.79 | 23 | 13,052 | +95% | +129% | 98 | -1% | 0.1375 | IGNITION:rocky_,stokes |
-| 8 | World of Tanks | +4.74 | 39 | 8,516 | +44% | +173% | 95 | -5% | 0.2344 | IGNITION:dakillzor,mouzakrobat |
-| 9 | Kingdom Come: Deliverance II | +4.26 | 80 | 3,714 | - | - | 90 | - | 0.4733 | ENTRY IGNITION:gagik,yurapivo |
-| 10 | Star Citizen | +4.16 | 57 | 5,580 | +181% | +83% | 96 | +23% | 0.3772 | IGNITION:knebeltv |
-| 11 | nanos world | +4.16 | 22 | 14,879 | - | +43% | 97 | - | 0.1975 | ENTRY IGNITION:onlyjson,mehditdonc |
-| 12 | The Legend of Zelda: Ocarina of Time | +4.01 | 21 | 13,775 | +298% | -39% | 96 | -3% | 0.2592 | IGNITION:knekro,smallant |
-| 13 | Clash Royale | +3.90 | 82 | 3,627 | - | +110% | 48 | - | 0.2288 | ENTRY IGNITION:bigspincr |
-| 14 | Old School RuneScape | +3.73 | 42 | 7,469 | +104% | +31% | 99 | +0% | 0.295 | IGNITION:sick_nerd,faux |
-| 15 | Phasmophobia | +3.73 | 78 | 3,357 | +210% | +129% | 97 | +9% | 0.3962 |  |
+| 1 | I'm Only Sleeping | +4.72 | 27 | 7,895 | - | +65% | 100 | - | 0.2735 | ENTRY IGNITION:leva2k,misolo3 |
+| 2 | ROB RUN | +4.69 | 4 | 59,669 | +295% | +280% | 100 | +1% | 0.7824 |  |
+| 3 | MapleStory | +4.36 | 53 | 2,899 | - | +51% | 96 | - | 0.1418 | ENTRY IGNITION:duky |
+| 4 | Powerful Pro Yakyuu 2026-2027 | +4.25 | 50 | 3,019 | - | - | 2 | - | 0.5667 | ENTRY IGNITION:kokujintv,alfrea |
+| 5 | Street Fighter 6 | +3.31 | 56 | 2,760 | - | +55% | 96 | - | 0.4022 | ENTRY |
+| 6 | Half Sword | +3.25 | 21 | 12,405 | - | - | 3 | - | 0.9992 | ENTRY IGNITION:moonmoon |
+| 7 | Azur Promilia | +3.25 | 36 | 5,326 | - | - | 78 | - | 0.4071 | ENTRY IGNITION:failverde |
+| 8 | Zelda II: The Adventure of Link | +3.25 | 25 | 9,495 | - | - | 4 | - | 0.9932 | ENTRY IGNITION:vinesauce |
+| 9 | The Binding of Isaac: Repentance | +3.25 | 51 | 2,948 | - | - | 36 | - | 0.3145 | ENTRY IGNITION:juice |
+| 10 | Dark Souls: Remastered | +3.25 | 47 | 3,160 | - | - | 43 | - | 0.9244 | ENTRY IGNITION:lilaggy |
+| 11 | Aniimo | +2.48 | 62 | 2,397 | - | +12% | 100 | - | 0.3175 | ENTRY |
+| 12 | Sword of Justice | +2.25 | 77 | 1,913 | - | - | 8 | - | 0.2922 | ENTRY |
+| 13 | S.T.A.L.K.E.R. G.A.M.M.A. | +2.25 | 67 | 1,777 | - | - | 8 | - | 0.933 | ENTRY |
+| 14 | Pokémon Champions | +2.25 | 78 | 1,751 | - | - | 44 | - | 0.3175 | ENTRY |
+| 15 | Destiny 2 | +2.24 | 82 | 1,558 | - | - | 100 | - | 0.1906 | ENTRY |
 
 ## Ignition alerts
 
@@ -30,31 +30,28 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| CRACK | trymacs | 52,224 | 13,680 | 96% | 24 |
-| The Factory Must Fall | bonjwa | 10,237 | 8,056 | 100% | 41 |
-| American Truck Simulator | armstrong_gaming69 | 7,074 | 7,074 | 98% | 45 |
-| ELDEN RING | krokoboss | 20,057 | 6,935 | 51% | 25 |
-| Super Mario Maker 2 | oniyadayo | 5,462 | 5,462 | 93% | 55 |
-| Pokémon Trading Card Game | michou | 12,249 | 5,021 | 81% | 53 |
-| The Elder Scrolls V: Skyrim | joueur_du_grenier | 9,141 | 4,334 | 59% | 43 |
-| Appulse | shisheyu | 4,082 | 2,871 | 76% | 79 |
-| Barbie Rewind | phunkroyal | 4,706 | 2,695 | 100% | 94 |
-| Project Zomboid | edopeh | 4,415 | 1,955 | 53% | 84 |
+| Half Sword | moonmoon | 13,202 | 12,395 | 100% | 21 |
+| Zelda II: The Adventure of Link | vinesauce | 10,589 | 9,430 | 99% | 25 |
+| ELDEN RING | krokoboss | 20,057 | 4,120 | 68% | 30 |
+| Dark Souls: Remastered | lilaggy | 4,408 | 2,921 | 92% | 47 |
+| Powerful Pro Yakyuu 2026-2027 | kokujintv | 3,066 | 1,711 | 57% | 50 |
+| Internet Cafe Simulator 2 | gronkhtv | 4,125 | 1,379 | 100% | 91 |
+| Lies of P | s_chilla | 12,826 | 1,219 | 90% | 89 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 0.529 | ELDEN RING | 13,548 | 25,613 |
-| 0.39 | Grand Theft Auto V | 33,896 | 86,990 |
-| 0.29 | Overwatch | 12,268 | 42,317 |
-| 0.279 | Dead by Daylight | 17,553 | 62,949 |
-| 0.262 | EA Sports FC 27 | 13,052 | 49,874 |
-| 0.036 | ROB RUN | 15,123 | 414,459 |
-| 0.034 | Red Dead Redemption II | 2,332 | 68,593 |
-| 0.025 | Phantom Blade Zero | 3,994 | 157,941 |
-| 0.021 | Slay the Spire II | 2,697 | 131,046 |
-| 0.007 | PUBG: BATTLEGROUNDS | 5,040 | 752,777 |
+| 0.262 | Overwatch | 11,067 | 42,231 |
+| 0.236 | ELDEN RING | 6,089 | 25,800 |
+| 0.211 | Dead by Daylight | 12,324 | 58,337 |
+| 0.154 | ROB RUN | 59,669 | 388,351 |
+| 0.141 | Marvel Rivals | 8,343 | 59,325 |
+| 0.016 | Red Dead Redemption II | 1,197 | 73,693 |
+| 0.013 | Phantom Blade Zero | 1,907 | 146,104 |
+| 0.012 | Slay the Spire II | 1,593 | 127,698 |
+| 0.01 | Counter-Strike | 11,702 | 1,140,407 |
+| 0.002 | PUBG: BATTLEGROUNDS | 1,597 | 741,985 |
 
 ---
 
