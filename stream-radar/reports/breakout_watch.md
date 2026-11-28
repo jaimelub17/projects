@@ -1,27 +1,27 @@
 # Breakout Watch
 
-Generated from snapshot `2026-11-28T07` (UTC). History: 215 snapshots spanning 1398h.
-Reference windows: short = `2026-11-27T22`, day = `2026-11-27T04`.
+Generated from snapshot `2026-11-28T16` (UTC). History: 216 snapshots spanning 1407h.
+Reference windows: short = `2026-11-28T07`, day = `2026-11-27T13`.
 
 ## Leaderboard (momentum score v0.1)
 
 | # | game | score | rank | viewers | Δ6h | Δ24h | channels | chΔ6h | top1 share | flags |
 |---|------|-------|------|---------|-----|------|----------|-------|-----------|-------|
-| 1 | Counter-Strike | +6.21 | 2 | 163,014 | +312% | +1293% | 100 | +2% | 0.204 |  |
-| 2 | World of Tanks | +5.89 | 22 | 10,933 | +16% | +225% | 98 | +4% | 0.4981 | IGNITION:worldoftanks,dakillzor |
-| 3 | Internet Cafe Simulator 2 | +3.73 | 67 | 1,802 | - | +31% | 1 | - | 1.0 | ENTRY IGNITION:gronkhtv |
-| 4 | I'm Only Sleeping | +3.51 | 27 | 8,499 | +93% | +8% | 100 | +9% | 0.1908 | IGNITION:leva2k,2okos |
-| 5 | ELDEN RING NIGHTREIGN | +3.25 | 24 | 10,336 | - | - | 98 | - | 0.8504 | ENTRY IGNITION:rdcgaming |
-| 6 | Disco Elysium | +3.25 | 44 | 3,831 | - | - | 6 | - | 0.9885 | ENTRY IGNITION:cdawg |
-| 7 | Alan Wake | +3.25 | 69 | 1,715 | - | - | 2 | - | 0.9493 | ENTRY IGNITION:carolinekwan |
-| 8 | Old School RuneScape | +2.26 | 37 | 5,939 | -24% | +72% | 98 | -2% | 0.3588 | IGNITION:asmongold247,gnomonkey |
-| 9 | Am I Nima | +2.25 | 74 | 1,513 | - | - | 28 | - | 0.6226 | ENTRY |
-| 10 | R2 Online: Reign of Revolution | +2.25 | 66 | 1,776 | - | - | 34 | - | 0.1914 | ENTRY |
-| 11 | Epic Seven | +2.25 | 71 | 1,591 | - | - | 11 | - | 0.8202 | ENTRY |
-| 12 | Super Mario 64 | +2.25 | 68 | 1,767 | - | - | 21 | - | 0.8314 | ENTRY |
-| 13 | Standoff 2 | +2.25 | 14 | 17,610 | - | - | 72 | - | 0.8408 | ENTRY |
-| 14 | Azur Promilia | +2.20 | 42 | 4,241 | - | -20% | 98 | - | 0.5577 | ENTRY IGNITION:failverde |
-| 15 | Marbles on Stream | +2.06 | 51 | 2,947 | +5% | +100% | 89 | -10% | 0.3746 |  |
+| 1 | Rocket League | +9.32 | 30 | 13,203 | +817% | +585% | 92 | -5% | 0.6589 | IGNITION:peereira7 |
+| 2 | Path of Exile 2 | +7.69 | 34 | 11,149 | +424% | +91% | 99 | +130% | 0.2346 | IGNITION:fubgun,rakin |
+| 3 | Rainbow Six Siege | +6.62 | 40 | 8,609 | +510% | +81% | 98 | +4% | 0.2974 | IGNITION:itsspoit,rainbow6 |
+| 4 | Knight Online | +6.52 | 54 | 6,935 | +193% | +84% | 87 | +107% | 0.261 | IGNITION:yaheljr,levo |
+| 5 | Phantom Blade Zero | +5.82 | 55 | 6,365 | +443% | +106% | 100 | +2% | 0.3133 | IGNITION:singsing |
+| 6 | Hearthstone | +5.76 | 28 | 14,978 | +154% | +132% | 97 | +52% | 0.3811 | IGNITION:qq7925168,rdulive |
+| 7 | EA Sports FC 27 | +5.72 | 21 | 20,139 | +362% | +69% | 96 | -3% | 0.2231 | IGNITION:dannyaarons,auziomf |
+| 8 | ELDEN RING | +5.54 | 58 | 5,896 | +318% | +135% | 100 | +0% | 0.3948 | IGNITION:c_a_k_e |
+| 9 | Delta Force | +5.27 | 20 | 21,775 | +982% | +56% | 98 | +0% | 0.2113 |  |
+| 10 | Rust | +4.62 | 45 | 8,105 | +520% | +82% | 99 | +1% | 0.1684 |  |
+| 11 | Star Citizen | +4.61 | 60 | 5,771 | +141% | +59% | 100 | +4% | 0.349 | IGNITION:knebeltv,arkvenger_tv |
+| 12 | Escape from Tarkov | +4.58 | 16 | 25,978 | +268% | +269% | 100 | +3% | 0.1471 |  |
+| 13 | Street Fighter 6 | +4.49 | 70 | 4,759 | +90% | +121% | 99 | +2% | 0.3459 | IGNITION:qttsix,liang_0714 |
+| 14 | War Thunder | +4.30 | 33 | 11,116 | - | - | 100 | - | 0.5718 | ENTRY IGNITION:warthunder_esports,warthunder_esports_ru |
+| 15 | GeoGuessr | +4.25 | 25 | 16,883 | - | - | 38 | - | 0.412 | ENTRY IGNITION:bastighg,rumathra |
 
 ## Ignition alerts
 
@@ -30,29 +30,31 @@ Big-reach streamers currently dominating a game outside the top 20 — the
 
 | game | streamer | their max reach | viewers now | share of game | game rank |
 |------|----------|----------------|-------------|--------------|-----------|
-| ELDEN RING NIGHTREIGN | rdcgaming | 13,419 | 8,790 | 85% | 24 |
-| Teamfight Tactics | greentea | 5,279 | 5,279 | 66% | 29 |
-| Disco Elysium | cdawg | 16,095 | 3,787 | 99% | 44 |
-| MARVEL Contest of Champions | cesgod | 3,353 | 3,309 | 65% | 39 |
-| Azur Promilia | failverde | 3,169 | 2,365 | 56% | 42 |
-| Internet Cafe Simulator 2 | gronkhtv | 4,125 | 1,802 | 100% | 67 |
-| Alan Wake | carolinekwan | 4,720 | 1,628 | 95% | 69 |
-| Resident Evil 2 | smoke | 3,718 | 1,176 | 82% | 77 |
+| Rocket League | peereira7 | 235,604 | 8,699 | 66% | 30 |
+| War Thunder | warthunder_esports | 30,042 | 6,356 | 57% | 33 |
+| THE FINALS | thefinals | 5,666 | 5,666 | 66% | 47 |
+| osu! | osulive | 5,430 | 5,091 | 58% | 44 |
+| Pokémon Champions | pokemon | 37,799 | 4,715 | 53% | 43 |
+| SHRED A BILLION | alexelcapo | 6,424 | 4,692 | 98% | 61 |
+| Fatal Fury: City of the Wolves | naru0419045 | 5,979 | 4,558 | 64% | 51 |
+| The Legend of Zelda: Ocarina of Time | forsen | 8,752 | 4,339 | 55% | 46 |
+| Zombies Aren't Real | godjj | 3,588 | 3,445 | 97% | 82 |
+| Oh Deer | sleduck | 4,242 | 3,347 | 67% | 69 |
 
 ## Watched vs played (Twitch viewers ÷ Steam daily peak)
 
 | ratio | game | twitch viewers | steam peak |
 |-------|------|----------------|------------|
-| 0.213 | Escape from Tarkov | 7,067 | 33,228 |
-| 0.195 | Dead by Daylight | 11,547 | 59,199 |
-| 0.178 | Overwatch | 8,434 | 47,279 |
-| 0.155 | Marvel Rivals | 10,040 | 64,614 |
-| 0.135 | Counter-Strike | 163,014 | 1,206,781 |
-| 0.019 | Probably Stolen | 1,241 | 66,928 |
-| 0.012 | Rust | 1,308 | 110,548 |
-| 0.012 | Cyberpunk 2077 | 990 | 82,244 |
-| 0.008 | Phantom Blade Zero | 1,172 | 140,564 |
-| 0.002 | PUBG: BATTLEGROUNDS | 1,147 | 748,430 |
+| 0.782 | Escape from Tarkov | 25,978 | 33,228 |
+| 0.779 | Marvel Rivals | 50,304 | 64,614 |
+| 0.538 | THE FINALS | 8,640 | 16,045 |
+| 0.5 | Rocket League | 13,203 | 26,382 |
+| 0.368 | Grand Theft Auto V | 34,077 | 92,478 |
+| 0.045 | Phantom Blade Zero | 6,365 | 140,564 |
+| 0.043 | Apex Legends | 10,462 | 244,203 |
+| 0.038 | Counter-Strike | 46,358 | 1,206,781 |
+| 0.025 | Red Dead Redemption II | 2,017 | 79,848 |
+| 0.006 | PUBG: BATTLEGROUNDS | 4,385 | 748,430 |
 
 ---
 
